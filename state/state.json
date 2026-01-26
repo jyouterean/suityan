@@ -1,7 +1,13 @@
 {
   "mood": "lonely",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "帰り道の段ボールに囲まれて、ふと孤独を感じる...🤔 誰かと一緒に帰りたいなぁ。トイレで一息つくと、ちょっとだけ安堵。",
+      "slot": "commute",
+      "timestamp": "2026-01-26 19:54:48",
+      "hasImage": false
+    },
     {
       "text": "マンションの駐車場で少しホッとしたけど、やっぱり誰かと一緒に帰りたいなぁ…😢 軽貨物ドライバーの帰宅タイム、寂しい😌",
       "slot": "commute",
@@ -17,18 +23,19 @@
   ],
   "today_slots_used": [
     "delivery",
+    "commute",
     "commute"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 2,
+  "month_total_posts": 3,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-01-26",
-  "last_post_time": "19:13:39",
+  "last_post_time": "19:54:48",
   "ng_retry_count": 1,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-01-26 19:13:39",
+  "updated_at": "2026-01-26 19:54:48",
   "month_string": "2026-01"
 }
