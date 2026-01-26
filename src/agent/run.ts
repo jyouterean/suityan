@@ -18,6 +18,7 @@ import {
 import { buildPrompt, determineSlot } from '../core/prompt.js';
 import { validateTweet } from '../core/validate.js';
 import { getFallbackTweetForSlot } from '../core/fallback.js';
+import { appendHashtags } from '../core/hashtags.js';
 import { generateTweet, isOpenAIAvailable } from '../clients/openai.js';
 import { createTweet, createTweetWithMedia, uploadMediaChunked, isXApiAvailable } from '../clients/x.js';
 
@@ -149,10 +150,14 @@ async function main(): Promise<void> {
     }
   }
 
+  // ハッシュタグを追加
+  const tweetWithHashtags = appendHashtags(tweetText);
+  console.log(`Tweet with hashtags: "${tweetWithHashtags}"`);
+
   // X APIが利用可能かチェック
   if (!isXApiAvailable()) {
     console.log('X API not available (no token). Tweet would be:');
-    console.log(`"${tweetText}"`);
+    console.log(`"${tweetWithHashtags}"`);
     // 状態は更新しない（実際には投稿されていないため）
     return;
   }
@@ -169,14 +174,14 @@ async function main(): Promise<void> {
 
     console.log('Posting tweet...');
     const response = mediaId
-      ? await createTweetWithMedia(tweetText, [mediaId])
-      : await createTweet(tweetText);
+      ? await createTweetWithMedia(tweetWithHashtags, [mediaId])
+      : await createTweet(tweetWithHashtags);
 
     if (response) {
       console.log(`Tweet posted successfully! ID: ${response.data.id}`);
     }
 
-    // 状態を更新
+    // 状態を更新（ハッシュタグなしのテキストを保存）
     state = updateStateAfterPost(state, tweetText, slot, !!mediaId);
     saveState(state);
 

@@ -3,24 +3,33 @@ name: Post Tweet
 on:
   schedule:
     # 1日7回、UTCで指定（JSTは+9時間）
-    # JST 08:00 = UTC 23:00 (前日)
-    # JST 10:00 = UTC 01:00
-    # JST 12:00 = UTC 03:00
-    # JST 15:00 = UTC 06:00
-    # JST 18:00 = UTC 09:00
-    # JST 21:00 = UTC 12:00
-    # JST 23:00 = UTC 14:00
-    - cron: '0 23 * * *'   # JST 08:00
-    - cron: '0 1 * * *'    # JST 10:00
-    - cron: '0 3 * * *'    # JST 12:00
-    - cron: '0 6 * * *'    # JST 15:00
-    - cron: '0 9 * * *'    # JST 18:00
-    - cron: '0 12 * * *'   # JST 21:00
-    - cron: '0 14 * * *'   # JST 23:00
+    # 基準時刻から0-29分のランダム遅延が追加される
+    # JST 08:00頃 = UTC 23:00
+    # JST 10:00頃 = UTC 01:00
+    # JST 12:00頃 = UTC 03:00
+    # JST 15:00頃 = UTC 06:00
+    # JST 18:00頃 = UTC 09:00
+    # JST 21:00頃 = UTC 12:00
+    # JST 23:00頃 = UTC 14:00
+    - cron: '0 23 * * *'
+    - cron: '0 1 * * *'
+    - cron: '0 3 * * *'
+    - cron: '0 6 * * *'
+    - cron: '0 9 * * *'
+    - cron: '0 12 * * *'
+    - cron: '0 14 * * *'
   workflow_dispatch:
     inputs:
       dry_run:
         description: 'Dry run (no actual post)'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+      skip_delay:
+        description: 'Skip random delay'
         required: false
         default: 'false'
         type: choice
@@ -36,6 +45,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Random delay (0-29 minutes)
+        if: ${{ github.event_name == 'schedule' || github.event.inputs.skip_delay != 'true' }}
+        run: |
+          DELAY=$((RANDOM % 1800))
+          echo "Waiting for $DELAY seconds ($(($DELAY / 60)) minutes)..."
+          sleep $DELAY
+
       - name: Checkout
         uses: actions/checkout@v4
         with:
