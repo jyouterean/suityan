@@ -1,7 +1,13 @@
 {
-  "mood": "neutral",
-  "energy": 60,
+  "mood": "lonely",
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "マンションの駐車場で少しホッとしたけど、やっぱり誰かと一緒に帰りたいなぁ…😢 軽貨物ドライバーの帰宅タイム、寂しい😌",
+      "slot": "commute",
+      "timestamp": "2026-01-26 19:13:39",
+      "hasImage": false
+    },
     {
       "text": "配達中の渋滞、もう勘弁してほしい😩軽バンの中で、誰かに会いたいなぁ。今日は優しい言葉とか、ちょっとした癒しが欲しいなぁ。まったりしたい💭",
       "slot": "delivery",
@@ -10,18 +16,19 @@
     }
   ],
   "today_slots_used": [
-    "delivery"
+    "delivery",
+    "commute"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 1,
+  "month_total_posts": 2,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-01-26",
-  "last_post_time": "16:16:14",
+  "last_post_time": "19:13:39",
   "ng_retry_count": 1,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-01-26 16:16:14",
+  "updated_at": "2026-01-26 19:13:39",
   "month_string": "2026-01"
 }
