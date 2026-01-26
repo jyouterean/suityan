@@ -22,14 +22,16 @@ npm install
 
 ローカル実行時は `.env` ファイルを作成：
 
-```bash
-cp .env.example .env
-```
-
 ```env
 OPENAI_API_KEY=sk-xxxxx
 OPENAI_MODEL=gpt-4o-mini  # 任意、デフォルトはgpt-4o-mini
-X_USER_ACCESS_TOKEN=xxxxx
+
+# X API OAuth 1.0a認証（4つ全て必須）
+X_API_KEY=xxxxx              # Consumer Key
+X_API_SECRET=xxxxx           # Consumer Secret
+X_ACCESS_TOKEN=xxxxx         # Access Token
+X_ACCESS_TOKEN_SECRET=xxxxx  # Access Token Secret
+
 X_DRY_RUN=true  # trueで投稿せずログのみ
 ```
 
@@ -59,14 +61,23 @@ npm run dev
 |---------|------|------|
 | `OPENAI_API_KEY` | OpenAI APIキー | ○ |
 | `OPENAI_MODEL` | 使用モデル（デフォルト: gpt-4o-mini） | - |
-| `X_USER_ACCESS_TOKEN` | X OAuth2ユーザーアクセストークン | ○ |
+| `X_API_KEY` | X API Consumer Key | ○ |
+| `X_API_SECRET` | X API Consumer Secret | ○ |
+| `X_ACCESS_TOKEN` | X Access Token | ○ |
+| `X_ACCESS_TOKEN_SECRET` | X Access Token Secret | ○ |
 
 ### X APIトークンの取得
 
 1. [X Developer Portal](https://developer.twitter.com/en/portal/dashboard) でアプリを作成
-2. User authentication settings で OAuth 2.0 を有効化
-3. App permissions を **Read and write** に設定
-4. アクセストークンを生成（Bearer Token形式）
+2. **User authentication settings** を設定：
+   - App permissions: **Read and write**
+   - Type of App: **Web App, Automated App or Bot**
+   - Callback URL: `https://example.com/callback`（ダミーでOK）
+3. **Keys and tokens** タブで以下を取得：
+   - **API Key and Secret** → `X_API_KEY`, `X_API_SECRET`
+   - **Access Token and Secret** を生成 → `X_ACCESS_TOKEN`, `X_ACCESS_TOKEN_SECRET`
+
+※ Access Tokenは **Read and Write** 権限で生成すること
 
 ### 手動実行
 

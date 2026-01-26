@@ -1,6 +1,6 @@
 /**
  * X (Twitter) APIクライアント
- * OAuth2ユーザートークンで認証
+ * OAuth 1.0a User Context認証
  */
 
 import { createHmac, randomBytes } from 'crypto';
@@ -12,15 +12,101 @@ const UPLOAD_API_BASE = 'https://upload.twitter.com/1.1';
 
 const DRY_RUN = process.env.X_DRY_RUN === 'true';
 
-/**
- * OAuth2認証ヘッダーを取得
- */
-function getAuthHeader(): string {
-  const token = process.env.X_USER_ACCESS_TOKEN;
-  if (!token) {
-    throw new Error('X_USER_ACCESS_TOKEN is not set');
+interface OAuthCredentials {
+  apiKey: string;
+  apiSecret: string;
+  accessToken: string;
+  accessTokenSecret: string;
+}
+
+function getCredentials(): OAuthCredentials {
+  const apiKey = process.env.X_API_KEY;
+  const apiSecret = process.env.X_API_SECRET;
+  const accessToken = process.env.X_ACCESS_TOKEN;
+  const accessTokenSecret = process.env.X_ACCESS_TOKEN_SECRET;
+
+  if (!apiKey || !apiSecret || !accessToken || !accessTokenSecret) {
+    throw new Error(
+      'Missing X API credentials. Required: X_API_KEY, X_API_SECRET, X_ACCESS_TOKEN, X_ACCESS_TOKEN_SECRET'
+    );
   }
-  return `Bearer ${token}`;
+
+  return { apiKey, apiSecret, accessToken, accessTokenSecret };
+}
+
+/**
+ * パーセントエンコード（RFC 3986準拠）
+ */
+function percentEncode(str: string): string {
+  return encodeURIComponent(str).replace(/[!'()*]/g, c =>
+    '%' + c.charCodeAt(0).toString(16).toUpperCase()
+  );
+}
+
+/**
+ * OAuth 1.0a署名を生成
+ */
+function generateOAuthSignature(
+  method: string,
+  url: string,
+  params: Record<string, string>,
+  credentials: OAuthCredentials
+): string {
+  // パラメータをソートして連結
+  const sortedParams = Object.keys(params)
+    .sort()
+    .map(key => `${percentEncode(key)}=${percentEncode(params[key])}`)
+    .join('&');
+
+  // 署名ベース文字列
+  const signatureBase = [
+    method.toUpperCase(),
+    percentEncode(url),
+    percentEncode(sortedParams),
+  ].join('&');
+
+  // 署名キー
+  const signingKey = `${percentEncode(credentials.apiSecret)}&${percentEncode(credentials.accessTokenSecret)}`;
+
+  // HMAC-SHA1で署名
+  const signature = createHmac('sha1', signingKey)
+    .update(signatureBase)
+    .digest('base64');
+
+  return signature;
+}
+
+/**
+ * OAuth 1.0aヘッダーを生成
+ */
+function generateOAuthHeader(
+  method: string,
+  url: string,
+  bodyParams: Record<string, string> = {}
+): string {
+  const credentials = getCredentials();
+
+  const oauthParams: Record<string, string> = {
+    oauth_consumer_key: credentials.apiKey,
+    oauth_nonce: randomBytes(16).toString('hex'),
+    oauth_signature_method: 'HMAC-SHA1',
+    oauth_timestamp: Math.floor(Date.now() / 1000).toString(),
+    oauth_token: credentials.accessToken,
+    oauth_version: '1.0',
+  };
+
+  // 署名生成用に全パラメータを結合
+  const allParams = { ...oauthParams, ...bodyParams };
+  const signature = generateOAuthSignature(method, url, allParams, credentials);
+  oauthParams.oauth_signature = signature;
+
+  // Authorizationヘッダー形式
+  const headerParts = Object.keys(oauthParams)
+    .sort()
+    .map(key => `${percentEncode(key)}="${percentEncode(oauthParams[key])}"`)
+    .join(', ');
+
+  return `OAuth ${headerParts}`;
 }
 
 export interface TweetResponse {
@@ -52,13 +138,16 @@ export async function createTweet(text: string): Promise<TweetResponse | null> {
     };
   }
 
-  const response = await fetch(`${X_API_BASE}/tweets`, {
+  const url = `${X_API_BASE}/tweets`;
+  const body = JSON.stringify({ text });
+
+  const response = await fetch(url, {
     method: 'POST',
     headers: {
-      'Authorization': getAuthHeader(),
+      'Authorization': generateOAuthHeader('POST', url),
       'Content-Type': 'application/json',
     },
-    body: JSON.stringify({ text }),
+    body,
   });
 
   if (!response.ok) {
@@ -86,18 +175,21 @@ export async function createTweetWithMedia(
     };
   }
 
-  const response = await fetch(`${X_API_BASE}/tweets`, {
+  const url = `${X_API_BASE}/tweets`;
+  const body = JSON.stringify({
+    text,
+    media: {
+      media_ids: mediaIds,
+    },
+  });
+
+  const response = await fetch(url, {
     method: 'POST',
     headers: {
-      'Authorization': getAuthHeader(),
+      'Authorization': generateOAuthHeader('POST', url),
       'Content-Type': 'application/json',
     },
-    body: JSON.stringify({
-      text,
-      media: {
-        media_ids: mediaIds,
-      },
-    }),
+    body,
   });
 
   if (!response.ok) {
@@ -109,8 +201,7 @@ export async function createTweetWithMedia(
 }
 
 /**
- * メディアをチャンク分割でアップロード
- * INIT -> APPEND -> FINALIZE -> STATUS(polling)
+ * メディアをアップロード（v1.1 API、OAuth 1.0a）
  */
 export async function uploadMediaChunked(filePath: string): Promise<string> {
   if (DRY_RUN) {
@@ -134,17 +225,20 @@ export async function uploadMediaChunked(filePath: string): Promise<string> {
   const mediaType = mimeTypes[ext || ''] || 'image/jpeg';
 
   // INIT
-  const initResponse = await fetch(`${UPLOAD_API_BASE}/media/upload.json`, {
+  const initUrl = `${UPLOAD_API_BASE}/media/upload.json`;
+  const initParams = {
+    command: 'INIT',
+    total_bytes: fileSize.toString(),
+    media_type: mediaType,
+  };
+
+  const initResponse = await fetch(initUrl, {
     method: 'POST',
     headers: {
-      'Authorization': getAuthHeader(),
+      'Authorization': generateOAuthHeader('POST', initUrl, initParams),
       'Content-Type': 'application/x-www-form-urlencoded',
     },
-    body: new URLSearchParams({
-      command: 'INIT',
-      total_bytes: fileSize.toString(),
-      media_type: mediaType,
-    }),
+    body: new URLSearchParams(initParams),
   });
 
   if (!initResponse.ok) {
@@ -161,19 +255,22 @@ export async function uploadMediaChunked(filePath: string): Promise<string> {
 
   for (let offset = 0; offset < fileSize; offset += CHUNK_SIZE) {
     const chunk = fileBuffer.subarray(offset, Math.min(offset + CHUNK_SIZE, fileSize));
+    const chunkBase64 = chunk.toString('base64');
 
-    const formData = new FormData();
-    formData.append('command', 'APPEND');
-    formData.append('media_id', mediaId);
-    formData.append('segment_index', segmentIndex.toString());
-    formData.append('media', new Blob([chunk]));
+    const appendParams = {
+      command: 'APPEND',
+      media_id: mediaId,
+      segment_index: segmentIndex.toString(),
+      media_data: chunkBase64,
+    };
 
-    const appendResponse = await fetch(`${UPLOAD_API_BASE}/media/upload.json`, {
+    const appendResponse = await fetch(initUrl, {
       method: 'POST',
       headers: {
-        'Authorization': getAuthHeader(),
+        'Authorization': generateOAuthHeader('POST', initUrl, appendParams),
+        'Content-Type': 'application/x-www-form-urlencoded',
       },
-      body: formData,
+      body: new URLSearchParams(appendParams),
     });
 
     if (!appendResponse.ok) {
@@ -185,16 +282,18 @@ export async function uploadMediaChunked(filePath: string): Promise<string> {
   }
 
   // FINALIZE
-  const finalizeResponse = await fetch(`${UPLOAD_API_BASE}/media/upload.json`, {
+  const finalizeParams = {
+    command: 'FINALIZE',
+    media_id: mediaId,
+  };
+
+  const finalizeResponse = await fetch(initUrl, {
     method: 'POST',
     headers: {
-      'Authorization': getAuthHeader(),
+      'Authorization': generateOAuthHeader('POST', initUrl, finalizeParams),
       'Content-Type': 'application/x-www-form-urlencoded',
     },
-    body: new URLSearchParams({
-      command: 'FINALIZE',
-      media_id: mediaId,
-    }),
+    body: new URLSearchParams(finalizeParams),
   });
 
   if (!finalizeResponse.ok) {
@@ -216,16 +315,22 @@ export async function uploadMediaChunked(filePath: string): Promise<string> {
  * メディア処理状況をポーリング
  */
 async function pollMediaStatus(mediaId: string, maxAttempts: number = 10): Promise<void> {
+  const baseUrl = `${UPLOAD_API_BASE}/media/upload.json`;
+
   for (let attempt = 0; attempt < maxAttempts; attempt++) {
-    const response = await fetch(
-      `${UPLOAD_API_BASE}/media/upload.json?command=STATUS&media_id=${mediaId}`,
-      {
-        method: 'GET',
-        headers: {
-          'Authorization': getAuthHeader(),
-        },
-      }
-    );
+    const params = {
+      command: 'STATUS',
+      media_id: mediaId,
+    };
+
+    const url = `${baseUrl}?command=STATUS&media_id=${mediaId}`;
+
+    const response = await fetch(url, {
+      method: 'GET',
+      headers: {
+        'Authorization': generateOAuthHeader('GET', baseUrl, params),
+      },
+    });
 
     if (!response.ok) {
       throw new Error(`Media STATUS failed: ${response.status}`);
@@ -257,5 +362,10 @@ async function pollMediaStatus(mediaId: string, maxAttempts: number = 10): Promi
  * X APIが利用可能かチェック
  */
 export function isXApiAvailable(): boolean {
-  return !!process.env.X_USER_ACCESS_TOKEN;
+  return !!(
+    process.env.X_API_KEY &&
+    process.env.X_API_SECRET &&
+    process.env.X_ACCESS_TOKEN &&
+    process.env.X_ACCESS_TOKEN_SECRET
+  );
 }
