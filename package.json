@@ -1,0 +1,25 @@
+{
+  "name": "suityan-agent",
+  "version": "1.0.0",
+  "description": "Self-operating light cargo girl agent for X/Twitter",
+  "type": "module",
+  "main": "dist/agent/run.js",
+  "scripts": {
+    "build": "tsc",
+    "post": "node dist/agent/run.js",
+    "dev": "tsx src/agent/run.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "openai": "^4.77.0",
+    "yaml": "^2.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}

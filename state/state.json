@@ -1,0 +1,17 @@
+{
+  "mood": "neutral",
+  "energy": 70,
+  "last_posts": [],
+  "today_slots_used": [],
+  "today_post_count": 0,
+  "today_goodnight_posted": false,
+  "month_total_posts": 0,
+  "month_image_posts": 0,
+  "last_image_date": null,
+  "last_post_date": null,
+  "last_post_time": null,
+  "ng_retry_count": 0,
+  "fallback_used_count": 0,
+  "created_at": null,
+  "updated_at": null
+}
