@@ -1,7 +1,13 @@
 {
   "mood": "lonely",
-  "energy": 40,
+  "energy": 30,
   "last_posts": [
+    {
+      "text": "暑い中、時間指定の配達でイライラ…💦誰かに会いたいな。お客さんとのやり取りも、ちょっとした褒め言葉が欲しいよ。軽バンの中だけじゃ心寂しいよー！",
+      "slot": "delivery",
+      "timestamp": "2026-01-27 13:32:53",
+      "hasImage": false
+    },
     {
       "text": "帰り道の段ボールに囲まれて、ふと孤独を感じる...🤔 誰かと一緒に帰りたいなぁ。トイレで一息つくと、ちょっとだけ安堵。",
       "slot": "commute",
@@ -22,20 +28,18 @@
     }
   ],
   "today_slots_used": [
-    "delivery",
-    "commute",
-    "commute"
+    "delivery"
   ],
-  "today_post_count": 3,
+  "today_post_count": 1,
   "today_goodnight_posted": false,
-  "month_total_posts": 3,
+  "month_total_posts": 4,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-01-26",
-  "last_post_time": "19:54:48",
+  "last_post_date": "2026-01-27",
+  "last_post_time": "13:32:53",
   "ng_retry_count": 1,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-01-26 19:54:48",
+  "updated_at": "2026-01-27 13:32:53",
   "month_string": "2026-01"
 }
