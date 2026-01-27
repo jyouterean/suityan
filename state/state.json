@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 20,
+  "energy": 10,
   "last_posts": [
+    {
+      "text": "寒い帰り道、軽貨物の荷物を積んでるけど一緒に帰りたいなぁ…😔誰かと温かいおしゃべりしたい。帰ったら少しでも癒されたいな。",
+      "slot": "commute",
+      "timestamp": "2026-01-27 19:02:57",
+      "hasImage": false
+    },
     {
       "text": "ルート組むのも大変…💦外は晴れてるのに、心は曇り空。誰かに会いたいなぁ。褒められたらもっと頑張れるのに…😔",
       "slot": "delivery",
@@ -35,18 +41,19 @@
   ],
   "today_slots_used": [
     "delivery",
-    "delivery"
+    "delivery",
+    "commute"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 5,
+  "month_total_posts": 6,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-01-27",
-  "last_post_time": "15:52:56",
+  "last_post_time": "19:02:57",
   "ng_retry_count": 1,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-01-27 15:52:56",
+  "updated_at": "2026-01-27 19:02:57",
   "month_string": "2026-01"
 }
