@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "ネオンが照らす夜、コンビニの明かりが寂しい。軽貨物の荷物を運びながら、温もりが欲しいと思う。誰か一緒にいてくれたら…🥺",
+      "slot": "night_ero",
+      "timestamp": "2026-01-27 21:46:21",
+      "hasImage": false
+    },
+    {
       "text": "寒い帰り道、軽貨物の荷物を積んでるけど一緒に帰りたいなぁ…😔誰かと温かいおしゃべりしたい。帰ったら少しでも癒されたいな。",
       "slot": "commute",
       "timestamp": "2026-01-27 19:02:57",
@@ -42,18 +48,19 @@
   "today_slots_used": [
     "delivery",
     "delivery",
-    "commute"
+    "commute",
+    "night_ero"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": false,
-  "month_total_posts": 6,
+  "month_total_posts": 7,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-01-27",
-  "last_post_time": "19:02:57",
+  "last_post_time": "21:46:21",
   "ng_retry_count": 1,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-01-27 19:02:57",
+  "updated_at": "2026-01-27 21:46:21",
   "month_string": "2026-01"
 }
