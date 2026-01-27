@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "信号待ちでふと寂しさ募る。軽バンの中、一人で帰るのがこんなに切ないなんて💔 誰かと一緒に帰りたいな…。",
+      "slot": "commute",
+      "timestamp": "2026-01-28 08:17:59",
+      "hasImage": false
+    },
+    {
       "text": "今日もお昼ごはんに至福の一杯。軽貨物ドライバーの任務を終えて、やっと一息つけた。明日も頑張るぞ✨おやすみ、みんな。",
       "slot": "goodnight",
       "timestamp": "2026-01-27 23:35:01",
@@ -37,31 +43,21 @@
       "slot": "commute",
       "timestamp": "2026-01-26 19:54:48",
       "hasImage": false
-    },
-    {
-      "text": "マンションの駐車場で少しホッとしたけど、やっぱり誰かと一緒に帰りたいなぁ…😢 軽貨物ドライバーの帰宅タイム、寂しい😌",
-      "slot": "commute",
-      "timestamp": "2026-01-26 19:13:39",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "delivery",
-    "delivery",
-    "commute",
-    "night_ero",
-    "goodnight"
+    "commute"
   ],
-  "today_post_count": 5,
-  "today_goodnight_posted": true,
-  "month_total_posts": 8,
+  "today_post_count": 1,
+  "today_goodnight_posted": false,
+  "month_total_posts": 9,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-01-27",
-  "last_post_time": "23:35:01",
+  "last_post_date": "2026-01-28",
+  "last_post_time": "08:17:59",
   "ng_retry_count": 2,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-01-27 23:35:01",
+  "updated_at": "2026-01-28 08:17:59",
   "month_string": "2026-01"
 }
