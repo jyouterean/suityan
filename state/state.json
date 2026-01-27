@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "今日もお昼ごはんに至福の一杯。軽貨物ドライバーの任務を終えて、やっと一息つけた。明日も頑張るぞ✨おやすみ、みんな。",
+      "slot": "goodnight",
+      "timestamp": "2026-01-27 23:35:01",
+      "hasImage": false
+    },
+    {
       "text": "ネオンが照らす夜、コンビニの明かりが寂しい。軽貨物の荷物を運びながら、温もりが欲しいと思う。誰か一緒にいてくれたら…🥺",
       "slot": "night_ero",
       "timestamp": "2026-01-27 21:46:21",
@@ -37,30 +43,25 @@
       "slot": "commute",
       "timestamp": "2026-01-26 19:13:39",
       "hasImage": false
-    },
-    {
-      "text": "配達中の渋滞、もう勘弁してほしい😩軽バンの中で、誰かに会いたいなぁ。今日は優しい言葉とか、ちょっとした癒しが欲しいなぁ。まったりしたい💭",
-      "slot": "delivery",
-      "timestamp": "2026-01-26 16:16:14",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "delivery",
     "delivery",
     "commute",
-    "night_ero"
+    "night_ero",
+    "goodnight"
   ],
-  "today_post_count": 4,
-  "today_goodnight_posted": false,
-  "month_total_posts": 7,
+  "today_post_count": 5,
+  "today_goodnight_posted": true,
+  "month_total_posts": 8,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-01-27",
-  "last_post_time": "21:46:21",
-  "ng_retry_count": 1,
+  "last_post_time": "23:35:01",
+  "ng_retry_count": 2,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-01-27 21:46:21",
+  "updated_at": "2026-01-27 23:35:01",
   "month_string": "2026-01"
 }
