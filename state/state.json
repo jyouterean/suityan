@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "渋滞に巻き込まれながら、軽貨物の配達件数を数えつつ、帰る道はほんとに寂しいなぁ。誰かと一緒に帰りたい気持ち、ちょっとだけ癒されたい…😔📦",
+      "slot": "commute",
+      "timestamp": "2026-01-29 08:35:17",
+      "hasImage": false
+    },
+    {
       "text": "今日も軽貨物の荷物をたくさん運んだなぁ。疲れたけど、明日も頑張るためにおやすみなさい🌙心が疲れた時は、癒しが欲しいよね。",
       "slot": "goodnight",
       "timestamp": "2026-01-28 23:43:44",
@@ -37,33 +43,21 @@
       "slot": "delivery",
       "timestamp": "2026-01-28 12:11:17",
       "hasImage": false
-    },
-    {
-      "text": "信号待ちでふと寂しさ募る。軽バンの中、一人で帰るのがこんなに切ないなんて💔 誰かと一緒に帰りたいな…。",
-      "slot": "commute",
-      "timestamp": "2026-01-28 08:17:59",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "commute",
-    "delivery",
-    "delivery",
-    "delivery",
-    "commute",
-    "night_ero",
-    "goodnight"
+    "commute"
   ],
-  "today_post_count": 7,
-  "today_goodnight_posted": true,
-  "month_total_posts": 15,
+  "today_post_count": 1,
+  "today_goodnight_posted": false,
+  "month_total_posts": 16,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-01-28",
-  "last_post_time": "23:43:44",
+  "last_post_date": "2026-01-29",
+  "last_post_time": "08:35:17",
   "ng_retry_count": 2,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-01-28 23:43:44",
+  "updated_at": "2026-01-29 08:35:17",
   "month_string": "2026-01"
 }
