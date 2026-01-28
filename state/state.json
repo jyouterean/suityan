@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "配達先でトイレ休憩中、少しだけ寄り道したい気分💭 誰かに会いたいなぁ…置き配だけじゃなくて、心のつながりも届けてほしい😅",
+      "slot": "delivery",
+      "timestamp": "2026-01-28 16:12:18",
+      "hasImage": false
+    },
+    {
       "text": "寒い中、段ボールを運ぶのって本当にイライラする💨 お客さんとのやりとりも疲れるし、誰かに会って褒めてほしいなぁ〜。軽バンの中、妄想ばかりしてる自分がいる。",
       "slot": "delivery",
       "timestamp": "2026-01-28 13:29:42",
@@ -37,29 +43,24 @@
       "slot": "commute",
       "timestamp": "2026-01-27 19:02:57",
       "hasImage": false
-    },
-    {
-      "text": "ルート組むのも大変…💦外は晴れてるのに、心は曇り空。誰かに会いたいなぁ。褒められたらもっと頑張れるのに…😔",
-      "slot": "delivery",
-      "timestamp": "2026-01-27 15:52:56",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "commute",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": false,
-  "month_total_posts": 11,
+  "month_total_posts": 12,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-01-28",
-  "last_post_time": "13:29:42",
+  "last_post_time": "16:12:18",
   "ng_retry_count": 2,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-01-28 13:29:42",
+  "updated_at": "2026-01-28 16:12:18",
   "month_string": "2026-01"
 }
