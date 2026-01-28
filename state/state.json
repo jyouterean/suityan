@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "配達先の一軒家、暑さにふぅ〜ってなってる。お客さんとちょっとした会話が癒し。誰か褒めてくれたら、頑張れるかも💗 でも、家に帰ったら誰かに会いたいなぁ。",
+      "slot": "delivery",
+      "timestamp": "2026-01-28 12:11:17",
+      "hasImage": false
+    },
+    {
       "text": "信号待ちでふと寂しさ募る。軽バンの中、一人で帰るのがこんなに切ないなんて💔 誰かと一緒に帰りたいな…。",
       "slot": "commute",
       "timestamp": "2026-01-28 08:17:59",
@@ -37,27 +43,22 @@
       "slot": "delivery",
       "timestamp": "2026-01-27 13:32:53",
       "hasImage": false
-    },
-    {
-      "text": "帰り道の段ボールに囲まれて、ふと孤独を感じる...🤔 誰かと一緒に帰りたいなぁ。トイレで一息つくと、ちょっとだけ安堵。",
-      "slot": "commute",
-      "timestamp": "2026-01-26 19:54:48",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "commute"
+    "commute",
+    "delivery"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 9,
+  "month_total_posts": 10,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-01-28",
-  "last_post_time": "08:17:59",
+  "last_post_time": "12:11:17",
   "ng_retry_count": 2,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-01-28 08:17:59",
+  "updated_at": "2026-01-28 12:11:17",
   "month_string": "2026-01"
 }
