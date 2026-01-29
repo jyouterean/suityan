@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "今、駐車場で少し休憩中。時間指定の配達がうまくいくと嬉しいな😊 誰かに褒められたい気分。軽バンでの移動、ちょっとさみしいなぁ。お客さんとのやりとりもいいけど、もっと会話したいな。",
+      "slot": "delivery",
+      "timestamp": "2026-01-29 16:28:27",
+      "hasImage": false
+    },
+    {
       "text": "昼ごはんの時間だけど、軽貨物ドライバーの私には、休憩する時間すらないの。😢 誰か優しく褒めてくれたら、頑張れる気がするのに。",
       "slot": "delivery",
       "timestamp": "2026-01-29 13:28:09",
@@ -37,29 +43,24 @@
       "slot": "commute",
       "timestamp": "2026-01-28 19:01:49",
       "hasImage": false
-    },
-    {
-      "text": "配達先でトイレ休憩中、少しだけ寄り道したい気分💭 誰かに会いたいなぁ…置き配だけじゃなくて、心のつながりも届けてほしい😅",
-      "slot": "delivery",
-      "timestamp": "2026-01-28 16:12:18",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "commute",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": false,
-  "month_total_posts": 18,
+  "month_total_posts": 19,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-01-29",
-  "last_post_time": "13:28:09",
+  "last_post_time": "16:28:27",
   "ng_retry_count": 2,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-01-29 13:28:09",
+  "updated_at": "2026-01-29 16:28:27",
   "month_string": "2026-01"
 }
