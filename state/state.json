@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "昼ごはんの時間だけど、軽貨物ドライバーの私には、休憩する時間すらないの。😢 誰か優しく褒めてくれたら、頑張れる気がするのに。",
+      "slot": "delivery",
+      "timestamp": "2026-01-29 13:28:09",
+      "hasImage": false
+    },
+    {
       "text": "段ボールを積んだ軽バンで、トイレ休憩中。誰かに会いたいなぁ…😔 こんなに頑張ってるのに、褒めてもらえないのが辛い。配達してるのに心が孤独になっていくよ。",
       "slot": "delivery",
       "timestamp": "2026-01-29 12:30:57",
@@ -37,28 +43,23 @@
       "slot": "delivery",
       "timestamp": "2026-01-28 16:12:18",
       "hasImage": false
-    },
-    {
-      "text": "寒い中、段ボールを運ぶのって本当にイライラする💨 お客さんとのやりとりも疲れるし、誰かに会って褒めてほしいなぁ〜。軽バンの中、妄想ばかりしてる自分がいる。",
-      "slot": "delivery",
-      "timestamp": "2026-01-28 13:29:42",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "commute",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 17,
+  "month_total_posts": 18,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-01-29",
-  "last_post_time": "12:30:57",
+  "last_post_time": "13:28:09",
   "ng_retry_count": 2,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-01-29 12:30:57",
+  "updated_at": "2026-01-29 13:28:09",
   "month_string": "2026-01"
 }
