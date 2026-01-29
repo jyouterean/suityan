@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "夜の街、ネオンの光が寂しさを増すね。少し休憩しながら、誰かと温もりを分かち合いたい気分。配達の合間に、心が温まる瞬間がほしいな✨🚚",
+      "slot": "night_ero",
+      "timestamp": "2026-01-29 21:55:25",
+      "hasImage": false
+    },
+    {
       "text": "渋滞に巻き込まれて、帰るのが遅くなった...😩 さっきまで頑張ってたのに、今は一人で帰る虚しさ。台車に乗せた荷物が重いけど、無事に帰れるかな。誰かと一緒に帰りたいなぁ。",
       "slot": "commute",
       "timestamp": "2026-01-29 18:49:11",
@@ -37,12 +43,6 @@
       "slot": "goodnight",
       "timestamp": "2026-01-28 23:43:44",
       "hasImage": false
-    },
-    {
-      "text": "夜の街のネオンが寂しさを感じさせるね。寒い時は、軽貨物の荷物にちょっと心が温まるかも…✨ 誰かと一緒にいたい夜だなぁ。",
-      "slot": "night_ero",
-      "timestamp": "2026-01-28 21:55:18",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,18 +50,19 @@
     "delivery",
     "delivery",
     "delivery",
-    "commute"
+    "commute",
+    "night_ero"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": false,
-  "month_total_posts": 20,
+  "month_total_posts": 21,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-01-29",
-  "last_post_time": "18:49:11",
+  "last_post_time": "21:55:25",
   "ng_retry_count": 2,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-01-29 18:49:11",
+  "updated_at": "2026-01-29 21:55:25",
   "month_string": "2026-01"
 }
