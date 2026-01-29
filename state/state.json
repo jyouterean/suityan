@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "エレベーターなしで運ぶ荷物、もうヘトヘト💦 一人で帰る寂しさが沁みるなぁ。誰かと一緒に帰りたいよ…😢",
+      "slot": "commute",
+      "timestamp": "2026-01-30 08:22:02",
+      "hasImage": false
+    },
+    {
       "text": "今日も暑い中、インターホンを押して軽貨物配達頑張ったよ🙈帰ったらちょっとだけ甘えたいな…おやすみなさい、明日もえらい私が待ってる✨",
       "slot": "goodnight",
       "timestamp": "2026-01-29 23:58:36",
@@ -37,33 +43,21 @@
       "slot": "delivery",
       "timestamp": "2026-01-29 12:30:57",
       "hasImage": false
-    },
-    {
-      "text": "渋滞に巻き込まれながら、軽貨物の配達件数を数えつつ、帰る道はほんとに寂しいなぁ。誰かと一緒に帰りたい気持ち、ちょっとだけ癒されたい…😔📦",
-      "slot": "commute",
-      "timestamp": "2026-01-29 08:35:17",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "commute",
-    "delivery",
-    "delivery",
-    "delivery",
-    "commute",
-    "night_ero",
-    "goodnight"
+    "commute"
   ],
-  "today_post_count": 7,
-  "today_goodnight_posted": true,
-  "month_total_posts": 22,
+  "today_post_count": 1,
+  "today_goodnight_posted": false,
+  "month_total_posts": 23,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-01-29",
-  "last_post_time": "23:58:36",
+  "last_post_date": "2026-01-30",
+  "last_post_time": "08:22:02",
   "ng_retry_count": 2,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-01-29 23:58:36",
+  "updated_at": "2026-01-30 08:22:02",
   "month_string": "2026-01"
 }
