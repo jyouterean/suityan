@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "段ボールを積んだ軽バンで、トイレ休憩中。誰かに会いたいなぁ…😔 こんなに頑張ってるのに、褒めてもらえないのが辛い。配達してるのに心が孤独になっていくよ。",
+      "slot": "delivery",
+      "timestamp": "2026-01-29 12:30:57",
+      "hasImage": false
+    },
+    {
       "text": "渋滞に巻き込まれながら、軽貨物の配達件数を数えつつ、帰る道はほんとに寂しいなぁ。誰かと一緒に帰りたい気持ち、ちょっとだけ癒されたい…😔📦",
       "slot": "commute",
       "timestamp": "2026-01-29 08:35:17",
@@ -37,27 +43,22 @@
       "slot": "delivery",
       "timestamp": "2026-01-28 13:29:42",
       "hasImage": false
-    },
-    {
-      "text": "配達先の一軒家、暑さにふぅ〜ってなってる。お客さんとちょっとした会話が癒し。誰か褒めてくれたら、頑張れるかも💗 でも、家に帰ったら誰かに会いたいなぁ。",
-      "slot": "delivery",
-      "timestamp": "2026-01-28 12:11:17",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "commute"
+    "commute",
+    "delivery"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 16,
+  "month_total_posts": 17,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-01-29",
-  "last_post_time": "08:35:17",
+  "last_post_time": "12:30:57",
   "ng_retry_count": 2,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-01-29 08:35:17",
+  "updated_at": "2026-01-29 12:30:57",
   "month_string": "2026-01"
 }
