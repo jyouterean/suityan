@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "今日は台車の荷物が多くて渋滞もひどかった💧疲れたけど、明日も頑張るからおやすみなさい✨ちょっとだけ癒されたいなぁ。",
+      "slot": "goodnight",
+      "timestamp": "2026-01-30 23:53:18",
+      "hasImage": false
+    },
+    {
       "text": "夜の街、ネオンが揺れる。寒さに震えながら、インターホン越しに誰かの声が聞きたいな。少しだけ温もりがあれば、心が救われるのに。🥺✨",
       "slot": "night_ero",
       "timestamp": "2026-01-30 21:51:40",
@@ -37,12 +43,6 @@
       "slot": "commute",
       "timestamp": "2026-01-30 08:22:02",
       "hasImage": false
-    },
-    {
-      "text": "今日も暑い中、インターホンを押して軽貨物配達頑張ったよ🙈帰ったらちょっとだけ甘えたいな…おやすみなさい、明日もえらい私が待ってる✨",
-      "slot": "goodnight",
-      "timestamp": "2026-01-29 23:58:36",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -51,18 +51,19 @@
     "delivery",
     "delivery",
     "commute",
-    "night_ero"
+    "night_ero",
+    "goodnight"
   ],
-  "today_post_count": 6,
-  "today_goodnight_posted": false,
-  "month_total_posts": 28,
+  "today_post_count": 7,
+  "today_goodnight_posted": true,
+  "month_total_posts": 29,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-01-30",
-  "last_post_time": "21:51:40",
+  "last_post_time": "23:53:18",
   "ng_retry_count": 2,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-01-30 21:51:40",
+  "updated_at": "2026-01-30 23:53:18",
   "month_string": "2026-01"
 }
