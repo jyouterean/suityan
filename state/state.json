@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "再配達の荷物、また渋滞に巻き込まれちゃった😩 でも、誰かに褒められたくて、思わず頑張っちゃう！早く配達終わって、誰かとおしゃべりしたいな〜💕",
+      "slot": "delivery",
+      "timestamp": "2026-01-30 13:40:32",
+      "hasImage": false
+    },
+    {
       "text": "信号待ちで、ふと誰かに会いたくなる。軽バンで運ぶ荷物も重いけど、心はもっと重いよ。優しい言葉が欲しいなぁ💔🚚",
       "slot": "delivery",
       "timestamp": "2026-01-30 12:31:52",
@@ -37,28 +43,23 @@
       "slot": "delivery",
       "timestamp": "2026-01-29 16:28:27",
       "hasImage": false
-    },
-    {
-      "text": "昼ごはんの時間だけど、軽貨物ドライバーの私には、休憩する時間すらないの。😢 誰か優しく褒めてくれたら、頑張れる気がするのに。",
-      "slot": "delivery",
-      "timestamp": "2026-01-29 13:28:09",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "commute",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 24,
+  "month_total_posts": 25,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-01-30",
-  "last_post_time": "12:31:52",
+  "last_post_time": "13:40:32",
   "ng_retry_count": 2,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-01-30 12:31:52",
+  "updated_at": "2026-01-30 13:40:32",
   "month_string": "2026-01"
 }
