@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "夜の街、ネオンが揺れる。寒さに震えながら、インターホン越しに誰かの声が聞きたいな。少しだけ温もりがあれば、心が救われるのに。🥺✨",
+      "slot": "night_ero",
+      "timestamp": "2026-01-30 21:51:40",
+      "hasImage": false
+    },
+    {
       "text": "帰り道の寒さが身に染みる...置き配終わりの孤独、誰かと一緒に帰りたいな😔✨",
       "slot": "commute",
       "timestamp": "2026-01-30 18:52:34",
@@ -37,12 +43,6 @@
       "slot": "goodnight",
       "timestamp": "2026-01-29 23:58:36",
       "hasImage": false
-    },
-    {
-      "text": "夜の街、ネオンの光が寂しさを増すね。少し休憩しながら、誰かと温もりを分かち合いたい気分。配達の合間に、心が温まる瞬間がほしいな✨🚚",
-      "slot": "night_ero",
-      "timestamp": "2026-01-29 21:55:25",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,18 +50,19 @@
     "delivery",
     "delivery",
     "delivery",
-    "commute"
+    "commute",
+    "night_ero"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": false,
-  "month_total_posts": 27,
+  "month_total_posts": 28,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-01-30",
-  "last_post_time": "18:52:34",
+  "last_post_time": "21:51:40",
   "ng_retry_count": 2,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-01-30 18:52:34",
+  "updated_at": "2026-01-30 21:51:40",
   "month_string": "2026-01"
 }
