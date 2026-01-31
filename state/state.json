@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "疲れた…配達中エレベーターなしで階段上がるの、ほんときつい💦誰か私を褒めてくれないかな。運転中にふと思う、素敵な出会いもほしいな〜。",
+      "slot": "delivery",
+      "timestamp": "2026-01-31 13:37:42",
+      "hasImage": false
+    },
+    {
       "text": "インターホン鳴らすたびに、誰かに会いたくなるよね。寒い中、軽バンの運転も眠いし…😴 褒めてほしいな、頑張ってるって言ってくれる人、どこかにいないかな？",
       "slot": "delivery",
       "timestamp": "2026-01-31 12:28:42",
@@ -37,28 +43,23 @@
       "slot": "delivery",
       "timestamp": "2026-01-30 16:13:36",
       "hasImage": false
-    },
-    {
-      "text": "再配達の荷物、また渋滞に巻き込まれちゃった😩 でも、誰かに褒められたくて、思わず頑張っちゃう！早く配達終わって、誰かとおしゃべりしたいな〜💕",
-      "slot": "delivery",
-      "timestamp": "2026-01-30 13:40:32",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "commute",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 31,
+  "month_total_posts": 32,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-01-31",
-  "last_post_time": "12:28:42",
-  "ng_retry_count": 2,
+  "last_post_time": "13:37:42",
+  "ng_retry_count": 3,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-01-31 12:28:42",
+  "updated_at": "2026-01-31 13:37:42",
   "month_string": "2026-01"
 }
