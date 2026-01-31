@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "帰宅中、一人で帰るのが虚しい…😢 この軽貨物のルートも終わり、少しほっとするけど、誰かと一緒に帰りたいな。コンビニ寄ったら、余計に寂しくなるよね。",
+      "slot": "commute",
+      "timestamp": "2026-01-31 18:45:33",
+      "hasImage": false
+    },
+    {
       "text": "ルート組むの大変…😩お昼ごはんは何にしよう？あー、誰か褒めてくれたら頑張れる気がする。やっぱり配達の合間に癒しが必要だなー。",
       "slot": "delivery",
       "timestamp": "2026-01-31 16:17:35",
@@ -37,30 +43,25 @@
       "slot": "night_ero",
       "timestamp": "2026-01-30 21:51:40",
       "hasImage": false
-    },
-    {
-      "text": "帰り道の寒さが身に染みる...置き配終わりの孤独、誰かと一緒に帰りたいな😔✨",
-      "slot": "commute",
-      "timestamp": "2026-01-30 18:52:34",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "commute",
     "delivery",
     "delivery",
-    "delivery"
+    "delivery",
+    "commute"
   ],
-  "today_post_count": 4,
+  "today_post_count": 5,
   "today_goodnight_posted": false,
-  "month_total_posts": 33,
+  "month_total_posts": 34,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-01-31",
-  "last_post_time": "16:17:35",
+  "last_post_time": "18:45:33",
   "ng_retry_count": 3,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-01-31 16:17:35",
+  "updated_at": "2026-01-31 18:45:33",
   "month_string": "2026-01"
 }
