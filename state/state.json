@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "インターホン鳴らすたびに、誰かに会いたくなるよね。寒い中、軽バンの運転も眠いし…😴 褒めてほしいな、頑張ってるって言ってくれる人、どこかにいないかな？",
+      "slot": "delivery",
+      "timestamp": "2026-01-31 12:28:42",
+      "hasImage": false
+    },
+    {
       "text": "お届け完了。軽貨物ドライバーって、休憩時間も一人だと寂しいな…😪誰かと一緒に帰りたい。夜の街を見ながら、帰り道に心も疲れてる。早くお家で温まりたいな。",
       "slot": "commute",
       "timestamp": "2026-01-31 08:20:37",
@@ -37,27 +43,22 @@
       "slot": "delivery",
       "timestamp": "2026-01-30 13:40:32",
       "hasImage": false
-    },
-    {
-      "text": "信号待ちで、ふと誰かに会いたくなる。軽バンで運ぶ荷物も重いけど、心はもっと重いよ。優しい言葉が欲しいなぁ💔🚚",
-      "slot": "delivery",
-      "timestamp": "2026-01-30 12:31:52",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "commute"
+    "commute",
+    "delivery"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 30,
+  "month_total_posts": 31,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-01-31",
-  "last_post_time": "08:20:37",
+  "last_post_time": "12:28:42",
   "ng_retry_count": 2,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-01-31 08:20:37",
+  "updated_at": "2026-01-31 12:28:42",
   "month_string": "2026-01"
 }
