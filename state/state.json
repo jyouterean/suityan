@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "今日も不在票が多かったなぁ…。昼ごはんを食べる時間もなかったけど、誰かと一緒なら、少しは寂しくないのに。夜のネオンの下、温もりが恋しいよ。💔✨",
+      "slot": "night_ero",
+      "timestamp": "2026-02-01 21:38:10",
+      "hasImage": false
+    },
+    {
       "text": "雨の中、段ボールを積んで帰宅中。誰かと一緒にこの道を歩きたいな…😔軽貨物の仕事は好きだけど、こういう時はちょっと寂しい。",
       "slot": "commute",
       "timestamp": "2026-02-01 18:59:21",
@@ -37,12 +43,6 @@
       "slot": "goodnight",
       "timestamp": "2026-01-31 23:31:10",
       "hasImage": false
-    },
-    {
-      "text": "夜の渋滞の中、台車を押すと寂しさが増すなぁ…💭 そろそろ誰かの温もりが恋しいかも。ひとりじゃちょっと辛いよね。",
-      "slot": "night_ero",
-      "timestamp": "2026-01-31 21:47:13",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,18 +50,19 @@
     "delivery",
     "delivery",
     "delivery",
-    "commute"
+    "commute",
+    "night_ero"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": false,
-  "month_total_posts": 5,
+  "month_total_posts": 6,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-01",
-  "last_post_time": "18:59:21",
+  "last_post_time": "21:38:10",
   "ng_retry_count": 3,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-02-01 18:59:21",
+  "updated_at": "2026-02-01 21:38:10",
   "month_string": "2026-02"
 }
