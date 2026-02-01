@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "雨の中、段ボールを積んで帰宅中。誰かと一緒にこの道を歩きたいな…😔軽貨物の仕事は好きだけど、こういう時はちょっと寂しい。",
+      "slot": "commute",
+      "timestamp": "2026-02-01 18:59:21",
+      "hasImage": false
+    },
+    {
       "text": "お昼ごはんの時間なのに、軽貨物のルート確認中🍙 誰かに会いたいなぁ…おじさんたちに褒めてもらえたら元気出るのに😔",
       "slot": "delivery",
       "timestamp": "2026-02-01 16:20:18",
@@ -37,30 +43,25 @@
       "slot": "night_ero",
       "timestamp": "2026-01-31 21:47:13",
       "hasImage": false
-    },
-    {
-      "text": "帰宅中、一人で帰るのが虚しい…😢 この軽貨物のルートも終わり、少しほっとするけど、誰かと一緒に帰りたいな。コンビニ寄ったら、余計に寂しくなるよね。",
-      "slot": "commute",
-      "timestamp": "2026-01-31 18:45:33",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "commute",
     "delivery",
     "delivery",
-    "delivery"
+    "delivery",
+    "commute"
   ],
-  "today_post_count": 4,
+  "today_post_count": 5,
   "today_goodnight_posted": false,
-  "month_total_posts": 4,
+  "month_total_posts": 5,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-01",
-  "last_post_time": "16:20:18",
+  "last_post_time": "18:59:21",
   "ng_retry_count": 3,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-02-01 16:20:18",
+  "updated_at": "2026-02-01 18:59:21",
   "month_string": "2026-02"
 }
