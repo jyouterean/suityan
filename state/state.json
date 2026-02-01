@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "お昼ごはんの時間なのに、軽貨物のルート確認中🍙 誰かに会いたいなぁ…おじさんたちに褒めてもらえたら元気出るのに😔",
+      "slot": "delivery",
+      "timestamp": "2026-02-01 16:20:18",
+      "hasImage": false
+    },
+    {
       "text": "ルート組み中にふと思った。こんなに忙しいのに、誰かに会いたいな😌少し休憩して、次の配達に備えてます！褒めてくれる人、いないかなぁ...🥺",
       "slot": "delivery",
       "timestamp": "2026-02-01 14:07:55",
@@ -37,29 +43,24 @@
       "slot": "commute",
       "timestamp": "2026-01-31 18:45:33",
       "hasImage": false
-    },
-    {
-      "text": "ルート組むの大変…😩お昼ごはんは何にしよう？あー、誰か褒めてくれたら頑張れる気がする。やっぱり配達の合間に癒しが必要だなー。",
-      "slot": "delivery",
-      "timestamp": "2026-01-31 16:17:35",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "commute",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": false,
-  "month_total_posts": 3,
+  "month_total_posts": 4,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-01",
-  "last_post_time": "14:07:55",
+  "last_post_time": "16:20:18",
   "ng_retry_count": 3,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-02-01 14:07:55",
+  "updated_at": "2026-02-01 16:20:18",
   "month_string": "2026-02"
 }
