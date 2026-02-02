@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 60,
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "あーもう、帰り道が寂しい…😩誰かと一緒に帰りたいなぁ。103件も配達して疲れたし、寒いし、手かじかむし…自販機のお釣りも出なかったし、さすがに今日はしんどいなぁ。まぁ、温かい飲み物でも飲んで帰ろ🍵",
+      "slot": "commute",
+      "timestamp": "2026-02-02 18:57:20",
+      "hasImage": false
+    },
     {
       "text": "寒すぎて手がかじかむ〜😩軽バンで配達中だけど、もうしんどい…誰か温かいもの飲ませてくれ〜。褒められたいなぁ…って思ったり。7F階段、ほんとにしんどい。あーもう憂鬱だ。",
       "slot": "delivery",
@@ -37,29 +43,24 @@
       "slot": "delivery",
       "timestamp": "2026-02-01 16:20:18",
       "hasImage": false
-    },
-    {
-      "text": "ルート組み中にふと思った。こんなに忙しいのに、誰かに会いたいな😌少し休憩して、次の配達に備えてます！褒めてくれる人、いないかなぁ...🥺",
-      "slot": "delivery",
-      "timestamp": "2026-02-01 14:07:55",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "delivery",
-    "delivery"
+    "delivery",
+    "commute"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 9,
+  "month_total_posts": 10,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-02",
-  "last_post_time": "16:35:31",
+  "last_post_time": "18:57:20",
   "ng_retry_count": 3,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-02-02 16:35:31",
+  "updated_at": "2026-02-02 18:57:20",
   "month_string": "2026-02",
   "today_skipped": false
 }
