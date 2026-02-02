@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 40,
+  "mood": "melancholy",
+  "energy": 30,
   "last_posts": [
+    {
+      "text": "…ねぇ、今日は112件配達して、帰ってきたらもうこんな時間。寒くて手がかじかむし、コンビニの新作スイーツでも買ってきて温まろうかな…でも、誰かと一緒にいたいなぁ。明日も仕事頑張るけど、ちょっと寂しいよ…😢",
+      "slot": "goodnight",
+      "timestamp": "2026-02-02 23:48:51",
+      "hasImage": false
+    },
     {
       "text": "寒い夜、インターホン鳴らすたびに誰かに会いたくなる…💭114件も配達したのに、心はひとり。温かいココアでも飲みたいなぁ…ねぇ、誰か一緒にいてよ…😔",
       "slot": "night_ero",
@@ -37,31 +43,26 @@
       "slot": "night_ero",
       "timestamp": "2026-02-01 21:38:10",
       "hasImage": false
-    },
-    {
-      "text": "雨の中、段ボールを積んで帰宅中。誰かと一緒にこの道を歩きたいな…😔軽貨物の仕事は好きだけど、こういう時はちょっと寂しい。",
-      "slot": "commute",
-      "timestamp": "2026-02-01 18:59:21",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "delivery",
     "delivery",
     "commute",
-    "night_ero"
+    "night_ero",
+    "goodnight"
   ],
-  "today_post_count": 4,
-  "today_goodnight_posted": false,
-  "month_total_posts": 11,
+  "today_post_count": 5,
+  "today_goodnight_posted": true,
+  "month_total_posts": 12,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-02",
-  "last_post_time": "21:44:44",
-  "ng_retry_count": 3,
+  "last_post_time": "23:48:51",
+  "ng_retry_count": 4,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-02-02 21:44:44",
+  "updated_at": "2026-02-02 23:48:51",
   "month_string": "2026-02",
   "today_skipped": false
 }
