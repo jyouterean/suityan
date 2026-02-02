@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 70,
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "寒すぎて手がかじかむ〜😩軽バンで配達中だけど、もうしんどい…誰か温かいもの飲ませてくれ〜。褒められたいなぁ…って思ったり。7F階段、ほんとにしんどい。あーもう憂鬱だ。",
+      "slot": "delivery",
+      "timestamp": "2026-02-02 16:35:31",
+      "hasImage": false
+    },
     {
       "text": "今日もお客さん不在が多くて、5Fまで階段…もう、手がかじかんでつらい💦誰かに褒めてほしいなぁ。配達終わったら温かい飲み物が欲しいけど、週の始まりだるいなぁ。いや関係ないか。",
       "slot": "delivery",
@@ -37,28 +43,23 @@
       "slot": "delivery",
       "timestamp": "2026-02-01 14:07:55",
       "hasImage": false
-    },
-    {
-      "text": "汗だくで軽貨物の配達中💦不在票が増えて、ちょっと寂しいなぁ。誰かに会って褒めてもらいたい気分💖今日はお客様と楽しくお話できたから、少し元気出たかも！",
-      "slot": "delivery",
-      "timestamp": "2026-02-01 13:00:23",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 8,
+  "month_total_posts": 9,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-02",
-  "last_post_time": "14:18:48",
+  "last_post_time": "16:35:31",
   "ng_retry_count": 3,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-02-02 14:18:48",
+  "updated_at": "2026-02-02 16:35:31",
   "month_string": "2026-02",
   "today_skipped": false
 }
