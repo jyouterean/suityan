@@ -55,6 +55,11 @@ export function getRandomHashtags(count: number = 2): string[] {
  * 140字を超えないように調整
  */
 export function appendHashtags(tweet: string, maxLength: number = 140): string {
+  // 約70%の確率でハッシュタグを付ける
+  if (Math.random() > 0.7) {
+    return tweet;
+  }
+
   const hashtags = getRandomHashtags(2);
 
   if (hashtags.length === 0) {
