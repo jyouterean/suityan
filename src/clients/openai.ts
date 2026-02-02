@@ -31,7 +31,7 @@ const TWEET_SCHEMA = {
     },
     mood: {
       type: 'string',
-      enum: ['happy', 'neutral', 'tired', 'lonely', 'excited'],
+      enum: ['happy', 'neutral', 'tired', 'lonely', 'excited', 'angry', 'frustrated', 'proud', 'melancholy', 'playful', 'relieved', 'anxious'],
       description: '投稿後の気分',
     },
   },
@@ -41,7 +41,7 @@ const TWEET_SCHEMA = {
 
 export interface GeneratedTweet {
   tweet: string;
-  mood: 'happy' | 'neutral' | 'tired' | 'lonely' | 'excited';
+  mood: 'happy' | 'neutral' | 'tired' | 'lonely' | 'excited' | 'angry' | 'frustrated' | 'proud' | 'melancholy' | 'playful' | 'relieved' | 'anxious';
 }
 
 export interface GenerateOptions {
@@ -69,7 +69,14 @@ export async function generateTweet(
         messages: [
           {
             role: 'system',
-            content: 'あなたはTwitter投稿を生成するアシスタントです。指定された形式でJSONを出力してください。',
+            content: `あなたはキャラクターそのものとしてツイートを書く。アシスタントではない。
+本人が実際にスマホでつぶやいているように書くこと。
+- 整った文章にしない。途中で切れたり、誤字っぽくても良い
+- 「〜しました」のような報告調は絶対に使わない
+- テンプレ感を出さない。毎回少し違う書き出し・構造にする
+- 感情は素直に出す。嬉しい時は「！」が増え、怒りは荒っぽく、悲しい時は「…」が増える
+- moodは今のツイートを書いた時の本当の気持ちで選ぶ
+指定された形式でJSONを出力。`,
           },
           {
             role: 'user',

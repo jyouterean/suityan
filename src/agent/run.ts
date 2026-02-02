@@ -15,7 +15,7 @@ import {
   incrementFallbackUsed,
   type AgentState,
 } from '../core/state.js';
-import { buildPrompt, determineSlot } from '../core/prompt.js';
+import { buildPrompt, buildSelfReplyPrompt, determineSlot } from '../core/prompt.js';
 import { validateTweet } from '../core/validate.js';
 import { getFallbackTweetForSlot } from '../core/fallback.js';
 import { appendHashtags } from '../core/hashtags.js';
@@ -81,6 +81,14 @@ async function main(): Promise<void> {
   const slot = determineSlot(hour, state);
   console.log(`Selected slot: ${slot} (hour: ${hour})`);
 
+  // 施策5: 投稿スキップ（沈黙）- 約15%、1日1回まで、goodnightはスキップしない
+  if (slot !== 'goodnight' && !state.today_skipped && Math.random() < 0.15) {
+    console.log('Silence mode: skipping this post (human-like pause)');
+    state.today_skipped = true;
+    saveState(state);
+    return;
+  }
+
   // 画像投稿判定
   const shouldImage = shouldPostImage(state);
   let imagePath: string | null = null;
@@ -99,11 +107,19 @@ async function main(): Promise<void> {
   let tweetText: string | null = null;
   let usedFallback = false;
 
+  // 施策4: 自己リプライ風（15%の確率）
+  const selfReplyPrompt = buildSelfReplyPrompt(state);
+
   if (isOpenAIAvailable()) {
     // OpenAIで生成を試みる
     for (let attempt = 0; attempt <= MAX_GENERATION_RETRIES; attempt++) {
       try {
-        const prompt = buildPrompt(slot, state);
+        const prompt = selfReplyPrompt && attempt === 0
+          ? selfReplyPrompt
+          : buildPrompt(slot, state);
+        if (selfReplyPrompt && attempt === 0) {
+          console.log('Using self-reply mode');
+        }
         console.log(`Generating tweet (attempt ${attempt + 1})...`);
 
         const result = await generateTweet(prompt);

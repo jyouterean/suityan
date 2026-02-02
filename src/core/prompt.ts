@@ -1,11 +1,13 @@
 /**
  * プロンプト合成モジュール
  * persona + slot + theme + memory から短いプロンプトを生成
+ * 時間帯口調/曜日感覚/季節テーマ/数値具体性/エネルギー影響/独り言パターン を注入
  */
 
 import { readFileSync } from 'fs';
 import { join } from 'path';
 import { parse as parseYaml } from 'yaml';
+import { getJSTDate } from '../utils/jst.js';
 import type { AgentState, PostRecord } from './state.js';
 
 interface Persona {
@@ -37,11 +39,19 @@ interface Themes {
   daily: string[];
   emotion: string[];
   romance: string[];
+  micro_events: string[];
+}
+
+interface Quirks {
+  soliloquy: string[];
+  self_tsukkomi: string[];
+  trailing: string[];
 }
 
 let persona: Persona | null = null;
 let slots: Slots | null = null;
 let themes: Themes | null = null;
+let quirks: Quirks | null = null;
 
 function loadPersona(): Persona {
   if (persona) return persona;
@@ -65,6 +75,132 @@ function loadThemes(): Themes {
   const content = readFileSync(path, 'utf-8');
   themes = JSON.parse(content) as Themes;
   return themes;
+}
+
+function loadQuirks(): Quirks {
+  if (quirks) return quirks;
+  const path = join(process.cwd(), 'config', 'quirks.yaml');
+  const content = readFileSync(path, 'utf-8');
+  quirks = parseYaml(content) as Quirks;
+  return quirks;
+}
+
+// --- 施策1: 時間帯に応じた口調の揺れ ---
+function getTimeBasedTone(hour: number): string {
+  if (hour >= 7 && hour <= 9) {
+    return '眠い・テンション低め。「ねむ…」「だる」のような短い言葉が混ざる。口数少なめ。';
+  }
+  if (hour >= 10 && hour <= 14) {
+    return '少し元気。通常の口調で、仕事モード。';
+  }
+  if (hour >= 15 && hour <= 19) {
+    return '疲れ始め。弱音が混ざる。「あーもう」「しんど」のような言葉が出がち。';
+  }
+  if (hour >= 20 || hour === 0) {
+    return '寂しい・甘えモード。甘え口調強め。「…ねぇ」「かまって」のようなニュアンスが出る。';
+  }
+  return '通常の口調。';
+}
+
+// --- 施策2: 季節テーマ ---
+function getSeasonalContext(month: number): string {
+  if (month >= 3 && month <= 5) return '春。花粉、暖かくなってきた、桜、新生活。';
+  if (month >= 6 && month <= 8) return '夏。暑い、汗だく、日焼け、アイス、冷房。';
+  if (month >= 9 && month <= 11) return '秋。涼しくなった、食欲、紅葉、日が短い。';
+  return '冬。寒い、手がかじかむ、防寒、温かいもの飲みたい。';
+}
+
+// --- 施策2: 曜日の気分 ---
+function getDayOfWeekContext(dow: number): string {
+  const contexts: Record<number, string> = {
+    0: '日曜。仕事あるけど気持ちはゆるい。',
+    1: '月曜。憂鬱。週の始まりだるい。',
+    2: '火曜。まだ週の前半、淡々と。',
+    3: '水曜。折り返し、普通。',
+    4: '木曜。あと少し、普通。',
+    5: '金曜。開放感。週末が見える。',
+    6: '土曜。仕事あるけどゆるい。少しだけ楽しい。',
+  };
+  return contexts[dow] || '';
+}
+
+// --- 施策3: 独り言・自己ツッコミ ---
+function getQuirkInstruction(): string {
+  if (Math.random() > 0.3) return '';
+
+  const q = loadQuirks();
+  const lists = [q.soliloquy, q.self_tsukkomi, q.trailing];
+  const chosen = lists[Math.floor(Math.random() * lists.length)];
+  const phrase = chosen[Math.floor(Math.random() * chosen.length)];
+
+  return `\n【揺れ指示】ツイートのどこかに自然に「${phrase}」のようなニュアンスを入れて。`;
+}
+
+// --- 施策4: 自己リプライ風プロンプト生成 ---
+export function buildSelfReplyPrompt(state: AgentState): string | null {
+  if (state.last_posts.length === 0) return null;
+  if (Math.random() > 0.15) return null;
+
+  const lastPost = state.last_posts[0];
+  const p = loadPersona();
+  const jst = getJSTDate();
+  const hour = jst.getUTCHours();
+
+  return `あなたは「${p.name}」（${p.age}歳、${p.location}在住、${p.job}）。
+口調: ${p.speech_style.slice(0, 2).join('、')}
+
+さっき自分でこうツイートした:
+「${lastPost.text}」
+
+これに対して「さっきの〜だけど」「てかさっきの」「いや関係ないけど」のように、自分の直前の投稿を自然に受けた続きの1ツイートを生成。
+${getTimeBasedTone(hour)}
+${getEnergyInstruction(state.energy)}
+- 140字以内（理想30-60字）
+- 絵文字2個以内
+- 露骨/過激表現禁止`;
+}
+
+// --- 施策6: エネルギー影響 ---
+function getEnergyInstruction(energy: number): string {
+  if (energy < 20) return '体力ほぼゼロ。一言だけ。もう何も考えたくない感じ。';
+  if (energy < 40) return '体力低い。短く、だるそうに。言葉を選ぶ余裕がない。';
+  if (energy > 80) return '元気。テンション高め、言葉に勢いがある。';
+  return '';
+}
+
+// --- 感情の色付け ---
+function getMoodColor(mood: string): string {
+  const colors: Record<string, string> = {
+    happy: '嬉しい気持ち。「！」や明るい言葉が自然に出る。',
+    angry: 'イライラしてる。言葉が荒っぽくなる。「は？」「マジで」が出る。',
+    frustrated: 'もどかしい。うまくいかなくてモヤモヤ。',
+    proud: 'ちょっと誇らしい。頑張った自分を認めたい。',
+    melancholy: 'なんとなく切ない。「…」が多くなる。',
+    playful: 'ふざけたい気分。軽い冗談やツッコミが出る。',
+    tired: '疲れてる。言葉が短く、力がない。',
+    lonely: '寂しい。誰かにかまってほしい。',
+    excited: 'ワクワクしてる。テンション高い。',
+    relieved: 'ほっとしてる。穏やかな言葉。',
+    anxious: '不安。「大丈夫かな」「やばい」が出がち。',
+    neutral: '普通。特に強い感情はない。',
+  };
+  return colors[mood] || '';
+}
+
+// --- 施策8: 数値の具体性 ---
+function getConcreteNumbers(): string {
+  const deliveryCount = Math.floor(Math.random() * 81) + 70; // 70-150
+  const remaining = Math.floor(Math.random() * 30) + 1; // 1-30
+  const floor = Math.floor(Math.random() * 15) + 1; // 1-15F
+  const items = [
+    `今日の配達件数: ${deliveryCount}件`,
+    `残り: ${remaining}件`,
+    `さっき${floor}Fまで階段で上がった`,
+  ];
+  // 1-2個をランダムに選択
+  const count = Math.random() < 0.5 ? 1 : 2;
+  const shuffled = items.sort(() => Math.random() - 0.5);
+  return shuffled.slice(0, count).join('、');
 }
 
 /**
@@ -113,12 +249,15 @@ export function determineSlot(hour: number, state: AgentState): string {
 /**
  * ランダムにテーマを選択
  */
-function pickRandomTheme(): { logistics: string; daily: string; emotion: string } {
+function pickRandomTheme(): { logistics: string; daily: string; emotion: string; microEvent: string | null } {
   const t = loadThemes();
   return {
     logistics: t.logistics[Math.floor(Math.random() * t.logistics.length)],
     daily: t.daily[Math.floor(Math.random() * t.daily.length)],
     emotion: t.emotion[Math.floor(Math.random() * t.emotion.length)],
+    microEvent: Math.random() < 0.4
+      ? t.micro_events[Math.floor(Math.random() * t.micro_events.length)]
+      : null,
   };
 }
 
@@ -144,29 +283,42 @@ export function buildPrompt(slot: string, state: AgentState): string {
   const slotConfig = s[slot];
   const theme = pickRandomTheme();
 
-  // 簡潔なプロンプト（トークン節約）
-  const prompt = `あなたは「${p.name}」（${p.age}歳、${p.location}在住、${p.job}）。
-性格: ${p.personality.slice(0, 3).join('、')}
+  const jst = getJSTDate();
+  const hour = jst.getUTCHours();
+  const month = jst.getUTCMonth() + 1;
+  const dow = jst.getUTCDay();
+
+  const timeTone = getTimeBasedTone(hour);
+  const seasonal = getSeasonalContext(month);
+  const dayContext = getDayOfWeekContext(dow);
+  const energyInst = getEnergyInstruction(state.energy);
+  const numbers = getConcreteNumbers();
+  const quirkInst = getQuirkInstruction();
+
+  const moodColor = getMoodColor(state.mood);
+  const microEventLine = theme.microEvent ? `\nさっきあったこと: ${theme.microEvent}` : '';
+
+  const prompt = `${p.name}、${p.age}歳、${p.location}住み、${p.job}。
+${p.personality.slice(0, 3).join('、')}な性格。
 口調: ${p.speech_style.slice(0, 2).join('、')}
 
-【状況】${slotConfig.name}
+今は${slotConfig.name}の時間。
 ${slotConfig.tone.trim()}
 
-【今回のテーマ】
-- 軽貨物: ${theme.logistics}
-- 日常: ${theme.daily}
-- 感情: ${theme.emotion}
+${timeTone}
+${seasonal}${dayContext}
 
-【制約】
-- 140字以内（理想30-60字）
-- 絵文字2個以内
-- 軽貨物関連ワード必須
-- 露骨/過激表現禁止
+今の気持ち: ${theme.emotion}。${moodColor}
+体力${state.energy}%。${energyInst}
+仕事のキーワード: ${theme.logistics}
+日常: ${theme.daily}
+使える数字: ${numbers}${microEventLine}
+${quirkInst}
+直近のツイート: ${getRecentPostsSummary(state.last_posts)}
+↑と被らない内容で。
 
-【直近投稿】${getRecentPostsSummary(state.last_posts)}
-【気分】${state.mood} / 体力${state.energy}%
-
-上記を踏まえ、自然な1ツイートを生成。`;
+ルール: 140字以内（理想30-60字）、絵文字2個以内、軽貨物関連ワード必須、露骨/過激表現禁止。
+「〜しました」「今日は〜です」のような報告調は禁止。本人がスマホでボソッとつぶやく感じで。`;
 
   return prompt;
 }

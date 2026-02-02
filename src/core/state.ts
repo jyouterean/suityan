@@ -15,7 +15,7 @@ export interface PostRecord {
 }
 
 export interface AgentState {
-  mood: 'happy' | 'neutral' | 'tired' | 'lonely' | 'excited';
+  mood: 'happy' | 'neutral' | 'tired' | 'lonely' | 'excited' | 'angry' | 'frustrated' | 'proud' | 'melancholy' | 'playful' | 'relieved' | 'anxious';
   energy: number; // 0-100
   last_posts: PostRecord[];
   today_slots_used: string[];
@@ -27,6 +27,7 @@ export interface AgentState {
   last_image_date: string | null;
   last_post_date: string | null;
   last_post_time: string | null;
+  today_skipped: boolean;
   ng_retry_count: number;
   fallback_used_count: number;
   created_at: string | null;
@@ -48,6 +49,7 @@ const DEFAULT_STATE: AgentState = {
   last_image_date: null,
   last_post_date: null,
   last_post_time: null,
+  today_skipped: false,
   ng_retry_count: 0,
   fallback_used_count: 0,
   created_at: null,
@@ -70,6 +72,9 @@ export function loadState(): AgentState {
       state.today_slots_used = [];
       state.today_post_count = 0;
       state.today_goodnight_posted = false;
+      state.today_skipped = false;
+      // 朝のエネルギー回復
+      state.energy = 80;
     }
 
     // 月が変わっていたら月次カウンターをリセット
@@ -128,8 +133,12 @@ export function updateStateAfterPost(
 
   // エネルギーと気分を更新
   state.energy = Math.max(10, state.energy - 10);
-  if (state.energy < 30) {
+  // 投稿後の気分はOpenAIの返却値で上書きされるが、フォールバック用
+  if (state.energy < 20) {
     state.mood = 'tired';
+  } else if (state.energy < 40) {
+    const lowMoods: AgentState['mood'][] = ['tired', 'frustrated', 'melancholy'];
+    state.mood = lowMoods[Math.floor(Math.random() * lowMoods.length)];
   } else if (slot === 'night_ero') {
     state.mood = 'lonely';
   }
