@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 10,
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "今日もお客さん不在が多くて、5Fまで階段…もう、手がかじかんでつらい💦誰かに褒めてほしいなぁ。配達終わったら温かい飲み物が欲しいけど、週の始まりだるいなぁ。いや関係ないか。",
+      "slot": "delivery",
+      "timestamp": "2026-02-02 14:18:48",
+      "hasImage": false
+    },
     {
       "text": "今日は汗だくでルート組みに奮闘したよ💦ちょっと疲れたけど、明日も頑張るね！おやすみなさい😘",
       "slot": "goodnight",
@@ -37,33 +43,22 @@
       "slot": "delivery",
       "timestamp": "2026-02-01 13:00:23",
       "hasImage": false
-    },
-    {
-      "text": "今日も軽貨物ドライバーのお仕事終わり💨渋滞に巻き込まれて帰る道、一人だと心が寂しくなるなぁ。誰かと一緒に帰りたい…😓",
-      "slot": "commute",
-      "timestamp": "2026-02-01 08:17:12",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "commute",
-    "delivery",
-    "delivery",
-    "delivery",
-    "commute",
-    "night_ero",
-    "goodnight"
+    "delivery"
   ],
-  "today_post_count": 7,
-  "today_goodnight_posted": true,
-  "month_total_posts": 7,
+  "today_post_count": 1,
+  "today_goodnight_posted": false,
+  "month_total_posts": 8,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-02-01",
-  "last_post_time": "23:20:57",
+  "last_post_date": "2026-02-02",
+  "last_post_time": "14:18:48",
   "ng_retry_count": 3,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-02-01 23:20:57",
-  "month_string": "2026-02"
+  "updated_at": "2026-02-02 14:18:48",
+  "month_string": "2026-02",
+  "today_skipped": false
 }
