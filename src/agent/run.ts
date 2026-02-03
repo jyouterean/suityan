@@ -1,6 +1,9 @@
 /**
  * エージェント実行エントリポイント
  * slot決定→image判定→生成→検証→投稿→state更新
+ *
+ * 施策1: 投稿間隔の揺れ（連投・沈黙の波）
+ * 施策5: 投稿しない日・少ない日（today_max_posts）
  */
 
 import { readdirSync, existsSync } from 'fs';
@@ -13,9 +16,10 @@ import {
   shouldPostImage,
   incrementNgRetry,
   incrementFallbackUsed,
+  minutesSinceLastPost,
   type AgentState,
 } from '../core/state.js';
-import { buildPrompt, buildSelfReplyPrompt, determineSlot } from '../core/prompt.js';
+import { buildPrompt, buildSelfReplyPrompt, determineSlot, getWeatherText } from '../core/prompt.js';
 import { validateTweet } from '../core/validate.js';
 import { getFallbackTweetForSlot } from '../core/fallback.js';
 import { appendHashtags } from '../core/hashtags.js';
@@ -34,6 +38,9 @@ function getImageDirForSlot(slot: string): string {
     commute: 'commute',
     night_ero: 'night',
     goodnight: 'daily',
+    simple_goodnight: 'daily',
+    morning: 'daily',
+    casual: 'daily',
   };
   const dir = slotDirMap[slot] || 'daily';
   return join(IMAGES_DIR, dir);
@@ -61,6 +68,29 @@ function selectRandomImage(directory: string): string | null {
 }
 
 /**
+ * 施策1: スキップ確率を投稿間隔に基づいて計算
+ * 前回投稿から近い場合はスキップ確率を下げる（連投モード）
+ * 前回投稿から遠い場合はスキップ確率を上げる（沈黙の波）
+ */
+function calculateSkipProbability(state: AgentState): number {
+  const minutes = minutesSinceLastPost(state);
+
+  // 初回投稿
+  if (minutes === null) return 0.05;
+
+  // 60分以内: 連投モード → スキップ確率低い
+  if (minutes < 60) return 0.03;
+
+  // 60-120分: 通常
+  if (minutes < 120) return 0.08;
+
+  // 120分以上: 沈黙の波 → スキップ確率高い（ただし上限2回まで）
+  if (state.today_skip_count < 2) return 0.20;
+
+  return 0.05;
+}
+
+/**
  * メイン実行関数
  */
 async function main(): Promise<void> {
@@ -68,11 +98,11 @@ async function main(): Promise<void> {
 
   // 状態を読み込み
   let state = loadState();
-  console.log(`Current state: mood=${state.mood}, energy=${state.energy}, today_posts=${state.today_post_count}`);
+  console.log(`Current state: mood=${state.mood}, energy=${state.energy}, today_posts=${state.today_post_count}, today_max=${state.today_max_posts}`);
 
-  // 1日7回制限チェック
-  if (state.today_post_count >= 7) {
-    console.log('Daily post limit reached (7 posts). Skipping.');
+  // 施策5: 日ごとの投稿上限チェック
+  if (state.today_post_count >= state.today_max_posts) {
+    console.log(`Daily post limit reached (${state.today_max_posts} posts for today). Skipping.`);
     return;
   }
 
@@ -81,16 +111,38 @@ async function main(): Promise<void> {
   const slot = determineSlot(hour, state);
   console.log(`Selected slot: ${slot} (hour: ${hour})`);
 
-  // 施策5: 投稿スキップ（沈黙）- 約15%、1日1回まで、goodnightはスキップしない
-  if (slot !== 'goodnight' && !state.today_skipped && Math.random() < 0.15) {
-    console.log('Silence mode: skipping this post (human-like pause)');
-    state.today_skipped = true;
-    saveState(state);
-    return;
+  // 施策1: 投稿間隔に基づくスキップ判定
+  // goodnight/simple_goodnight/morningはスキップしない
+  const skipExemptSlots = new Set(['goodnight', 'simple_goodnight', 'morning']);
+  if (!skipExemptSlots.has(slot)) {
+    const skipProb = calculateSkipProbability(state);
+    const minSinceLastStr = minutesSinceLastPost(state);
+    console.log(`Skip probability: ${(skipProb * 100).toFixed(1)}% (minutes since last: ${minSinceLastStr ? Math.round(minSinceLastStr) : 'N/A'})`);
+
+    if (Math.random() < skipProb) {
+      console.log('Silence mode: skipping this post (human-like pause)');
+      state.today_skipped = true;
+      state.today_skip_count++;
+      saveState(state);
+      return;
+    }
+  }
+
+  // 施策3: 天気情報を取得（非同期、失敗しても続行）
+  let weatherText: string | null = null;
+  try {
+    weatherText = await getWeatherText();
+    if (weatherText) {
+      console.log(`Weather: ${weatherText}`);
+    }
+  } catch {
+    console.log('Weather fetch failed, continuing without weather data');
   }
 
   // 画像投稿判定
-  const shouldImage = shouldPostImage(state);
+  // 施策6: morning/simple_goodnightでは画像なし
+  const noImageSlots = new Set(['morning', 'simple_goodnight']);
+  const shouldImage = noImageSlots.has(slot) ? false : shouldPostImage(state);
   let imagePath: string | null = null;
 
   if (shouldImage) {
@@ -107,7 +159,7 @@ async function main(): Promise<void> {
   let tweetText: string | null = null;
   let usedFallback = false;
 
-  // 施策4: 自己リプライ風（15%の確率）
+  // 施策4(original): 自己リプライ風（15%の確率）
   const selfReplyPrompt = buildSelfReplyPrompt(state);
 
   if (isOpenAIAvailable()) {
@@ -116,14 +168,14 @@ async function main(): Promise<void> {
       try {
         const prompt = selfReplyPrompt && attempt === 0
           ? selfReplyPrompt
-          : buildPrompt(slot, state);
+          : buildPrompt(slot, state, weatherText);
         if (selfReplyPrompt && attempt === 0) {
           console.log('Using self-reply mode');
         }
         console.log(`Generating tweet (attempt ${attempt + 1})...`);
 
         const result = await generateTweet(prompt);
-        const validation = validateTweet(result.tweet, state.last_posts);
+        const validation = validateTweet(result.tweet, state.last_posts, slot);
 
         if (validation.valid) {
           tweetText = result.tweet;
@@ -166,8 +218,8 @@ async function main(): Promise<void> {
     }
   }
 
-  // ハッシュタグを追加
-  const tweetWithHashtags = appendHashtags(tweetText);
+  // 施策7: ハッシュタグをスロットに応じて追加
+  const tweetWithHashtags = appendHashtags(tweetText, 140, slot);
   console.log(`Tweet with hashtags: "${tweetWithHashtags}"`);
 
   // X APIが利用可能かチェック
@@ -201,7 +253,7 @@ async function main(): Promise<void> {
     state = updateStateAfterPost(state, tweetText, slot, !!mediaId);
     saveState(state);
 
-    console.log(`State updated: today_posts=${state.today_post_count}, month_posts=${state.month_total_posts}`);
+    console.log(`State updated: today_posts=${state.today_post_count}, month_posts=${state.month_total_posts}, max_today=${state.today_max_posts}`);
   } catch (error) {
     console.error('Failed to post tweet:', error);
     saveState(state);

@@ -2,22 +2,38 @@ name: Post Tweet
 
 on:
   schedule:
-    # 1日7回、UTCで指定（JSTは+9時間）
+    # 1日15回、UTCで指定（JSTは+9時間）
     # 基準時刻から0-29分のランダム遅延が追加される
-    # JST 08:00頃 = UTC 23:00
-    # JST 10:00頃 = UTC 01:00
-    # JST 12:00頃 = UTC 03:00
-    # JST 15:00頃 = UTC 06:00
-    # JST 18:00頃 = UTC 09:00
-    # JST 21:00頃 = UTC 12:00
-    # JST 23:00頃 = UTC 14:00
-    - cron: '0 23 * * *'
-    - cron: '0 1 * * *'
+    # JST 06:00 = UTC 21:00
+    # JST 07:30 = UTC 22:30
+    # JST 08:30 = UTC 23:30
+    # JST 09:30 = UTC 00:30
+    # JST 10:30 = UTC 01:30
+    # JST 12:00 = UTC 03:00
+    # JST 13:30 = UTC 04:30
+    # JST 14:30 = UTC 05:30
+    # JST 15:30 = UTC 06:30
+    # JST 17:00 = UTC 08:00
+    # JST 18:30 = UTC 09:30
+    # JST 20:00 = UTC 11:00
+    # JST 21:00 = UTC 12:00
+    # JST 22:30 = UTC 13:30
+    # JST 23:30 = UTC 14:30
+    - cron: '0 21 * * *'
+    - cron: '30 22 * * *'
+    - cron: '30 23 * * *'
+    - cron: '30 0 * * *'
+    - cron: '30 1 * * *'
     - cron: '0 3 * * *'
-    - cron: '0 6 * * *'
-    - cron: '0 9 * * *'
+    - cron: '30 4 * * *'
+    - cron: '30 5 * * *'
+    - cron: '30 6 * * *'
+    - cron: '0 8 * * *'
+    - cron: '30 9 * * *'
+    - cron: '0 11 * * *'
     - cron: '0 12 * * *'
-    - cron: '0 14 * * *'
+    - cron: '30 13 * * *'
+    - cron: '30 14 * * *'
   workflow_dispatch:
     inputs:
       dry_run:

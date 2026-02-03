@@ -2,6 +2,7 @@
  * プロンプト合成モジュール
  * persona + slot + theme + memory から短いプロンプトを生成
  * 時間帯口調/曜日感覚/季節テーマ/数値具体性/エネルギー影響/独り言パターン を注入
+ * 施策2: 文体バリエーション / 施策3: 天気連携 / 施策4: 文脈連続性
  */
 
 import { readFileSync } from 'fs';
@@ -9,6 +10,7 @@ import { join } from 'path';
 import { parse as parseYaml } from 'yaml';
 import { getJSTDate } from '../utils/jst.js';
 import type { AgentState, PostRecord } from './state.js';
+import { getCurrentWeather, weatherToPromptText } from './weather.js';
 
 interface Persona {
   name: string;
@@ -87,7 +89,10 @@ function loadQuirks(): Quirks {
 
 // --- 施策1: 時間帯に応じた口調の揺れ ---
 function getTimeBasedTone(hour: number): string {
-  if (hour >= 7 && hour <= 9) {
+  if (hour >= 6 && hour <= 7) {
+    return '寝起き。ほぼ意識ない。「…」「むり」のような断片的な言葉だけ。';
+  }
+  if (hour >= 8 && hour <= 9) {
     return '眠い・テンション低め。「ねむ…」「だる」のような短い言葉が混ざる。口数少なめ。';
   }
   if (hour >= 10 && hour <= 14) {
@@ -102,7 +107,7 @@ function getTimeBasedTone(hour: number): string {
   return '通常の口調。';
 }
 
-// --- 施策2: 季節テーマ ---
+// --- 施策2(original): 季節テーマ ---
 function getSeasonalContext(month: number): string {
   if (month >= 3 && month <= 5) return '春。花粉、暖かくなってきた、桜、新生活。';
   if (month >= 6 && month <= 8) return '夏。暑い、汗だく、日焼け、アイス、冷房。';
@@ -110,7 +115,7 @@ function getSeasonalContext(month: number): string {
   return '冬。寒い、手がかじかむ、防寒、温かいもの飲みたい。';
 }
 
-// --- 施策2: 曜日の気分 ---
+// --- 施策2(original): 曜日の気分 ---
 function getDayOfWeekContext(dow: number): string {
   const contexts: Record<number, string> = {
     0: '日曜。仕事あるけど気持ちはゆるい。',
@@ -124,7 +129,7 @@ function getDayOfWeekContext(dow: number): string {
   return contexts[dow] || '';
 }
 
-// --- 施策3: 独り言・自己ツッコミ ---
+// --- 施策3(original): 独り言・自己ツッコミ ---
 function getQuirkInstruction(): string {
   if (Math.random() > 0.3) return '';
 
@@ -136,7 +141,42 @@ function getQuirkInstruction(): string {
   return `\n【揺れ指示】ツイートのどこかに自然に「${phrase}」のようなニュアンスを入れて。`;
 }
 
-// --- 施策4: 自己リプライ風プロンプト生成 ---
+// --- 施策2(新): 文体バリエーション ---
+function getStyleVariation(energy: number): string {
+  const variations: string[] = [];
+
+  // 句読点の揺れ
+  if (Math.random() < 0.3) {
+    variations.push('今回は「。」を使わず、体言止めや「…」で終わらせて。');
+  } else if (Math.random() < 0.2) {
+    variations.push('今回は句読点を普通に使って丁寧めに。');
+  }
+
+  // ひらがな率（疲れてるとき）
+  if (energy < 30) {
+    variations.push('疲れてるので漢字が減る。ひらがな多めで。「配達」→「はいたつ」みたいに。');
+  }
+
+  // 文末パターン
+  const endings = [
+    '文末は「〜な」「〜かも」で終わらせて。',
+    '文末は「〜だわ」「〜よね」で終わらせて。',
+    '文末を「〜…」で余韻を残して。',
+    '文末は断言系で。「〜だ」「〜する」。',
+  ];
+  if (Math.random() < 0.25) {
+    variations.push(endings[Math.floor(Math.random() * endings.length)]);
+  }
+
+  // 打ち間違い風（3%）
+  if (Math.random() < 0.03) {
+    variations.push('1文字だけ打ち間違いを入れて（例: 「おやすみ」→「おやすmい」「ねむい」→「ねむうい」）。自然なtypoで。');
+  }
+
+  return variations.length > 0 ? '\n【文体指示】' + variations.join(' ') : '';
+}
+
+// --- 施策4(original): 自己リプライ風プロンプト生成 ---
 export function buildSelfReplyPrompt(state: AgentState): string | null {
   if (state.last_posts.length === 0) return null;
   if (Math.random() > 0.15) return null;
@@ -160,7 +200,7 @@ ${getEnergyInstruction(state.energy)}
 - 露骨/過激表現禁止`;
 }
 
-// --- 施策6: エネルギー影響 ---
+// --- 施策6(original): エネルギー影響 ---
 function getEnergyInstruction(energy: number): string {
   if (energy < 20) return '体力ほぼゼロ。一言だけ。もう何も考えたくない感じ。';
   if (energy < 40) return '体力低い。短く、だるそうに。言葉を選ぶ余裕がない。';
@@ -187,7 +227,7 @@ function getMoodColor(mood: string): string {
   return colors[mood] || '';
 }
 
-// --- 施策8: 数値の具体性 ---
+// --- 施策8(original): 数値の具体性 ---
 function getConcreteNumbers(): string {
   const deliveryCount = Math.floor(Math.random() * 81) + 70; // 70-150
   const remaining = Math.floor(Math.random() * 30) + 1; // 1-30
@@ -203,14 +243,33 @@ function getConcreteNumbers(): string {
   return shuffled.slice(0, count).join('、');
 }
 
+// --- 施策4(新): 今日の流れをプロンプトに注入 ---
+function getNarrativeContext(state: AgentState): string {
+  if (!state.today_narrative || state.today_post_count < 2) return '';
+  return `\n今日の投稿の流れ: ${state.today_narrative}\n↑この流れを自然に受けた内容で。さっきの話題の続きや「さっき〜って言ったけど」のような繋がりを意識。`;
+}
+
 /**
  * 現在時刻に適したスロットを決定
  */
 export function determineSlot(hour: number, state: AgentState): string {
   const slotsConfig = loadSlots();
 
+  // morningは1日1回のみ
+  if (!state.today_morning_posted && (hour === 6 || hour === 7)) {
+    return 'morning';
+  }
+
+  // simple_goodnightは1日1回のみ（goodnightと排他）
+  if (!state.today_simple_goodnight_posted && !state.today_goodnight_posted && (hour === 23 || hour === 0)) {
+    // 50%の確率でsimple_goodnightかgoodnightを選ぶ
+    if (Math.random() < 0.5) {
+      return 'simple_goodnight';
+    }
+  }
+
   // goodnightは1日1回のみ
-  if (!state.today_goodnight_posted && (hour === 23 || hour === 0)) {
+  if (!state.today_goodnight_posted && !state.today_simple_goodnight_posted && (hour === 23 || hour === 0)) {
     return 'goodnight';
   }
 
@@ -218,9 +277,10 @@ export function determineSlot(hour: number, state: AgentState): string {
   const candidates: { slot: string; weight: number }[] = [];
 
   for (const [slotName, config] of Object.entries(slotsConfig)) {
-    if (slotName === 'goodnight' && state.today_goodnight_posted) {
-      continue;
-    }
+    // max_per_day制限のあるスロットで既に投稿済みならスキップ
+    if (slotName === 'goodnight' && state.today_goodnight_posted) continue;
+    if (slotName === 'simple_goodnight' && state.today_simple_goodnight_posted) continue;
+    if (slotName === 'morning' && state.today_morning_posted) continue;
 
     if (config.hours.includes(hour)) {
       candidates.push({ slot: slotName, weight: config.weight });
@@ -275,9 +335,105 @@ function getRecentPostsSummary(posts: PostRecord[]): string {
 }
 
 /**
+ * 天気テキスト取得（非同期）
+ * 取得失敗時はnullを返す
+ */
+export async function getWeatherText(): Promise<string | null> {
+  try {
+    const weather = await getCurrentWeather();
+    if (!weather) return null;
+    return weatherToPromptText(weather);
+  } catch {
+    return null;
+  }
+}
+
+/**
+ * morning/simple_goodnight用の超短文プロンプト
+ */
+function buildShortPrompt(slot: string, state: AgentState): string {
+  const p = loadPersona();
+  const styleVar = getStyleVariation(state.energy);
+
+  if (slot === 'morning') {
+    return `あなたは「${p.name}」（${p.age}歳、${p.location}住み、${p.job}）。
+口調: ${p.speech_style.slice(0, 2).join('、')}
+
+寝起きの一言ツイートを1つ生成。
+「おはよ」「ねむ…」「あさ…むり」のような超短い投稿。
+仕事の話は不要。軽貨物ワードも不要。
+
+直近のツイート: ${getRecentPostsSummary(state.last_posts)}
+↑と被らない内容で。
+${styleVar}
+ルール: 15字以内、絵文字0-1個、露骨/過激表現禁止。
+本人が寝ぼけながらスマホで打つ感じ。`;
+  }
+
+  // simple_goodnight
+  return `あなたは「${p.name}」（${p.age}歳、${p.location}住み、${p.job}）。
+口調: ${p.speech_style.slice(0, 2).join('、')}
+
+寝る前の一言ツイートを1つ生成。
+「おやすみ」「ねる」「もうむり、ねる」のような超短い投稿。
+仕事の話は不要。軽貨物ワードも不要。
+
+直近のツイート: ${getRecentPostsSummary(state.last_posts)}
+↑と被らない内容で。
+${styleVar}
+ルール: 15字以内、絵文字0-1個、露骨/過激表現禁止。
+もう眠くて限界な感じ。`;
+}
+
+/**
+ * casual用の日常つぶやきプロンプト
+ */
+function buildCasualPrompt(state: AgentState, weatherText: string | null): string {
+  const p = loadPersona();
+  const jst = getJSTDate();
+  const hour = jst.getUTCHours();
+  const month = jst.getUTCMonth() + 1;
+  const dow = jst.getUTCDay();
+
+  const timeTone = getTimeBasedTone(hour);
+  const seasonal = getSeasonalContext(month);
+  const dayContext = getDayOfWeekContext(dow);
+  const moodColor = getMoodColor(state.mood);
+  const styleVar = getStyleVariation(state.energy);
+  const narrative = getNarrativeContext(state);
+  const weatherLine = weatherText ? `\n${weatherText}天気に触れてもいいし、触れなくてもいい。` : '';
+
+  return `${p.name}、${p.age}歳、${p.location}住み、${p.job}。
+${p.personality.slice(0, 3).join('、')}な性格。
+口調: ${p.speech_style.slice(0, 2).join('、')}
+
+仕事と無関係な日常のつぶやきを1つ生成。
+ご飯、天気、テレビ、コンビニ、独り言、なんでもない日常。
+軽貨物・配達・仕事の話は禁止。普通の23歳女子の投稿。
+
+${timeTone}
+${seasonal}${dayContext}
+今の気持ち: ${moodColor}${weatherLine}${narrative}
+${styleVar}
+直近のツイート: ${getRecentPostsSummary(state.last_posts)}
+↑と被らない内容で。
+
+ルール: 140字以内（理想20-50字）、絵文字2個以内、露骨/過激表現禁止。
+「〜しました」「今日は〜です」のような報告調は禁止。本人がスマホでボソッとつぶやく感じで。`;
+}
+
+/**
  * プロンプトを生成
  */
-export function buildPrompt(slot: string, state: AgentState): string {
+export function buildPrompt(slot: string, state: AgentState, weatherText?: string | null): string {
+  // 新スロット用の特別プロンプト
+  if (slot === 'morning' || slot === 'simple_goodnight') {
+    return buildShortPrompt(slot, state);
+  }
+  if (slot === 'casual') {
+    return buildCasualPrompt(state, weatherText ?? null);
+  }
+
   const p = loadPersona();
   const s = loadSlots();
   const slotConfig = s[slot];
@@ -294,9 +450,12 @@ export function buildPrompt(slot: string, state: AgentState): string {
   const energyInst = getEnergyInstruction(state.energy);
   const numbers = getConcreteNumbers();
   const quirkInst = getQuirkInstruction();
+  const styleVar = getStyleVariation(state.energy);
+  const narrative = getNarrativeContext(state);
 
   const moodColor = getMoodColor(state.mood);
   const microEventLine = theme.microEvent ? `\nさっきあったこと: ${theme.microEvent}` : '';
+  const weatherLine = weatherText ? `\n${weatherText}` : '';
 
   const prompt = `${p.name}、${p.age}歳、${p.location}住み、${p.job}。
 ${p.personality.slice(0, 3).join('、')}な性格。
@@ -306,14 +465,14 @@ ${p.personality.slice(0, 3).join('、')}な性格。
 ${slotConfig.tone.trim()}
 
 ${timeTone}
-${seasonal}${dayContext}
+${seasonal}${dayContext}${weatherLine}
 
 今の気持ち: ${theme.emotion}。${moodColor}
 体力${state.energy}%。${energyInst}
 仕事のキーワード: ${theme.logistics}
 日常: ${theme.daily}
 使える数字: ${numbers}${microEventLine}
-${quirkInst}
+${quirkInst}${styleVar}${narrative}
 直近のツイート: ${getRecentPostsSummary(state.last_posts)}
 ↑と被らない内容で。
 

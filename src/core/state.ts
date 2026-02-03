@@ -21,13 +21,19 @@ export interface AgentState {
   today_slots_used: string[];
   today_post_count: number;
   today_goodnight_posted: boolean;
+  today_simple_goodnight_posted: boolean;
+  today_morning_posted: boolean;
+  today_max_posts: number; // 施策5: 日ごとの最大投稿数（8-15）
+  today_narrative: string; // 施策4: 今日のストーリーライン
   month_total_posts: number;
   month_image_posts: number;
   month_string?: string;
   last_image_date: string | null;
   last_post_date: string | null;
   last_post_time: string | null;
+  last_post_timestamp_ms: number | null; // 施策1: 連投検出用
   today_skipped: boolean;
+  today_skip_count: number; // 施策1: 連続スキップ対応
   ng_retry_count: number;
   fallback_used_count: number;
   created_at: string | null;
@@ -36,6 +42,17 @@ export interface AgentState {
 
 const STATE_PATH = join(process.cwd(), 'state', 'state.json');
 
+/**
+ * 施策5: 日ごとの最大投稿数をランダムに決定（8-15）
+ */
+function randomDailyMaxPosts(): number {
+  // 70%の確率で13-15、30%の確率で8-12（少ない日）
+  if (Math.random() < 0.3) {
+    return Math.floor(Math.random() * 5) + 8; // 8-12
+  }
+  return Math.floor(Math.random() * 3) + 13; // 13-15
+}
+
 const DEFAULT_STATE: AgentState = {
   mood: 'neutral',
   energy: 70,
@@ -43,13 +60,19 @@ const DEFAULT_STATE: AgentState = {
   today_slots_used: [],
   today_post_count: 0,
   today_goodnight_posted: false,
+  today_simple_goodnight_posted: false,
+  today_morning_posted: false,
+  today_max_posts: 15,
+  today_narrative: '',
   month_total_posts: 0,
   month_image_posts: 0,
   month_string: undefined,
   last_image_date: null,
   last_post_date: null,
   last_post_time: null,
+  last_post_timestamp_ms: null,
   today_skipped: false,
+  today_skip_count: 0,
   ng_retry_count: 0,
   fallback_used_count: 0,
   created_at: null,
@@ -58,7 +81,7 @@ const DEFAULT_STATE: AgentState = {
 
 export function loadState(): AgentState {
   if (!existsSync(STATE_PATH)) {
-    const newState = { ...DEFAULT_STATE, created_at: getJSTTimestamp() };
+    const newState = { ...DEFAULT_STATE, created_at: getJSTTimestamp(), today_max_posts: randomDailyMaxPosts() };
     saveState(newState);
     return newState;
   }
@@ -72,9 +95,34 @@ export function loadState(): AgentState {
       state.today_slots_used = [];
       state.today_post_count = 0;
       state.today_goodnight_posted = false;
+      state.today_simple_goodnight_posted = false;
+      state.today_morning_posted = false;
       state.today_skipped = false;
+      state.today_skip_count = 0;
+      state.today_max_posts = randomDailyMaxPosts();
+      state.today_narrative = '';
       // 朝のエネルギー回復
       state.energy = 80;
+    }
+
+    // 既存stateに新フィールドがない場合のマイグレーション
+    if (state.today_simple_goodnight_posted === undefined) {
+      state.today_simple_goodnight_posted = false;
+    }
+    if (state.today_morning_posted === undefined) {
+      state.today_morning_posted = false;
+    }
+    if (state.today_max_posts === undefined) {
+      state.today_max_posts = randomDailyMaxPosts();
+    }
+    if (state.today_narrative === undefined) {
+      state.today_narrative = '';
+    }
+    if (state.last_post_timestamp_ms === undefined) {
+      state.last_post_timestamp_ms = null;
+    }
+    if (state.today_skip_count === undefined) {
+      state.today_skip_count = 0;
     }
 
     // 月が変わっていたら月次カウンターをリセット
@@ -88,7 +136,7 @@ export function loadState(): AgentState {
     return state;
   } catch (e) {
     console.error('Failed to load state, using default:', e);
-    return { ...DEFAULT_STATE, created_at: getJSTTimestamp() };
+    return { ...DEFAULT_STATE, created_at: getJSTTimestamp(), today_max_posts: randomDailyMaxPosts() };
   }
 }
 
@@ -127,9 +175,20 @@ export function updateStateAfterPost(
   if (slot === 'goodnight') {
     state.today_goodnight_posted = true;
   }
+  if (slot === 'simple_goodnight') {
+    state.today_simple_goodnight_posted = true;
+  }
+  if (slot === 'morning') {
+    state.today_morning_posted = true;
+  }
 
   state.last_post_date = now;
   state.last_post_time = time;
+  state.last_post_timestamp_ms = Date.now();
+
+  // 施策4: ナラティブ更新
+  const shortText = text.length > 20 ? text.slice(0, 20) + '…' : text;
+  state.today_narrative += (state.today_narrative ? ' → ' : '') + shortText;
 
   // エネルギーと気分を更新
   state.energy = Math.max(10, state.energy - 10);
@@ -144,6 +203,14 @@ export function updateStateAfterPost(
   }
 
   return state;
+}
+
+/**
+ * 施策1: 前回投稿からの経過分数を計算
+ */
+export function minutesSinceLastPost(state: AgentState): number | null {
+  if (!state.last_post_timestamp_ms) return null;
+  return (Date.now() - state.last_post_timestamp_ms) / (1000 * 60);
 }
 
 export function incrementNgRetry(state: AgentState): AgentState {

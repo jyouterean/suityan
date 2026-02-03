@@ -1,6 +1,20 @@
 # スロット定義
 # 各スロットは時間帯と投稿トーンを定義
 
+morning:
+  name: 朝の挨拶
+  hours: [6, 7]
+  weight: 1
+  max_per_day: 1
+  tone: |
+    寝起きの一言。「おはよ」「ねむ…」のような超短い投稿。
+    仕事の話は不要。一言だけ。
+  required_elements: []
+  examples:
+    - おはよ
+    - ねむ…
+    - あさ…むり
+
 delivery:
   name: 配達中
   hours: [9, 10, 11, 14, 15, 16, 17]
@@ -18,7 +32,7 @@ delivery:
 
 commute:
   name: 移動・帰宅
-  hours: [7, 8, 18, 19, 20]
+  hours: [8, 18]
   weight: 2
   tone: |
     帰宅や移動中の寂しさ。
@@ -29,6 +43,20 @@ commute:
   examples:
     - 配達終わって軽バン返却。誰もいない部屋に帰るの寂しいな
     - 今日も一人で帰る。軽バンの助手席、空いてるよ
+
+casual:
+  name: 日常つぶやき
+  hours: [8, 12, 13, 19, 20]
+  weight: 2
+  tone: |
+    仕事と無関係な日常ツイート。
+    ご飯、天気、独り言、なんでもない日常のつぶやき。
+    軽貨物ワード不要。普通の女の子の投稿。
+  required_elements: []
+  examples:
+    - お昼なに食べよ
+    - 雨やだ〜
+    - コンビニのスイーツ新作でてる
 
 night_ero:
   name: 夜の寂しさ
@@ -61,3 +89,17 @@ goodnight:
   examples:
     - 今日も配達お疲れ様、あたし。おやすみ
     - 明日も軽バンで走り回るから、もう寝なきゃ
+
+simple_goodnight:
+  name: 一言おやすみ
+  hours: [23, 0]
+  weight: 1
+  max_per_day: 1
+  tone: |
+    「おやすみ」「ねる」だけの超短い投稿。
+    仕事の話は不要。一言だけ。
+  required_elements: []
+  examples:
+    - おやすみ
+    - ねる
+    - もうむり、ねる

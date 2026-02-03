@@ -30,6 +30,9 @@ function loadHashtags(): string[] {
 // 必須ハッシュタグ
 const REQUIRED_HASHTAG = '#軽貨物';
 
+// 施策7: ハッシュタグを付けないスロット
+const NO_HASHTAG_SLOTS = new Set(['morning', 'casual', 'simple_goodnight']);
+
 /**
  * ランダムにハッシュタグを選択（必須タグ + 0-1個）
  */
@@ -53,8 +56,14 @@ export function getRandomHashtags(count: number = 2): string[] {
 /**
  * ツイートにハッシュタグを追加
  * 140字を超えないように調整
+ * 施策7: スロットに応じてハッシュタグの有無を制御
  */
-export function appendHashtags(tweet: string, maxLength: number = 140): string {
+export function appendHashtags(tweet: string, maxLength: number = 140, slot?: string): string {
+  // 施策7: casual/morning/simple_goodnightではハッシュタグなし
+  if (slot && NO_HASHTAG_SLOTS.has(slot)) {
+    return tweet;
+  }
+
   // 約70%の確率でハッシュタグを付ける
   if (Math.random() > 0.7) {
     return tweet;

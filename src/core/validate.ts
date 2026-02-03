@@ -7,6 +7,9 @@ import { readFileSync } from 'fs';
 import { join } from 'path';
 import type { PostRecord } from './state.js';
 
+// 軽貨物ワードチェックをスキップするスロット
+const SKIP_LOGISTICS_SLOTS = new Set(['morning', 'casual', 'simple_goodnight']);
+
 // 設定ファイルを読み込み
 function loadLines(filename: string): string[] {
   try {
@@ -127,10 +130,12 @@ export function checkSimilarity(
 
 /**
  * 総合バリデーション
+ * @param slot スロット名（morning/casual/simple_goodnightでは軽貨物ワードチェックをスキップ）
  */
 export function validateTweet(
   text: string,
-  recentPosts: PostRecord[] = []
+  recentPosts: PostRecord[] = [],
+  slot?: string
 ): ValidationResult {
   const errors: string[] = [];
 
@@ -152,10 +157,12 @@ export function validateTweet(
     errors.push(`禁止語検出: ${forbidden.found.join(', ')}`);
   }
 
-  // 軽貨物語彙チェック
-  const logistics = checkLogisticsWord(text);
-  if (!logistics.valid) {
-    errors.push('軽貨物関連の単語が含まれていません');
+  // 軽貨物語彙チェック（特定スロットではスキップ）
+  if (!slot || !SKIP_LOGISTICS_SLOTS.has(slot)) {
+    const logistics = checkLogisticsWord(text);
+    if (!logistics.valid) {
+      errors.push('軽貨物関連の単語が含まれていません');
+    }
   }
 
   // 類似度チェック

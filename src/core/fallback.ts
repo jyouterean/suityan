@@ -80,6 +80,9 @@ export function getFallbackTweetForSlot(
     commute: ['帰', '終わり', '返却'],
     night_ero: ['夜', '寂しい', '癒'],
     goodnight: ['おやすみ', '寝', '明日'],
+    morning: ['おはよ', 'ねむ', 'あさ'],
+    casual: ['食べ', '雨', 'コンビニ', 'おなか', 'あつい', 'さむ', '眠い', 'テレビ', 'ごはん', 'したくない'],
+    simple_goodnight: ['おやすみ', 'ねる', 'ねむい'],
   };
 
   const keywords = slotKeywords[slot] || [];
