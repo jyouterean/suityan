@@ -1,7 +1,13 @@
 {
-  "mood": "neutral",
-  "energy": 60,
+  "mood": "lonely",
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "もう少しで終わるのに、不在票ばっかりでムカつく…あー、寒いし、手がかじかむよ…。ほんと、誰かに会いたいなぁ。褒めてもらえるだけでいいのに、って誰に言ってんだろ😅",
+      "slot": "delivery",
+      "timestamp": "2026-02-03 15:13:08",
+      "hasImage": false
+    },
     {
       "text": "いや、やっぱり冬は温かい飲み物必須だね！荷物運びながら、できるだけ温かい休憩を心がけないと😅☕",
       "slot": "delivery",
@@ -37,35 +43,30 @@
       "slot": "delivery",
       "timestamp": "2026-02-02 16:35:31",
       "hasImage": false
-    },
-    {
-      "text": "今日もお客さん不在が多くて、5Fまで階段…もう、手がかじかんでつらい💦誰かに褒めてほしいなぁ。配達終わったら温かい飲み物が欲しいけど、週の始まりだるいなぁ。いや関係ないか。",
-      "slot": "delivery",
-      "timestamp": "2026-02-02 14:18:48",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "casual",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 14,
+  "month_total_posts": 15,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-03",
-  "last_post_time": "14:35:11",
+  "last_post_time": "15:13:08",
   "ng_retry_count": 4,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-02-03 14:35:11",
+  "updated_at": "2026-02-03 15:13:08",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": false,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "天気いいけど、寒さが身にしみる…手がかじ… → いや、やっぱり冬は温かい飲み物必須だね！…",
-  "last_post_timestamp_ms": 1770096911492
+  "today_narrative": "天気いいけど、寒さが身にしみる…手がかじ… → いや、やっぱり冬は温かい飲み物必須だね！… → もう少しで終わるのに、不在票ばっかりでム…",
+  "last_post_timestamp_ms": 1770099188518
 }
