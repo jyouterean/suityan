@@ -1,7 +1,13 @@
 {
   "mood": "melancholy",
-  "energy": 30,
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "天気いいけど、寒さが身にしみる…手がかじかんで、温かい飲み物が恋しいなぁ。やっぱり冬は苦手…このままじゃ心まで冷えそうだよ…☕🌬️",
+      "slot": "casual",
+      "timestamp": "2026-02-03 13:57:33",
+      "hasImage": false
+    },
     {
       "text": "…ねぇ、今日は112件配達して、帰ってきたらもうこんな時間。寒くて手がかじかむし、コンビニの新作スイーツでも買ってきて温まろうかな…でも、誰かと一緒にいたいなぁ。明日も仕事頑張るけど、ちょっと寂しいよ…😢",
       "slot": "goodnight",
@@ -37,32 +43,28 @@
       "slot": "goodnight",
       "timestamp": "2026-02-01 23:20:57",
       "hasImage": false
-    },
-    {
-      "text": "今日も不在票が多かったなぁ…。昼ごはんを食べる時間もなかったけど、誰かと一緒なら、少しは寂しくないのに。夜のネオンの下、温もりが恋しいよ。💔✨",
-      "slot": "night_ero",
-      "timestamp": "2026-02-01 21:38:10",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "delivery",
-    "delivery",
-    "commute",
-    "night_ero",
-    "goodnight"
+    "casual"
   ],
-  "today_post_count": 5,
-  "today_goodnight_posted": true,
-  "month_total_posts": 12,
+  "today_post_count": 1,
+  "today_goodnight_posted": false,
+  "month_total_posts": 13,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-02-02",
-  "last_post_time": "23:48:51",
+  "last_post_date": "2026-02-03",
+  "last_post_time": "13:57:33",
   "ng_retry_count": 4,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-02-02 23:48:51",
+  "updated_at": "2026-02-03 13:57:33",
   "month_string": "2026-02",
-  "today_skipped": false
+  "today_skipped": false,
+  "today_simple_goodnight_posted": false,
+  "today_morning_posted": false,
+  "today_skip_count": 0,
+  "today_max_posts": 15,
+  "today_narrative": "天気いいけど、寒さが身にしみる…手がかじ…",
+  "last_post_timestamp_ms": 1770094653016
 }
