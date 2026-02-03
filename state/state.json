@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 60,
+  "mood": "frustrated",
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "今日も寒すぎ…手、かじかむ…軽貨物ドライバー、思ったより過酷だな…143件終わってもまだ残ってるし、気分も下がる一方…誰か温かいもの、一緒に飲みたいな…",
+      "slot": "commute",
+      "timestamp": "2026-02-04 08:18:09",
+      "hasImage": false
+    },
     {
       "text": "目が覚めたけどまだ眠い…",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "casual",
       "timestamp": "2026-02-03 19:19:39",
       "hasImage": false
-    },
-    {
-      "text": "快晴だけど、やっぱりこの寒さは辛いなぁ…手がかじかんで運転しづらい😓配達先で温かい飲み物でもくれたら、嬉しいけどなぁ！残り28件、どんだけ不在票に当たるんだよ…😩",
-      "slot": "delivery",
-      "timestamp": "2026-02-03 17:52:33",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
-    "morning"
+    "morning",
+    "commute"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 23,
+  "month_total_posts": 24,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-04",
-  "last_post_time": "07:12:22",
-  "ng_retry_count": 4,
+  "last_post_time": "08:18:09",
+  "ng_retry_count": 5,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-02-04 07:12:22",
+  "updated_at": "2026-02-04 08:18:09",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 9,
-  "today_narrative": "もう限界…おやすみ → 目が覚めたけどまだ眠い…",
-  "last_post_timestamp_ms": 1770156742528
+  "today_narrative": "もう限界…おやすみ → 目が覚めたけどまだ眠い… → 今日も寒すぎ…手、かじかむ…軽貨物ドライ…",
+  "last_post_timestamp_ms": 1770160689543
 }
