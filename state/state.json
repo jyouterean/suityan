@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 70,
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "目が覚めたけどまだ眠い…",
+      "slot": "morning",
+      "timestamp": "2026-02-04 07:12:22",
+      "hasImage": false
+    },
     {
       "text": "もう限界…おやすみ",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-02-03 17:52:33",
       "hasImage": false
-    },
-    {
-      "text": "配達終了まであと4件…でもまた不在票かよ…信号も全部赤でさ、イライラが募る…誰かに会いたいなぁ…甘い缶コーヒー飲んで少しリフレッシュしたい…冬はやっぱり温かいものが恋しい…",
-      "slot": "delivery",
-      "timestamp": "2026-02-03 16:42:30",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 22,
+  "month_total_posts": 23,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-04",
-  "last_post_time": "00:26:35",
+  "last_post_time": "07:12:22",
   "ng_retry_count": 4,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-02-04 00:26:35",
+  "updated_at": "2026-02-04 07:12:22",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 9,
-  "today_narrative": "もう限界…おやすみ",
-  "last_post_timestamp_ms": 1770132395338
+  "today_narrative": "もう限界…おやすみ → 目が覚めたけどまだ眠い…",
+  "last_post_timestamp_ms": 1770156742528
 }
