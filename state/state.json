@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "ほんと、寒さがじんわり…手がかじかんで、なんだか寂しいなぁ…😭外でマンションまわるのも辛いよね。早く温かい飲み物が欲しい…ねぇ、誰かそばにいてくれないかな…？",
+      "slot": "night_ero",
+      "timestamp": "2026-02-03 21:45:56",
+      "hasImage": false
+    },
+    {
       "text": "こんなに寒いのに、外に出ると手がかじかんでやだなぁ…暖かい飲み物が欲しいよぉ😣でも、まだ週の前半だし…なんだかもどかしい気持ちが消えない…あー、誰か暖めてほしい…",
       "slot": "casual",
       "timestamp": "2026-02-03 20:58:22",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-02-03 14:35:11",
       "hasImage": false
-    },
-    {
-      "text": "天気いいけど、寒さが身にしみる…手がかじかんで、温かい飲み物が恋しいなぁ。やっぱり冬は苦手…このままじゃ心まで冷えそうだよ…☕🌬️",
-      "slot": "casual",
-      "timestamp": "2026-02-03 13:57:33",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "delivery",
     "delivery",
     "casual",
-    "casual"
+    "casual",
+    "night_ero"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": false,
-  "month_total_posts": 19,
+  "month_total_posts": 20,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-03",
-  "last_post_time": "20:58:22",
+  "last_post_time": "21:45:56",
   "ng_retry_count": 4,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-02-03 20:58:22",
+  "updated_at": "2026-02-03 21:45:56",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": false,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "天気いいけど、寒さが身にしみる…手がかじ… → いや、やっぱり冬は温かい飲み物必須だね！… → もう少しで終わるのに、不在票ばっかりでム… → 配達終了まであと4件…でもまた不在票かよ… → 快晴だけど、やっぱりこの寒さは辛いなぁ…… → さっきの続きだけど、あーもう、ほんと寒い… → こんなに寒いのに、外に出ると手がかじかん…",
-  "last_post_timestamp_ms": 1770119902234
+  "today_narrative": "天気いいけど、寒さが身にしみる…手がかじ… → いや、やっぱり冬は温かい飲み物必須だね！… → もう少しで終わるのに、不在票ばっかりでム… → 配達終了まであと4件…でもまた不在票かよ… → 快晴だけど、やっぱりこの寒さは辛いなぁ…… → さっきの続きだけど、あーもう、ほんと寒い… → こんなに寒いのに、外に出ると手がかじかん… → ほんと、寒さがじんわり…手がかじかんで、…",
+  "last_post_timestamp_ms": 1770122756205
 }
