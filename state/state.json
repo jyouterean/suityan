@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "疲れた…路面凍ってるし、道が滑るから運転も気を使う…お客さんの笑顔でちょっと癒されるけど、やっぱり寒い…早く家に帰ってぬくぬくしたいなぁ…",
+      "slot": "delivery",
+      "timestamp": "2026-02-04 16:35:43",
+      "hasImage": false
+    },
+    {
       "text": "あー、ほんと寒い…びっくりするくらい手かじかむし、毎回階段上がるのしんどい…😩 でもさ、軽バン乗ってるときの妄想が楽しかったり…誰かに会いたいなぁ。今の配達件数、107件だけど、もっと頑張れそうなんかな…？",
       "slot": "delivery",
       "timestamp": "2026-02-04 15:24:53",
@@ -37,12 +43,6 @@
       "slot": "commute",
       "timestamp": "2026-02-04 08:18:09",
       "hasImage": false
-    },
-    {
-      "text": "目が覚めたけどまだ眠い…",
-      "slot": "morning",
-      "timestamp": "2026-02-04 07:12:22",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "casual",
     "casual",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": false,
-  "month_total_posts": 29,
+  "month_total_posts": 30,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-04",
-  "last_post_time": "15:24:53",
+  "last_post_time": "16:35:43",
   "ng_retry_count": 8,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-02-04 15:24:53",
+  "updated_at": "2026-02-04 16:35:43",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 9,
-  "today_narrative": "もう限界…おやすみ → 目が覚めたけどまだ眠い… → 今日も寒すぎ…手、かじかむ…軽貨物ドライ… → やっぱり寒い...配達ルートが長すぎて、… → あー、もう限界…おやすみって言っても、寒… → さっきの寒さのせいで、お仕事もだるい…も… → 配達中にお客さんに笑顔で褒められたりする… → あー、ほんと寒い…びっくりするくらい手か…",
-  "last_post_timestamp_ms": 1770186293129
+  "today_narrative": "もう限界…おやすみ → 目が覚めたけどまだ眠い… → 今日も寒すぎ…手、かじかむ…軽貨物ドライ… → やっぱり寒い...配達ルートが長すぎて、… → あー、もう限界…おやすみって言っても、寒… → さっきの寒さのせいで、お仕事もだるい…も… → 配達中にお客さんに笑顔で褒められたりする… → あー、ほんと寒い…びっくりするくらい手か… → 疲れた…路面凍ってるし、道が滑るから運転…",
+  "last_post_timestamp_ms": 1770190543465
 }
