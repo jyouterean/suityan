@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 60,
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "また寒い…手がかじかむ…あったかい飲み物欲しいなぁ。コンビニで何か買おうかな。行きたくないけど…あ〜だる…⛄☕",
+      "slot": "casual",
+      "timestamp": "2026-02-05 08:13:27",
+      "hasImage": false
+    },
     {
       "text": "ふぁ…おはな…ねむ",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "casual",
       "timestamp": "2026-02-04 13:53:05",
       "hasImage": false
-    },
-    {
-      "text": "あー、もう限界…おやすみって言っても、寒さで全然眠れない…このままだと、ほんとただの氷になっちゃうよ…😩☃️",
-      "slot": "casual",
-      "timestamp": "2026-02-04 12:41:15",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
-    "morning"
+    "morning",
+    "casual"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 32,
+  "month_total_posts": 33,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-05",
-  "last_post_time": "07:10:32",
+  "last_post_time": "08:13:27",
   "ng_retry_count": 8,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-02-05 07:10:32",
+  "updated_at": "2026-02-05 08:13:27",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 10,
-  "today_narrative": "さっきの続きだけど…やっぱり家に帰ったら… → ふぁ…おはな…ねむ",
-  "last_post_timestamp_ms": 1770243032256
+  "today_narrative": "さっきの続きだけど…やっぱり家に帰ったら… → ふぁ…おはな…ねむ → また寒い…手がかじかむ…あったかい飲み物…",
+  "last_post_timestamp_ms": 1770246807027
 }
