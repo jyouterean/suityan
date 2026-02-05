@@ -1,7 +1,13 @@
 {
   "mood": "lonely",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "寒い…手もかじかむし、再配達の残りも7件。家までの道、一人だと虚しいよね…誰かと帰りたいなぁ…（自分で言ってて悲しくなった）冬の夕焼けを見ながら、週末の開放感が待ち遠しい…",
+      "slot": "commute",
+      "timestamp": "2026-02-06 08:58:45",
+      "hasImage": false
+    },
     {
       "text": "軽バンの運転中、外は快晴なのに心は曇り…誰か一緒に帰ってくれないかなぁ…寒さが身に染みる…温かい飲み物飲みたい…まだお別れしたくないな、明日も頑張れる気がしない…",
       "slot": "commute",
@@ -37,36 +43,31 @@
       "slot": "delivery",
       "timestamp": "2026-02-05 14:53:12",
       "hasImage": false
-    },
-    {
-      "text": "さっきの話だけど…あたたかい飲み物飲みたいなぁ…いれたてのコーヒーとか、今の季節にぴったり…でも外は寒いし、帰ったらぬくぬくしたい…それだけでいいのになぁ…😔☕",
-      "slot": "casual",
-      "timestamp": "2026-02-05 13:42:30",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
     "morning",
+    "commute",
     "commute"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": false,
-  "month_total_posts": 43,
+  "month_total_posts": 44,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-06",
-  "last_post_time": "08:03:41",
+  "last_post_time": "08:58:45",
   "ng_retry_count": 11,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-02-06 08:03:41",
+  "updated_at": "2026-02-06 08:58:45",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "もうおやすみ…限界だ → うぅ…まだ夢の中… → 軽バンの運転中、外は快晴なのに心は曇り……",
-  "last_post_timestamp_ms": 1770332621887
+  "today_narrative": "もうおやすみ…限界だ → うぅ…まだ夢の中… → 軽バンの運転中、外は快晴なのに心は曇り…… → 寒い…手もかじかむし、再配達の残りも7件…",
+  "last_post_timestamp_ms": 1770335925246
 }
