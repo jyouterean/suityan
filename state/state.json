@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "さっきの続きだけど…あー、同じマンション3回目はきつい…なんかもう、疲れた…手冷たいし、あったかいの飲みたい…帰ったら、誰かに褒めてほしいなぁ…",
+      "slot": "delivery",
+      "timestamp": "2026-02-05 15:47:23",
+      "hasImage": false
+    },
+    {
       "text": "さっきの話だけど…また寒いなぁ…てか、あったかい飲み物ほしいよ…はいたつ中、手がかじかんじゃって…😩うまくいかない配達ばっかりで、誰かに会いたいなぁ…",
       "slot": "delivery",
       "timestamp": "2026-02-05 14:53:12",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-02-05 08:13:27",
       "hasImage": false
-    },
-    {
-      "text": "ふぁ…おはな…ねむ",
-      "slot": "morning",
-      "timestamp": "2026-02-05 07:10:32",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "casual",
     "casual",
     "casual",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": false,
-  "month_total_posts": 38,
+  "month_total_posts": 39,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-05",
-  "last_post_time": "14:53:12",
+  "last_post_time": "15:47:23",
   "ng_retry_count": 10,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-02-05 14:53:12",
+  "updated_at": "2026-02-05 15:47:23",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 10,
-  "today_narrative": "さっきの続きだけど…やっぱり家に帰ったら… → ふぁ…おはな…ねむ → また寒い…手がかじかむ…あったかい飲み物… → なんか違うな…うまくいかない配達ばっかり… → さっきの話だけど…まだ寒いなぁ、手が冷た… → さっきの続きだけど…帰ったらぬくぬくした… → さっきの話だけど…あたたかい飲み物飲みた… → さっきの話だけど…また寒いなぁ…てか、あ…",
-  "last_post_timestamp_ms": 1770270792347
+  "today_narrative": "さっきの続きだけど…やっぱり家に帰ったら… → ふぁ…おはな…ねむ → また寒い…手がかじかむ…あったかい飲み物… → なんか違うな…うまくいかない配達ばっかり… → さっきの話だけど…まだ寒いなぁ、手が冷た… → さっきの続きだけど…帰ったらぬくぬくした… → さっきの話だけど…あたたかい飲み物飲みた… → さっきの話だけど…また寒いなぁ…てか、あ… → さっきの続きだけど…あー、同じマンション…",
+  "last_post_timestamp_ms": 1770274043460
 }
