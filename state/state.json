@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 10,
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "もうおやすみ…限界だ",
+      "slot": "simple_goodnight",
+      "timestamp": "2026-02-06 00:39:42",
+      "hasImage": false
+    },
     {
       "text": "さっきの続きだけど…やっぱり家帰ったら、ぬくぬくしたいな…配達先でいろんなお客さんに会って、ちょっとふれあうのは嬉しいけど…やっぱり寒いよね…😩手が冷たい…温かい飲み物が欲しいな…",
       "slot": "delivery",
@@ -37,43 +43,28 @@
       "slot": "casual",
       "timestamp": "2026-02-05 12:24:38",
       "hasImage": false
-    },
-    {
-      "text": "なんか違うな…うまくいかない配達ばっかりなのに、誰かに会いたい… 76件も終わっても、まだ16件残ってる…だるい。寒いし…温かい飲み物飲みたい。あったかいお店でも寄れたらいいな💭",
-      "slot": "delivery",
-      "timestamp": "2026-02-05 09:15:17",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight",
-    "morning",
-    "casual",
-    "delivery",
-    "casual",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery"
+    "simple_goodnight"
   ],
-  "today_post_count": 10,
+  "today_post_count": 1,
   "today_goodnight_posted": false,
-  "month_total_posts": 40,
+  "month_total_posts": 41,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-02-05",
-  "last_post_time": "16:39:18",
+  "last_post_date": "2026-02-06",
+  "last_post_time": "00:39:42",
   "ng_retry_count": 11,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-02-05 16:39:18",
+  "updated_at": "2026-02-06 00:39:42",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": true,
+  "today_morning_posted": false,
   "today_skip_count": 0,
-  "today_max_posts": 10,
-  "today_narrative": "さっきの続きだけど…やっぱり家に帰ったら… → ふぁ…おはな…ねむ → また寒い…手がかじかむ…あったかい飲み物… → なんか違うな…うまくいかない配達ばっかり… → さっきの話だけど…まだ寒いなぁ、手が冷た… → さっきの続きだけど…帰ったらぬくぬくした… → さっきの話だけど…あたたかい飲み物飲みた… → さっきの話だけど…また寒いなぁ…てか、あ… → さっきの続きだけど…あー、同じマンション… → さっきの続きだけど…やっぱり家帰ったら、…",
-  "last_post_timestamp_ms": 1770277158196
+  "today_max_posts": 15,
+  "today_narrative": "もうおやすみ…限界だ",
+  "last_post_timestamp_ms": 1770305982495
 }
