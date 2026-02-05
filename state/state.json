@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 70,
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "うぅ…まだ夢の中…",
+      "slot": "morning",
+      "timestamp": "2026-02-06 06:41:28",
+      "hasImage": false
+    },
     {
       "text": "もうおやすみ…限界だ",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "casual",
       "timestamp": "2026-02-05 12:59:29",
       "hasImage": false
-    },
-    {
-      "text": "さっきの話だけど…まだ寒いなぁ、手が冷たい…☃️あったかいお茶とか、ほっとする飲み物が恋しい。家に帰ったら、ゆっくりしたいな。なんか、心も体も疲れちゃった。こんな日は、温かいものが一番だよね～。",
-      "slot": "casual",
-      "timestamp": "2026-02-05 12:24:38",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 41,
+  "month_total_posts": 42,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-06",
-  "last_post_time": "00:39:42",
+  "last_post_time": "06:41:28",
   "ng_retry_count": 11,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-02-06 00:39:42",
+  "updated_at": "2026-02-06 06:41:28",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "もうおやすみ…限界だ",
-  "last_post_timestamp_ms": 1770305982495
+  "today_narrative": "もうおやすみ…限界だ → うぅ…まだ夢の中…",
+  "last_post_timestamp_ms": 1770327688374
 }
