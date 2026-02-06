@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 70,
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "もう目閉じてるのに…夢の中でも仕事してる気がする…むり…😴💤",
+      "slot": "morning",
+      "timestamp": "2026-02-07 06:50:16",
+      "hasImage": false
+    },
     {
       "text": "もう目閉じる…おやすみなさい",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "commute",
       "timestamp": "2026-02-06 18:16:38",
       "hasImage": false
-    },
-    {
-      "text": "外見晴れなのにさ、心はどんより…。お客さんもさ、冷たいし。配達も手がかじかんで、あーまあ時指定だけどさ…もうただ帰りたい…（…いま何時だ）",
-      "slot": "delivery",
-      "timestamp": "2026-02-06 16:45:11",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 56,
+  "month_total_posts": 57,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-07",
-  "last_post_time": "00:25:40",
+  "last_post_time": "06:50:16",
   "ng_retry_count": 12,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-02-07 00:25:40",
+  "updated_at": "2026-02-07 06:50:16",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もう目閉じる…おやすみなさい",
-  "last_post_timestamp_ms": 1770391540308
+  "today_narrative": "もう目閉じる…おやすみなさい → もう目閉じてるのに…夢の中でも仕事してる…",
+  "last_post_timestamp_ms": 1770414616607
 }
