@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "外見晴れなのにさ、心はどんより…。お客さんもさ、冷たいし。配達も手がかじかんで、あーまあ時指定だけどさ…もうただ帰りたい…（…いま何時だ）",
+      "slot": "delivery",
+      "timestamp": "2026-02-06 16:45:11",
+      "hasImage": false
+    },
+    {
       "text": "再配達の残り、まだ7件…あーもうしんど…外は快晴なのに心は曇り…誰かに会いたいなぁ、褒めてほしい…エナドリ飲みたい…手もかじかむし、寒すぎる…🍜",
       "slot": "delivery",
       "timestamp": "2026-02-06 15:23:23",
@@ -37,12 +43,6 @@
       "slot": "commute",
       "timestamp": "2026-02-06 08:58:45",
       "hasImage": false
-    },
-    {
-      "text": "軽バンの運転中、外は快晴なのに心は曇り…誰か一緒に帰ってくれないかなぁ…寒さが身に染みる…温かい飲み物飲みたい…まだお別れしたくないな、明日も頑張れる気がしない…",
-      "slot": "commute",
-      "timestamp": "2026-02-06 08:03:41",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -54,25 +54,26 @@
     "casual",
     "casual",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 9,
+  "today_post_count": 10,
   "today_goodnight_posted": false,
-  "month_total_posts": 49,
+  "month_total_posts": 50,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-06",
-  "last_post_time": "15:23:23",
+  "last_post_time": "16:45:11",
   "ng_retry_count": 11,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-02-06 15:23:23",
+  "updated_at": "2026-02-06 16:45:11",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "もうおやすみ…限界だ → うぅ…まだ夢の中… → 軽バンの運転中、外は快晴なのに心は曇り…… → 寒い…手もかじかむし、再配達の残りも7件… → お腹すいた…温かいもの食べたいなぁ🍜平… → おやすみ…限界だ…zzz 夢の中に行きた… → おやすみ前にちょっと…ああ、もう金曜日な… → あぁ、もう寒い…手もかじかむし、マンショ… → 再配達の残り、まだ7件…あーもうしんど……",
-  "last_post_timestamp_ms": 1770359003739
+  "today_narrative": "もうおやすみ…限界だ → うぅ…まだ夢の中… → 軽バンの運転中、外は快晴なのに心は曇り…… → 寒い…手もかじかむし、再配達の残りも7件… → お腹すいた…温かいもの食べたいなぁ🍜平… → おやすみ…限界だ…zzz 夢の中に行きた… → おやすみ前にちょっと…ああ、もう金曜日な… → あぁ、もう寒い…手もかじかむし、マンショ… → 再配達の残り、まだ7件…あーもうしんど…… → 外見晴れなのにさ、心はどんより…。お客さ…",
+  "last_post_timestamp_ms": 1770363911867
 }
