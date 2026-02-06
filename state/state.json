@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 10,
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "もう目閉じる…おやすみなさい",
+      "slot": "simple_goodnight",
+      "timestamp": "2026-02-07 00:25:40",
+      "hasImage": false
+    },
     {
       "text": "外見晴れなのにさ、心はどんより…。今日もお届け完了してきたけど、あぁ…まだ再配達の残り7件…😩ほんと疲れたなぁ…もうおやすみしたい…ねぇ、温かいものでも食べたいなぁ🍜",
       "slot": "goodnight",
@@ -37,48 +43,28 @@
       "slot": "delivery",
       "timestamp": "2026-02-06 16:45:11",
       "hasImage": false
-    },
-    {
-      "text": "再配達の残り、まだ7件…あーもうしんど…外は快晴なのに心は曇り…誰かに会いたいなぁ、褒めてほしい…エナドリ飲みたい…手もかじかむし、寒すぎる…🍜",
-      "slot": "delivery",
-      "timestamp": "2026-02-06 15:23:23",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight",
-    "morning",
-    "commute",
-    "commute",
-    "casual",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery",
-    "commute",
-    "casual",
-    "casual",
-    "night_ero",
-    "goodnight"
+    "simple_goodnight"
   ],
-  "today_post_count": 15,
-  "today_goodnight_posted": true,
-  "month_total_posts": 55,
+  "today_post_count": 1,
+  "today_goodnight_posted": false,
+  "month_total_posts": 56,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-02-06",
-  "last_post_time": "23:29:43",
+  "last_post_date": "2026-02-07",
+  "last_post_time": "00:25:40",
   "ng_retry_count": 12,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-02-06 23:29:43",
+  "updated_at": "2026-02-07 00:25:40",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": true,
+  "today_morning_posted": false,
   "today_skip_count": 0,
-  "today_max_posts": 15,
-  "today_narrative": "もうおやすみ…限界だ → うぅ…まだ夢の中… → 軽バンの運転中、外は快晴なのに心は曇り…… → 寒い…手もかじかむし、再配達の残りも7件… → お腹すいた…温かいもの食べたいなぁ🍜平… → おやすみ…限界だ…zzz 夢の中に行きた… → おやすみ前にちょっと…ああ、もう金曜日な… → あぁ、もう寒い…手もかじかむし、マンショ… → 再配達の残り、まだ7件…あーもうしんど…… → 外見晴れなのにさ、心はどんより…。お客さ… → あー、ほんとに寒いなぁ…手がかじかんでう… → あー、今日もつかれたな…おなかすいてきた… → もうおやすみ…限界だねぇ…😴お腹すいて… → 寒い…手もかじかむし、置き配も残り7件…… → 外見晴れなのにさ、心はどんより…。今日も…",
-  "last_post_timestamp_ms": 1770388183589
+  "today_max_posts": 14,
+  "today_narrative": "もう目閉じる…おやすみなさい",
+  "last_post_timestamp_ms": 1770391540308
 }
