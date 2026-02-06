@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "寒い…手もかじかむし、置き配も残り7件…お腹すいたなぁ、温かいものでも食べたいよねぇ🍜ああ、もう夢の中に行きたぁい…でも金曜日だから少しだけワクワクするのも、ねぇ…",
+      "slot": "night_ero",
+      "timestamp": "2026-02-06 21:59:46",
+      "hasImage": false
+    },
+    {
       "text": "もうおやすみ…限界だねぇ…😴お腹すいてるけど、温かいものないし…金曜日なのに、心はどんよりしてるよ。あぁ、寒い…手もかじかんでるし、しんどいなぁ…。",
       "slot": "casual",
       "timestamp": "2026-02-06 20:57:25",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-02-06 14:40:25",
       "hasImage": false
-    },
-    {
-      "text": "おやすみ前にちょっと…ああ、もう金曜日なのに週末が待ち遠しい…！けどみんな遊んでるのに私は一人だし、なんだか気持ちがモヤモヤする…寒いのに心まで冷えちゃうよ…✨",
-      "slot": "casual",
-      "timestamp": "2026-02-06 13:57:18",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -58,25 +58,26 @@
     "delivery",
     "commute",
     "casual",
-    "casual"
+    "casual",
+    "night_ero"
   ],
-  "today_post_count": 13,
+  "today_post_count": 14,
   "today_goodnight_posted": false,
-  "month_total_posts": 53,
+  "month_total_posts": 54,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-06",
-  "last_post_time": "20:57:25",
+  "last_post_time": "21:59:46",
   "ng_retry_count": 12,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-02-06 20:57:25",
+  "updated_at": "2026-02-06 21:59:46",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "もうおやすみ…限界だ → うぅ…まだ夢の中… → 軽バンの運転中、外は快晴なのに心は曇り…… → 寒い…手もかじかむし、再配達の残りも7件… → お腹すいた…温かいもの食べたいなぁ🍜平… → おやすみ…限界だ…zzz 夢の中に行きた… → おやすみ前にちょっと…ああ、もう金曜日な… → あぁ、もう寒い…手もかじかむし、マンショ… → 再配達の残り、まだ7件…あーもうしんど…… → 外見晴れなのにさ、心はどんより…。お客さ… → あー、ほんとに寒いなぁ…手がかじかんでう… → あー、今日もつかれたな…おなかすいてきた… → もうおやすみ…限界だねぇ…😴お腹すいて…",
-  "last_post_timestamp_ms": 1770379045589
+  "today_narrative": "もうおやすみ…限界だ → うぅ…まだ夢の中… → 軽バンの運転中、外は快晴なのに心は曇り…… → 寒い…手もかじかむし、再配達の残りも7件… → お腹すいた…温かいもの食べたいなぁ🍜平… → おやすみ…限界だ…zzz 夢の中に行きた… → おやすみ前にちょっと…ああ、もう金曜日な… → あぁ、もう寒い…手もかじかむし、マンショ… → 再配達の残り、まだ7件…あーもうしんど…… → 外見晴れなのにさ、心はどんより…。お客さ… → あー、ほんとに寒いなぁ…手がかじかんでう… → あー、今日もつかれたな…おなかすいてきた… → もうおやすみ…限界だねぇ…😴お腹すいて… → 寒い…手もかじかむし、置き配も残り7件……",
+  "last_post_timestamp_ms": 1770382786998
 }
