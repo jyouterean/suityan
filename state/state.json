@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 60,
+  "mood": "lonely",
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "もう、手が冷たくて動かない…配達の合間に温かい飲み物が欲しい…お客さんには笑顔で接してるけど、心は寒いよ…このまま誰かに会いたい…褒めてほしい…",
+      "slot": "delivery",
+      "timestamp": "2026-02-07 07:48:37",
+      "hasImage": false
+    },
     {
       "text": "もう目閉じてるのに…夢の中でも仕事してる気がする…むり…😴💤",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "casual",
       "timestamp": "2026-02-06 19:07:26",
       "hasImage": false
-    },
-    {
-      "text": "あー、ほんとに寒いなぁ…手がかじかんでうまく動かない😩今日は残りの再配達が26件もあるのか…気が遠くなってくる。早く帰りたいなぁ…誰かと一緒にいたい…",
-      "slot": "commute",
-      "timestamp": "2026-02-06 18:16:38",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
-    "morning"
+    "morning",
+    "delivery"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 57,
+  "month_total_posts": 58,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-07",
-  "last_post_time": "06:50:16",
-  "ng_retry_count": 12,
+  "last_post_time": "07:48:37",
+  "ng_retry_count": 13,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-02-07 06:50:16",
+  "updated_at": "2026-02-07 07:48:37",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もう目閉じる…おやすみなさい → もう目閉じてるのに…夢の中でも仕事してる…",
-  "last_post_timestamp_ms": 1770414616607
+  "today_narrative": "もう目閉じる…おやすみなさい → もう目閉じてるのに…夢の中でも仕事してる… → もう、手が冷たくて動かない…配達の合間に…",
+  "last_post_timestamp_ms": 1770418117949
 }
