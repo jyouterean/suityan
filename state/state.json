@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 70,
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "あれ？もう朝なの…？",
+      "slot": "morning",
+      "timestamp": "2026-02-08 06:58:10",
+      "hasImage": false
+    },
     {
       "text": "すごく眠い…寝るんだ",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-02-07 16:08:35",
       "hasImage": false
-    },
-    {
-      "text": "あー、もうちょっと配達が残ってるのに…手がかじかんできてるし、誰かに会いたいな…なんか温かいもの飲みたいのに…（まあ届けるんだけどさ）",
-      "slot": "delivery",
-      "timestamp": "2026-02-07 15:18:09",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 70,
+  "month_total_posts": 71,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-08",
-  "last_post_time": "00:17:33",
+  "last_post_time": "06:58:10",
   "ng_retry_count": 14,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-02-08 00:17:33",
+  "updated_at": "2026-02-08 06:58:10",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "すごく眠い…寝るんだ",
-  "last_post_timestamp_ms": 1770477453137
+  "today_narrative": "すごく眠い…寝るんだ → あれ？もう朝なの…？",
+  "last_post_timestamp_ms": 1770501490816
 }
