@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 60,
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "さっきの朝なの…ってやつだけど、まだ寝たい…ねむ…。こんな時間に起きるとか正気かよ…😩",
+      "slot": "casual",
+      "timestamp": "2026-02-08 08:11:40",
+      "hasImage": false
+    },
     {
       "text": "あれ？もう朝なの…？",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "commute",
       "timestamp": "2026-02-07 18:08:57",
       "hasImage": false
-    },
-    {
-      "text": "さっきの配達先、すっごい綺麗なネコがいたんだ…思わず癒された。でも、今は寒くて手がかじかんでるし、ちょっとしんどい。あったかい飲み物が欲しいよ…😣💭",
-      "slot": "delivery",
-      "timestamp": "2026-02-07 16:08:35",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
-    "morning"
+    "morning",
+    "casual"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 71,
+  "month_total_posts": 72,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-08",
-  "last_post_time": "06:58:10",
+  "last_post_time": "08:11:40",
   "ng_retry_count": 14,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-02-08 06:58:10",
+  "updated_at": "2026-02-08 08:11:40",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "すごく眠い…寝るんだ → あれ？もう朝なの…？",
-  "last_post_timestamp_ms": 1770501490816
+  "today_narrative": "すごく眠い…寝るんだ → あれ？もう朝なの…？ → さっきの朝なの…ってやつだけど、まだ寝た…",
+  "last_post_timestamp_ms": 1770505900234
 }
