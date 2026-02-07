@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "もう手が冷たすぎてどうにもならん…あったかいの飲みたいなぁ☕でも、うちの近くにコンビニないし…そういえば、さっきの配達先で見たネコ、すごく可愛かったな…そのことしか考えられん…😔",
+      "slot": "casual",
+      "timestamp": "2026-02-07 19:06:23",
+      "hasImage": false
+    },
+    {
       "text": "あーもう、寒くて手が動かないし…配達中の体力ほぼゼロだよ😩",
       "slot": "commute",
       "timestamp": "2026-02-07 18:08:57",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-02-07 12:52:47",
       "hasImage": false
-    },
-    {
-      "text": "そういえば、今日の配達先、すっごい綺麗なカフェだった✨ ちょっと寄りたい気持ちを抑えて、頑張るしかないか…。お客さんに喜んでもらえるのが一番だよな！",
-      "slot": "casual",
-      "timestamp": "2026-02-07 12:18:05",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "commute"
+    "commute",
+    "casual"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": false,
-  "month_total_posts": 66,
+  "month_total_posts": 67,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-07",
-  "last_post_time": "18:08:57",
+  "last_post_time": "19:06:23",
   "ng_retry_count": 14,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-02-07 18:08:57",
+  "updated_at": "2026-02-07 19:06:23",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もう目閉じる…おやすみなさい → もう目閉じてるのに…夢の中でも仕事してる… → もう、手が冷たくて動かない…配達の合間に… → てか、今も寒いし…なんか温かいの飲みたい… → そういえば、今日の配達先、すっごい綺麗な… → もう目閉じてるのに…夢の中でも仕事してる… → 手がかじかむから、あったかい飲み物が欲し… → もう手のひら冷たくて動かない…軽バンの中… → あー、もうちょっと配達が残ってるのに…手… → さっきの配達先、すっごい綺麗なネコがいた… → あーもう、寒くて手が動かないし…配達中の…",
-  "last_post_timestamp_ms": 1770455337808
+  "today_narrative": "もう目閉じる…おやすみなさい → もう目閉じてるのに…夢の中でも仕事してる… → もう、手が冷たくて動かない…配達の合間に… → てか、今も寒いし…なんか温かいの飲みたい… → そういえば、今日の配達先、すっごい綺麗な… → もう目閉じてるのに…夢の中でも仕事してる… → 手がかじかむから、あったかい飲み物が欲し… → もう手のひら冷たくて動かない…軽バンの中… → あー、もうちょっと配達が残ってるのに…手… → さっきの配達先、すっごい綺麗なネコがいた… → あーもう、寒くて手が動かないし…配達中の… → もう手が冷たすぎてどうにもならん…あった…",
+  "last_post_timestamp_ms": 1770458783107
 }
