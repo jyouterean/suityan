@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あー、もうちょっと配達が残ってるのに…手がかじかんできてるし、誰かに会いたいな…なんか温かいもの飲みたいのに…（まあ届けるんだけどさ）",
+      "slot": "delivery",
+      "timestamp": "2026-02-07 15:18:09",
+      "hasImage": false
+    },
+    {
       "text": "もう手のひら冷たくて動かない…軽バンの中であったかいものが恋しい。寒いからか、お客さんも優しくて、「頑張ってね」って言われるとちょっと嬉しい…誰かに会いたいなぁ、あたたかい飲み物でも飲みながら、話したい…（は？）",
       "slot": "delivery",
       "timestamp": "2026-02-07 14:37:57",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-02-07 07:48:37",
       "hasImage": false
-    },
-    {
-      "text": "もう目閉じてるのに…夢の中でも仕事してる気がする…むり…😴💤",
-      "slot": "morning",
-      "timestamp": "2026-02-07 06:50:16",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "casual",
     "casual",
     "casual",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": false,
-  "month_total_posts": 63,
+  "month_total_posts": 64,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-07",
-  "last_post_time": "14:37:57",
+  "last_post_time": "15:18:09",
   "ng_retry_count": 14,
   "fallback_used_count": 0,
   "created_at": null,
-  "updated_at": "2026-02-07 14:37:57",
+  "updated_at": "2026-02-07 15:18:09",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もう目閉じる…おやすみなさい → もう目閉じてるのに…夢の中でも仕事してる… → もう、手が冷たくて動かない…配達の合間に… → てか、今も寒いし…なんか温かいの飲みたい… → そういえば、今日の配達先、すっごい綺麗な… → もう目閉じてるのに…夢の中でも仕事してる… → 手がかじかむから、あったかい飲み物が欲し… → もう手のひら冷たくて動かない…軽バンの中…",
-  "last_post_timestamp_ms": 1770442677428
+  "today_narrative": "もう目閉じる…おやすみなさい → もう目閉じてるのに…夢の中でも仕事してる… → もう、手が冷たくて動かない…配達の合間に… → てか、今も寒いし…なんか温かいの飲みたい… → そういえば、今日の配達先、すっごい綺麗な… → もう目閉じてるのに…夢の中でも仕事してる… → 手がかじかむから、あったかい飲み物が欲し… → もう手のひら冷たくて動かない…軽バンの中… → あー、もうちょっと配達が残ってるのに…手…",
+  "last_post_timestamp_ms": 1770445089980
 }
