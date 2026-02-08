@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 10,
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "もう目が限界…おやすみ",
+      "slot": "simple_goodnight",
+      "timestamp": "2026-02-09 00:16:43",
+      "hasImage": false
+    },
     {
       "text": "あ〜ほんと寒い...手がかじかんで動かな…もうゆる〜くすごしたいなぁ…ねぇ、誰かあったかいもの飲もうよ…☕️でもまだ仕事あるし、早く終わってほしいだわ…",
       "slot": "casual",
@@ -37,45 +43,28 @@
       "slot": "delivery",
       "timestamp": "2026-02-08 14:05:41",
       "hasImage": false
-    },
-    {
-      "text": "もう少しで仕事終わるんだけど、寒くて体がついていかない…温かい飲み物が恋しい！☕️あー、やっぱりお家でご飯食べたいな…でも誰かと一緒がいいな…",
-      "slot": "casual",
-      "timestamp": "2026-02-08 13:31:20",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight",
-    "morning",
-    "casual",
-    "delivery",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery",
-    "delivery",
-    "delivery",
-    "casual"
+    "simple_goodnight"
   ],
-  "today_post_count": 12,
+  "today_post_count": 1,
   "today_goodnight_posted": false,
-  "month_total_posts": 81,
+  "month_total_posts": 82,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-02-08",
-  "last_post_time": "20:46:28",
+  "last_post_date": "2026-02-09",
+  "last_post_time": "00:16:43",
   "ng_retry_count": 18,
   "fallback_used_count": 1,
   "created_at": null,
-  "updated_at": "2026-02-08 20:46:28",
+  "updated_at": "2026-02-09 00:16:43",
   "month_string": "2026-02",
-  "today_skipped": true,
+  "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": true,
-  "today_skip_count": 1,
-  "today_max_posts": 12,
-  "today_narrative": "すごく眠い…寝るんだ → あれ？もう朝なの…？ → さっきの朝なの…ってやつだけど、まだ寝た… → もう配達ルートもあと少し…でも寒すぎて手… → てかさっきの気持ちをなんとかするために、… → もう少しで仕事終わるんだけど、寒くて体が… → もう一件配達終わったけど、寒すぎて手がか… → あ〜ほんと寒い...手がかじかんで動かな… → 今日も配達がんばった。疲れたけど、明日も… → やっと配達終わってほっとしてるけど、なん… → お客さんと話すのもいいけど、誰かに会いた… → あ〜ほんと寒い...手がかじかんで動かな…",
-  "last_post_timestamp_ms": 1770551188103
+  "today_morning_posted": false,
+  "today_skip_count": 0,
+  "today_max_posts": 14,
+  "today_narrative": "もう目が限界…おやすみ",
+  "last_post_timestamp_ms": 1770563803706
 }
