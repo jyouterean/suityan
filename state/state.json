@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 70,
+  "mood": "tired",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "あさ…また寝たい😪",
+      "slot": "morning",
+      "timestamp": "2026-02-10 07:02:05",
+      "hasImage": false
+    },
     {
       "text": "おやすみ…ねぇ、ほんとに疲れたなぁ。エレベーターなしで階段3Fとか…やっぱりしんどいよね。まだ週の前半なのに、残り29件もあるし…温かい飲み物飲んで、あったかくして寝たいなぁ。",
       "slot": "goodnight",
@@ -37,34 +43,29 @@
       "slot": "commute",
       "timestamp": "2026-02-09 18:20:35",
       "hasImage": false
-    },
-    {
-      "text": "あー、もう目が限界…。つかれたー💦これからまた配達、がんばれるかな…まじで寒くて手がかじかむ…温かい飲み物飲みたいよー！そんで、誰かに会いたいな…",
-      "slot": "delivery",
-      "timestamp": "2026-02-09 16:38:59",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight"
+    "goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": true,
-  "month_total_posts": 96,
+  "month_total_posts": 97,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-10",
-  "last_post_time": "00:49:37",
+  "last_post_time": "07:02:05",
   "ng_retry_count": 22,
   "fallback_used_count": 1,
   "created_at": null,
-  "updated_at": "2026-02-10 00:49:37",
+  "updated_at": "2026-02-10 07:02:05",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 10,
-  "today_narrative": "おやすみ…ねぇ、ほんとに疲れたなぁ。エレ…",
-  "last_post_timestamp_ms": 1770652177330
+  "today_narrative": "おやすみ…ねぇ、ほんとに疲れたなぁ。エレ… → あさ…また寝たい😪",
+  "last_post_timestamp_ms": 1770674525370
 }
