@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あー、もう目が限界…。つかれたー💦これからまた配達、がんばれるかな…まじで寒くて手がかじかむ…温かい飲み物飲みたいよー！そんで、誰かに会いたいな…",
+      "slot": "delivery",
+      "timestamp": "2026-02-09 16:38:59",
+      "hasImage": false
+    },
+    {
       "text": "あー、さっき重たい荷物持ってマンションの階段上がったのが響いてる…ほんとしんどい…😩手が冷たくて動かないよ。こんな日は誰かに褒められたいなって…思うけど、知らんけど。",
       "slot": "delivery",
       "timestamp": "2026-02-09 15:48:08",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-02-09 08:13:54",
       "hasImage": false
-    },
-    {
-      "text": "あさ、眠い…今日もつかれそーだわ",
-      "slot": "morning",
-      "timestamp": "2026-02-09 07:03:07",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "casual",
     "delivery",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": false,
-  "month_total_posts": 89,
+  "month_total_posts": 90,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-09",
-  "last_post_time": "15:48:08",
-  "ng_retry_count": 20,
+  "last_post_time": "16:38:59",
+  "ng_retry_count": 21,
   "fallback_used_count": 1,
   "created_at": null,
-  "updated_at": "2026-02-09 15:48:08",
+  "updated_at": "2026-02-09 16:38:59",
   "month_string": "2026-02",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "もう目が限界…おやすみ → あさ、眠い…今日もつかれそーだわ → ほんと寒い…温かい飲み物飲みたいのに手が… → あー、寒すぎる…🚚一軒家の配達、手がか… → あー、気づいたらこんな時間…もう目が限界… → ふぅ、また階段…13Fは辛いわ…お客さん… → ほんと寒い…積み込み終わって、さっきは待… → あー、さっき重たい荷物持ってマンションの…",
-  "last_post_timestamp_ms": 1770619688554
+  "today_narrative": "もう目が限界…おやすみ → あさ、眠い…今日もつかれそーだわ → ほんと寒い…温かい飲み物飲みたいのに手が… → あー、寒すぎる…🚚一軒家の配達、手がか… → あー、気づいたらこんな時間…もう目が限界… → ふぅ、また階段…13Fは辛いわ…お客さん… → ほんと寒い…積み込み終わって、さっきは待… → あー、さっき重たい荷物持ってマンションの… → あー、もう目が限界…。つかれたー💦これ…",
+  "last_post_timestamp_ms": 1770622739645
 }
