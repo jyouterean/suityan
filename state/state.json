@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 50,
+  "mood": "lonely",
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "あー、寒すぎる…🚚一軒家の配達、手がかじかむ…💦誰かに会いたいなぁ、ちょっと褒めてほしい…今日の配達も残り21件。早く終わらせたい。",
+      "slot": "delivery",
+      "timestamp": "2026-02-09 09:16:12",
+      "hasImage": false
+    },
     {
       "text": "ほんと寒い…温かい飲み物飲みたいのに手がかじかんで動かない…やる気も出ないし、月曜だし、ますますだるいな…☕❄️",
       "slot": "casual",
@@ -37,36 +43,31 @@
       "slot": "delivery",
       "timestamp": "2026-02-08 16:22:51",
       "hasImage": false
-    },
-    {
-      "text": "今日も配達がんばった。疲れたけど、明日もがんばる",
-      "slot": "delivery",
-      "timestamp": "2026-02-08 15:11:34",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
     "morning",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": false,
-  "month_total_posts": 84,
+  "month_total_posts": 85,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-09",
-  "last_post_time": "08:13:54",
+  "last_post_time": "09:16:12",
   "ng_retry_count": 18,
   "fallback_used_count": 1,
   "created_at": null,
-  "updated_at": "2026-02-09 08:13:54",
+  "updated_at": "2026-02-09 09:16:12",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もう目が限界…おやすみ → あさ、眠い…今日もつかれそーだわ → ほんと寒い…温かい飲み物飲みたいのに手が…",
-  "last_post_timestamp_ms": 1770592434334
+  "today_narrative": "もう目が限界…おやすみ → あさ、眠い…今日もつかれそーだわ → ほんと寒い…温かい飲み物飲みたいのに手が… → あー、寒すぎる…🚚一軒家の配達、手がか…",
+  "last_post_timestamp_ms": 1770596172350
 }
