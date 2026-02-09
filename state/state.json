@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "さっきの話だけど、ほんとさ、あったかい飲み物がほしい…☕️手がかじかむし、もうだめかも。月曜はつらいなぁ…",
+      "slot": "casual",
+      "timestamp": "2026-02-09 20:47:05",
+      "hasImage": false
+    },
+    {
       "text": "ほんと寒い…手がかじかむし、もうあたたかい飲み物欲しいな…☕さっきから考えてるのに、まったく買えない…また階段登るのか…あー、たるい…もう、こんな時間…💦",
       "slot": "casual",
       "timestamp": "2026-02-09 19:49:00",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-02-09 14:15:51",
       "hasImage": false
-    },
-    {
-      "text": "あー、気づいたらこんな時間…もう目が限界だわ😩。明日も早起きだし、早めに寝るしかないよね。なんか、誰かにおやすみって言ってもらいたい気分…",
-      "slot": "casual",
-      "timestamp": "2026-02-09 13:04:21",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "delivery",
     "commute",
+    "casual",
     "casual"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": false,
-  "month_total_posts": 92,
+  "month_total_posts": 93,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-09",
-  "last_post_time": "19:49:00",
+  "last_post_time": "20:47:05",
   "ng_retry_count": 21,
   "fallback_used_count": 1,
   "created_at": null,
-  "updated_at": "2026-02-09 19:49:00",
+  "updated_at": "2026-02-09 20:47:05",
   "month_string": "2026-02",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "もう目が限界…おやすみ → あさ、眠い…今日もつかれそーだわ → ほんと寒い…温かい飲み物飲みたいのに手が… → あー、寒すぎる…🚚一軒家の配達、手がか… → あー、気づいたらこんな時間…もう目が限界… → ふぅ、また階段…13Fは辛いわ…お客さん… → ほんと寒い…積み込み終わって、さっきは待… → あー、さっき重たい荷物持ってマンションの… → あー、もう目が限界…。つかれたー💦これ… → あー、もう一人で帰るのつらいな…。さっき… → ほんと寒い…手がかじかむし、もうあたたか…",
-  "last_post_timestamp_ms": 1770634140456
+  "today_narrative": "もう目が限界…おやすみ → あさ、眠い…今日もつかれそーだわ → ほんと寒い…温かい飲み物飲みたいのに手が… → あー、寒すぎる…🚚一軒家の配達、手がか… → あー、気づいたらこんな時間…もう目が限界… → ふぅ、また階段…13Fは辛いわ…お客さん… → ほんと寒い…積み込み終わって、さっきは待… → あー、さっき重たい荷物持ってマンションの… → あー、もう目が限界…。つかれたー💦これ… → あー、もう一人で帰るのつらいな…。さっき… → ほんと寒い…手がかじかむし、もうあたたか… → さっきの話だけど、ほんとさ、あったかい飲…",
+  "last_post_timestamp_ms": 1770637625488
 }
