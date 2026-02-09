@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あー、もう目が限界…。つかれたー💦これ…23件残ってるのに、まだまだ配達あるし…さっきエレベーター故障して、階段つらかった…もうすぐおやすみ…ねぇ、誰かかまって…",
+      "slot": "goodnight",
+      "timestamp": "2026-02-09 23:53:38",
+      "hasImage": false
+    },
+    {
       "text": "もうほんとに寒すぎる…手がかじかんで運転もつらいし、不在票ばっか見てると虚しいし…😢あったかい飲み物、誰か一緒に飲んでくれたらいいのに…ねぇ、さみしいよ…",
       "slot": "night_ero",
       "timestamp": "2026-02-09 22:09:01",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-02-09 15:48:08",
       "hasImage": false
-    },
-    {
-      "text": "ほんと寒い…積み込み終わって、さっきは待ってる間にカラダが冷えた…温かいもの飲みたいなぁ…その前に渋滞にはまってるし…あー、誰かに会いたい…褒めてもらいたい…",
-      "slot": "delivery",
-      "timestamp": "2026-02-09 14:52:53",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -58,25 +58,26 @@
     "commute",
     "casual",
     "casual",
-    "night_ero"
+    "night_ero",
+    "goodnight"
   ],
-  "today_post_count": 13,
-  "today_goodnight_posted": false,
-  "month_total_posts": 94,
+  "today_post_count": 14,
+  "today_goodnight_posted": true,
+  "month_total_posts": 95,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-09",
-  "last_post_time": "22:09:01",
+  "last_post_time": "23:53:38",
   "ng_retry_count": 22,
   "fallback_used_count": 1,
   "created_at": null,
-  "updated_at": "2026-02-09 22:09:01",
+  "updated_at": "2026-02-09 23:53:38",
   "month_string": "2026-02",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "もう目が限界…おやすみ → あさ、眠い…今日もつかれそーだわ → ほんと寒い…温かい飲み物飲みたいのに手が… → あー、寒すぎる…🚚一軒家の配達、手がか… → あー、気づいたらこんな時間…もう目が限界… → ふぅ、また階段…13Fは辛いわ…お客さん… → ほんと寒い…積み込み終わって、さっきは待… → あー、さっき重たい荷物持ってマンションの… → あー、もう目が限界…。つかれたー💦これ… → あー、もう一人で帰るのつらいな…。さっき… → ほんと寒い…手がかじかむし、もうあたたか… → さっきの話だけど、ほんとさ、あったかい飲… → もうほんとに寒すぎる…手がかじかんで運転…",
-  "last_post_timestamp_ms": 1770642541722
+  "today_narrative": "もう目が限界…おやすみ → あさ、眠い…今日もつかれそーだわ → ほんと寒い…温かい飲み物飲みたいのに手が… → あー、寒すぎる…🚚一軒家の配達、手がか… → あー、気づいたらこんな時間…もう目が限界… → ふぅ、また階段…13Fは辛いわ…お客さん… → ほんと寒い…積み込み終わって、さっきは待… → あー、さっき重たい荷物持ってマンションの… → あー、もう目が限界…。つかれたー💦これ… → あー、もう一人で帰るのつらいな…。さっき… → ほんと寒い…手がかじかむし、もうあたたか… → さっきの話だけど、ほんとさ、あったかい飲… → もうほんとに寒すぎる…手がかじかんで運転… → あー、もう目が限界…。つかれたー💦これ…",
+  "last_post_timestamp_ms": 1770648818668
 }
