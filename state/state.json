@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "ほんと寒い…手がかじかむし、もうあたたかい飲み物欲しいな…☕さっきから考えてるのに、まったく買えない…また階段登るのか…あー、たるい…もう、こんな時間…💦",
+      "slot": "casual",
+      "timestamp": "2026-02-09 19:49:00",
+      "hasImage": false
+    },
+    {
       "text": "あー、もう一人で帰るのつらいな…。さっきの配達、ほんと寒かったし。早く帰って温かいの飲みたいな…って誰に言ってんだろ。週の始まり、しんどいなぁ…💦",
       "slot": "commute",
       "timestamp": "2026-02-09 18:20:35",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-02-09 13:04:21",
       "hasImage": false
-    },
-    {
-      "text": "あー、寒すぎる…🚚一軒家の配達、手がかじかむ…💦誰かに会いたいなぁ、ちょっと褒めてほしい…今日の配達も残り21件。早く終わらせたい。",
-      "slot": "delivery",
-      "timestamp": "2026-02-09 09:16:12",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -55,25 +55,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "commute"
+    "commute",
+    "casual"
   ],
-  "today_post_count": 10,
+  "today_post_count": 11,
   "today_goodnight_posted": false,
-  "month_total_posts": 91,
+  "month_total_posts": 92,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-09",
-  "last_post_time": "18:20:35",
+  "last_post_time": "19:49:00",
   "ng_retry_count": 21,
   "fallback_used_count": 1,
   "created_at": null,
-  "updated_at": "2026-02-09 18:20:35",
+  "updated_at": "2026-02-09 19:49:00",
   "month_string": "2026-02",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "もう目が限界…おやすみ → あさ、眠い…今日もつかれそーだわ → ほんと寒い…温かい飲み物飲みたいのに手が… → あー、寒すぎる…🚚一軒家の配達、手がか… → あー、気づいたらこんな時間…もう目が限界… → ふぅ、また階段…13Fは辛いわ…お客さん… → ほんと寒い…積み込み終わって、さっきは待… → あー、さっき重たい荷物持ってマンションの… → あー、もう目が限界…。つかれたー💦これ… → あー、もう一人で帰るのつらいな…。さっき…",
-  "last_post_timestamp_ms": 1770628835679
+  "today_narrative": "もう目が限界…おやすみ → あさ、眠い…今日もつかれそーだわ → ほんと寒い…温かい飲み物飲みたいのに手が… → あー、寒すぎる…🚚一軒家の配達、手がか… → あー、気づいたらこんな時間…もう目が限界… → ふぅ、また階段…13Fは辛いわ…お客さん… → ほんと寒い…積み込み終わって、さっきは待… → あー、さっき重たい荷物持ってマンションの… → あー、もう目が限界…。つかれたー💦これ… → あー、もう一人で帰るのつらいな…。さっき… → ほんと寒い…手がかじかむし、もうあたたか…",
+  "last_post_timestamp_ms": 1770634140456
 }
