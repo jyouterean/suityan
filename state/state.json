@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あー、冷たい風がほんとにしんどいなぁ…🤒こういう時は温かいおでんとか飲み物が恋しいよね。だからこそ、早く帰りたいのに…。まだまだ先は長いんだわ。",
+      "slot": "casual",
+      "timestamp": "2026-02-10 19:45:29",
+      "hasImage": false
+    },
+    {
       "text": "ひとりで帰るの、ほんとにさみしいなぁ…。配達の合間に、温かい飲み物飲みたいのに、まだあと20件もあるし…あー、もう早く終わってほしい😩",
       "slot": "commute",
       "timestamp": "2026-02-10 18:31:24",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-02-10 12:37:15",
       "hasImage": false
-    },
-    {
-      "text": "しばらく配達してたら、手がかじかんできた…寒いなぁ。コンビニで温かい飲み物でも買いたいなって思うけど、暇がない…😩さっき、置き配のとこにネコがいて、可愛いなって思ったけど…ほんとに疲れた。誰かに会いたいなぁ…（自分で言ってて悲しくなった）",
-      "slot": "delivery",
-      "timestamp": "2026-02-10 09:24:21",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -54,25 +54,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "commute"
+    "commute",
+    "casual"
   ],
-  "today_post_count": 9,
+  "today_post_count": 10,
   "today_goodnight_posted": true,
-  "month_total_posts": 104,
+  "month_total_posts": 105,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-10",
-  "last_post_time": "18:31:24",
+  "last_post_time": "19:45:29",
   "ng_retry_count": 23,
   "fallback_used_count": 1,
   "created_at": null,
-  "updated_at": "2026-02-10 18:31:24",
+  "updated_at": "2026-02-10 19:45:29",
   "month_string": "2026-02",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 2,
   "today_max_posts": 10,
-  "today_narrative": "おやすみ…ねぇ、ほんとに疲れたなぁ。エレ… → あさ…また寝たい😪 → しばらく配達してたら、手がかじかんできた… → 寒いなぁ、飲み物もおでんも温かいのが恋し… → さっきの寒さの話だけど、こんな日は運転中… → あーもう、配達の途中で不在票ばっかり…ほ… → あーもぅ、寒いし手もかじかんでる…次の配… → あー、今は一軒家の前…まだ27件あるのに… → ひとりで帰るの、ほんとにさみしいなぁ…。…",
-  "last_post_timestamp_ms": 1770715884269
+  "today_narrative": "おやすみ…ねぇ、ほんとに疲れたなぁ。エレ… → あさ…また寝たい😪 → しばらく配達してたら、手がかじかんできた… → 寒いなぁ、飲み物もおでんも温かいのが恋し… → さっきの寒さの話だけど、こんな日は運転中… → あーもう、配達の途中で不在票ばっかり…ほ… → あーもぅ、寒いし手もかじかんでる…次の配… → あー、今は一軒家の前…まだ27件あるのに… → ひとりで帰るの、ほんとにさみしいなぁ…。… → あー、冷たい風がほんとにしんどいなぁ…\ud83e…",
+  "last_post_timestamp_ms": 1770720329659
 }
