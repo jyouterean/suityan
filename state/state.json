@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 70,
+  "mood": "tired",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "あさからねむいな…😪",
+      "slot": "morning",
+      "timestamp": "2026-02-11 07:00:32",
+      "hasImage": false
+    },
     {
       "text": "あー、今日も疲れたなぁ…置き配もまだ14件残ってるのに、信号全部赤だったし…冷たい空気が肌に刺さる…温かいもの飲みたい…ねぇ、誰かかまってくれないかな…",
       "slot": "goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-02-10 15:25:11",
       "hasImage": false
-    },
-    {
-      "text": "さっきの寒さの話だけど、こんな日は運転中も気をつけないとね！特に夜道は滑りやすいから…安全第一で行こう🚗💨",
-      "slot": "casual",
-      "timestamp": "2026-02-10 13:20:36",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight"
+    "goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": true,
-  "month_total_posts": 106,
+  "month_total_posts": 107,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-11",
-  "last_post_time": "00:55:07",
+  "last_post_time": "07:00:32",
   "ng_retry_count": 23,
   "fallback_used_count": 1,
   "created_at": null,
-  "updated_at": "2026-02-11 00:55:07",
+  "updated_at": "2026-02-11 07:00:32",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 11,
-  "today_narrative": "あー、今日も疲れたなぁ…置き配もまだ14…",
-  "last_post_timestamp_ms": 1770738907345
+  "today_narrative": "あー、今日も疲れたなぁ…置き配もまだ14… → あさからねむいな…😪",
+  "last_post_timestamp_ms": 1770760832835
 }
