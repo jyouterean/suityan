@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 10,
+  "mood": "lonely",
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "あー、今日も疲れたなぁ…置き配もまだ14件残ってるのに、信号全部赤だったし…冷たい空気が肌に刺さる…温かいもの飲みたい…ねぇ、誰かかまってくれないかな…",
+      "slot": "goodnight",
+      "timestamp": "2026-02-11 00:55:07",
+      "hasImage": false
+    },
     {
       "text": "あー、冷たい風がほんとにしんどいなぁ…🤒こういう時は温かいおでんとか飲み物が恋しいよね。だからこそ、早く帰りたいのに…。まだまだ先は長いんだわ。",
       "slot": "casual",
@@ -37,43 +43,28 @@
       "slot": "casual",
       "timestamp": "2026-02-10 13:20:36",
       "hasImage": false
-    },
-    {
-      "text": "寒いなぁ、飲み物もおでんも温かいのが恋しい。あ、でも外出るの面倒で、結局家でゴロゴロ…😩寒さに負ける。あー、こんな日はゆっくり過ごしたいな。",
-      "slot": "casual",
-      "timestamp": "2026-02-10 12:37:15",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight",
-    "morning",
-    "delivery",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery",
-    "commute",
-    "casual"
+    "goodnight"
   ],
-  "today_post_count": 10,
+  "today_post_count": 1,
   "today_goodnight_posted": true,
-  "month_total_posts": 105,
+  "month_total_posts": 106,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-02-10",
-  "last_post_time": "19:45:29",
+  "last_post_date": "2026-02-11",
+  "last_post_time": "00:55:07",
   "ng_retry_count": 23,
   "fallback_used_count": 1,
   "created_at": null,
-  "updated_at": "2026-02-10 19:45:29",
+  "updated_at": "2026-02-11 00:55:07",
   "month_string": "2026-02",
-  "today_skipped": true,
+  "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": true,
-  "today_skip_count": 2,
-  "today_max_posts": 10,
-  "today_narrative": "おやすみ…ねぇ、ほんとに疲れたなぁ。エレ… → あさ…また寝たい😪 → しばらく配達してたら、手がかじかんできた… → 寒いなぁ、飲み物もおでんも温かいのが恋し… → さっきの寒さの話だけど、こんな日は運転中… → あーもう、配達の途中で不在票ばっかり…ほ… → あーもぅ、寒いし手もかじかんでる…次の配… → あー、今は一軒家の前…まだ27件あるのに… → ひとりで帰るの、ほんとにさみしいなぁ…。… → あー、冷たい風がほんとにしんどいなぁ…\ud83e…",
-  "last_post_timestamp_ms": 1770720329659
+  "today_morning_posted": false,
+  "today_skip_count": 0,
+  "today_max_posts": 11,
+  "today_narrative": "あー、今日も疲れたなぁ…置き配もまだ14…",
+  "last_post_timestamp_ms": 1770738907345
 }
