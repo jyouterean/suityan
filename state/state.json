@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 60,
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "しばらく配達してたら、手がかじかんできた…寒いなぁ。コンビニで温かい飲み物でも買いたいなって思うけど、暇がない…😩さっき、置き配のとこにネコがいて、可愛いなって思ったけど…ほんとに疲れた。誰かに会いたいなぁ…（自分で言ってて悲しくなった）",
+      "slot": "delivery",
+      "timestamp": "2026-02-10 09:24:21",
+      "hasImage": false
+    },
     {
       "text": "あさ…また寝たい😪",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "casual",
       "timestamp": "2026-02-09 19:49:00",
       "hasImage": false
-    },
-    {
-      "text": "あー、もう一人で帰るのつらいな…。さっきの配達、ほんと寒かったし。早く帰って温かいの飲みたいな…って誰に言ってんだろ。週の始まり、しんどいなぁ…💦",
-      "slot": "commute",
-      "timestamp": "2026-02-09 18:20:35",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
-    "morning"
+    "morning",
+    "delivery"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": true,
-  "month_total_posts": 97,
+  "month_total_posts": 98,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-10",
-  "last_post_time": "07:02:05",
+  "last_post_time": "09:24:21",
   "ng_retry_count": 22,
   "fallback_used_count": 1,
   "created_at": null,
-  "updated_at": "2026-02-10 08:08:38",
+  "updated_at": "2026-02-10 09:24:21",
   "month_string": "2026-02",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 10,
-  "today_narrative": "おやすみ…ねぇ、ほんとに疲れたなぁ。エレ… → あさ…また寝たい😪",
-  "last_post_timestamp_ms": 1770674525370
+  "today_narrative": "おやすみ…ねぇ、ほんとに疲れたなぁ。エレ… → あさ…また寝たい😪 → しばらく配達してたら、手がかじかんできた…",
+  "last_post_timestamp_ms": 1770683061819
 }
