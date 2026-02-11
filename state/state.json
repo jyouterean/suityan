@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 70,
+  "mood": "tired",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "おはよ…まだねむい！",
+      "slot": "morning",
+      "timestamp": "2026-02-12 06:45:30",
+      "hasImage": false
+    },
     {
       "text": "今日もお届け完了…疲れたよぉ…寒すぎて手がかじかんじゃった…早く温かいもの飲みたい。明日も頑張るから…少しだけ甘えさせてね…😔",
       "slot": "goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-02-11 14:06:20",
       "hasImage": false
-    },
-    {
-      "text": "おなかすいたなぁ…コンビニの温かいスープでも飲もうかな…この寒さには勝てないよね…🍜帰ったらあったかいお風呂も入りたいな…",
-      "slot": "casual",
-      "timestamp": "2026-02-11 13:17:32",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight"
+    "goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": true,
-  "month_total_posts": 117,
+  "month_total_posts": 118,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-12",
-  "last_post_time": "00:37:35",
+  "last_post_time": "06:45:30",
   "ng_retry_count": 26,
   "fallback_used_count": 1,
   "created_at": null,
-  "updated_at": "2026-02-12 00:37:35",
+  "updated_at": "2026-02-12 06:45:30",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "今日もお届け完了…疲れたよぉ…寒すぎて手…",
-  "last_post_timestamp_ms": 1770824255088
+  "today_narrative": "今日もお届け完了…疲れたよぉ…寒すぎて手… → おはよ…まだねむい！",
+  "last_post_timestamp_ms": 1770846330596
 }
