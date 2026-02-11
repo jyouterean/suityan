@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "ほんとさ、寒い日って体がしんどいよね…手のかじかみがやばい😩温かい飲み物でも飲みたいけど、今はコンビニ行くのも面倒で。あー、誰かにあったかいもの作ってもらいたい…",
+      "slot": "casual",
+      "timestamp": "2026-02-11 19:35:56",
+      "hasImage": false
+    },
+    {
       "text": "あー、寒い…手がかじかむよ。段ボールだらけで運転もめんどくさい💦おなかすいたなぁ、温かいスープ飲みたい…誰かに会いたいなぁ…😩",
       "slot": "delivery",
       "timestamp": "2026-02-11 16:57:53",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-02-11 12:54:17",
       "hasImage": false
-    },
-    {
-      "text": "一軒家の配達、ほんとに寒い…手もかじかむし、もう少し温かい飲み物が欲しいわ🥶気づいたら残り19件。なんか誰かに会いたいなぁ、誰か褒めてほしいよ…😔",
-      "slot": "delivery",
-      "timestamp": "2026-02-11 09:10:48",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -55,25 +55,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 10,
+  "today_post_count": 11,
   "today_goodnight_posted": true,
-  "month_total_posts": 115,
+  "month_total_posts": 116,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-11",
-  "last_post_time": "16:57:53",
+  "last_post_time": "19:35:56",
   "ng_retry_count": 26,
   "fallback_used_count": 1,
   "created_at": null,
-  "updated_at": "2026-02-11 18:25:29",
+  "updated_at": "2026-02-11 19:35:56",
   "month_string": "2026-02",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 11,
-  "today_narrative": "あー、今日も疲れたなぁ…置き配もまだ14… → あさからねむいな…😪 → てか、なんか今日も仕事だるいな…😴運転… → 一軒家の配達、ほんとに寒い…手もかじかむ… → 雨降ってると、なんか余計寒く感じる…体も… → おなかすいたなぁ…コンビニの温かいスープ… → あー、てか、段ボールが重いと運転しづらい… → あー、もうやだ…。寒いし体も動かないし、… → やっと一軒家の配達終わった…あー、うまく… → あー、寒い…手がかじかむよ。段ボールだら…",
-  "last_post_timestamp_ms": 1770796673361
+  "today_narrative": "あー、今日も疲れたなぁ…置き配もまだ14… → あさからねむいな…😪 → てか、なんか今日も仕事だるいな…😴運転… → 一軒家の配達、ほんとに寒い…手もかじかむ… → 雨降ってると、なんか余計寒く感じる…体も… → おなかすいたなぁ…コンビニの温かいスープ… → あー、てか、段ボールが重いと運転しづらい… → あー、もうやだ…。寒いし体も動かないし、… → やっと一軒家の配達終わった…あー、うまく… → あー、寒い…手がかじかむよ。段ボールだら… → ほんとさ、寒い日って体がしんどいよね…手…",
+  "last_post_timestamp_ms": 1770806156032
 }
