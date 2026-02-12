@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "もうねむい…おやすみ…",
+      "slot": "simple_goodnight",
+      "timestamp": "2026-02-12 23:31:29",
+      "hasImage": false
+    },
+    {
       "text": "まじで手かじかむ…寒すぎて作業が進まないよぉ😩 82件のはいたつ終わらせたいけど、暖かいもの飲みたいなぁ…でもさ、一軒家の配達のたびに、寒さが増していくの…ほんとしんどいよ…💦（まあ届けるんだけどさ）",
       "slot": "night_ero",
       "timestamp": "2026-02-12 21:47:59",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-02-12 16:01:53",
       "hasImage": false
-    },
-    {
-      "text": "また配達先の玄関でちょっと待ってる…寒いし、なんか手がかじかむ…でもお客さんが優しいとちょっと嬉しくなるなぁ…誰かに会いたいなぁ、ちゃんと褒めてもらいたい気分…あーもう、モヤモヤしたままじゃしんどい…",
-      "slot": "delivery",
-      "timestamp": "2026-02-12 15:11:54",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -57,25 +57,26 @@
     "commute",
     "casual",
     "casual",
-    "night_ero"
+    "night_ero",
+    "simple_goodnight"
   ],
-  "today_post_count": 12,
+  "today_post_count": 13,
   "today_goodnight_posted": true,
-  "month_total_posts": 128,
+  "month_total_posts": 129,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-12",
-  "last_post_time": "21:47:59",
+  "last_post_time": "23:31:29",
   "ng_retry_count": 26,
   "fallback_used_count": 1,
   "created_at": null,
-  "updated_at": "2026-02-12 21:47:59",
+  "updated_at": "2026-02-12 23:31:29",
   "month_string": "2026-02",
   "today_skipped": true,
-  "today_simple_goodnight_posted": false,
+  "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 2,
   "today_max_posts": 14,
-  "today_narrative": "今日もお届け完了…疲れたよぉ…寒すぎて手… → おはよ…まだねむい！ → やっぱり寒いの苦手…☁️コンビニで温かい… → コンビニのホットドリンクが恋しい…今日は… → 駐車場で台車を押してるけど…ほんと寒くて… → また配達先の玄関でちょっと待ってる…寒い… → なんかまだ寒いままだね…手がかじかむし、… → まじで手がかじかむ…😩まだまだ配達残っ… → もうほんとしんどい…軽バンに戻るのもめん… → ほんとに寒いなぁ…手がしもやけになりそう… → またさ、台車押してる時に手が冷たくて…ほ… → まじで手かじかむ…寒すぎて作業が進まない…",
-  "last_post_timestamp_ms": 1770900479423
+  "today_narrative": "今日もお届け完了…疲れたよぉ…寒すぎて手… → おはよ…まだねむい！ → やっぱり寒いの苦手…☁️コンビニで温かい… → コンビニのホットドリンクが恋しい…今日は… → 駐車場で台車を押してるけど…ほんと寒くて… → また配達先の玄関でちょっと待ってる…寒い… → なんかまだ寒いままだね…手がかじかむし、… → まじで手がかじかむ…😩まだまだ配達残っ… → もうほんとしんどい…軽バンに戻るのもめん… → ほんとに寒いなぁ…手がしもやけになりそう… → またさ、台車押してる時に手が冷たくて…ほ… → まじで手かじかむ…寒すぎて作業が進まない… → もうねむい…おやすみ…",
+  "last_post_timestamp_ms": 1770906689499
 }
