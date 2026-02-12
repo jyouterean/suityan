@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "まじで手がかじかむ…😩まだまだ配達残ってるし、あーもう、ほんと誰かに会いたいなぁ。お客さんも優しいけど、冷たい風が心に染みるよ…午後はどうなるんだろう…🍂",
+      "slot": "delivery",
+      "timestamp": "2026-02-12 17:02:03",
+      "hasImage": false
+    },
+    {
       "text": "なんかまだ寒いままだね…手がかじかむし、ほんとしんどい…今日の配達も残り13件…また寒いところで待ってるのかぁ…誰かに会いたいな、褒めてもらいたいな…🥶",
       "slot": "delivery",
       "timestamp": "2026-02-12 16:01:53",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-02-12 06:45:30",
       "hasImage": false
-    },
-    {
-      "text": "今日もお届け完了…疲れたよぉ…寒すぎて手がかじかんじゃった…早く温かいもの飲みたい。明日も頑張るから…少しだけ甘えさせてね…😔",
-      "slot": "goodnight",
-      "timestamp": "2026-02-12 00:37:35",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "casual",
     "delivery",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": true,
-  "month_total_posts": 123,
+  "month_total_posts": 124,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-12",
-  "last_post_time": "16:01:53",
+  "last_post_time": "17:02:03",
   "ng_retry_count": 26,
   "fallback_used_count": 1,
   "created_at": null,
-  "updated_at": "2026-02-12 16:01:53",
+  "updated_at": "2026-02-12 17:02:03",
   "month_string": "2026-02",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 2,
   "today_max_posts": 14,
-  "today_narrative": "今日もお届け完了…疲れたよぉ…寒すぎて手… → おはよ…まだねむい！ → やっぱり寒いの苦手…☁️コンビニで温かい… → コンビニのホットドリンクが恋しい…今日は… → 駐車場で台車を押してるけど…ほんと寒くて… → また配達先の玄関でちょっと待ってる…寒い… → なんかまだ寒いままだね…手がかじかむし、…",
-  "last_post_timestamp_ms": 1770879713974
+  "today_narrative": "今日もお届け完了…疲れたよぉ…寒すぎて手… → おはよ…まだねむい！ → やっぱり寒いの苦手…☁️コンビニで温かい… → コンビニのホットドリンクが恋しい…今日は… → 駐車場で台車を押してるけど…ほんと寒くて… → また配達先の玄関でちょっと待ってる…寒い… → なんかまだ寒いままだね…手がかじかむし、… → まじで手がかじかむ…😩まだまだ配達残っ…",
+  "last_post_timestamp_ms": 1770883323420
 }
