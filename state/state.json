@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "金曜なのにほんとだる…今日は93件も配達して、あー、もうおわりかな…手が冷たくて動かないよ…って誰に言ってんだろ…寒い夜…おやすみ…",
+      "slot": "delivery",
+      "timestamp": "2026-02-13 16:56:37",
+      "hasImage": false
+    },
+    {
       "text": "あー、また不在票だよ…こんな寒いのに誰もいないなんて😩仕事してても心が寒いわ…早く帰って温かいもの食べたい。さっき13Fまで重い荷物持って上がるのしんどかったし、もう限界…",
       "slot": "delivery",
       "timestamp": "2026-02-13 15:44:27",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-02-13 08:22:26",
       "hasImage": false
-    },
-    {
-      "text": "あさ…ねむいわ",
-      "slot": "morning",
-      "timestamp": "2026-02-13 06:48:05",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "casual",
     "casual",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": true,
-  "month_total_posts": 137,
+  "month_total_posts": 138,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-13",
-  "last_post_time": "15:44:27",
+  "last_post_time": "16:56:37",
   "ng_retry_count": 27,
   "fallback_used_count": 1,
   "created_at": null,
-  "updated_at": "2026-02-13 15:44:27",
+  "updated_at": "2026-02-13 16:56:37",
   "month_string": "2026-02",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 13,
-  "today_narrative": "寒い夜…おやすみ。明日も軽貨物頑張るけど… → あさ…ねむいわ → 金曜なのにほんとだる…寒いし手かじかむし… → 昼間は晴れてたのに、急に寒くなってきた…… → 寒い夜…おやすみ。週末近いのに全然元気出… → なんか冷え込んできたから、温かい飲み物が… → あーもう、手がかじかんで荷物も重いし、ほ… → あー、また不在票だよ…こんな寒いのに誰も…",
-  "last_post_timestamp_ms": 1770965067480
+  "today_narrative": "寒い夜…おやすみ。明日も軽貨物頑張るけど… → あさ…ねむいわ → 金曜なのにほんとだる…寒いし手かじかむし… → 昼間は晴れてたのに、急に寒くなってきた…… → 寒い夜…おやすみ。週末近いのに全然元気出… → なんか冷え込んできたから、温かい飲み物が… → あーもう、手がかじかんで荷物も重いし、ほ… → あー、また不在票だよ…こんな寒いのに誰も… → 金曜なのにほんとだる…今日は93件も配達…",
+  "last_post_timestamp_ms": 1770969397153
 }
