@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "寒い夜はやっぱり温かい飲み物が…☕️あー、あったかいの飲みたいなぁ。金曜なのになんか力出ないし、うーん、やる気も出ない…週末はいつも楽しみにしてるけど…",
+      "slot": "casual",
+      "timestamp": "2026-02-13 19:10:16",
+      "hasImage": false
+    },
+    {
       "text": "あーもう、自販機のお釣りも出てこなかったし、ほんとついてないな…荷物も重いし、今から11Fだし…誰かに会いたいなぁ😓寒い夜…おやすみ。",
       "slot": "delivery",
       "timestamp": "2026-02-13 17:54:06",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-02-13 13:16:48",
       "hasImage": false
-    },
-    {
-      "text": "昼間は晴れてたのに、急に寒くなってきた…手が冷たくなるとほんと辛いわ…温かいスープでも飲みたいなぁ✨でも金曜だし、ちょっとワクワク感もあるかも…そんな夜は静かに過ごしたい…",
-      "slot": "casual",
-      "timestamp": "2026-02-13 12:38:59",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -55,25 +55,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 10,
+  "today_post_count": 11,
   "today_goodnight_posted": true,
-  "month_total_posts": 139,
+  "month_total_posts": 140,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-13",
-  "last_post_time": "17:54:06",
+  "last_post_time": "19:10:16",
   "ng_retry_count": 29,
   "fallback_used_count": 1,
   "created_at": null,
-  "updated_at": "2026-02-13 17:54:06",
+  "updated_at": "2026-02-13 19:10:16",
   "month_string": "2026-02",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 13,
-  "today_narrative": "寒い夜…おやすみ。明日も軽貨物頑張るけど… → あさ…ねむいわ → 金曜なのにほんとだる…寒いし手かじかむし… → 昼間は晴れてたのに、急に寒くなってきた…… → 寒い夜…おやすみ。週末近いのに全然元気出… → なんか冷え込んできたから、温かい飲み物が… → あーもう、手がかじかんで荷物も重いし、ほ… → あー、また不在票だよ…こんな寒いのに誰も… → 金曜なのにほんとだる…今日は93件も配達… → あーもう、自販機のお釣りも出てこなかった…",
-  "last_post_timestamp_ms": 1770972846215
+  "today_narrative": "寒い夜…おやすみ。明日も軽貨物頑張るけど… → あさ…ねむいわ → 金曜なのにほんとだる…寒いし手かじかむし… → 昼間は晴れてたのに、急に寒くなってきた…… → 寒い夜…おやすみ。週末近いのに全然元気出… → なんか冷え込んできたから、温かい飲み物が… → あーもう、手がかじかんで荷物も重いし、ほ… → あー、また不在票だよ…こんな寒いのに誰も… → 金曜なのにほんとだる…今日は93件も配達… → あーもう、自販機のお釣りも出てこなかった… → 寒い夜はやっぱり温かい飲み物が…☕️あー…",
+  "last_post_timestamp_ms": 1770977416780
 }
