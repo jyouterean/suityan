@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "もうほんとさ…寒いと手もかじかむし、なんかやる気も出ないよね…金曜なのに早く週末になってほしい…お風呂入って、あったかい飲み物でも飲みたいなぁ…☕️",
+      "slot": "casual",
+      "timestamp": "2026-02-13 20:32:29",
+      "hasImage": false
+    },
+    {
       "text": "寒い夜はやっぱり温かい飲み物が…☕️あー、あったかいの飲みたいなぁ。金曜なのになんか力出ないし、うーん、やる気も出ない…週末はいつも楽しみにしてるけど…",
       "slot": "casual",
       "timestamp": "2026-02-13 19:10:16",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-02-13 13:47:46",
       "hasImage": false
-    },
-    {
-      "text": "寒い夜…おやすみ。週末近いのに全然元気出ないや。早くぬくぬくしたいなぁ…💤あったかい飲み物求む…",
-      "slot": "casual",
-      "timestamp": "2026-02-13 13:16:48",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "delivery",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": true,
-  "month_total_posts": 140,
+  "month_total_posts": 141,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-13",
-  "last_post_time": "19:10:16",
+  "last_post_time": "20:32:29",
   "ng_retry_count": 29,
   "fallback_used_count": 1,
   "created_at": null,
-  "updated_at": "2026-02-13 19:10:16",
+  "updated_at": "2026-02-13 20:32:29",
   "month_string": "2026-02",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 13,
-  "today_narrative": "寒い夜…おやすみ。明日も軽貨物頑張るけど… → あさ…ねむいわ → 金曜なのにほんとだる…寒いし手かじかむし… → 昼間は晴れてたのに、急に寒くなってきた…… → 寒い夜…おやすみ。週末近いのに全然元気出… → なんか冷え込んできたから、温かい飲み物が… → あーもう、手がかじかんで荷物も重いし、ほ… → あー、また不在票だよ…こんな寒いのに誰も… → 金曜なのにほんとだる…今日は93件も配達… → あーもう、自販機のお釣りも出てこなかった… → 寒い夜はやっぱり温かい飲み物が…☕️あー…",
-  "last_post_timestamp_ms": 1770977416780
+  "today_narrative": "寒い夜…おやすみ。明日も軽貨物頑張るけど… → あさ…ねむいわ → 金曜なのにほんとだる…寒いし手かじかむし… → 昼間は晴れてたのに、急に寒くなってきた…… → 寒い夜…おやすみ。週末近いのに全然元気出… → なんか冷え込んできたから、温かい飲み物が… → あーもう、手がかじかんで荷物も重いし、ほ… → あー、また不在票だよ…こんな寒いのに誰も… → 金曜なのにほんとだる…今日は93件も配達… → あーもう、自販機のお釣りも出てこなかった… → 寒い夜はやっぱり温かい飲み物が…☕️あー… → もうほんとさ…寒いと手もかじかむし、なん…",
+  "last_post_timestamp_ms": 1770982349182
 }
