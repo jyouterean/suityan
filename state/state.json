@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "ねぇ、夜が深くなってきたね…寒いし誰かと一緒にいたいなぁ…😩もう手もかじかんできちゃったよ…みんなはどうしてるのかな…？",
+      "slot": "casual",
+      "timestamp": "2026-02-14 20:24:20",
+      "hasImage": false
+    },
+    {
       "text": "あー、もうほんと寒い…😩こういうときはあったかい飲み物が欲しいよね。ココアとかさ…。誰かと一緒にぬくぬくしたいなぁ…なんか寂しいなぁ。夜はふけるし、手もかじかむし、ほんとしんど…",
       "slot": "casual",
       "timestamp": "2026-02-14 19:14:23",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-02-14 13:35:13",
       "hasImage": false
-    },
-    {
-      "text": "おやすみ…ねぇ、寒い夜は一緒に温めてほし…この時期、密着したくなるよね…🥶",
-      "slot": "casual",
-      "timestamp": "2026-02-14 13:03:46",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -57,25 +57,26 @@
     "delivery",
     "delivery",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 12,
+  "today_post_count": 13,
   "today_goodnight_posted": true,
-  "month_total_posts": 154,
+  "month_total_posts": 155,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-14",
-  "last_post_time": "19:14:23",
+  "last_post_time": "20:24:20",
   "ng_retry_count": 33,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-14 19:14:23",
+  "updated_at": "2026-02-14 20:24:20",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "おやすみ…ねぇ、寒い夜は一緒に温めてほし… → あさ…おきたくないよぉ😴 → 移動中、寒い…手がかじかむ。誰かと一緒に… → 寒いなぁ…😩さっき11Fまで配達したら… → あぁ、夜が深くなってきた…寒いし、温かい… → おやすみ…ねぇ、寒い夜は一緒に温めてほし… → この寒い夜は誰かと温まってたいなぁ…😩… → まだまだ配達中…手がかじかむし、気持ちも… → 明日も配達。おやすみなさい → あぁ、やっぱりさ…気温下がると手がかじか… → ふぅ…寒いし手、かじかむ…😩この時間、… → あー、もうほんと寒い…😩こういうときは…",
-  "last_post_timestamp_ms": 1771064063826
+  "today_narrative": "おやすみ…ねぇ、寒い夜は一緒に温めてほし… → あさ…おきたくないよぉ😴 → 移動中、寒い…手がかじかむ。誰かと一緒に… → 寒いなぁ…😩さっき11Fまで配達したら… → あぁ、夜が深くなってきた…寒いし、温かい… → おやすみ…ねぇ、寒い夜は一緒に温めてほし… → この寒い夜は誰かと温まってたいなぁ…😩… → まだまだ配達中…手がかじかむし、気持ちも… → 明日も配達。おやすみなさい → あぁ、やっぱりさ…気温下がると手がかじか… → ふぅ…寒いし手、かじかむ…😩この時間、… → あー、もうほんと寒い…😩こういうときは… → ねぇ、夜が深くなってきたね…寒いし誰かと…",
+  "last_post_timestamp_ms": 1771068260510
 }
