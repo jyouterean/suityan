@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あぁ、やっぱりさ…気温下がると手がかじかむねぇ😩なんか誰かに会いたいな…再配達の多さに疲れてきたし…少しだけ温まれる場所があればいいのに…って誰に言ってんだろ…",
+      "slot": "delivery",
+      "timestamp": "2026-02-14 16:23:32",
+      "hasImage": false
+    },
+    {
       "text": "明日も配達。おやすみなさい",
       "slot": "delivery",
       "timestamp": "2026-02-14 15:27:56",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-02-14 09:07:29",
       "hasImage": false
-    },
-    {
-      "text": "移動中、寒い…手がかじかむ。誰かと一緒に帰りたいなぁ😔台車運ぶのも疲れたし…まあいいか、もうすぐおうち。温かいもの飲みたい…おやすみ、ねぇ、次は一緒に帰ろ。",
-      "slot": "commute",
-      "timestamp": "2026-02-14 08:30:14",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -54,25 +54,26 @@
     "casual",
     "casual",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 9,
+  "today_post_count": 10,
   "today_goodnight_posted": true,
-  "month_total_posts": 151,
+  "month_total_posts": 152,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-14",
-  "last_post_time": "15:27:56",
-  "ng_retry_count": 32,
+  "last_post_time": "16:23:32",
+  "ng_retry_count": 33,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-14 15:27:56",
+  "updated_at": "2026-02-14 16:23:32",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "おやすみ…ねぇ、寒い夜は一緒に温めてほし… → あさ…おきたくないよぉ😴 → 移動中、寒い…手がかじかむ。誰かと一緒に… → 寒いなぁ…😩さっき11Fまで配達したら… → あぁ、夜が深くなってきた…寒いし、温かい… → おやすみ…ねぇ、寒い夜は一緒に温めてほし… → この寒い夜は誰かと温まってたいなぁ…😩… → まだまだ配達中…手がかじかむし、気持ちも… → 明日も配達。おやすみなさい",
-  "last_post_timestamp_ms": 1771050476726
+  "today_narrative": "おやすみ…ねぇ、寒い夜は一緒に温めてほし… → あさ…おきたくないよぉ😴 → 移動中、寒い…手がかじかむ。誰かと一緒に… → 寒いなぁ…😩さっき11Fまで配達したら… → あぁ、夜が深くなってきた…寒いし、温かい… → おやすみ…ねぇ、寒い夜は一緒に温めてほし… → この寒い夜は誰かと温まってたいなぁ…😩… → まだまだ配達中…手がかじかむし、気持ちも… → 明日も配達。おやすみなさい → あぁ、やっぱりさ…気温下がると手がかじか…",
+  "last_post_timestamp_ms": 1771053812089
 }
