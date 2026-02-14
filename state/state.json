@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 70,
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "帰り道…さっき14Fまで階段上がったらほんと足ダルい…軽バンも運転したし、今日も疲れたなぁ😩誰かと一緒に帰りたい…冬だし寒いし、温かいものが欲しい…",
+      "slot": "commute",
+      "timestamp": "2026-02-15 08:16:36",
+      "hasImage": false
+    },
     {
       "text": "おはよ…また寝たい😪",
       "slot": "morning",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-02-14 15:27:56",
       "hasImage": false
-    },
-    {
-      "text": "まだまだ配達中…手がかじかむし、気持ちもさむい😩誰かにあたためてほしいなぁ…お客さんとのやりとりも、もう少し楽しかったらなぁ。なんか、142件の荷物置き配もハード…😅",
-      "slot": "delivery",
-      "timestamp": "2026-02-14 14:41:20",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "morning"
+    "morning",
+    "commute"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 156,
+  "month_total_posts": 157,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-15",
-  "last_post_time": "06:51:56",
+  "last_post_time": "08:16:36",
   "ng_retry_count": 33,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-15 06:51:56",
+  "updated_at": "2026-02-15 08:16:36",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "おはよ…また寝たい😪",
-  "last_post_timestamp_ms": 1771105916153
+  "today_narrative": "おはよ…また寝たい😪 → 帰り道…さっき14Fまで階段上がったらほ…",
+  "last_post_timestamp_ms": 1771110996542
 }
