@@ -1,7 +1,13 @@
 {
   "mood": "lonely",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "寒いなぁ…😩さっき11Fまで配達したら、もうクタクタ…手がしもやけになりそう。誰かと一緒なら、少しは楽しいのに。あったかいコーヒーでも飲みたいなぁ。今はただルートを回るだけ…😔",
+      "slot": "delivery",
+      "timestamp": "2026-02-14 09:07:29",
+      "hasImage": false
+    },
     {
       "text": "移動中、寒い…手がかじかむ。誰かと一緒に帰りたいなぁ😔台車運ぶのも疲れたし…まあいいか、もうすぐおうち。温かいもの飲みたい…おやすみ、ねぇ、次は一緒に帰ろ。",
       "slot": "commute",
@@ -37,36 +43,31 @@
       "slot": "casual",
       "timestamp": "2026-02-13 19:10:16",
       "hasImage": false
-    },
-    {
-      "text": "あーもう、自販機のお釣りも出てこなかったし、ほんとついてないな…荷物も重いし、今から11Fだし…誰かに会いたいなぁ😓寒い夜…おやすみ。",
-      "slot": "delivery",
-      "timestamp": "2026-02-13 17:54:06",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
     "morning",
-    "commute"
+    "commute",
+    "delivery"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": true,
-  "month_total_posts": 145,
+  "month_total_posts": 146,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-14",
-  "last_post_time": "08:30:14",
+  "last_post_time": "09:07:29",
   "ng_retry_count": 29,
   "fallback_used_count": 1,
   "created_at": null,
-  "updated_at": "2026-02-14 08:30:14",
+  "updated_at": "2026-02-14 09:07:29",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "おやすみ…ねぇ、寒い夜は一緒に温めてほし… → あさ…おきたくないよぉ😴 → 移動中、寒い…手がかじかむ。誰かと一緒に…",
-  "last_post_timestamp_ms": 1771025414517
+  "today_narrative": "おやすみ…ねぇ、寒い夜は一緒に温めてほし… → あさ…おきたくないよぉ😴 → 移動中、寒い…手がかじかむ。誰かと一緒に… → 寒いなぁ…😩さっき11Fまで配達したら…",
+  "last_post_timestamp_ms": 1771027649333
 }
