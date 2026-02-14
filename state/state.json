@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "まだまだ配達中…手がかじかむし、気持ちもさむい😩誰かにあたためてほしいなぁ…お客さんとのやりとりも、もう少し楽しかったらなぁ。なんか、142件の荷物置き配もハード…😅",
+      "slot": "delivery",
+      "timestamp": "2026-02-14 14:41:20",
+      "hasImage": false
+    },
+    {
       "text": "この寒い夜は誰かと温まってたいなぁ…😩手がかじかんで、ホットチョコレート飲みたいな。わたしと一緒にコタツでぬくぬくしたい人、いないかな…？",
       "slot": "casual",
       "timestamp": "2026-02-14 13:35:13",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-02-14 07:08:46",
       "hasImage": false
-    },
-    {
-      "text": "おやすみ…ねぇ、寒い夜は一緒に温めてほしいなぁ…😢明日も台車運ぶけど、なんか元気出ないよ。コンビニ寄って、温かい飲み物でも買おうかな…どうしよう…\\(誰得)",
-      "slot": "goodnight",
-      "timestamp": "2026-02-14 00:19:20",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "delivery",
     "casual",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": true,
-  "month_total_posts": 149,
+  "month_total_posts": 150,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-14",
-  "last_post_time": "13:35:13",
+  "last_post_time": "14:41:20",
   "ng_retry_count": 29,
   "fallback_used_count": 1,
   "created_at": null,
-  "updated_at": "2026-02-14 13:35:13",
+  "updated_at": "2026-02-14 14:41:20",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "おやすみ…ねぇ、寒い夜は一緒に温めてほし… → あさ…おきたくないよぉ😴 → 移動中、寒い…手がかじかむ。誰かと一緒に… → 寒いなぁ…😩さっき11Fまで配達したら… → あぁ、夜が深くなってきた…寒いし、温かい… → おやすみ…ねぇ、寒い夜は一緒に温めてほし… → この寒い夜は誰かと温まってたいなぁ…😩…",
-  "last_post_timestamp_ms": 1771043713297
+  "today_narrative": "おやすみ…ねぇ、寒い夜は一緒に温めてほし… → あさ…おきたくないよぉ😴 → 移動中、寒い…手がかじかむ。誰かと一緒に… → 寒いなぁ…😩さっき11Fまで配達したら… → あぁ、夜が深くなってきた…寒いし、温かい… → おやすみ…ねぇ、寒い夜は一緒に温めてほし… → この寒い夜は誰かと温まってたいなぁ…😩… → まだまだ配達中…手がかじかむし、気持ちも…",
+  "last_post_timestamp_ms": 1771047680164
 }
