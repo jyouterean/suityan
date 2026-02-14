@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 10,
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "おはよ…また寝たい😪",
+      "slot": "morning",
+      "timestamp": "2026-02-15 06:51:56",
+      "hasImage": false
+    },
     {
       "text": "ねぇ、夜が深くなってきたね…寒いし誰かと一緒にいたいなぁ…😩もう手もかじかんできちゃったよ…みんなはどうしてるのかな…？",
       "slot": "casual",
@@ -37,46 +43,28 @@
       "slot": "delivery",
       "timestamp": "2026-02-14 14:41:20",
       "hasImage": false
-    },
-    {
-      "text": "この寒い夜は誰かと温まってたいなぁ…😩手がかじかんで、ホットチョコレート飲みたいな。わたしと一緒にコタツでぬくぬくしたい人、いないかな…？",
-      "slot": "casual",
-      "timestamp": "2026-02-14 13:35:13",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight",
-    "morning",
-    "commute",
-    "delivery",
-    "casual",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery",
-    "delivery",
-    "casual",
-    "casual"
+    "morning"
   ],
-  "today_post_count": 13,
-  "today_goodnight_posted": true,
-  "month_total_posts": 155,
+  "today_post_count": 1,
+  "today_goodnight_posted": false,
+  "month_total_posts": 156,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-02-14",
-  "last_post_time": "20:24:20",
+  "last_post_date": "2026-02-15",
+  "last_post_time": "06:51:56",
   "ng_retry_count": 33,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-14 20:24:20",
+  "updated_at": "2026-02-15 06:51:56",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "おやすみ…ねぇ、寒い夜は一緒に温めてほし… → あさ…おきたくないよぉ😴 → 移動中、寒い…手がかじかむ。誰かと一緒に… → 寒いなぁ…😩さっき11Fまで配達したら… → あぁ、夜が深くなってきた…寒いし、温かい… → おやすみ…ねぇ、寒い夜は一緒に温めてほし… → この寒い夜は誰かと温まってたいなぁ…😩… → まだまだ配達中…手がかじかむし、気持ちも… → 明日も配達。おやすみなさい → あぁ、やっぱりさ…気温下がると手がかじか… → ふぅ…寒いし手、かじかむ…😩この時間、… → あー、もうほんと寒い…😩こういうときは… → ねぇ、夜が深くなってきたね…寒いし誰かと…",
-  "last_post_timestamp_ms": 1771068260510
+  "today_narrative": "おはよ…また寝たい😪",
+  "last_post_timestamp_ms": 1771105916153
 }
