@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "さっきの続き…配達ルート決めるのも疲れるよね…誰か一緒にいたらいいのに…運転しながらぼーっとしてたら、あっという間に帰り道…もう何も考えたくないわ…😞",
+      "slot": "commute",
+      "timestamp": "2026-02-15 18:05:29",
+      "hasImage": false
+    },
+    {
       "text": "あーもう再はいたつつらい…😩116件もあるし…誰か褒めてほしい…運転しながら空見てるけど、今日は快晴…でも寒いし…やっぱり温かいもの飲みたいよ…まぁ、がんばるしかないか…いや、なんでもない",
       "slot": "delivery",
       "timestamp": "2026-02-15 16:24:15",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-02-15 08:56:28",
       "hasImage": false
-    },
-    {
-      "text": "帰り道…さっき14Fまで階段上がったらほんと足ダルい…軽バンも運転したし、今日も疲れたなぁ😩誰かと一緒に帰りたい…冬だし寒いし、温かいものが欲しい…",
-      "slot": "commute",
-      "timestamp": "2026-02-15 08:16:36",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "delivery"
+    "delivery",
+    "commute"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": false,
-  "month_total_posts": 163,
+  "month_total_posts": 164,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-15",
-  "last_post_time": "16:24:15",
-  "ng_retry_count": 33,
+  "last_post_time": "18:05:29",
+  "ng_retry_count": 34,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-15 16:24:15",
+  "updated_at": "2026-02-15 18:05:29",
   "month_string": "2026-02",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 13,
-  "today_narrative": "おはよ…また寝たい😪 → 帰り道…さっき14Fまで階段上がったらほ… → さっきの続きなんだけど、帰ってもやる気出… → 今日も寒い…外に出るのつらいよね😩温か… → てかさっきの寒いって話だけど、運転してる… → 運転してると荷物のことばっか考える…うま… → もう手がかじかむし、着替える時の汗も大変… → あーもう再はいたつつらい…😩116件も…",
-  "last_post_timestamp_ms": 1771140255377
+  "today_narrative": "おはよ…また寝たい😪 → 帰り道…さっき14Fまで階段上がったらほ… → さっきの続きなんだけど、帰ってもやる気出… → 今日も寒い…外に出るのつらいよね😩温か… → てかさっきの寒いって話だけど、運転してる… → 運転してると荷物のことばっか考える…うま… → もう手がかじかむし、着替える時の汗も大変… → あーもう再はいたつつらい…😩116件も… → さっきの続き…配達ルート決めるのも疲れる…",
+  "last_post_timestamp_ms": 1771146329850
 }
