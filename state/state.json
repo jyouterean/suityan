@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "さっきの続きなんだけど、ほんと寒い…つらいよね😩 てか、あったかい飲み物が恋しい…もう帰りたくなっちゃう…",
+      "slot": "casual",
+      "timestamp": "2026-02-15 19:03:04",
+      "hasImage": false
+    },
+    {
       "text": "さっきの続き…配達ルート決めるのも疲れるよね…誰か一緒にいたらいいのに…運転しながらぼーっとしてたら、あっという間に帰り道…もう何も考えたくないわ…😞",
       "slot": "commute",
       "timestamp": "2026-02-15 18:05:29",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-02-15 13:14:25",
       "hasImage": false
-    },
-    {
-      "text": "さっきの続きなんだけど、帰ってもやる気出ないし…ねむい。温かい飲み物飲んで、さっさと寝たい気分だよね😴",
-      "slot": "casual",
-      "timestamp": "2026-02-15 08:56:28",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -54,25 +54,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "commute"
+    "commute",
+    "casual"
   ],
-  "today_post_count": 9,
+  "today_post_count": 10,
   "today_goodnight_posted": false,
-  "month_total_posts": 164,
+  "month_total_posts": 165,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-15",
-  "last_post_time": "18:05:29",
+  "last_post_time": "19:03:04",
   "ng_retry_count": 34,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-15 18:05:29",
+  "updated_at": "2026-02-15 19:03:04",
   "month_string": "2026-02",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 13,
-  "today_narrative": "おはよ…また寝たい😪 → 帰り道…さっき14Fまで階段上がったらほ… → さっきの続きなんだけど、帰ってもやる気出… → 今日も寒い…外に出るのつらいよね😩温か… → てかさっきの寒いって話だけど、運転してる… → 運転してると荷物のことばっか考える…うま… → もう手がかじかむし、着替える時の汗も大変… → あーもう再はいたつつらい…😩116件も… → さっきの続き…配達ルート決めるのも疲れる…",
-  "last_post_timestamp_ms": 1771146329850
+  "today_narrative": "おはよ…また寝たい😪 → 帰り道…さっき14Fまで階段上がったらほ… → さっきの続きなんだけど、帰ってもやる気出… → 今日も寒い…外に出るのつらいよね😩温か… → てかさっきの寒いって話だけど、運転してる… → 運転してると荷物のことばっか考える…うま… → もう手がかじかむし、着替える時の汗も大変… → あーもう再はいたつつらい…😩116件も… → さっきの続き…配達ルート決めるのも疲れる… → さっきの続きなんだけど、ほんと寒い…つら…",
+  "last_post_timestamp_ms": 1771149784449
 }
