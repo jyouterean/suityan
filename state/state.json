@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 70,
+  "mood": "tired",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "おはよ…まだ夢の中な",
+      "slot": "morning",
+      "timestamp": "2026-02-16 06:59:16",
+      "hasImage": false
+    },
     {
       "text": "てか、さっきのこと考えてたらさ、ほんと誰かに甘えたくなっちゃう…！一緒にいてほしいなぁ、寂しいよ…😢ねぇ、かまって…",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "commute",
       "timestamp": "2026-02-15 18:05:29",
       "hasImage": false
-    },
-    {
-      "text": "あーもう再はいたつつらい…😩116件もあるし…誰か褒めてほしい…運転しながら空見てるけど、今日は快晴…でも寒いし…やっぱり温かいもの飲みたいよ…まぁ、がんばるしかないか…いや、なんでもない",
-      "slot": "delivery",
-      "timestamp": "2026-02-15 16:24:15",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 169,
+  "month_total_posts": 170,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-16",
-  "last_post_time": "00:20:07",
+  "last_post_time": "06:59:16",
   "ng_retry_count": 34,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-16 00:20:07",
+  "updated_at": "2026-02-16 06:59:16",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "てか、さっきのこと考えてたらさ、ほんと誰…",
-  "last_post_timestamp_ms": 1771168807643
+  "today_narrative": "てか、さっきのこと考えてたらさ、ほんと誰… → おはよ…まだ夢の中な",
+  "last_post_timestamp_ms": 1771192756321
 }
