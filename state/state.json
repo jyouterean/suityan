@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 40,
+  "mood": "melancholy",
+  "energy": 30,
   "last_posts": [
+    {
+      "text": "てかさっきの寒いって話だけど、運転してると風が冷たくて手がかじかむ…😅でも配達がんばらなきゃ！早く温かいコーヒー飲みたいなぁ☕",
+      "slot": "delivery",
+      "timestamp": "2026-02-15 14:17:21",
+      "hasImage": false
+    },
     {
       "text": "今日も寒い…外に出るのつらいよね😩温かいカフェオレが恋しい…早く帰りたいなぁ",
       "slot": "casual",
@@ -37,37 +43,32 @@
       "slot": "casual",
       "timestamp": "2026-02-14 19:14:23",
       "hasImage": false
-    },
-    {
-      "text": "ふぅ…寒いし手、かじかむ…😩この時間、寒い夜は誰かと一緒にいたいなぁ…インターホン鳴るたび誰かの声聞きたい…😔あぁ、もう少しで終わるかな…",
-      "slot": "delivery",
-      "timestamp": "2026-02-14 17:50:07",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "morning",
     "commute",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 4,
+  "today_post_count": 5,
   "today_goodnight_posted": false,
-  "month_total_posts": 159,
+  "month_total_posts": 160,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-15",
-  "last_post_time": "13:14:25",
+  "last_post_time": "14:17:21",
   "ng_retry_count": 33,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-15 13:14:25",
+  "updated_at": "2026-02-15 14:17:21",
   "month_string": "2026-02",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 13,
-  "today_narrative": "おはよ…また寝たい😪 → 帰り道…さっき14Fまで階段上がったらほ… → さっきの続きなんだけど、帰ってもやる気出… → 今日も寒い…外に出るのつらいよね😩温か…",
-  "last_post_timestamp_ms": 1771128865392
+  "today_narrative": "おはよ…また寝たい😪 → 帰り道…さっき14Fまで階段上がったらほ… → さっきの続きなんだけど、帰ってもやる気出… → 今日も寒い…外に出るのつらいよね😩温か… → てかさっきの寒いって話だけど、運転してる…",
+  "last_post_timestamp_ms": 1771132641707
 }
