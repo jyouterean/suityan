@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 60,
+  "mood": "lonely",
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "てか、信号全部赤だったから余計にだる…誰かと帰りたかったな…ほんと虚しい…残り13件、なんでこんな寒い中配達しなきゃなんないんだよ…温かい飲み物が恋しい…",
+      "slot": "commute",
+      "timestamp": "2026-02-16 08:13:44",
+      "hasImage": false
+    },
     {
       "text": "おはよ…まだ夢の中な",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "casual",
       "timestamp": "2026-02-15 19:03:04",
       "hasImage": false
-    },
-    {
-      "text": "さっきの続き…配達ルート決めるのも疲れるよね…誰か一緒にいたらいいのに…運転しながらぼーっとしてたら、あっという間に帰り道…もう何も考えたくないわ…😞",
-      "slot": "commute",
-      "timestamp": "2026-02-15 18:05:29",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
-    "morning"
+    "morning",
+    "commute"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 170,
+  "month_total_posts": 171,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-16",
-  "last_post_time": "06:59:16",
-  "ng_retry_count": 34,
+  "last_post_time": "08:13:44",
+  "ng_retry_count": 35,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-16 06:59:16",
+  "updated_at": "2026-02-16 08:13:44",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "てか、さっきのこと考えてたらさ、ほんと誰… → おはよ…まだ夢の中な",
-  "last_post_timestamp_ms": 1771192756321
+  "today_narrative": "てか、さっきのこと考えてたらさ、ほんと誰… → おはよ…まだ夢の中な → てか、信号全部赤だったから余計にだる…誰…",
+  "last_post_timestamp_ms": 1771197224355
 }
