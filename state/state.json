@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あーもう再はいたつつらい…😩116件もあるし…誰か褒めてほしい…運転しながら空見てるけど、今日は快晴…でも寒いし…やっぱり温かいもの飲みたいよ…まぁ、がんばるしかないか…いや、なんでもない",
+      "slot": "delivery",
+      "timestamp": "2026-02-15 16:24:15",
+      "hasImage": false
+    },
+    {
       "text": "もう手がかじかむし、着替える時の汗も大変だ…😩誰かと一緒に配達したいなぁ。前の子供手ふってくれて、ほんと癒されたけどそんなのじゃ物足りない…今も心はだるいよ…",
       "slot": "delivery",
       "timestamp": "2026-02-15 15:24:35",
@@ -37,12 +43,6 @@
       "slot": "commute",
       "timestamp": "2026-02-15 08:16:36",
       "hasImage": false
-    },
-    {
-      "text": "おはよ…また寝たい😪",
-      "slot": "morning",
-      "timestamp": "2026-02-15 06:51:56",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "casual",
     "delivery",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": false,
-  "month_total_posts": 162,
+  "month_total_posts": 163,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-15",
-  "last_post_time": "15:24:35",
+  "last_post_time": "16:24:15",
   "ng_retry_count": 33,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-15 15:24:35",
+  "updated_at": "2026-02-15 16:24:15",
   "month_string": "2026-02",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 13,
-  "today_narrative": "おはよ…また寝たい😪 → 帰り道…さっき14Fまで階段上がったらほ… → さっきの続きなんだけど、帰ってもやる気出… → 今日も寒い…外に出るのつらいよね😩温か… → てかさっきの寒いって話だけど、運転してる… → 運転してると荷物のことばっか考える…うま… → もう手がかじかむし、着替える時の汗も大変…",
-  "last_post_timestamp_ms": 1771136675730
+  "today_narrative": "おはよ…また寝たい😪 → 帰り道…さっき14Fまで階段上がったらほ… → さっきの続きなんだけど、帰ってもやる気出… → 今日も寒い…外に出るのつらいよね😩温か… → てかさっきの寒いって話だけど、運転してる… → 運転してると荷物のことばっか考える…うま… → もう手がかじかむし、着替える時の汗も大変… → あーもう再はいたつつらい…😩116件も…",
+  "last_post_timestamp_ms": 1771140255377
 }
