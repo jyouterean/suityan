@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あー…帰り道、ほんと寒い…手がかじかむし、配達もつらいよね😩 16件残ってるけど、もう少しやる気出てほしい…温かいもの飲みたい…誰か一緒にいてほしいな…（まあ届けるんだけどさ）",
+      "slot": "night_ero",
+      "timestamp": "2026-02-15 21:44:38",
+      "hasImage": false
+    },
+    {
       "text": "おはよ…また寝たい😪外出るのほんとつらいな…寒いから手がかじかんじゃうよね…やっぱりおうちに居たいかも…温かい飲み物飲みたくなる…😩",
       "slot": "casual",
       "timestamp": "2026-02-15 20:41:12",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-02-15 15:01:36",
       "hasImage": false
-    },
-    {
-      "text": "てかさっきの寒いって話だけど、運転してると風が冷たくて手がかじかむ…😅でも配達がんばらなきゃ！早く温かいコーヒー飲みたいなぁ☕",
-      "slot": "delivery",
-      "timestamp": "2026-02-15 14:17:21",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "commute",
     "casual",
-    "casual"
+    "casual",
+    "night_ero"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": false,
-  "month_total_posts": 166,
+  "month_total_posts": 167,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-15",
-  "last_post_time": "20:41:12",
+  "last_post_time": "21:44:38",
   "ng_retry_count": 34,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-15 20:41:12",
+  "updated_at": "2026-02-15 21:44:38",
   "month_string": "2026-02",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 13,
-  "today_narrative": "おはよ…また寝たい😪 → 帰り道…さっき14Fまで階段上がったらほ… → さっきの続きなんだけど、帰ってもやる気出… → 今日も寒い…外に出るのつらいよね😩温か… → てかさっきの寒いって話だけど、運転してる… → 運転してると荷物のことばっか考える…うま… → もう手がかじかむし、着替える時の汗も大変… → あーもう再はいたつつらい…😩116件も… → さっきの続き…配達ルート決めるのも疲れる… → さっきの続きなんだけど、ほんと寒い…つら… → おはよ…また寝たい😪外出るのほんとつら…",
-  "last_post_timestamp_ms": 1771155672732
+  "today_narrative": "おはよ…また寝たい😪 → 帰り道…さっき14Fまで階段上がったらほ… → さっきの続きなんだけど、帰ってもやる気出… → 今日も寒い…外に出るのつらいよね😩温か… → てかさっきの寒いって話だけど、運転してる… → 運転してると荷物のことばっか考える…うま… → もう手がかじかむし、着替える時の汗も大変… → あーもう再はいたつつらい…😩116件も… → さっきの続き…配達ルート決めるのも疲れる… → さっきの続きなんだけど、ほんと寒い…つら… → おはよ…また寝たい😪外出るのほんとつら… → あー…帰り道、ほんと寒い…手がかじかむし…",
+  "last_post_timestamp_ms": 1771159478154
 }
