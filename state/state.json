@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 70,
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "あぁ…頭痛い…😩",
+      "slot": "morning",
+      "timestamp": "2026-02-17 06:58:56",
+      "hasImage": false
+    },
     {
       "text": "もうむり、ねる…😴",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-02-16 16:00:34",
       "hasImage": false
-    },
-    {
-      "text": "てか、冷えた体に軽バンの運転って最悪だよね…手がかじかむし、集中力もやばい…誰かに会いたいなぁ…うん、温まるもの飲みたい…あったかいオニギリもいいかも…でもお腹すいてないし…うーん…",
-      "slot": "delivery",
-      "timestamp": "2026-02-16 14:51:13",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 182,
+  "month_total_posts": 183,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-17",
-  "last_post_time": "00:29:26",
+  "last_post_time": "06:58:56",
   "ng_retry_count": 37,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-17 00:29:26",
+  "updated_at": "2026-02-17 06:58:56",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 8,
-  "today_narrative": "もうむり、ねる…😴",
-  "last_post_timestamp_ms": 1771255766535
+  "today_narrative": "もうむり、ねる…😴 → あぁ…頭痛い…😩",
+  "last_post_timestamp_ms": 1771279136810
 }
