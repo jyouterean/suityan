@@ -1,7 +1,13 @@
 {
   "mood": "lonely",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "休憩中…寒いし手動かないし、台車押すのもだるい…誰かに会いたいな…褒めてほしい…86件の配達終わったら温かい飲み物が欲しい…☕️✨",
+      "slot": "delivery",
+      "timestamp": "2026-02-16 09:05:34",
+      "hasImage": false
+    },
     {
       "text": "てか、信号全部赤だったから余計にだる…誰かと帰りたかったな…ほんと虚しい…残り13件、なんでこんな寒い中配達しなきゃなんないんだよ…温かい飲み物が恋しい…",
       "slot": "commute",
@@ -37,36 +43,31 @@
       "slot": "casual",
       "timestamp": "2026-02-15 20:41:12",
       "hasImage": false
-    },
-    {
-      "text": "さっきの続きなんだけど、ほんと寒い…つらいよね😩 てか、あったかい飲み物が恋しい…もう帰りたくなっちゃう…",
-      "slot": "casual",
-      "timestamp": "2026-02-15 19:03:04",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
     "morning",
-    "commute"
+    "commute",
+    "delivery"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": false,
-  "month_total_posts": 171,
+  "month_total_posts": 172,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-16",
-  "last_post_time": "08:13:44",
+  "last_post_time": "09:05:34",
   "ng_retry_count": 35,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-16 08:13:44",
+  "updated_at": "2026-02-16 09:05:34",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "てか、さっきのこと考えてたらさ、ほんと誰… → おはよ…まだ夢の中な → てか、信号全部赤だったから余計にだる…誰…",
-  "last_post_timestamp_ms": 1771197224355
+  "today_narrative": "てか、さっきのこと考えてたらさ、ほんと誰… → おはよ…まだ夢の中な → てか、信号全部赤だったから余計にだる…誰… → 休憩中…寒いし手動かないし、台車押すのも…",
+  "last_post_timestamp_ms": 1771200334627
 }
