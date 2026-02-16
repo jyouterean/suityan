@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "さっきの話思い出したらさ…ほんと誰かとしゃべりたくなっちゃった…\\nあーまたしんどくなってきた…・寒いし、ココアとか飲みたいなぁ…\\n今、手もかじかむし…あーもう、だるいなぁ…誰かかまって…😢",
+      "slot": "casual",
+      "timestamp": "2026-02-16 20:51:56",
+      "hasImage": false
+    },
+    {
       "text": "運転中にさ、また信号赤だったし…ほんとにだるいなぁ…おなかすいたけど、まだ昼までは時間あるし…あー、温かいスープでも飲みたい…手もかじかむし、心も冷え切ってる気がする…😔☁️",
       "slot": "casual",
       "timestamp": "2026-02-16 19:32:38",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-02-16 13:06:45",
       "hasImage": false
-    },
-    {
-      "text": "なんか温かい飲み物欲しいなぁ…手冷たくて全然動かないし、脱ぎたくない防寒着に包まれてる…でも快晴だし、いっそお散歩したい気分…誰か一緒にいてくれたらいいのに…☕️🌞",
-      "slot": "casual",
-      "timestamp": "2026-02-16 12:31:22",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "delivery",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": false,
-  "month_total_posts": 179,
+  "month_total_posts": 180,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-16",
-  "last_post_time": "19:32:38",
+  "last_post_time": "20:51:56",
   "ng_retry_count": 36,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-16 19:32:38",
+  "updated_at": "2026-02-16 20:51:56",
   "month_string": "2026-02",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 13,
-  "today_narrative": "てか、さっきのこと考えてたらさ、ほんと誰… → おはよ…まだ夢の中な → てか、信号全部赤だったから余計にだる…誰… → 休憩中…寒いし手動かないし、台車押すのも… → なんか温かい飲み物欲しいなぁ…手冷たくて… → 寒いなぁ…なんか温かいココアとか飲みたい… → てか、オニギリ食べたら元気出るかな…でも… → てか、冷えた体に軽バンの運転って最悪だよ… → あーもう、寒さと階段で疲れた…手もかじか… → あー手がかじかんで…運転もしんどいし、お… → 運転中にさ、また信号赤だったし…ほんとに…",
-  "last_post_timestamp_ms": 1771237958432
+  "today_narrative": "てか、さっきのこと考えてたらさ、ほんと誰… → おはよ…まだ夢の中な → てか、信号全部赤だったから余計にだる…誰… → 休憩中…寒いし手動かないし、台車押すのも… → なんか温かい飲み物欲しいなぁ…手冷たくて… → 寒いなぁ…なんか温かいココアとか飲みたい… → てか、オニギリ食べたら元気出るかな…でも… → てか、冷えた体に軽バンの運転って最悪だよ… → あーもう、寒さと階段で疲れた…手もかじか… → あー手がかじかんで…運転もしんどいし、お… → 運転中にさ、また信号赤だったし…ほんとに… → さっきの話思い出したらさ…ほんと誰かとし…",
+  "last_post_timestamp_ms": 1771242716524
 }
