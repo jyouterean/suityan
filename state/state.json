@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あーもう、寒さと階段で疲れた…手もかじかむし、台車押すのしんどいわ…😩温かいものないときついな、誰かに会いたい…お客さんとのやりとりでもうちょっと元気出せたらいいんだけど…",
+      "slot": "delivery",
+      "timestamp": "2026-02-16 16:00:34",
+      "hasImage": false
+    },
+    {
       "text": "てか、冷えた体に軽バンの運転って最悪だよね…手がかじかむし、集中力もやばい…誰かに会いたいなぁ…うん、温まるもの飲みたい…あったかいオニギリもいいかも…でもお腹すいてないし…うーん…",
       "slot": "delivery",
       "timestamp": "2026-02-16 14:51:13",
@@ -37,12 +43,6 @@
       "slot": "commute",
       "timestamp": "2026-02-16 08:13:44",
       "hasImage": false
-    },
-    {
-      "text": "おはよ…まだ夢の中な",
-      "slot": "morning",
-      "timestamp": "2026-02-16 06:59:16",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "casual",
     "casual",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": false,
-  "month_total_posts": 176,
+  "month_total_posts": 177,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-16",
-  "last_post_time": "14:51:13",
+  "last_post_time": "16:00:34",
   "ng_retry_count": 35,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-16 14:51:13",
+  "updated_at": "2026-02-16 16:00:34",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "てか、さっきのこと考えてたらさ、ほんと誰… → おはよ…まだ夢の中な → てか、信号全部赤だったから余計にだる…誰… → 休憩中…寒いし手動かないし、台車押すのも… → なんか温かい飲み物欲しいなぁ…手冷たくて… → 寒いなぁ…なんか温かいココアとか飲みたい… → てか、オニギリ食べたら元気出るかな…でも… → てか、冷えた体に軽バンの運転って最悪だよ…",
-  "last_post_timestamp_ms": 1771221073141
+  "today_narrative": "てか、さっきのこと考えてたらさ、ほんと誰… → おはよ…まだ夢の中な → てか、信号全部赤だったから余計にだる…誰… → 休憩中…寒いし手動かないし、台車押すのも… → なんか温かい飲み物欲しいなぁ…手冷たくて… → 寒いなぁ…なんか温かいココアとか飲みたい… → てか、オニギリ食べたら元気出るかな…でも… → てか、冷えた体に軽バンの運転って最悪だよ… → あーもう、寒さと階段で疲れた…手もかじか…",
+  "last_post_timestamp_ms": 1771225234173
 }
