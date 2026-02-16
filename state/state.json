@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "まだまだ寒いなぁ… さっき、荷物届けるのだるかったし…。あー、温かいココア飲みたい…手がかじかんでる… 誰か、一緒にいてほしい…ねぇ…",
+      "slot": "night_ero",
+      "timestamp": "2026-02-16 21:53:56",
+      "hasImage": false
+    },
+    {
       "text": "さっきの話思い出したらさ…ほんと誰かとしゃべりたくなっちゃった…\\nあーまたしんどくなってきた…・寒いし、ココアとか飲みたいなぁ…\\n今、手もかじかむし…あーもう、だるいなぁ…誰かかまって…😢",
       "slot": "casual",
       "timestamp": "2026-02-16 20:51:56",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-02-16 14:09:11",
       "hasImage": false
-    },
-    {
-      "text": "寒いなぁ…なんか温かいココアとか飲みたい気分…ご飯もどうでもいいけど、あのコンビニのオニギリが無性に食べたくなってる…なんでだろ？あー、週の始まりだるいなぁ…",
-      "slot": "casual",
-      "timestamp": "2026-02-16 13:06:45",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -57,25 +57,26 @@
     "delivery",
     "delivery",
     "casual",
-    "casual"
+    "casual",
+    "night_ero"
   ],
-  "today_post_count": 12,
+  "today_post_count": 13,
   "today_goodnight_posted": false,
-  "month_total_posts": 180,
+  "month_total_posts": 181,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-16",
-  "last_post_time": "20:51:56",
-  "ng_retry_count": 36,
+  "last_post_time": "21:53:56",
+  "ng_retry_count": 37,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-16 20:51:56",
+  "updated_at": "2026-02-16 21:53:56",
   "month_string": "2026-02",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 13,
-  "today_narrative": "てか、さっきのこと考えてたらさ、ほんと誰… → おはよ…まだ夢の中な → てか、信号全部赤だったから余計にだる…誰… → 休憩中…寒いし手動かないし、台車押すのも… → なんか温かい飲み物欲しいなぁ…手冷たくて… → 寒いなぁ…なんか温かいココアとか飲みたい… → てか、オニギリ食べたら元気出るかな…でも… → てか、冷えた体に軽バンの運転って最悪だよ… → あーもう、寒さと階段で疲れた…手もかじか… → あー手がかじかんで…運転もしんどいし、お… → 運転中にさ、また信号赤だったし…ほんとに… → さっきの話思い出したらさ…ほんと誰かとし…",
-  "last_post_timestamp_ms": 1771242716524
+  "today_narrative": "てか、さっきのこと考えてたらさ、ほんと誰… → おはよ…まだ夢の中な → てか、信号全部赤だったから余計にだる…誰… → 休憩中…寒いし手動かないし、台車押すのも… → なんか温かい飲み物欲しいなぁ…手冷たくて… → 寒いなぁ…なんか温かいココアとか飲みたい… → てか、オニギリ食べたら元気出るかな…でも… → てか、冷えた体に軽バンの運転って最悪だよ… → あーもう、寒さと階段で疲れた…手もかじか… → あー手がかじかんで…運転もしんどいし、お… → 運転中にさ、また信号赤だったし…ほんとに… → さっきの話思い出したらさ…ほんと誰かとし… → まだまだ寒いなぁ… さっき、荷物届けるの…",
+  "last_post_timestamp_ms": 1771246436506
 }
