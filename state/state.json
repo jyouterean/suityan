@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 10,
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "もうむり、ねる…😴",
+      "slot": "simple_goodnight",
+      "timestamp": "2026-02-17 00:29:26",
+      "hasImage": false
+    },
     {
       "text": "まだまだ寒いなぁ… さっき、荷物届けるのだるかったし…。あー、温かいココア飲みたい…手がかじかんでる… 誰か、一緒にいてほしい…ねぇ…",
       "slot": "night_ero",
@@ -37,46 +43,28 @@
       "slot": "delivery",
       "timestamp": "2026-02-16 14:51:13",
       "hasImage": false
-    },
-    {
-      "text": "てか、オニギリ食べたら元気出るかな…でも運転中に食べるのってめんどくさいよなぁ😩こっちは寒いし、さっさと配達終わらせたいのに…",
-      "slot": "delivery",
-      "timestamp": "2026-02-16 14:09:11",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight",
-    "morning",
-    "commute",
-    "delivery",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery",
-    "delivery",
-    "casual",
-    "casual",
-    "night_ero"
+    "simple_goodnight"
   ],
-  "today_post_count": 13,
+  "today_post_count": 1,
   "today_goodnight_posted": false,
-  "month_total_posts": 181,
+  "month_total_posts": 182,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-02-16",
-  "last_post_time": "21:53:56",
+  "last_post_date": "2026-02-17",
+  "last_post_time": "00:29:26",
   "ng_retry_count": 37,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-16 21:53:56",
+  "updated_at": "2026-02-17 00:29:26",
   "month_string": "2026-02",
-  "today_skipped": true,
+  "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": true,
-  "today_skip_count": 1,
-  "today_max_posts": 13,
-  "today_narrative": "てか、さっきのこと考えてたらさ、ほんと誰… → おはよ…まだ夢の中な → てか、信号全部赤だったから余計にだる…誰… → 休憩中…寒いし手動かないし、台車押すのも… → なんか温かい飲み物欲しいなぁ…手冷たくて… → 寒いなぁ…なんか温かいココアとか飲みたい… → てか、オニギリ食べたら元気出るかな…でも… → てか、冷えた体に軽バンの運転って最悪だよ… → あーもう、寒さと階段で疲れた…手もかじか… → あー手がかじかんで…運転もしんどいし、お… → 運転中にさ、また信号赤だったし…ほんとに… → さっきの話思い出したらさ…ほんと誰かとし… → まだまだ寒いなぁ… さっき、荷物届けるの…",
-  "last_post_timestamp_ms": 1771246436506
+  "today_morning_posted": false,
+  "today_skip_count": 0,
+  "today_max_posts": 8,
+  "today_narrative": "もうむり、ねる…😴",
+  "last_post_timestamp_ms": 1771255766535
 }
