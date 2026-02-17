@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 10,
+  "mood": "lonely",
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "おやすみ…寒くて手が冷たいよ〜。なんか、今日も129件も配達して、疲れちゃった。でも明日も頑張るね♡ もっとかまってほしいなぁ… 寂しいよ…",
+      "slot": "goodnight",
+      "timestamp": "2026-02-18 00:47:13",
+      "hasImage": false
+    },
     {
       "text": "あーもう、126件もはいたつしてるのに…ほんと、段ボール重いし、しんどいなぁ。今、ネコ見かけたんだけど、ちょっと癒されてる...いや、なんでもない😅",
       "slot": "delivery",
@@ -37,41 +43,28 @@
       "slot": "commute",
       "timestamp": "2026-02-17 08:14:22",
       "hasImage": false
-    },
-    {
-      "text": "あぁ…頭痛い…😩",
-      "slot": "morning",
-      "timestamp": "2026-02-17 06:58:56",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight",
-    "morning",
-    "commute",
-    "delivery",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery"
+    "goodnight"
   ],
-  "today_post_count": 8,
-  "today_goodnight_posted": false,
-  "month_total_posts": 189,
+  "today_post_count": 1,
+  "today_goodnight_posted": true,
+  "month_total_posts": 190,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-02-17",
-  "last_post_time": "15:45:22",
+  "last_post_date": "2026-02-18",
+  "last_post_time": "00:47:13",
   "ng_retry_count": 37,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-17 15:45:22",
+  "updated_at": "2026-02-18 00:47:13",
   "month_string": "2026-02",
-  "today_skipped": true,
-  "today_simple_goodnight_posted": true,
-  "today_morning_posted": true,
-  "today_skip_count": 1,
-  "today_max_posts": 8,
-  "today_narrative": "もうむり、ねる…😴 → あぁ…頭痛い…😩 → 手がかじかむ…寒いなぁ、ダルいなぁ。今日… → 結局、配達終わらないし…段ボール重いし、… → いや、でも配達先の人たちが優しくてちょっ… → なんかさ、軽バンの中でずっと一人って寂し… → 手がかじかんで動かしづらい…寒いなぁ。今… → あーもう、126件もはいたつしてるのに……",
-  "last_post_timestamp_ms": 1771310722277
+  "today_skipped": false,
+  "today_simple_goodnight_posted": false,
+  "today_morning_posted": false,
+  "today_skip_count": 0,
+  "today_max_posts": 14,
+  "today_narrative": "おやすみ…寒くて手が冷たいよ〜。なんか、…",
+  "last_post_timestamp_ms": 1771343233007
 }
