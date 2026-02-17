@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 60,
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "やっぱり寒いなぁ…手が動かない😣 なんか、あったかい飲み物でも飲みたい… 今日はずっとだるくて、冬が嫌だ…",
+      "slot": "casual",
+      "timestamp": "2026-02-18 08:18:09",
+      "hasImage": false
+    },
     {
       "text": "昨日の疲れがまだ取れない…😪 今日は配達どれだけできるかな… ほんと、むり… 朝から寒いし…🥶",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "casual",
       "timestamp": "2026-02-17 12:48:21",
       "hasImage": false
-    },
-    {
-      "text": "結局、配達終わらないし…段ボール重いし、手がかじかむのきつい…誰かに会いたいなぁ（は？）😩 119件のうち、まだ21件…終わったら温かいもの飲みたいな。寒いのどうにかならんかな…",
-      "slot": "delivery",
-      "timestamp": "2026-02-17 09:03:55",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
-    "morning"
+    "morning",
+    "casual"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": true,
-  "month_total_posts": 191,
+  "month_total_posts": 192,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-18",
-  "last_post_time": "06:47:44",
+  "last_post_time": "08:18:09",
   "ng_retry_count": 37,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-18 06:47:44",
+  "updated_at": "2026-02-18 08:18:09",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "おやすみ…寒くて手が冷たいよ〜。なんか、… → 昨日の疲れがまだ取れない…😪 今日は配…",
-  "last_post_timestamp_ms": 1771364864185
+  "today_narrative": "おやすみ…寒くて手が冷たいよ〜。なんか、… → 昨日の疲れがまだ取れない…😪 今日は配… → やっぱり寒いなぁ…手が動かない😣 なん…",
+  "last_post_timestamp_ms": 1771370289014
 }
