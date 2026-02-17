@@ -1,7 +1,13 @@
 {
   "mood": "frustrated",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "結局、配達終わらないし…段ボール重いし、手がかじかむのきつい…誰かに会いたいなぁ（は？）😩 119件のうち、まだ21件…終わったら温かいもの飲みたいな。寒いのどうにかならんかな…",
+      "slot": "delivery",
+      "timestamp": "2026-02-17 09:03:55",
+      "hasImage": false
+    },
     {
       "text": "手がかじかむ…寒いなぁ、ダルいなぁ。今日、配達102件もやって、頭痛いし…😩 配達先の子供に手振られた時は癒されたけど、今は一人で帰る虚しさが襲ってきた。もう、誰かと帰りたい…😴",
       "slot": "commute",
@@ -37,36 +43,31 @@
       "slot": "casual",
       "timestamp": "2026-02-16 19:32:38",
       "hasImage": false
-    },
-    {
-      "text": "あー手がかじかんで…運転もしんどいし、お客さんとのやりとりも気を使うし…誰かに会いたい…あったかいもの飲みたいなぁ…",
-      "slot": "delivery",
-      "timestamp": "2026-02-16 16:45:54",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
     "morning",
-    "commute"
+    "commute",
+    "delivery"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": false,
-  "month_total_posts": 184,
+  "month_total_posts": 185,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-17",
-  "last_post_time": "08:14:22",
+  "last_post_time": "09:03:55",
   "ng_retry_count": 37,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-17 08:14:22",
+  "updated_at": "2026-02-17 09:03:55",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 8,
-  "today_narrative": "もうむり、ねる…😴 → あぁ…頭痛い…😩 → 手がかじかむ…寒いなぁ、ダルいなぁ。今日…",
-  "last_post_timestamp_ms": 1771283662510
+  "today_narrative": "もうむり、ねる…😴 → あぁ…頭痛い…😩 → 手がかじかむ…寒いなぁ、ダルいなぁ。今日… → 結局、配達終わらないし…段ボール重いし、…",
+  "last_post_timestamp_ms": 1771286635327
 }
