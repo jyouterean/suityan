@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 30,
+  "mood": "frustrated",
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "寒くて、ほんと手がかじかむ…😩 お昼のコンビニで温かい飲み物買えばよかったかなぁ。少し元気出して、あったかいもの飲みたいな。",
+      "slot": "casual",
+      "timestamp": "2026-02-18 13:12:42",
+      "hasImage": false
+    },
     {
       "text": "おやすみ…寒くて手が冷たいよ〜。なんか、今日はずっと誰かにかまってほしい気分…😢 でも、快晴なのに寒いし、心も寂しいなぁ。明日、少しでも温かいもの飲みたいなぁ…",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-02-17 15:45:22",
       "hasImage": false
-    },
-    {
-      "text": "手がかじかんで動かしづらい…寒いなぁ。今週まだ半分か、無理だわ。まぁ優しいお客さんもいるけど、やっぱひとりでいるのって辛いなって思ったりするよね…って誰に言ってんだろ。あ、ダンボールが重いし…😩",
-      "slot": "delivery",
-      "timestamp": "2026-02-17 15:01:10",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "morning",
     "casual",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": true,
-  "month_total_posts": 194,
+  "month_total_posts": 195,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-18",
-  "last_post_time": "12:47:47",
+  "last_post_time": "13:12:42",
   "ng_retry_count": 37,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-18 12:47:47",
+  "updated_at": "2026-02-18 13:12:42",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "おやすみ…寒くて手が冷たいよ〜。なんか、… → 昨日の疲れがまだ取れない…😪 今日は配… → やっぱり寒いなぁ…手が動かない😣 なん… → 配達も終わりかけ…でも荷物が多くて手がか… → おやすみ…寒くて手が冷たいよ〜。なんか、…",
-  "last_post_timestamp_ms": 1771386467830
+  "today_narrative": "おやすみ…寒くて手が冷たいよ〜。なんか、… → 昨日の疲れがまだ取れない…😪 今日は配… → やっぱり寒いなぁ…手が動かない😣 なん… → 配達も終わりかけ…でも荷物が多くて手がか… → おやすみ…寒くて手が冷たいよ〜。なんか、… → 寒くて、ほんと手がかじかむ…😩 お昼の…",
+  "last_post_timestamp_ms": 1771387962883
 }
