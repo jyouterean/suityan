@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "配達中にネコ見つけた…癒された…でもまだ17件残ってるし寒さがしんどいよ〜💦手がかじかむし、休憩したいなぁ…誰か褒めてくれないかな…",
+      "slot": "delivery",
+      "timestamp": "2026-02-18 15:45:00",
+      "hasImage": false
+    },
+    {
       "text": "あーもう、寒くて手がちぎれそう😩💔 配達も終わりかけだけど、荷物が重くてもうしんどい…誰かに会って温かいもの飲みたいなぁ…",
       "slot": "delivery",
       "timestamp": "2026-02-18 15:04:23",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-02-18 08:18:09",
       "hasImage": false
-    },
-    {
-      "text": "昨日の疲れがまだ取れない…😪 今日は配達どれだけできるかな… ほんと、むり… 朝から寒いし…🥶",
-      "slot": "morning",
-      "timestamp": "2026-02-18 06:47:44",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "casual",
     "casual",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": true,
-  "month_total_posts": 197,
+  "month_total_posts": 198,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-18",
-  "last_post_time": "15:04:23",
+  "last_post_time": "15:45:00",
   "ng_retry_count": 37,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-18 15:04:23",
+  "updated_at": "2026-02-18 15:45:00",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "おやすみ…寒くて手が冷たいよ〜。なんか、… → 昨日の疲れがまだ取れない…😪 今日は配… → やっぱり寒いなぁ…手が動かない😣 なん… → 配達も終わりかけ…でも荷物が多くて手がか… → おやすみ…寒くて手が冷たいよ〜。なんか、… → 寒くて、ほんと手がかじかむ…😩 お昼の… → うーん、さっきから寒さが増してきたなぁ…… → あーもう、寒くて手がちぎれそう😩💔 …",
-  "last_post_timestamp_ms": 1771394663062
+  "today_narrative": "おやすみ…寒くて手が冷たいよ〜。なんか、… → 昨日の疲れがまだ取れない…😪 今日は配… → やっぱり寒いなぁ…手が動かない😣 なん… → 配達も終わりかけ…でも荷物が多くて手がか… → おやすみ…寒くて手が冷たいよ〜。なんか、… → 寒くて、ほんと手がかじかむ…😩 お昼の… → うーん、さっきから寒さが増してきたなぁ…… → あーもう、寒くて手がちぎれそう😩💔 … → 配達中にネコ見つけた…癒された…でもまだ…",
+  "last_post_timestamp_ms": 1771397100609
 }
