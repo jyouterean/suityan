@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "うーん、さっきから寒さが増してきたなぁ…ほんと手の感覚がない…😩 こんな時はあったかい飲み物が欲しいよね…飲み物買って帰りたい…でもやっぱり一人じゃな寂しいなぁ…",
+      "slot": "casual",
+      "timestamp": "2026-02-18 20:55:22",
+      "hasImage": false
+    },
+    {
       "text": "あーもうほんと寒い…手がかじかむ…💔\n昼ごはんも食べ損ねたし、あったかいもの飲みたいなぁ…なんか、あったかいスープとか…ううっ、気持ちだけでもあったかくなりたいよ…😪",
       "slot": "casual",
       "timestamp": "2026-02-18 19:20:59",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-02-18 14:01:19",
       "hasImage": false
-    },
-    {
-      "text": "寒くて、ほんと手がかじかむ…😩 お昼のコンビニで温かい飲み物買えばよかったかなぁ。少し元気出して、あったかいもの飲みたいな。",
-      "slot": "casual",
-      "timestamp": "2026-02-18 13:12:42",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -57,25 +57,26 @@
     "delivery",
     "delivery",
     "commute",
+    "casual",
     "casual"
   ],
-  "today_post_count": 12,
+  "today_post_count": 13,
   "today_goodnight_posted": true,
-  "month_total_posts": 201,
+  "month_total_posts": 202,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-18",
-  "last_post_time": "19:20:59",
+  "last_post_time": "20:55:22",
   "ng_retry_count": 38,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-18 19:20:59",
+  "updated_at": "2026-02-18 20:55:22",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "おやすみ…寒くて手が冷たいよ〜。なんか、… → 昨日の疲れがまだ取れない…😪 今日は配… → やっぱり寒いなぁ…手が動かない😣 なん… → 配達も終わりかけ…でも荷物が多くて手がか… → おやすみ…寒くて手が冷たいよ〜。なんか、… → 寒くて、ほんと手がかじかむ…😩 お昼の… → うーん、さっきから寒さが増してきたなぁ…… → あーもう、寒くて手がちぎれそう😩💔 … → 配達中にネコ見つけた…癒された…でもまだ… → もうすぐ配達終わるけど、荷物が重いし台車… → さっき荷物多いって言ったけど、ほんとにし… → あーもうほんと寒い…手がかじかむ…💔\n…",
-  "last_post_timestamp_ms": 1771410059503
+  "today_narrative": "おやすみ…寒くて手が冷たいよ〜。なんか、… → 昨日の疲れがまだ取れない…😪 今日は配… → やっぱり寒いなぁ…手が動かない😣 なん… → 配達も終わりかけ…でも荷物が多くて手がか… → おやすみ…寒くて手が冷たいよ〜。なんか、… → 寒くて、ほんと手がかじかむ…😩 お昼の… → うーん、さっきから寒さが増してきたなぁ…… → あーもう、寒くて手がちぎれそう😩💔 … → 配達中にネコ見つけた…癒された…でもまだ… → もうすぐ配達終わるけど、荷物が重いし台車… → さっき荷物多いって言ったけど、ほんとにし… → あーもうほんと寒い…手がかじかむ…💔\n… → うーん、さっきから寒さが増してきたなぁ……",
+  "last_post_timestamp_ms": 1771415722879
 }
