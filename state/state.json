@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 10,
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "もう無理だわ、寝る…😪",
+      "slot": "simple_goodnight",
+      "timestamp": "2026-02-19 00:28:37",
+      "hasImage": false
+    },
     {
       "text": "あー、ほんと寒い…😩配達も残りわずかだけど、手が動かないよ〜もう少しでおうち帰れるかな…？温もりほしい…",
       "slot": "night_ero",
@@ -37,47 +43,28 @@
       "slot": "delivery",
       "timestamp": "2026-02-18 15:45:00",
       "hasImage": false
-    },
-    {
-      "text": "あーもう、寒くて手がちぎれそう😩💔 配達も終わりかけだけど、荷物が重くてもうしんどい…誰かに会って温かいもの飲みたいなぁ…",
-      "slot": "delivery",
-      "timestamp": "2026-02-18 15:04:23",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight",
-    "morning",
-    "casual",
-    "delivery",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery",
-    "delivery",
-    "commute",
-    "casual",
-    "casual",
-    "night_ero"
+    "simple_goodnight"
   ],
-  "today_post_count": 14,
-  "today_goodnight_posted": true,
-  "month_total_posts": 203,
+  "today_post_count": 1,
+  "today_goodnight_posted": false,
+  "month_total_posts": 204,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-02-18",
-  "last_post_time": "22:01:44",
+  "last_post_date": "2026-02-19",
+  "last_post_time": "00:28:37",
   "ng_retry_count": 38,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-18 22:01:44",
+  "updated_at": "2026-02-19 00:28:37",
   "month_string": "2026-02",
   "today_skipped": false,
-  "today_simple_goodnight_posted": false,
-  "today_morning_posted": true,
+  "today_simple_goodnight_posted": true,
+  "today_morning_posted": false,
   "today_skip_count": 0,
-  "today_max_posts": 14,
-  "today_narrative": "おやすみ…寒くて手が冷たいよ〜。なんか、… → 昨日の疲れがまだ取れない…😪 今日は配… → やっぱり寒いなぁ…手が動かない😣 なん… → 配達も終わりかけ…でも荷物が多くて手がか… → おやすみ…寒くて手が冷たいよ〜。なんか、… → 寒くて、ほんと手がかじかむ…😩 お昼の… → うーん、さっきから寒さが増してきたなぁ…… → あーもう、寒くて手がちぎれそう😩💔 … → 配達中にネコ見つけた…癒された…でもまだ… → もうすぐ配達終わるけど、荷物が重いし台車… → さっき荷物多いって言ったけど、ほんとにし… → あーもうほんと寒い…手がかじかむ…💔\n… → うーん、さっきから寒さが増してきたなぁ…… → あー、ほんと寒い…😩配達も残りわずかだ…",
-  "last_post_timestamp_ms": 1771419704296
+  "today_max_posts": 13,
+  "today_narrative": "もう無理だわ、寝る…😪",
+  "last_post_timestamp_ms": 1771428517822
 }
