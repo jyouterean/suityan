@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 70,
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "おはよ…まだ夢の中…😴",
+      "slot": "morning",
+      "timestamp": "2026-02-19 06:58:51",
+      "hasImage": false
+    },
     {
       "text": "もう無理だわ、寝る…😪",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-02-18 16:43:31",
       "hasImage": false
-    },
-    {
-      "text": "配達中にネコ見つけた…癒された…でもまだ17件残ってるし寒さがしんどいよ〜💦手がかじかむし、休憩したいなぁ…誰か褒めてくれないかな…",
-      "slot": "delivery",
-      "timestamp": "2026-02-18 15:45:00",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 204,
+  "month_total_posts": 205,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-19",
-  "last_post_time": "00:28:37",
+  "last_post_time": "06:58:51",
   "ng_retry_count": 38,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-19 00:28:37",
+  "updated_at": "2026-02-19 06:58:51",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "もう無理だわ、寝る…😪",
-  "last_post_timestamp_ms": 1771428517822
+  "today_narrative": "もう無理だわ、寝る…😪 → おはよ…まだ夢の中…😴",
+  "last_post_timestamp_ms": 1771451931755
 }
