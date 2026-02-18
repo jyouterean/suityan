@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 60,
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "さっきの続き…ほんと、寒くて手がかじかむ…☃️温かいもの飲みたいな…あと少しの辛抱だけど、だるいなぁ…😩",
+      "slot": "casual",
+      "timestamp": "2026-02-19 08:25:26",
+      "hasImage": false
+    },
     {
       "text": "おはよ…まだ夢の中…😴",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "commute",
       "timestamp": "2026-02-18 18:07:40",
       "hasImage": false
-    },
-    {
-      "text": "もうすぐ配達終わるけど、荷物が重いし台車もなかなか動かない……😩 早くおうち帰りたいなぁ…温かい飲み物が恋しいよね。寒いし、手もかじかんでるし、ふぅ…😓",
-      "slot": "delivery",
-      "timestamp": "2026-02-18 16:43:31",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
-    "morning"
+    "morning",
+    "casual"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 205,
+  "month_total_posts": 206,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-19",
-  "last_post_time": "06:58:51",
+  "last_post_time": "08:25:26",
   "ng_retry_count": 38,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-19 06:58:51",
+  "updated_at": "2026-02-19 08:25:26",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "もう無理だわ、寝る…😪 → おはよ…まだ夢の中…😴",
-  "last_post_timestamp_ms": 1771451931755
+  "today_narrative": "もう無理だわ、寝る…😪 → おはよ…まだ夢の中…😴 → さっきの続き…ほんと、寒くて手がかじかむ…",
+  "last_post_timestamp_ms": 1771457126087
 }
