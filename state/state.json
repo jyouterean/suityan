@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "さっき荷物多いって言ったけど、ほんとにしんどい…。寒さで手動かないし、帰りたい気分…😩誰か一緒に帰ってほしいよ〜（は？）",
+      "slot": "commute",
+      "timestamp": "2026-02-18 18:07:40",
+      "hasImage": false
+    },
+    {
       "text": "もうすぐ配達終わるけど、荷物が重いし台車もなかなか動かない……😩 早くおうち帰りたいなぁ…温かい飲み物が恋しいよね。寒いし、手もかじかんでるし、ふぅ…😓",
       "slot": "delivery",
       "timestamp": "2026-02-18 16:43:31",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-02-18 12:47:47",
       "hasImage": false
-    },
-    {
-      "text": "配達も終わりかけ…でも荷物が多くて手がかじかむなぁ…だるい…😩 誰かに会いたいなぁ、褒めてほしい…寒い中、エナドリで頑張ってるけど…もうちょっと温かいものが恋しいかも",
-      "slot": "delivery",
-      "timestamp": "2026-02-18 09:16:47",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -55,25 +55,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "delivery"
+    "delivery",
+    "commute"
   ],
-  "today_post_count": 10,
+  "today_post_count": 11,
   "today_goodnight_posted": true,
-  "month_total_posts": 199,
+  "month_total_posts": 200,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-18",
-  "last_post_time": "16:43:31",
+  "last_post_time": "18:07:40",
   "ng_retry_count": 38,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-18 16:43:31",
+  "updated_at": "2026-02-18 18:07:40",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "おやすみ…寒くて手が冷たいよ〜。なんか、… → 昨日の疲れがまだ取れない…😪 今日は配… → やっぱり寒いなぁ…手が動かない😣 なん… → 配達も終わりかけ…でも荷物が多くて手がか… → おやすみ…寒くて手が冷たいよ〜。なんか、… → 寒くて、ほんと手がかじかむ…😩 お昼の… → うーん、さっきから寒さが増してきたなぁ…… → あーもう、寒くて手がちぎれそう😩💔 … → 配達中にネコ見つけた…癒された…でもまだ… → もうすぐ配達終わるけど、荷物が重いし台車…",
-  "last_post_timestamp_ms": 1771400611221
+  "today_narrative": "おやすみ…寒くて手が冷たいよ〜。なんか、… → 昨日の疲れがまだ取れない…😪 今日は配… → やっぱり寒いなぁ…手が動かない😣 なん… → 配達も終わりかけ…でも荷物が多くて手がか… → おやすみ…寒くて手が冷たいよ〜。なんか、… → 寒くて、ほんと手がかじかむ…😩 お昼の… → うーん、さっきから寒さが増してきたなぁ…… → あーもう、寒くて手がちぎれそう😩💔 … → 配達中にネコ見つけた…癒された…でもまだ… → もうすぐ配達終わるけど、荷物が重いし台車… → さっき荷物多いって言ったけど、ほんとにし…",
+  "last_post_timestamp_ms": 1771405660644
 }
