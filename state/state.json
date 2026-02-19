@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 70,
+  "mood": "tired",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "おはよう…まだ眠いなぁ",
+      "slot": "morning",
+      "timestamp": "2026-02-20 06:58:52",
+      "hasImage": false
+    },
     {
       "text": "てかさっきの、ほんと誰かと一緒にいるのっていいよね…😢 お喋りしながら、あったかい飲み物飲みたいなぁ…ねぇ、かまって…",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-02-19 15:57:19",
       "hasImage": false
-    },
-    {
-      "text": "ほんと、寒いと手がかじかむし、荷物も重くてさ…😩 みんなもっと優しくしてほしいよ。今、6Fまで階段上がったのに、まだまだ…😔 さっきの配達も大変だったなぁ。あー、誰かに会いたい…",
-      "slot": "delivery",
-      "timestamp": "2026-02-19 14:52:53",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 217,
+  "month_total_posts": 218,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-20",
-  "last_post_time": "00:28:38",
+  "last_post_time": "06:58:52",
   "ng_retry_count": 41,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-20 00:28:38",
+  "updated_at": "2026-02-20 06:58:52",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "てかさっきの、ほんと誰かと一緒にいるのっ…",
-  "last_post_timestamp_ms": 1771514918981
+  "today_narrative": "てかさっきの、ほんと誰かと一緒にいるのっ… → おはよう…まだ眠いなぁ",
+  "last_post_timestamp_ms": 1771538332968
 }
