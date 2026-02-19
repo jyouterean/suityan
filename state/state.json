@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 50,
+  "mood": "lonely",
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "台車押すのももう慣れたけど、寒いとやっぱりつらい。お客さんは優しい人もいるけどさ、たまに冷たいのもいて…なんか褒めてほしいなぁって思っちゃう。ってか、誰かに会いたい…😔 あと5件、早く終わんないかな。",
+      "slot": "delivery",
+      "timestamp": "2026-02-19 09:12:25",
+      "hasImage": false
+    },
     {
       "text": "さっきの続き…ほんと、寒くて手がかじかむ…☃️温かいもの飲みたいな…あと少しの辛抱だけど、だるいなぁ…😩",
       "slot": "casual",
@@ -37,36 +43,31 @@
       "slot": "casual",
       "timestamp": "2026-02-18 19:20:59",
       "hasImage": false
-    },
-    {
-      "text": "さっき荷物多いって言ったけど、ほんとにしんどい…。寒さで手動かないし、帰りたい気分…😩誰か一緒に帰ってほしいよ〜（は？）",
-      "slot": "commute",
-      "timestamp": "2026-02-18 18:07:40",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
     "morning",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": false,
-  "month_total_posts": 206,
+  "month_total_posts": 207,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-19",
-  "last_post_time": "08:25:26",
+  "last_post_time": "09:12:25",
   "ng_retry_count": 38,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-19 08:25:26",
+  "updated_at": "2026-02-19 09:12:25",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "もう無理だわ、寝る…😪 → おはよ…まだ夢の中…😴 → さっきの続き…ほんと、寒くて手がかじかむ…",
-  "last_post_timestamp_ms": 1771457126087
+  "today_narrative": "もう無理だわ、寝る…😪 → おはよ…まだ夢の中…😴 → さっきの続き…ほんと、寒くて手がかじかむ… → 台車押すのももう慣れたけど、寒いとやっぱ…",
+  "last_post_timestamp_ms": 1771459945962
 }
