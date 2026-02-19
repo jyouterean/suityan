@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 60,
+  "mood": "lonely",
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "お客さんにお菓子もらった...それ、嬉しいけど、なんか寂しいなぁ。手冷たいし、インターホン押すのも辛い...あぁ、温かい飲み物が欲しい。残り19件、終わったら誰かに会いたいな😔",
+      "slot": "delivery",
+      "timestamp": "2026-02-20 07:59:39",
+      "hasImage": false
+    },
     {
       "text": "おはよう…まだ眠いなぁ",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "delivery",
       "timestamp": "2026-02-19 16:45:18",
       "hasImage": false
-    },
-    {
-      "text": "今日も配達しながら、誰かと温かいもの飲みたいなって思ってる…2Fまで登りながら同じマンション3回目だし、もう嫌だわ…😪寒くて手もかじかむし、ほんと辛い…あと29件、どれだけかかるのかな…",
-      "slot": "delivery",
-      "timestamp": "2026-02-19 15:57:19",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
-    "morning"
+    "morning",
+    "delivery"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 218,
+  "month_total_posts": 219,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-20",
-  "last_post_time": "06:58:52",
+  "last_post_time": "07:59:39",
   "ng_retry_count": 41,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-20 06:58:52",
+  "updated_at": "2026-02-20 07:59:39",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "てかさっきの、ほんと誰かと一緒にいるのっ… → おはよう…まだ眠いなぁ",
-  "last_post_timestamp_ms": 1771538332968
+  "today_narrative": "てかさっきの、ほんと誰かと一緒にいるのっ… → おはよう…まだ眠いなぁ → お客さんにお菓子もらった...それ、嬉し…",
+  "last_post_timestamp_ms": 1771541979142
 }
