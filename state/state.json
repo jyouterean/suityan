@@ -1,7 +1,13 @@
 {
-  "mood": "melancholy",
-  "energy": 20,
+  "mood": "tired",
+  "energy": 10,
   "last_posts": [
+    {
+      "text": "てか、今日も配達多いし、さっきのあったかいもん飲みたいなぁ…😅でも、今は運転に集中しなきゃだし…早く終わらせて温まりたい…💤",
+      "slot": "casual",
+      "timestamp": "2026-02-20 13:46:54",
+      "hasImage": false
+    },
     {
       "text": "あ、なんか冬ってさ、あったかい飲み物が恋しくなるよね…☕手、かじかんでるし…誰かと一緒に温まるお茶とかしたいなぁ。金曜日だし、週末っぽい気分…でもまだ眠いなぁ。",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "simple_goodnight",
       "timestamp": "2026-02-20 00:28:38",
       "hasImage": false
-    },
-    {
-      "text": "あーもう、冬ってほんと無理…手がかじかんでさ、なんか心まで冷たい気分…😪 こんな時はあたたかい飲み物が欲しいよね…コンビニ寄って、何か買おうかな…でも、誰かと一緒に飲みたいなぁ…",
-      "slot": "casual",
-      "timestamp": "2026-02-19 20:38:34",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -51,25 +51,26 @@
     "delivery",
     "delivery",
     "casual",
+    "casual",
     "casual"
   ],
-  "today_post_count": 6,
+  "today_post_count": 7,
   "today_goodnight_posted": false,
-  "month_total_posts": 222,
+  "month_total_posts": 223,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-20",
-  "last_post_time": "13:08:54",
+  "last_post_time": "13:46:54",
   "ng_retry_count": 41,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-20 13:08:54",
+  "updated_at": "2026-02-20 13:46:54",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "てかさっきの、ほんと誰かと一緒にいるのっ… → おはよう…まだ眠いなぁ → お客さんにお菓子もらった...それ、嬉し… → なんか、お届け完了してもすっきりせん…ま… → そういえば、今日の天気いい感じ…でも寒い… → あ、なんか冬ってさ、あったかい飲み物が恋…",
-  "last_post_timestamp_ms": 1771560534852
+  "today_narrative": "てかさっきの、ほんと誰かと一緒にいるのっ… → おはよう…まだ眠いなぁ → お客さんにお菓子もらった...それ、嬉し… → なんか、お届け完了してもすっきりせん…ま… → そういえば、今日の天気いい感じ…でも寒い… → あ、なんか冬ってさ、あったかい飲み物が恋… → てか、今日も配達多いし、さっきのあったか…",
+  "last_post_timestamp_ms": 1771562814680
 }
