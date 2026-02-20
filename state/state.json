@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 60,
+  "mood": "frustrated",
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "今日も再配達のチャイムが鳴る…😩真冬は気温3℃、やる気も出ないし手もかじかむ。客さんと話したいけど、やっぱり誰かに会いたい気持ち強いな…誰か褒めてくれないかな…",
+      "slot": "delivery",
+      "timestamp": "2026-02-21 07:57:50",
+      "hasImage": false
+    },
     {
       "text": "おはよ…なにもしたくない…😴",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "casual",
       "timestamp": "2026-02-20 19:06:31",
       "hasImage": false
-    },
-    {
-      "text": "なんかさ、寒い中で一軒家の前に立つと、ちょっとだけ暖かい気持ちになれる気がする…でもほんと、あったかい飲み物がないとやってらんないよね😩もう、誰かに飲ませてもらいたいって思っちゃうってことにしとこ。",
-      "slot": "delivery",
-      "timestamp": "2026-02-20 17:52:03",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
-    "morning"
+    "morning",
+    "delivery"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": true,
-  "month_total_posts": 233,
+  "month_total_posts": 234,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-21",
-  "last_post_time": "06:41:56",
+  "last_post_time": "07:57:50",
   "ng_retry_count": 41,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-21 06:41:56",
+  "updated_at": "2026-02-21 07:57:50",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "寒すぎて手かじかむ…😢配達ルート考える… → おはよ…なにもしたくない…😴",
-  "last_post_timestamp_ms": 1771623716041
+  "today_narrative": "寒すぎて手かじかむ…😢配達ルート考える… → おはよ…なにもしたくない…😴 → 今日も再配達のチャイムが鳴る…😩真冬は…",
+  "last_post_timestamp_ms": 1771628270760
 }
