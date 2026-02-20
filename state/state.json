@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "ほんとさ、あったかいもの飲みたいなぁ…荷物運ぶのも寒すぎるし😩誰か一緒にいてくれたら、少しは温もり感じるかも…あぁ、寂しいよ…",
+      "slot": "night_ero",
+      "timestamp": "2026-02-20 21:45:00",
+      "hasImage": false
+    },
+    {
       "text": "あー、ほんと寂しいよ…😔ひとりでいると、なんか余計寒く感じる…てか、あったかい飲み物飲みたいなぁ。おうちでのんびりしたい…ねぇ、誰かと一緒にいたいよ…",
       "slot": "casual",
       "timestamp": "2026-02-20 20:36:50",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-02-20 14:48:17",
       "hasImage": false
-    },
-    {
-      "text": "てか、今日も配達多いし、さっきのあったかいもん飲みたいなぁ…😅でも、今は運転に集中しなきゃだし…早く終わらせて温まりたい…💤",
-      "slot": "casual",
-      "timestamp": "2026-02-20 13:46:54",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -58,25 +58,26 @@
     "delivery",
     "delivery",
     "casual",
-    "casual"
+    "casual",
+    "night_ero"
   ],
-  "today_post_count": 13,
+  "today_post_count": 14,
   "today_goodnight_posted": false,
-  "month_total_posts": 229,
+  "month_total_posts": 230,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-20",
-  "last_post_time": "20:36:50",
+  "last_post_time": "21:45:00",
   "ng_retry_count": 41,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-20 20:36:50",
+  "updated_at": "2026-02-20 21:45:00",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "てかさっきの、ほんと誰かと一緒にいるのっ… → おはよう…まだ眠いなぁ → お客さんにお菓子もらった...それ、嬉し… → なんか、お届け完了してもすっきりせん…ま… → そういえば、今日の天気いい感じ…でも寒い… → あ、なんか冬ってさ、あったかい飲み物が恋… → てか、今日も配達多いし、さっきのあったか… → てかさっきの、ほんと誰かと一緒にいるのっ… → まじしんどい…。さっきの配達、寒すぎて手… → あー、もう疲れた…😩配達途中で信号全部… → なんかさ、寒い中で一軒家の前に立つと、ち… → あー、ほんと誰かと一緒にいるのが恋しいな… → あー、ほんと寂しいよ…😔ひとりでいると…",
-  "last_post_timestamp_ms": 1771587410027
+  "today_narrative": "てかさっきの、ほんと誰かと一緒にいるのっ… → おはよう…まだ眠いなぁ → お客さんにお菓子もらった...それ、嬉し… → なんか、お届け完了してもすっきりせん…ま… → そういえば、今日の天気いい感じ…でも寒い… → あ、なんか冬ってさ、あったかい飲み物が恋… → てか、今日も配達多いし、さっきのあったか… → てかさっきの、ほんと誰かと一緒にいるのっ… → まじしんどい…。さっきの配達、寒すぎて手… → あー、もう疲れた…😩配達途中で信号全部… → なんかさ、寒い中で一軒家の前に立つと、ち… → あー、ほんと誰かと一緒にいるのが恋しいな… → あー、ほんと寂しいよ…😔ひとりでいると… → ほんとさ、あったかいもの飲みたいなぁ…荷…",
+  "last_post_timestamp_ms": 1771591500309
 }
