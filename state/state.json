@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "てかさっきの、ほんと誰かと一緒にいるのっ…配達の合間にお菓子もらったけど、ほんと心がさむい…でもなんか嬉しかったなぁ🍬あ、早く金曜終わんないかな…ゆっくりしたい…",
+      "slot": "delivery",
+      "timestamp": "2026-02-20 14:48:17",
+      "hasImage": false
+    },
+    {
       "text": "てか、今日も配達多いし、さっきのあったかいもん飲みたいなぁ…😅でも、今は運転に集中しなきゃだし…早く終わらせて温まりたい…💤",
       "slot": "casual",
       "timestamp": "2026-02-20 13:46:54",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-02-20 06:58:52",
       "hasImage": false
-    },
-    {
-      "text": "てかさっきの、ほんと誰かと一緒にいるのっていいよね…😢 お喋りしながら、あったかい飲み物飲みたいなぁ…ねぇ、かまって…",
-      "slot": "simple_goodnight",
-      "timestamp": "2026-02-20 00:28:38",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "delivery",
     "casual",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": false,
-  "month_total_posts": 223,
+  "month_total_posts": 224,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-20",
-  "last_post_time": "13:46:54",
+  "last_post_time": "14:48:17",
   "ng_retry_count": 41,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-20 13:46:54",
+  "updated_at": "2026-02-20 14:48:17",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "てかさっきの、ほんと誰かと一緒にいるのっ… → おはよう…まだ眠いなぁ → お客さんにお菓子もらった...それ、嬉し… → なんか、お届け完了してもすっきりせん…ま… → そういえば、今日の天気いい感じ…でも寒い… → あ、なんか冬ってさ、あったかい飲み物が恋… → てか、今日も配達多いし、さっきのあったか…",
-  "last_post_timestamp_ms": 1771562814680
+  "today_narrative": "てかさっきの、ほんと誰かと一緒にいるのっ… → おはよう…まだ眠いなぁ → お客さんにお菓子もらった...それ、嬉し… → なんか、お届け完了してもすっきりせん…ま… → そういえば、今日の天気いい感じ…でも寒い… → あ、なんか冬ってさ、あったかい飲み物が恋… → てか、今日も配達多いし、さっきのあったか… → てかさっきの、ほんと誰かと一緒にいるのっ…",
+  "last_post_timestamp_ms": 1771566497425
 }
