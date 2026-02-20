@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 70,
+  "mood": "tired",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "おはよ…なにもしたくない…😴",
+      "slot": "morning",
+      "timestamp": "2026-02-21 06:41:56",
+      "hasImage": false
+    },
     {
       "text": "寒すぎて手かじかむ…😢配達ルート考えるだけで疲れるし…明日も頑張らないとね、でも少し甘えたいなぁ…誰かかまってよ…",
       "slot": "goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-02-20 17:52:03",
       "hasImage": false
-    },
-    {
-      "text": "あー、もう疲れた…😩配達途中で信号全部赤だったんだよね…お客さんのお菓子は嬉しかったけど、やっぱり一人って寂しいなぁ…早く終わらせて、あったかい飲み物飲みたい…☕",
-      "slot": "delivery",
-      "timestamp": "2026-02-20 16:50:43",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight"
+    "goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": true,
-  "month_total_posts": 232,
+  "month_total_posts": 233,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-21",
-  "last_post_time": "00:32:51",
+  "last_post_time": "06:41:56",
   "ng_retry_count": 41,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-21 00:32:51",
+  "updated_at": "2026-02-21 06:41:56",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "寒すぎて手かじかむ…😢配達ルート考える…",
-  "last_post_timestamp_ms": 1771601571167
+  "today_narrative": "寒すぎて手かじかむ…😢配達ルート考える… → おはよ…なにもしたくない…😴",
+  "last_post_timestamp_ms": 1771623716041
 }
