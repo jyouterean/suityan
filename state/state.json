@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "ねぇ…運転したらもっと疲れちゃったよ…😢あったかいお茶飲みながら、誰かにかまってほしいなぁ…",
+      "slot": "casual",
+      "timestamp": "2026-02-21 20:24:23",
+      "hasImage": false
+    },
+    {
       "text": "さっき渋滞で止まった時、運転中に好きな曲流してたらなんか少し元気出たかも…😌でも、寒さがまたやってくる…。手かじかんで、もう無理だったり…🍵温かいもの飲みたいなぁ…",
       "slot": "casual",
       "timestamp": "2026-02-21 19:03:59",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-02-21 12:53:16",
       "hasImage": false
-    },
-    {
-      "text": "てかさっきの渋滞で思ったけど、運転中に好きな音楽聴くと一瞬で元気出るよね🎶やっぱり大事な時間だわ！次はちょっといい音楽かけよっかなー",
-      "slot": "casual",
-      "timestamp": "2026-02-21 12:28:46",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "delivery",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": true,
-  "month_total_posts": 242,
+  "month_total_posts": 243,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-21",
-  "last_post_time": "19:03:59",
+  "last_post_time": "20:24:23",
   "ng_retry_count": 41,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-21 19:03:59",
+  "updated_at": "2026-02-21 20:24:23",
   "month_string": "2026-02",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 15,
-  "today_narrative": "寒すぎて手かじかむ…😢配達ルート考える… → おはよ…なにもしたくない…😴 → 今日も再配達のチャイムが鳴る…😩真冬は… → 渋滞にハマってもうだる…😩温かい飲み物… → てかさっきの渋滞で思ったけど、運転中に好… → え…寒すぎて手がかじかむ…😢温かい飲み… → いや関係ないけど、早く野菜運んでおしまい… → お客さんのマンション、また階段…4Fはだ… → あーもう、渋滞にハマってるし、頭痛い…\ud83d… → あーまた再配達のチャイム鳴ったし…😩こ… → さっき渋滞で止まった時、運転中に好きな曲…",
-  "last_post_timestamp_ms": 1771668239265
+  "today_narrative": "寒すぎて手かじかむ…😢配達ルート考える… → おはよ…なにもしたくない…😴 → 今日も再配達のチャイムが鳴る…😩真冬は… → 渋滞にハマってもうだる…😩温かい飲み物… → てかさっきの渋滞で思ったけど、運転中に好… → え…寒すぎて手がかじかむ…😢温かい飲み… → いや関係ないけど、早く野菜運んでおしまい… → お客さんのマンション、また階段…4Fはだ… → あーもう、渋滞にハマってるし、頭痛い…\ud83d… → あーまた再配達のチャイム鳴ったし…😩こ… → さっき渋滞で止まった時、運転中に好きな曲… → ねぇ…運転したらもっと疲れちゃったよ…\ud83d…",
+  "last_post_timestamp_ms": 1771673063194
 }
