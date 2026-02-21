@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "お客さんのマンション、また階段…4Fはだるいわ😩冷えた体に響くし…でも、今日も何かいいことあればいいな…誰かに会いたいなぁ…",
+      "slot": "delivery",
+      "timestamp": "2026-02-21 14:36:17",
+      "hasImage": false
+    },
+    {
       "text": "いや関係ないけど、早く野菜運んでおしまいにしたい…😅この寒さじゃ体が動かんわ…もっとゆっくりしたいなぁ。",
       "slot": "casual",
       "timestamp": "2026-02-21 13:40:23",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-02-21 06:41:56",
       "hasImage": false
-    },
-    {
-      "text": "寒すぎて手かじかむ…😢配達ルート考えるだけで疲れるし…明日も頑張らないとね、でも少し甘えたいなぁ…誰かかまってよ…",
-      "slot": "goodnight",
-      "timestamp": "2026-02-21 00:32:51",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "delivery",
     "casual",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": true,
-  "month_total_posts": 238,
+  "month_total_posts": 239,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-21",
-  "last_post_time": "13:40:23",
+  "last_post_time": "14:36:17",
   "ng_retry_count": 41,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-21 13:40:23",
+  "updated_at": "2026-02-21 14:36:17",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "寒すぎて手かじかむ…😢配達ルート考える… → おはよ…なにもしたくない…😴 → 今日も再配達のチャイムが鳴る…😩真冬は… → 渋滞にハマってもうだる…😩温かい飲み物… → てかさっきの渋滞で思ったけど、運転中に好… → え…寒すぎて手がかじかむ…😢温かい飲み… → いや関係ないけど、早く野菜運んでおしまい…",
-  "last_post_timestamp_ms": 1771648823447
+  "today_narrative": "寒すぎて手かじかむ…😢配達ルート考える… → おはよ…なにもしたくない…😴 → 今日も再配達のチャイムが鳴る…😩真冬は… → 渋滞にハマってもうだる…😩温かい飲み物… → てかさっきの渋滞で思ったけど、運転中に好… → え…寒すぎて手がかじかむ…😢温かい飲み… → いや関係ないけど、早く野菜運んでおしまい… → お客さんのマンション、また階段…4Fはだ…",
+  "last_post_timestamp_ms": 1771652177677
 }
