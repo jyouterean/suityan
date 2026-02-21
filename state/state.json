@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あーまた再配達のチャイム鳴ったし…😩この寒さ、本当にしんどい。運転中に好きなこと考えて気紛らわせようと思ったけど、ネコのこと思い出すし…😢もう暖かい飲み物飲みたい…",
+      "slot": "delivery",
+      "timestamp": "2026-02-21 17:59:05",
+      "hasImage": false
+    },
+    {
       "text": "あーもう、渋滞にハマってるし、頭痛い…😩運転中に好きなこと考えたかったのに、ひたすらルート考えてるだけだ。誰か会いたい…",
       "slot": "delivery",
       "timestamp": "2026-02-21 16:29:58",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-02-21 09:14:13",
       "hasImage": false
-    },
-    {
-      "text": "今日も再配達のチャイムが鳴る…😩真冬は気温3℃、やる気も出ないし手もかじかむ。客さんと話したいけど、やっぱり誰かに会いたい気持ち強いな…誰か褒めてくれないかな…",
-      "slot": "delivery",
-      "timestamp": "2026-02-21 07:57:50",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -54,25 +54,26 @@
     "casual",
     "casual",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 9,
+  "today_post_count": 10,
   "today_goodnight_posted": true,
-  "month_total_posts": 240,
+  "month_total_posts": 241,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-21",
-  "last_post_time": "16:29:58",
+  "last_post_time": "17:59:05",
   "ng_retry_count": 41,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-21 16:29:58",
+  "updated_at": "2026-02-21 17:59:05",
   "month_string": "2026-02",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 15,
-  "today_narrative": "寒すぎて手かじかむ…😢配達ルート考える… → おはよ…なにもしたくない…😴 → 今日も再配達のチャイムが鳴る…😩真冬は… → 渋滞にハマってもうだる…😩温かい飲み物… → てかさっきの渋滞で思ったけど、運転中に好… → え…寒すぎて手がかじかむ…😢温かい飲み… → いや関係ないけど、早く野菜運んでおしまい… → お客さんのマンション、また階段…4Fはだ… → あーもう、渋滞にハマってるし、頭痛い…\ud83d…",
-  "last_post_timestamp_ms": 1771658998170
+  "today_narrative": "寒すぎて手かじかむ…😢配達ルート考える… → おはよ…なにもしたくない…😴 → 今日も再配達のチャイムが鳴る…😩真冬は… → 渋滞にハマってもうだる…😩温かい飲み物… → てかさっきの渋滞で思ったけど、運転中に好… → え…寒すぎて手がかじかむ…😢温かい飲み… → いや関係ないけど、早く野菜運んでおしまい… → お客さんのマンション、また階段…4Fはだ… → あーもう、渋滞にハマってるし、頭痛い…\ud83d… → あーまた再配達のチャイム鳴ったし…😩こ…",
+  "last_post_timestamp_ms": 1771664345164
 }
