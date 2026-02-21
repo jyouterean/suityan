@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "もう寒すぎてほんとに手がかじかむよ…😢土曜だけどやること多いし、再配達のこと考えるとなんか気が重い…段ボールに囲まれてると、優しい温もりが恋しくなっちゃう…",
+      "slot": "night_ero",
+      "timestamp": "2026-02-21 21:37:46",
+      "hasImage": false
+    },
+    {
       "text": "ねぇ…運転したらもっと疲れちゃったよ…😢あったかいお茶飲みながら、誰かにかまってほしいなぁ…",
       "slot": "casual",
       "timestamp": "2026-02-21 20:24:23",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-02-21 13:40:23",
       "hasImage": false
-    },
-    {
-      "text": "え…寒すぎて手がかじかむ…😢温かい飲み物求む…でも、目の前の景色が晴れてるからちょっと気分上がるかな…なんか外出るのが億劫で…\n今週末はゆるいと思ったのに、やっぱり仕事があるし…😴",
-      "slot": "casual",
-      "timestamp": "2026-02-21 12:53:16",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -57,25 +57,26 @@
     "delivery",
     "delivery",
     "casual",
-    "casual"
+    "casual",
+    "night_ero"
   ],
-  "today_post_count": 12,
+  "today_post_count": 13,
   "today_goodnight_posted": true,
-  "month_total_posts": 243,
+  "month_total_posts": 244,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-21",
-  "last_post_time": "20:24:23",
+  "last_post_time": "21:37:46",
   "ng_retry_count": 41,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-21 20:24:23",
+  "updated_at": "2026-02-21 21:37:46",
   "month_string": "2026-02",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 15,
-  "today_narrative": "寒すぎて手かじかむ…😢配達ルート考える… → おはよ…なにもしたくない…😴 → 今日も再配達のチャイムが鳴る…😩真冬は… → 渋滞にハマってもうだる…😩温かい飲み物… → てかさっきの渋滞で思ったけど、運転中に好… → え…寒すぎて手がかじかむ…😢温かい飲み… → いや関係ないけど、早く野菜運んでおしまい… → お客さんのマンション、また階段…4Fはだ… → あーもう、渋滞にハマってるし、頭痛い…\ud83d… → あーまた再配達のチャイム鳴ったし…😩こ… → さっき渋滞で止まった時、運転中に好きな曲… → ねぇ…運転したらもっと疲れちゃったよ…\ud83d…",
-  "last_post_timestamp_ms": 1771673063194
+  "today_narrative": "寒すぎて手かじかむ…😢配達ルート考える… → おはよ…なにもしたくない…😴 → 今日も再配達のチャイムが鳴る…😩真冬は… → 渋滞にハマってもうだる…😩温かい飲み物… → てかさっきの渋滞で思ったけど、運転中に好… → え…寒すぎて手がかじかむ…😢温かい飲み… → いや関係ないけど、早く野菜運んでおしまい… → お客さんのマンション、また階段…4Fはだ… → あーもう、渋滞にハマってるし、頭痛い…\ud83d… → あーまた再配達のチャイム鳴ったし…😩こ… → さっき渋滞で止まった時、運転中に好きな曲… → ねぇ…運転したらもっと疲れちゃったよ…\ud83d… → もう寒すぎてほんとに手がかじかむよ…😢…",
+  "last_post_timestamp_ms": 1771677466384
 }
