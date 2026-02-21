@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 10,
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "おはよ、まだ夢の中…💤",
+      "slot": "morning",
+      "timestamp": "2026-02-22 06:43:08",
+      "hasImage": false
+    },
     {
       "text": "また渋滞だ…ほんとにもうだるい…配達 も残り少ないのに、もぉ手がうぅ…かじかむ😢温かい飲み物欲しい…誰か会いたいなぁ…なんか褒めてほしい…",
       "slot": "delivery",
@@ -37,48 +43,28 @@
       "slot": "delivery",
       "timestamp": "2026-02-21 17:59:05",
       "hasImage": false
-    },
-    {
-      "text": "あーもう、渋滞にハマってるし、頭痛い…😩運転中に好きなこと考えたかったのに、ひたすらルート考えてるだけだ。誰か会いたい…",
-      "slot": "delivery",
-      "timestamp": "2026-02-21 16:29:58",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight",
-    "morning",
-    "delivery",
-    "delivery",
-    "casual",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery",
-    "casual",
-    "casual",
-    "night_ero",
-    "simple_goodnight",
-    "delivery"
+    "morning"
   ],
-  "today_post_count": 15,
-  "today_goodnight_posted": true,
-  "month_total_posts": 246,
+  "today_post_count": 1,
+  "today_goodnight_posted": false,
+  "month_total_posts": 247,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-02-21",
-  "last_post_time": "23:59:33",
+  "last_post_date": "2026-02-22",
+  "last_post_time": "06:43:08",
   "ng_retry_count": 41,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-21 23:59:33",
+  "updated_at": "2026-02-22 06:43:08",
   "month_string": "2026-02",
-  "today_skipped": true,
-  "today_simple_goodnight_posted": true,
+  "today_skipped": false,
+  "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
-  "today_skip_count": 1,
-  "today_max_posts": 15,
-  "today_narrative": "寒すぎて手かじかむ…😢配達ルート考える… → おはよ…なにもしたくない…😴 → 今日も再配達のチャイムが鳴る…😩真冬は… → 渋滞にハマってもうだる…😩温かい飲み物… → てかさっきの渋滞で思ったけど、運転中に好… → え…寒すぎて手がかじかむ…😢温かい飲み… → いや関係ないけど、早く野菜運んでおしまい… → お客さんのマンション、また階段…4Fはだ… → あーもう、渋滞にハマってるし、頭痛い…\ud83d… → あーまた再配達のチャイム鳴ったし…😩こ… → さっき渋滞で止まった時、運転中に好きな曲… → ねぇ…運転したらもっと疲れちゃったよ…\ud83d… → もう寒すぎてほんとに手がかじかむよ…😢… → ねむすぎてもうねる…😪 → また渋滞だ…ほんとにもうだるい…配達 も…",
-  "last_post_timestamp_ms": 1771685973222
+  "today_skip_count": 0,
+  "today_max_posts": 14,
+  "today_narrative": "おはよ、まだ夢の中…💤",
+  "last_post_timestamp_ms": 1771710188187
 }
