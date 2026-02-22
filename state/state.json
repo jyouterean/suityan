@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 70,
+  "mood": "tired",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "うぅ…また寝不足だわ…😴",
+      "slot": "morning",
+      "timestamp": "2026-02-23 06:50:11",
+      "hasImage": false
+    },
     {
       "text": "てかさっきの、ほんとに…一人じゃさ、心が温まらないよぉ…😔誰かと一緒にいたいなぁ…かまってくれたら嬉しいのに…ねぇ",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-02-22 16:14:51",
       "hasImage": false
-    },
-    {
-      "text": "しんどいわ〜…軽バンの運転飽きてきた😩お客さんとのやりとりも疲れちゃう。誰か褒めてほしい…おやつとか欲しいよ…😣",
-      "slot": "delivery",
-      "timestamp": "2026-02-22 15:10:07",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 259,
+  "month_total_posts": 260,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-23",
-  "last_post_time": "00:22:44",
+  "last_post_time": "06:50:11",
   "ng_retry_count": 42,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-23 00:22:44",
+  "updated_at": "2026-02-23 06:50:11",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "てかさっきの、ほんとに…一人じゃさ、心が…",
-  "last_post_timestamp_ms": 1771773764417
+  "today_narrative": "てかさっきの、ほんとに…一人じゃさ、心が… → うぅ…また寝不足だわ…😴",
+  "last_post_timestamp_ms": 1771797011354
 }
