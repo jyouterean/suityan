@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "なんか温かい飲み物飲みたいな…☕さっきからずっと思ってるけど、コンビニまで行くのが面倒で…💭でも、あったかいもの飲んだら少しは元気出るかも…",
+      "slot": "casual",
+      "timestamp": "2026-02-22 12:45:42",
+      "hasImage": false
+    },
     {
       "text": "寒すぎ…朝から外出るの辛いよね…😩温かい飲み物欲しいなぁ、コンビニで何か買ってこよ…でもだる…",
       "slot": "casual",
@@ -37,36 +43,31 @@
       "slot": "night_ero",
       "timestamp": "2026-02-21 21:37:46",
       "hasImage": false
-    },
-    {
-      "text": "ねぇ…運転したらもっと疲れちゃったよ…😢あったかいお茶飲みながら、誰かにかまってほしいなぁ…",
-      "slot": "casual",
-      "timestamp": "2026-02-21 20:24:23",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "morning",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": false,
-  "month_total_posts": 249,
+  "month_total_posts": 250,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-22",
-  "last_post_time": "08:53:59",
+  "last_post_time": "12:45:42",
   "ng_retry_count": 41,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-22 08:53:59",
+  "updated_at": "2026-02-22 12:45:42",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "おはよ、まだ夢の中…💤 → 寒い…手がかじかむよ…💦マンションの階… → 寒すぎ…朝から外出るの辛いよね…😩温か…",
-  "last_post_timestamp_ms": 1771718039983
+  "today_narrative": "おはよ、まだ夢の中…💤 → 寒い…手がかじかむよ…💦マンションの階… → 寒すぎ…朝から外出るの辛いよね…😩温か… → なんか温かい飲み物飲みたいな…☕さっきか…",
+  "last_post_timestamp_ms": 1771731942453
 }
