@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 10,
+  "mood": "lonely",
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "てかさっきの、ほんとに…一人じゃさ、心が温まらないよぉ…😔誰かと一緒にいたいなぁ…かまってくれたら嬉しいのに…ねぇ",
+      "slot": "simple_goodnight",
+      "timestamp": "2026-02-23 00:22:44",
+      "hasImage": false
+    },
     {
       "text": "あー、やっぱさ、誰かと一緒に温まるのが一番いいよね…😢ほんと、寂しいよぉ…かまってほしいなぁ…",
       "slot": "simple_goodnight",
@@ -37,45 +43,28 @@
       "slot": "delivery",
       "timestamp": "2026-02-22 15:10:07",
       "hasImage": false
-    },
-    {
-      "text": "あー、今日も配達多すぎ… 131件も…疲れた…😩でもさ、マンションの階段で誰かに会いたい気分… 誰か褒めてよ…（…いま何時だ）",
-      "slot": "delivery",
-      "timestamp": "2026-02-22 14:53:40",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "morning",
-    "delivery",
-    "casual",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery",
-    "delivery",
-    "commute",
-    "casual",
     "simple_goodnight"
   ],
-  "today_post_count": 12,
+  "today_post_count": 1,
   "today_goodnight_posted": false,
-  "month_total_posts": 258,
+  "month_total_posts": 259,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-02-22",
-  "last_post_time": "23:24:27",
+  "last_post_date": "2026-02-23",
+  "last_post_time": "00:22:44",
   "ng_retry_count": 42,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-22 23:24:27",
+  "updated_at": "2026-02-23 00:22:44",
   "month_string": "2026-02",
-  "today_skipped": true,
+  "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": true,
-  "today_skip_count": 1,
-  "today_max_posts": 14,
-  "today_narrative": "おはよ、まだ夢の中…💤 → 寒い…手がかじかむよ…💦マンションの階… → 寒すぎ…朝から外出るの辛いよね…😩温か… → なんか温かい飲み物飲みたいな…☕さっきか… → 温かい飲み物の誘惑に負けそう…でもお仕事… → あー、今日も配達多すぎ… 131件も…疲… → しんどいわ〜…軽バンの運転飽きてきた😩… → あーもう、ほんと寒い…手がかじかんで軽バ… → やっぱ寒いよ…手がかじかんで配達辛いし…… → あー、仕事の量が多すぎてほんとつかれる…… → あー、温かい飲み物飲みたいよぉ…☕ふぅ、… → あー、やっぱさ、誰かと一緒に温まるのが一…",
-  "last_post_timestamp_ms": 1771770267222
+  "today_morning_posted": false,
+  "today_skip_count": 0,
+  "today_max_posts": 13,
+  "today_narrative": "てかさっきの、ほんとに…一人じゃさ、心が…",
+  "last_post_timestamp_ms": 1771773764417
 }
