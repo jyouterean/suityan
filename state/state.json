@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 30,
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "あー、今日も配達多すぎ… 131件も…疲れた…😩でもさ、マンションの階段で誰かに会いたい気分… 誰か褒めてよ…（…いま何時だ）",
+      "slot": "delivery",
+      "timestamp": "2026-02-22 14:53:40",
+      "hasImage": false
+    },
     {
       "text": "温かい飲み物の誘惑に負けそう…でもお仕事あるしなぁ。絶対寒いまま外出たくない…😩早くおうち戻りたい…",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-02-21 23:59:33",
       "hasImage": false
-    },
-    {
-      "text": "ねむすぎてもうねる…😪",
-      "slot": "simple_goodnight",
-      "timestamp": "2026-02-21 23:10:11",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "delivery",
     "casual",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": false,
-  "month_total_posts": 251,
+  "month_total_posts": 252,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-22",
-  "last_post_time": "13:53:21",
+  "last_post_time": "14:53:40",
   "ng_retry_count": 41,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-22 13:53:21",
+  "updated_at": "2026-02-22 14:53:40",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "おはよ、まだ夢の中…💤 → 寒い…手がかじかむよ…💦マンションの階… → 寒すぎ…朝から外出るの辛いよね…😩温か… → なんか温かい飲み物飲みたいな…☕さっきか… → 温かい飲み物の誘惑に負けそう…でもお仕事…",
-  "last_post_timestamp_ms": 1771736001705
+  "today_narrative": "おはよ、まだ夢の中…💤 → 寒い…手がかじかむよ…💦マンションの階… → 寒すぎ…朝から外出るの辛いよね…😩温か… → なんか温かい飲み物飲みたいな…☕さっきか… → 温かい飲み物の誘惑に負けそう…でもお仕事… → あー、今日も配達多すぎ… 131件も…疲…",
+  "last_post_timestamp_ms": 1771739620538
 }
