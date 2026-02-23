@@ -1,7 +1,13 @@
 {
-  "mood": "melancholy",
-  "energy": 20,
+  "mood": "tired",
+  "energy": 10,
   "last_posts": [
+    {
+      "text": "なんかさ、今の時間配達してる時ってほんとに心細い…😢台車引いてる時に、たまにお客さんが優しくしてくれるけどさ、すごい虚しい時もあって…帰ったら温かいもん飲みたいな…",
+      "slot": "delivery",
+      "timestamp": "2026-02-23 14:09:03",
+      "hasImage": false
+    },
     {
       "text": "さっきの続きだけど、やっぱり仕事行くのダルいな…😩 ココア飲みながら運転とかできたらいいのに。今日も頑張らなきゃな。",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "simple_goodnight",
       "timestamp": "2026-02-23 00:22:44",
       "hasImage": false
-    },
-    {
-      "text": "あー、やっぱさ、誰かと一緒に温まるのが一番いいよね…😢ほんと、寂しいよぉ…かまってほしいなぁ…",
-      "slot": "simple_goodnight",
-      "timestamp": "2026-02-22 23:24:27",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -51,25 +51,26 @@
     "delivery",
     "casual",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 6,
+  "today_post_count": 7,
   "today_goodnight_posted": false,
-  "month_total_posts": 264,
+  "month_total_posts": 265,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-23",
-  "last_post_time": "13:12:36",
-  "ng_retry_count": 42,
+  "last_post_time": "14:09:03",
+  "ng_retry_count": 43,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-23 13:12:36",
+  "updated_at": "2026-02-23 14:09:03",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "てかさっきの、ほんとに…一人じゃさ、心が… → うぅ…また寝不足だわ…😴 → さっき14Fまで階段上がった時、心臓バク… → ふぅ…寒すぎる💦手がかじかむし、温かい… → ほんとにさ、一人って心細いな…やっぱ誰か… → さっきの続きだけど、やっぱり仕事行くのダ…",
-  "last_post_timestamp_ms": 1771819956180
+  "today_narrative": "てかさっきの、ほんとに…一人じゃさ、心が… → うぅ…また寝不足だわ…😴 → さっき14Fまで階段上がった時、心臓バク… → ふぅ…寒すぎる💦手がかじかむし、温かい… → ほんとにさ、一人って心細いな…やっぱ誰か… → さっきの続きだけど、やっぱり仕事行くのダ… → なんかさ、今の時間配達してる時ってほんと…",
+  "last_post_timestamp_ms": 1771823343571
 }
