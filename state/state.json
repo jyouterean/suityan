@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "ふぅ…また階段登って心臓バクバク💔ほんと、一人って心細いな…ここ最近ずっと誰かに会いたい気持ちが強い…配達終わったら温かい飲み物飲みたいな、あー…しんどい…",
+      "slot": "delivery",
+      "timestamp": "2026-02-23 15:47:08",
+      "hasImage": false
+    },
+    {
       "text": "さっきの配達のルート組み、超キツかった…😩もうほんとに頭痛いし、手もかじかんでるし、だれかに褒めてほしい…あー、次の荷物も重たいなぁ…。",
       "slot": "delivery",
       "timestamp": "2026-02-23 15:13:12",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-02-23 07:59:03",
       "hasImage": false
-    },
-    {
-      "text": "うぅ…また寝不足だわ…😴",
-      "slot": "morning",
-      "timestamp": "2026-02-23 06:50:11",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "casual",
     "casual",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": false,
-  "month_total_posts": 266,
+  "month_total_posts": 267,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-23",
-  "last_post_time": "15:13:12",
+  "last_post_time": "15:47:08",
   "ng_retry_count": 43,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-23 15:13:12",
+  "updated_at": "2026-02-23 15:47:08",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "てかさっきの、ほんとに…一人じゃさ、心が… → うぅ…また寝不足だわ…😴 → さっき14Fまで階段上がった時、心臓バク… → ふぅ…寒すぎる💦手がかじかむし、温かい… → ほんとにさ、一人って心細いな…やっぱ誰か… → さっきの続きだけど、やっぱり仕事行くのダ… → なんかさ、今の時間配達してる時ってほんと… → さっきの配達のルート組み、超キツかった……",
-  "last_post_timestamp_ms": 1771827192639
+  "today_narrative": "てかさっきの、ほんとに…一人じゃさ、心が… → うぅ…また寝不足だわ…😴 → さっき14Fまで階段上がった時、心臓バク… → ふぅ…寒すぎる💦手がかじかむし、温かい… → ほんとにさ、一人って心細いな…やっぱ誰か… → さっきの続きだけど、やっぱり仕事行くのダ… → なんかさ、今の時間配達してる時ってほんと… → さっきの配達のルート組み、超キツかった…… → ふぅ…また階段登って心臓バクバク💔ほん…",
+  "last_post_timestamp_ms": 1771829228495
 }
