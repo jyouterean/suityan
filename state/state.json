@@ -1,7 +1,13 @@
 {
-  "mood": "melancholy",
-  "energy": 20,
+  "mood": "tired",
+  "energy": 10,
   "last_posts": [
+    {
+      "text": "寒くて手がかじかむ…配達中も心がふわっとする瞬間があるといいのに…誰かに会いたいなぁ…このままじゃダメだ…",
+      "slot": "delivery",
+      "timestamp": "2026-02-24 14:09:52",
+      "hasImage": false
+    },
     {
       "text": "あー、うまくいかないとなんか疲れちゃうなぁ…😔こんな日は早く帰って温かいもの飲みたい…ふぅ、寒いからこたつにでも入りたい気分…",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "simple_goodnight",
       "timestamp": "2026-02-24 00:28:13",
       "hasImage": false
-    },
-    {
-      "text": "寒すぎて手がかじかむ…冬ってほんと寂しいね。一人で配達してると心が…また誰かの温もりがほしいなぁ。段ボール運ぶのもキツいし…なんか、だるいよね…😞",
-      "slot": "night_ero",
-      "timestamp": "2026-02-23 22:08:19",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -51,25 +51,26 @@
     "commute",
     "delivery",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 6,
+  "today_post_count": 7,
   "today_goodnight_posted": false,
-  "month_total_posts": 277,
+  "month_total_posts": 278,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-24",
-  "last_post_time": "12:58:49",
-  "ng_retry_count": 46,
+  "last_post_time": "14:09:52",
+  "ng_retry_count": 47,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-24 12:58:49",
+  "updated_at": "2026-02-24 14:09:52",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もう無理…おやすみなさい… → 朝からまだ頭が働かない…無理だな、これ…… → お届け完了…なんか無気力だなぁ、寒いしさ… → 寒いなぁ…指先がかじかんで無理…配達件数… → あー、冷たい風にやられそう…😖温かいコ… → あー、うまくいかないとなんか疲れちゃうな…",
-  "last_post_timestamp_ms": 1771905529493
+  "today_narrative": "もう無理…おやすみなさい… → 朝からまだ頭が働かない…無理だな、これ…… → お届け完了…なんか無気力だなぁ、寒いしさ… → 寒いなぁ…指先がかじかんで無理…配達件数… → あー、冷たい風にやられそう…😖温かいコ… → あー、うまくいかないとなんか疲れちゃうな… → 寒くて手がかじかむ…配達中も心がふわっと…",
+  "last_post_timestamp_ms": 1771909792182
 }
