@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "配達ルートの途中、また指先が冷たくなってきた。もう無理…なんか、ここのお客さん、優しくてほしいなぁ…😔",
+      "slot": "delivery",
+      "timestamp": "2026-02-24 15:07:54",
+      "hasImage": false
+    },
+    {
       "text": "寒くて手がかじかむ…配達中も心がふわっとする瞬間があるといいのに…誰かに会いたいなぁ…このままじゃダメだ…",
       "slot": "delivery",
       "timestamp": "2026-02-24 14:09:52",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-02-24 07:17:16",
       "hasImage": false
-    },
-    {
-      "text": "もう無理…おやすみなさい…",
-      "slot": "simple_goodnight",
-      "timestamp": "2026-02-24 00:28:13",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "delivery",
     "casual",
     "casual",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": false,
-  "month_total_posts": 278,
+  "month_total_posts": 279,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-24",
-  "last_post_time": "14:09:52",
-  "ng_retry_count": 47,
+  "last_post_time": "15:07:54",
+  "ng_retry_count": 48,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-24 14:09:52",
+  "updated_at": "2026-02-24 15:07:54",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もう無理…おやすみなさい… → 朝からまだ頭が働かない…無理だな、これ…… → お届け完了…なんか無気力だなぁ、寒いしさ… → 寒いなぁ…指先がかじかんで無理…配達件数… → あー、冷たい風にやられそう…😖温かいコ… → あー、うまくいかないとなんか疲れちゃうな… → 寒くて手がかじかむ…配達中も心がふわっと…",
-  "last_post_timestamp_ms": 1771909792182
+  "today_narrative": "もう無理…おやすみなさい… → 朝からまだ頭が働かない…無理だな、これ…… → お届け完了…なんか無気力だなぁ、寒いしさ… → 寒いなぁ…指先がかじかんで無理…配達件数… → あー、冷たい風にやられそう…😖温かいコ… → あー、うまくいかないとなんか疲れちゃうな… → 寒くて手がかじかむ…配達中も心がふわっと… → 配達ルートの途中、また指先が冷たくなって…",
+  "last_post_timestamp_ms": 1771913274098
 }
