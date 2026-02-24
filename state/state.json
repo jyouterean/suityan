@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 60,
+  "mood": "tired",
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "おはよう…なんか眠い…☁️",
+      "slot": "morning",
+      "timestamp": "2026-02-25 06:58:43",
+      "hasImage": false
+    },
     {
       "text": "ねぇ…この季節、なんか心がちょっとさみしいんだよね…だから、そばにいてほしいなぁ…あったかいお茶でも飲みながら、ゆっくりお話ししようよ…🥺",
       "slot": "simple_goodnight",
@@ -37,35 +43,30 @@
       "slot": "commute",
       "timestamp": "2026-02-24 18:11:44",
       "hasImage": false
-    },
-    {
-      "text": "ほんと、あーもう寒い…手が冷たすぎて、運転もつらい😩このままじゃ、配達終わったら缶コーヒー飲むしかないな…誰かに会いたいなぁ、褒めてほしいし、ふわっと心がもやもやする…",
-      "slot": "delivery",
-      "timestamp": "2026-02-24 16:57:00",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
-    "simple_goodnight"
+    "simple_goodnight",
+    "morning"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": true,
-  "month_total_posts": 287,
+  "month_total_posts": 288,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-25",
-  "last_post_time": "00:54:51",
+  "last_post_time": "06:58:43",
   "ng_retry_count": 49,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-25 00:54:51",
+  "updated_at": "2026-02-25 06:58:43",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "おやすmい…今日も132件配達したけど、… → ねぇ…この季節、なんか心がちょっとさみし…",
-  "last_post_timestamp_ms": 1771948491227
+  "today_narrative": "おやすmい…今日も132件配達したけど、… → ねぇ…この季節、なんか心がちょっとさみし… → おはよう…なんか眠い…☁️",
+  "last_post_timestamp_ms": 1771970323723
 }
