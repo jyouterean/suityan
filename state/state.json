@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 10,
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "もう寝るしかない...😴",
+      "slot": "simple_goodnight",
+      "timestamp": "2026-02-26 00:53:57",
+      "hasImage": false
+    },
     {
       "text": "もう、ほんと寒いし、手がかじかむし…☔️あったかいもの飲みたいなぁ…でもなんか誰かにかまってもらいたい気分…ねぇ…どっかで温かい飲み物一緒に飲まない？",
       "slot": "casual",
@@ -37,47 +43,28 @@
       "slot": "delivery",
       "timestamp": "2026-02-25 14:57:55",
       "hasImage": false
-    },
-    {
-      "text": "さっきのことで思い出したけど、仕事終わって帰る道がほんと寒い…運転してると手も冷たいし、早く家に着きたいなぁ…🚚💨",
-      "slot": "delivery",
-      "timestamp": "2026-02-25 14:15:54",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight",
-    "simple_goodnight",
-    "morning",
-    "casual",
-    "commute",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery",
-    "delivery",
-    "commute",
-    "casual",
-    "casual"
+    "simple_goodnight"
   ],
-  "today_post_count": 14,
-  "today_goodnight_posted": true,
-  "month_total_posts": 299,
+  "today_post_count": 1,
+  "today_goodnight_posted": false,
+  "month_total_posts": 300,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-02-25",
-  "last_post_time": "20:41:59",
+  "last_post_date": "2026-02-26",
+  "last_post_time": "00:53:57",
   "ng_retry_count": 52,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-25 20:41:59",
+  "updated_at": "2026-02-26 00:53:57",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": true,
+  "today_morning_posted": false,
   "today_skip_count": 0,
-  "today_max_posts": 14,
-  "today_narrative": "おやすmい…今日も132件配達したけど、… → ねぇ…この季節、なんか心がちょっとさみし… → おはよう…なんか眠い…☁️ → 寒いし、手がかじかむ…まだまだ冬だわ。温… → やっと帰宅…107件も配達したけど、疲れ… → 今日も寒い中、コンビニで温かい飲み物買っ… → おやすmい…手がかじかんで、なかなかあた… → さっきのことで思い出したけど、仕事終わっ… → 雨だし寒いし…マンションの階段、さっき5… → あーもう、さむくて手がかじかむし、早くあ… → いま、10件配達して残り9件…あー、手が… → これから帰るけど、さむいし雨だしでほっこ… → やっと帰ってきた…手がかじかんで、あった… → もう、ほんと寒いし、手がかじかむし…☔️…",
-  "last_post_timestamp_ms": 1772019719128
+  "today_max_posts": 10,
+  "today_narrative": "もう寝るしかない...😴",
+  "last_post_timestamp_ms": 1772034837065
 }
