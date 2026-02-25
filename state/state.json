@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "さっきのことで思い出したけど、仕事終わって帰る道がほんと寒い…運転してると手も冷たいし、早く家に着きたいなぁ…🚚💨",
+      "slot": "delivery",
+      "timestamp": "2026-02-25 14:15:54",
+      "hasImage": false
+    },
+    {
       "text": "おやすmい…手がかじかんで、なかなかあたたまらない…なんだか今夜もさみし…温かいお風呂に入って、ほっこりしたいなぁ…☁️",
       "slot": "casual",
       "timestamp": "2026-02-25 13:22:48",
@@ -37,12 +43,6 @@
       "slot": "simple_goodnight",
       "timestamp": "2026-02-25 00:54:51",
       "hasImage": false
-    },
-    {
-      "text": "おやすmい…今日も132件配達したけど、やっぱり寒かったなぁ…💦あったかいもの飲みたい！明日も頑張るけど、ちょっと寂しいから…かまってね？",
-      "slot": "goodnight",
-      "timestamp": "2026-02-25 00:01:11",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "casual",
     "commute",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": true,
-  "month_total_posts": 292,
+  "month_total_posts": 293,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-25",
-  "last_post_time": "13:22:48",
+  "last_post_time": "14:15:54",
   "ng_retry_count": 50,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-25 13:22:48",
+  "updated_at": "2026-02-25 14:15:54",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "おやすmい…今日も132件配達したけど、… → ねぇ…この季節、なんか心がちょっとさみし… → おはよう…なんか眠い…☁️ → 寒いし、手がかじかむ…まだまだ冬だわ。温… → やっと帰宅…107件も配達したけど、疲れ… → 今日も寒い中、コンビニで温かい飲み物買っ… → おやすmい…手がかじかんで、なかなかあた…",
-  "last_post_timestamp_ms": 1771993368536
+  "today_narrative": "おやすmい…今日も132件配達したけど、… → ねぇ…この季節、なんか心がちょっとさみし… → おはよう…なんか眠い…☁️ → 寒いし、手がかじかむ…まだまだ冬だわ。温… → やっと帰宅…107件も配達したけど、疲れ… → 今日も寒い中、コンビニで温かい飲み物買っ… → おやすmい…手がかじかんで、なかなかあた… → さっきのことで思い出したけど、仕事終わっ…",
+  "last_post_timestamp_ms": 1771996554542
 }
