@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "これから帰るけど、さむいし雨だしでほっこりしたい…はいたつもつらいなぁ。まだまだ再配達もあるし、誰かと一緒に帰りたいよ。あー、心がさみしい…。",
+      "slot": "commute",
+      "timestamp": "2026-02-25 18:06:26",
+      "hasImage": false
+    },
+    {
       "text": "いま、10件配達して残り9件…あー、手がかじかむし、なんかいやだ。段ボール運ぶのもやっとだし、誰かに会いたいなぁ…温かいもん飲みたいのに、外出るのもさむい。なんかつらい…",
       "slot": "delivery",
       "timestamp": "2026-02-25 16:42:37",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-02-25 12:34:50",
       "hasImage": false
-    },
-    {
-      "text": "やっと帰宅…107件も配達したけど、疲れだけ残ってる…さっきマンション3回も行ったの、虚しかったなぁ…寂しさが心を刺す…雨の音、なんか余計にさみしいよね。温かい飲み物飲みたい…",
-      "slot": "commute",
-      "timestamp": "2026-02-25 09:00:04",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "delivery"
+    "delivery",
+    "commute"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": true,
-  "month_total_posts": 296,
+  "month_total_posts": 297,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-25",
-  "last_post_time": "16:42:37",
+  "last_post_time": "18:06:26",
   "ng_retry_count": 52,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-25 16:42:37",
+  "updated_at": "2026-02-25 18:06:26",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "おやすmい…今日も132件配達したけど、… → ねぇ…この季節、なんか心がちょっとさみし… → おはよう…なんか眠い…☁️ → 寒いし、手がかじかむ…まだまだ冬だわ。温… → やっと帰宅…107件も配達したけど、疲れ… → 今日も寒い中、コンビニで温かい飲み物買っ… → おやすmい…手がかじかんで、なかなかあた… → さっきのことで思い出したけど、仕事終わっ… → 雨だし寒いし…マンションの階段、さっき5… → あーもう、さむくて手がかじかむし、早くあ… → いま、10件配達して残り9件…あー、手が…",
-  "last_post_timestamp_ms": 1772005357063
+  "today_narrative": "おやすmい…今日も132件配達したけど、… → ねぇ…この季節、なんか心がちょっとさみし… → おはよう…なんか眠い…☁️ → 寒いし、手がかじかむ…まだまだ冬だわ。温… → やっと帰宅…107件も配達したけど、疲れ… → 今日も寒い中、コンビニで温かい飲み物買っ… → おやすmい…手がかじかんで、なかなかあた… → さっきのことで思い出したけど、仕事終わっ… → 雨だし寒いし…マンションの階段、さっき5… → あーもう、さむくて手がかじかむし、早くあ… → いま、10件配達して残り9件…あー、手が… → これから帰るけど、さむいし雨だしでほっこ…",
+  "last_post_timestamp_ms": 1772010386276
 }
