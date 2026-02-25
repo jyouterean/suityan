@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あーもう、さむくて手がかじかむし、早くあったかい飲み物がほしい…😩 まだ残り29件、疲れたなぁ…でも、配達先の子供に手振られた時はほっこりしたなぁ。誰かに褒めてほしいなぁ…（自分で言ってて悲しくなった）",
+      "slot": "delivery",
+      "timestamp": "2026-02-25 15:46:26",
+      "hasImage": false
+    },
+    {
       "text": "雨だし寒いし…マンションの階段、さっき5Fまで上がったけどつらかった…誰かに会いたいなぁ…お客さんとのやりとりもいつも通りで、褒められたい…😔",
       "slot": "delivery",
       "timestamp": "2026-02-25 14:57:55",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-02-25 08:24:50",
       "hasImage": false
-    },
-    {
-      "text": "おはよう…なんか眠い…☁️",
-      "slot": "morning",
-      "timestamp": "2026-02-25 06:58:43",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -54,25 +54,26 @@
     "casual",
     "casual",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 9,
+  "today_post_count": 10,
   "today_goodnight_posted": true,
-  "month_total_posts": 294,
+  "month_total_posts": 295,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-25",
-  "last_post_time": "14:57:55",
-  "ng_retry_count": 50,
+  "last_post_time": "15:46:26",
+  "ng_retry_count": 51,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-25 14:57:55",
+  "updated_at": "2026-02-25 15:46:26",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "おやすmい…今日も132件配達したけど、… → ねぇ…この季節、なんか心がちょっとさみし… → おはよう…なんか眠い…☁️ → 寒いし、手がかじかむ…まだまだ冬だわ。温… → やっと帰宅…107件も配達したけど、疲れ… → 今日も寒い中、コンビニで温かい飲み物買っ… → おやすmい…手がかじかんで、なかなかあた… → さっきのことで思い出したけど、仕事終わっ… → 雨だし寒いし…マンションの階段、さっき5…",
-  "last_post_timestamp_ms": 1771999075333
+  "today_narrative": "おやすmい…今日も132件配達したけど、… → ねぇ…この季節、なんか心がちょっとさみし… → おはよう…なんか眠い…☁️ → 寒いし、手がかじかむ…まだまだ冬だわ。温… → やっと帰宅…107件も配達したけど、疲れ… → 今日も寒い中、コンビニで温かい飲み物買っ… → おやすmい…手がかじかんで、なかなかあた… → さっきのことで思い出したけど、仕事終わっ… → 雨だし寒いし…マンションの階段、さっき5… → あーもう、さむくて手がかじかむし、早くあ…",
+  "last_post_timestamp_ms": 1772001986203
 }
