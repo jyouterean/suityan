@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あー、さっきの配達、92件もやったのに手がかじかむ...寒すぎて泣ける。お客さんと軽くおしゃべりしたけど、話した内容すぐ忘れたし…(自分で言ってて悲しくなった)やっぱり、誰かに会いたいなぁ😢",
+      "slot": "delivery",
+      "timestamp": "2026-02-26 14:55:11",
+      "hasImage": false
+    },
+    {
       "text": "おうち帰って、あったかいお茶でも飲も…ふぅ、なんか癒される…😌でも、外の寒さに比べたら、全然温かい…やっぱ一人だとさみしいなぁ…",
       "slot": "casual",
       "timestamp": "2026-02-26 13:49:31",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-02-26 07:07:49",
       "hasImage": false
-    },
-    {
-      "text": "もう寝るしかない...😴",
-      "slot": "simple_goodnight",
-      "timestamp": "2026-02-26 00:53:57",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "delivery",
     "casual",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": false,
-  "month_total_posts": 306,
+  "month_total_posts": 307,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-26",
-  "last_post_time": "13:49:31",
+  "last_post_time": "14:55:11",
   "ng_retry_count": 52,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-26 13:49:31",
+  "updated_at": "2026-02-26 14:55:11",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 10,
-  "today_narrative": "もう寝るしかない...😴 → おはよ…ねむい… → 帰り道、重い荷物抱えて…とりあえず温かい… → 寒いせいで手がかじかむ…インターホン鳴る… → なんか、仕事終わってからずっと独りぼっち… → 朝、まだ眠いなぁ…😴 ふと、寒いとなん… → おうち帰って、あったかいお茶でも飲も…ふ…",
-  "last_post_timestamp_ms": 1772081371844
+  "today_narrative": "もう寝るしかない...😴 → おはよ…ねむい… → 帰り道、重い荷物抱えて…とりあえず温かい… → 寒いせいで手がかじかむ…インターホン鳴る… → なんか、仕事終わってからずっと独りぼっち… → 朝、まだ眠いなぁ…😴 ふと、寒いとなん… → おうち帰って、あったかいお茶でも飲も…ふ… → あー、さっきの配達、92件もやったのに手…",
+  "last_post_timestamp_ms": 1772085311612
 }
