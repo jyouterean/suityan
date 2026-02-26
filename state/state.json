@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 60,
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "なんか、だる…😩 いつになったら温かい飲み物飲めるんかな、もう寒くて手がやばいよ…金曜日だし、早く週末来てほしいなぁ。目がしぱしぱ…😴",
+      "slot": "casual",
+      "timestamp": "2026-02-27 08:08:36",
+      "hasImage": false
+    },
     {
       "text": "おはよ…まだ夢の中😴",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "casual",
       "timestamp": "2026-02-26 13:49:31",
       "hasImage": false
-    },
-    {
-      "text": "朝、まだ眠いなぁ…😴 ふと、寒いとなんもやる気出ないよね。あったかい飲み物がほしすぎてコンビニ行きたいなぁ。ひとりでいると余計にさみしくなる…",
-      "slot": "casual",
-      "timestamp": "2026-02-26 13:13:41",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
-    "morning"
+    "morning",
+    "casual"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 311,
+  "month_total_posts": 312,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-27",
-  "last_post_time": "06:50:55",
+  "last_post_time": "08:08:36",
   "ng_retry_count": 53,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-27 06:50:55",
+  "updated_at": "2026-02-27 08:08:36",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "目がしぱしぱ…もう寝る🥱 → おはよ…まだ夢の中😴",
-  "last_post_timestamp_ms": 1772142655733
+  "today_narrative": "目がしぱしぱ…もう寝る🥱 → おはよ…まだ夢の中😴 → なんか、だる…😩 いつになったら温かい…",
+  "last_post_timestamp_ms": 1772147316800
 }
