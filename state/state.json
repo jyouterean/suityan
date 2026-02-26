@@ -1,7 +1,13 @@
 {
-  "mood": "melancholy",
-  "energy": 40,
+  "mood": "tired",
+  "energy": 30,
   "last_posts": [
+    {
+      "text": "なんか、仕事終わってからずっと独りぼっち…やっぱり寒いと心まで冷えるのかなぁ…😔\nこんな日は温かい飲み物がすごく恋しい…コンビニ行って、ホット何か買おうかな…ううん、どうしよう…",
+      "slot": "casual",
+      "timestamp": "2026-02-26 12:43:02",
+      "hasImage": false
+    },
     {
       "text": "寒いせいで手がかじかむ…インターホン鳴るたびに何か思い出すし…誰かに会いたいなぁ…少しだけでも優しい言葉欲しいな…でも、残り5件があるから頑張らなきゃ…😔",
       "slot": "delivery",
@@ -37,37 +43,32 @@
       "slot": "casual",
       "timestamp": "2026-02-25 19:31:22",
       "hasImage": false
-    },
-    {
-      "text": "これから帰るけど、さむいし雨だしでほっこりしたい…はいたつもつらいなぁ。まだまだ再配達もあるし、誰かと一緒に帰りたいよ。あー、心がさみしい…。",
-      "slot": "commute",
-      "timestamp": "2026-02-25 18:06:26",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
     "morning",
     "commute",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 4,
+  "today_post_count": 5,
   "today_goodnight_posted": false,
-  "month_total_posts": 303,
+  "month_total_posts": 304,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-26",
-  "last_post_time": "09:12:43",
+  "last_post_time": "12:43:02",
   "ng_retry_count": 52,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-26 09:12:43",
+  "updated_at": "2026-02-26 12:43:02",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 10,
-  "today_narrative": "もう寝るしかない...😴 → おはよ…ねむい… → 帰り道、重い荷物抱えて…とりあえず温かい… → 寒いせいで手がかじかむ…インターホン鳴る…",
-  "last_post_timestamp_ms": 1772064763981
+  "today_narrative": "もう寝るしかない...😴 → おはよ…ねむい… → 帰り道、重い荷物抱えて…とりあえず温かい… → 寒いせいで手がかじかむ…インターホン鳴る… → なんか、仕事終わってからずっと独りぼっち…",
+  "last_post_timestamp_ms": 1772077382136
 }
