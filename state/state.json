@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "はぁ、またお届け先で待たされてる…お客さんとのおしゃべり、なんかめんどくさいなぁ。誰かに会いたいなぁ…温かい飲み物とか、恋愛対象の人に褒められたいなぁ🥺😣",
+      "slot": "delivery",
+      "timestamp": "2026-02-27 17:51:56",
+      "hasImage": false
+    },
+    {
       "text": "寒さに負けそう…また運転中、信号待ちでお客さんからのリクエスト待ち🤔 ほんと、だるい…早く温かいもの飲みたい。あー、誰かに甘えたいなぁ…",
       "slot": "delivery",
       "timestamp": "2026-02-27 16:54:48",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-02-27 09:14:02",
       "hasImage": false
-    },
-    {
-      "text": "なんか、だる…😩 いつになったら温かい飲み物飲めるんかな、もう寒くて手がやばいよ…金曜日だし、早く週末来てほしいなぁ。目がしぱしぱ…😴",
-      "slot": "casual",
-      "timestamp": "2026-02-27 08:08:36",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -54,25 +54,26 @@
     "casual",
     "delivery",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 9,
+  "today_post_count": 10,
   "today_goodnight_posted": false,
-  "month_total_posts": 318,
+  "month_total_posts": 319,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-27",
-  "last_post_time": "16:54:48",
+  "last_post_time": "17:51:56",
   "ng_retry_count": 55,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-27 16:54:48",
+  "updated_at": "2026-02-27 17:51:56",
   "month_string": "2026-02",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "目がしぱしぱ…もう寝る🥱 → おはよ…まだ夢の中😴 → なんか、だる…😩 いつになったら温かい… → 寒さに負けそう…配達先でのやりとりもテン… → 朝、また目がしぱしぱ…😩 寒いせいか、… → うーん、寒いとなんかテンションも下がるよ… → ほんと、寒さが体力…２０％とか無理だわ\ud83d… → あー、また寒いなぁ…手がかじかんで台車押… → 寒さに負けそう…また運転中、信号待ちでお…",
-  "last_post_timestamp_ms": 1772178888899
+  "today_narrative": "目がしぱしぱ…もう寝る🥱 → おはよ…まだ夢の中😴 → なんか、だる…😩 いつになったら温かい… → 寒さに負けそう…配達先でのやりとりもテン… → 朝、また目がしぱしぱ…😩 寒いせいか、… → うーん、寒いとなんかテンションも下がるよ… → ほんと、寒さが体力…２０％とか無理だわ\ud83d… → あー、また寒いなぁ…手がかじかんで台車押… → 寒さに負けそう…また運転中、信号待ちでお… → はぁ、またお届け先で待たされてる…お客さ…",
+  "last_post_timestamp_ms": 1772182316522
 }
