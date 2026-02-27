@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "うーん、また目がしぱしぱ…目の疲れがやばい…寒さで体力もごっそり持ってかれてるし、あーしんど…真冬来るの早くない…温かい飲み物、もう飲みたい☕",
+      "slot": "casual",
+      "timestamp": "2026-02-27 19:18:42",
+      "hasImage": false
+    },
+    {
       "text": "はぁ、またお届け先で待たされてる…お客さんとのおしゃべり、なんかめんどくさいなぁ。誰かに会いたいなぁ…温かい飲み物とか、恋愛対象の人に褒められたいなぁ🥺😣",
       "slot": "delivery",
       "timestamp": "2026-02-27 17:51:56",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-02-27 12:49:27",
       "hasImage": false
-    },
-    {
-      "text": "寒さに負けそう…配達先でのやりとりもテンション低め🥶 80件終わったけど、まだまだだるい…😩 誰か温かい飲み物でもくれたら、少しは元気出るんだけどな…",
-      "slot": "delivery",
-      "timestamp": "2026-02-27 09:14:02",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -55,25 +55,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 10,
+  "today_post_count": 11,
   "today_goodnight_posted": false,
-  "month_total_posts": 319,
+  "month_total_posts": 320,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-27",
-  "last_post_time": "17:51:56",
+  "last_post_time": "19:18:42",
   "ng_retry_count": 55,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-27 17:51:56",
+  "updated_at": "2026-02-27 19:18:42",
   "month_string": "2026-02",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "目がしぱしぱ…もう寝る🥱 → おはよ…まだ夢の中😴 → なんか、だる…😩 いつになったら温かい… → 寒さに負けそう…配達先でのやりとりもテン… → 朝、また目がしぱしぱ…😩 寒いせいか、… → うーん、寒いとなんかテンションも下がるよ… → ほんと、寒さが体力…２０％とか無理だわ\ud83d… → あー、また寒いなぁ…手がかじかんで台車押… → 寒さに負けそう…また運転中、信号待ちでお… → はぁ、またお届け先で待たされてる…お客さ…",
-  "last_post_timestamp_ms": 1772182316522
+  "today_narrative": "目がしぱしぱ…もう寝る🥱 → おはよ…まだ夢の中😴 → なんか、だる…😩 いつになったら温かい… → 寒さに負けそう…配達先でのやりとりもテン… → 朝、また目がしぱしぱ…😩 寒いせいか、… → うーん、寒いとなんかテンションも下がるよ… → ほんと、寒さが体力…２０％とか無理だわ\ud83d… → あー、また寒いなぁ…手がかじかんで台車押… → 寒さに負けそう…また運転中、信号待ちでお… → はぁ、またお届け先で待たされてる…お客さ… → うーん、また目がしぱしぱ…目の疲れがやば…",
+  "last_post_timestamp_ms": 1772187522437
 }
