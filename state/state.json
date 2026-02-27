@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "寒さがほんとにきつい…手が冷たいと運転も辛いよね…またふらふらしてるし😩次の配達先までもう少しかなぁ、温かいもの飲みたいなぁ…ねぇ、誰かかまって…",
+      "slot": "goodnight",
+      "timestamp": "2026-02-27 23:29:18",
+      "hasImage": false
+    },
+    {
       "text": "今日も寒いなぁ…😩さっきの配達先でまた待たされるし、なんかもうだるいよ…あったかいもん飲みたいなぁ…ねぇ、一緒にいてほしい…知らんけど",
       "slot": "night_ero",
       "timestamp": "2026-02-27 21:51:10",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-02-27 15:20:27",
       "hasImage": false
-    },
-    {
-      "text": "ほんと、寒さが体力…２０％とか無理だわ😩配達先で再配達の話でぐったり…お客さんにいいこと言われたら、少しは元気出るのに…誰か褒めてくれないかな…（…いま何時だ）",
-      "slot": "delivery",
-      "timestamp": "2026-02-27 14:37:57",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -58,25 +58,26 @@
     "delivery",
     "casual",
     "casual",
-    "night_ero"
+    "night_ero",
+    "goodnight"
   ],
-  "today_post_count": 13,
-  "today_goodnight_posted": false,
-  "month_total_posts": 322,
+  "today_post_count": 14,
+  "today_goodnight_posted": true,
+  "month_total_posts": 323,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-27",
-  "last_post_time": "21:51:10",
+  "last_post_time": "23:29:18",
   "ng_retry_count": 56,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-27 21:51:10",
+  "updated_at": "2026-02-27 23:29:18",
   "month_string": "2026-02",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "目がしぱしぱ…もう寝る🥱 → おはよ…まだ夢の中😴 → なんか、だる…😩 いつになったら温かい… → 寒さに負けそう…配達先でのやりとりもテン… → 朝、また目がしぱしぱ…😩 寒いせいか、… → うーん、寒いとなんかテンションも下がるよ… → ほんと、寒さが体力…２０％とか無理だわ\ud83d… → あー、また寒いなぁ…手がかじかんで台車押… → 寒さに負けそう…また運転中、信号待ちでお… → はぁ、またお届け先で待たされてる…お客さ… → うーん、また目がしぱしぱ…目の疲れがやば… → ほんと、寒さに負けそう…手がかじかんでつ… → 今日も寒いなぁ…😩さっきの配達先でまた…",
-  "last_post_timestamp_ms": 1772196670810
+  "today_narrative": "目がしぱしぱ…もう寝る🥱 → おはよ…まだ夢の中😴 → なんか、だる…😩 いつになったら温かい… → 寒さに負けそう…配達先でのやりとりもテン… → 朝、また目がしぱしぱ…😩 寒いせいか、… → うーん、寒いとなんかテンションも下がるよ… → ほんと、寒さが体力…２０％とか無理だわ\ud83d… → あー、また寒いなぁ…手がかじかんで台車押… → 寒さに負けそう…また運転中、信号待ちでお… → はぁ、またお届け先で待たされてる…お客さ… → うーん、また目がしぱしぱ…目の疲れがやば… → ほんと、寒さに負けそう…手がかじかんでつ… → 今日も寒いなぁ…😩さっきの配達先でまた… → 寒さがほんとにきつい…手が冷たいと運転も…",
+  "last_post_timestamp_ms": 1772202558771
 }
