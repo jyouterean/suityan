@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "寒さに負けそう…配達先でのやりとりもテンション低め🥶 80件終わったけど、まだまだだるい…😩 誰か温かい飲み物でもくれたら、少しは元気出るんだけどな…",
+      "slot": "delivery",
+      "timestamp": "2026-02-27 09:14:02",
+      "hasImage": false
+    },
     {
       "text": "なんか、だる…😩 いつになったら温かい飲み物飲めるんかな、もう寒くて手がやばいよ…金曜日だし、早く週末来てほしいなぁ。目がしぱしぱ…😴",
       "slot": "casual",
@@ -37,36 +43,31 @@
       "slot": "delivery",
       "timestamp": "2026-02-26 14:55:11",
       "hasImage": false
-    },
-    {
-      "text": "おうち帰って、あったかいお茶でも飲も…ふぅ、なんか癒される…😌でも、外の寒さに比べたら、全然温かい…やっぱ一人だとさみしいなぁ…",
-      "slot": "casual",
-      "timestamp": "2026-02-26 13:49:31",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
     "morning",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": false,
-  "month_total_posts": 312,
+  "month_total_posts": 313,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-27",
-  "last_post_time": "08:08:36",
-  "ng_retry_count": 53,
+  "last_post_time": "09:14:02",
+  "ng_retry_count": 54,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-27 08:08:36",
+  "updated_at": "2026-02-27 09:14:02",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "目がしぱしぱ…もう寝る🥱 → おはよ…まだ夢の中😴 → なんか、だる…😩 いつになったら温かい…",
-  "last_post_timestamp_ms": 1772147316800
+  "today_narrative": "目がしぱしぱ…もう寝る🥱 → おはよ…まだ夢の中😴 → なんか、だる…😩 いつになったら温かい… → 寒さに負けそう…配達先でのやりとりもテン…",
+  "last_post_timestamp_ms": 1772151242480
 }
