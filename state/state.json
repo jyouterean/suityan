@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "さっき、エレベーター壊れてて大変だった…😩こんな寒い日に動くの辛いのに…だれも褒めてくれないし…💧",
+      "slot": "delivery",
+      "timestamp": "2026-02-28 14:33:47",
+      "hasImage": false
+    },
+    {
       "text": "あぁ、まだ寒いなぁ…☁️ こういう日は、あったかいお風呂がいいなぁ〜って思う…お風呂入ったら、少しは元気になれるかな…？😔",
       "slot": "casual",
       "timestamp": "2026-02-28 13:26:20",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-02-28 06:55:46",
       "hasImage": false
-    },
-    {
-      "text": "さっきのツイートの続きだけど…ほんとに誰かかまってくれないかなぁ…😢運転しながら一人ってやっぱり寂しい…ねぇ、話してくれる人いないの？",
-      "slot": "goodnight",
-      "timestamp": "2026-02-28 00:22:03",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "delivery",
     "casual",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": true,
-  "month_total_posts": 330,
+  "month_total_posts": 331,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-28",
-  "last_post_time": "13:26:20",
-  "ng_retry_count": 56,
+  "last_post_time": "14:33:47",
+  "ng_retry_count": 57,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-28 13:26:20",
+  "updated_at": "2026-02-28 14:33:47",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "さっきのツイートの続きだけど…ほんとに誰… → おはよ…あぁ眠い… → 最近寒すぎて、温かい飲み物が恋しい…☕️… → ほんと…誰かに褒めてほしいなぁ…😔段ボ… → なんか、こんな寒い日はあったかいスープで… → 寒さに負けず、あったかいスープ作ろうかな… → あぁ、まだ寒いなぁ…☁️ こういう日は、…",
-  "last_post_timestamp_ms": 1772252780174
+  "today_narrative": "さっきのツイートの続きだけど…ほんとに誰… → おはよ…あぁ眠い… → 最近寒すぎて、温かい飲み物が恋しい…☕️… → ほんと…誰かに褒めてほしいなぁ…😔段ボ… → なんか、こんな寒い日はあったかいスープで… → 寒さに負けず、あったかいスープ作ろうかな… → あぁ、まだ寒いなぁ…☁️ こういう日は、… → さっき、エレベーター壊れてて大変だった……",
+  "last_post_timestamp_ms": 1772256827173
 }
