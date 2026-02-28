@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 50,
+  "mood": "lonely",
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "ほんと…誰かに褒めてほしいなぁ…😔段ボールの山見てるだけで、なんか心が疲れちゃう…寒い中で運転するのも億劫だし…ふぅ…何か温かいもの飲みたい…",
+      "slot": "delivery",
+      "timestamp": "2026-02-28 09:13:05",
+      "hasImage": false
+    },
     {
       "text": "最近寒すぎて、温かい飲み物が恋しい…☕️なんか、魂が凍りついてる感じ。自販機でホット買って心温まるかなぁ…。さっきよりはちょっと元気になったかも…",
       "slot": "casual",
@@ -37,36 +43,31 @@
       "slot": "casual",
       "timestamp": "2026-02-27 20:33:48",
       "hasImage": false
-    },
-    {
-      "text": "うーん、また目がしぱしぱ…目の疲れがやばい…寒さで体力もごっそり持ってかれてるし、あーしんど…真冬来るの早くない…温かい飲み物、もう飲みたい☕",
-      "slot": "casual",
-      "timestamp": "2026-02-27 19:18:42",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
     "morning",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": true,
-  "month_total_posts": 326,
+  "month_total_posts": 327,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-02-28",
-  "last_post_time": "08:11:33",
+  "last_post_time": "09:13:05",
   "ng_retry_count": 56,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-02-28 08:11:33",
+  "updated_at": "2026-02-28 09:13:05",
   "month_string": "2026-02",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "さっきのツイートの続きだけど…ほんとに誰… → おはよ…あぁ眠い… → 最近寒すぎて、温かい飲み物が恋しい…☕️…",
-  "last_post_timestamp_ms": 1772233893296
+  "today_narrative": "さっきのツイートの続きだけど…ほんとに誰… → おはよ…あぁ眠い… → 最近寒すぎて、温かい飲み物が恋しい…☕️… → ほんと…誰かに褒めてほしいなぁ…😔段ボ…",
+  "last_post_timestamp_ms": 1772237585655
 }
