@@ -1,7 +1,13 @@
 {
-  "mood": "frustrated",
-  "energy": 20,
+  "mood": "tired",
+  "energy": 10,
   "last_posts": [
+    {
+      "text": "あーもう…ほんとに疲れた…。このまま運転で終わるのかと思うとしんどいな…桜なんて見れないのかな…😓",
+      "slot": "delivery",
+      "timestamp": "2026-03-01 15:24:01",
+      "hasImage": false
+    },
     {
       "text": "しんどいな…配達件数も多いし、桜見に行きたい気もする。こんな快晴なのに運転ばっかり…😩 なんか誰かに褒められたくなる、心の余裕ないな…",
       "slot": "delivery",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-03-01 06:56:41",
       "hasImage": false
-    },
-    {
-      "text": "さっきの続きだけど、ほんとに誰かに褒めてもらいたいなぁ…😔なにかあったかいもので癒されたい…スープ作るのっていいよね…でも、ちょっと手がかじかんでる…寒さが辛いなぁ…うぅ…",
-      "slot": "casual",
-      "timestamp": "2026-02-28 20:35:09",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -51,25 +51,26 @@
     "casual",
     "casual",
     "casual",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 6,
+  "today_post_count": 7,
   "today_goodnight_posted": false,
-  "month_total_posts": 6,
+  "month_total_posts": 7,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-01",
-  "last_post_time": "14:52:10",
+  "last_post_time": "15:24:01",
   "ng_retry_count": 58,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-01 14:52:10",
+  "updated_at": "2026-03-01 15:24:01",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 10,
-  "today_narrative": "おはよ…ねむすぎるな → 今、配達中だけど、ほんとにだるいな…😩… → あー、もう日曜日なのに全然休めてないな…… → なんか、この時期の陽射しってちょっと心地… → さっきの続きってわけじゃないけど、今日は… → しんどいな…配達件数も多いし、桜見に行き…",
-  "last_post_timestamp_ms": 1772344330587
+  "today_narrative": "おはよ…ねむすぎるな → 今、配達中だけど、ほんとにだるいな…😩… → あー、もう日曜日なのに全然休めてないな…… → なんか、この時期の陽射しってちょっと心地… → さっきの続きってわけじゃないけど、今日は… → しんどいな…配達件数も多いし、桜見に行き… → あーもう…ほんとに疲れた…。このまま運転…",
+  "last_post_timestamp_ms": 1772346241374
 }
