@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "なんか、この時期の陽射しってちょっと心地いいよね…でも花粉が…くしゃみが止まらないのだわ。早く帰りたいなぁ…😩✨",
+      "slot": "casual",
+      "timestamp": "2026-03-01 13:02:00",
+      "hasImage": false
+    },
     {
       "text": "あー、もう日曜日なのに全然休めてないな…😩家でゴロゴロしたいのに。花粉もやばいし、なんか疲れる…。ほんと春って憂鬱…",
       "slot": "casual",
@@ -37,36 +43,31 @@
       "slot": "delivery",
       "timestamp": "2026-02-28 16:21:46",
       "hasImage": false
-    },
-    {
-      "text": "ほんとにさ、軽バンで仕事してると寒さしんどいけど… 148件も配達するのツラすぎる… 誰かにあったかい言葉ほしいなぁ…❄️😔 こんな日は、うん、やっぱりスープが一番…",
-      "slot": "delivery",
-      "timestamp": "2026-02-28 15:14:37",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "morning",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": false,
-  "month_total_posts": 3,
+  "month_total_posts": 4,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-01",
-  "last_post_time": "12:46:32",
+  "last_post_time": "13:02:00",
   "ng_retry_count": 58,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-01 12:46:32",
+  "updated_at": "2026-03-01 13:02:00",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 10,
-  "today_narrative": "おはよ…ねむすぎるな → 今、配達中だけど、ほんとにだるいな…😩… → あー、もう日曜日なのに全然休めてないな……",
-  "last_post_timestamp_ms": 1772336792388
+  "today_narrative": "おはよ…ねむすぎるな → 今、配達中だけど、ほんとにだるいな…😩… → あー、もう日曜日なのに全然休めてないな…… → なんか、この時期の陽射しってちょっと心地…",
+  "last_post_timestamp_ms": 1772337720881
 }
