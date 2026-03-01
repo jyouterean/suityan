@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あー、桜みたいな春の気配がするのに疲れすぎてて全然楽しめない…😞配達も残り16件だし…あー、誰かと一緒にいれたらいいのに…ねぇ…",
+      "slot": "night_ero",
+      "timestamp": "2026-03-01 21:55:59",
+      "hasImage": false
+    },
+    {
       "text": "あー、もうほんとにひとりで帰るのつらいな…誰かと帰りたいよ…😔段ボールと一緒に帰るのも虚しいもん…はぁ、明日も頑張らないといけないし…",
       "slot": "commute",
       "timestamp": "2026-03-01 18:59:57",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-03-01 13:02:00",
       "hasImage": false
-    },
-    {
-      "text": "あー、もう日曜日なのに全然休めてないな…😩家でゴロゴロしたいのに。花粉もやばいし、なんか疲れる…。ほんと春って憂鬱…",
-      "slot": "casual",
-      "timestamp": "2026-03-01 12:46:32",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -54,25 +54,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "commute"
+    "commute",
+    "night_ero"
   ],
-  "today_post_count": 9,
+  "today_post_count": 10,
   "today_goodnight_posted": false,
-  "month_total_posts": 9,
+  "month_total_posts": 10,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-01",
-  "last_post_time": "18:59:57",
+  "last_post_time": "21:55:59",
   "ng_retry_count": 58,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-01 20:26:04",
+  "updated_at": "2026-03-01 21:55:59",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 3,
   "today_max_posts": 10,
-  "today_narrative": "おはよ…ねむすぎるな → 今、配達中だけど、ほんとにだるいな…😩… → あー、もう日曜日なのに全然休めてないな…… → なんか、この時期の陽射しってちょっと心地… → さっきの続きってわけじゃないけど、今日は… → しんどいな…配達件数も多いし、桜見に行き… → あーもう…ほんとに疲れた…。このまま運転… → あー、また階段登って汗だくだし…ほんとに… → あー、もうほんとにひとりで帰るのつらいな…",
-  "last_post_timestamp_ms": 1772359197264
+  "today_narrative": "おはよ…ねむすぎるな → 今、配達中だけど、ほんとにだるいな…😩… → あー、もう日曜日なのに全然休めてないな…… → なんか、この時期の陽射しってちょっと心地… → さっきの続きってわけじゃないけど、今日は… → しんどいな…配達件数も多いし、桜見に行き… → あーもう…ほんとに疲れた…。このまま運転… → あー、また階段登って汗だくだし…ほんとに… → あー、もうほんとにひとりで帰るのつらいな… → あー、桜みたいな春の気配がするのに疲れす…",
+  "last_post_timestamp_ms": 1772369759835
 }
