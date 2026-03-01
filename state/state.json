@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 10,
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "おやすみなさい…",
+      "slot": "simple_goodnight",
+      "timestamp": "2026-03-02 00:02:33",
+      "hasImage": false
+    },
     {
       "text": "あー、桜みたいな春の気配がするのに疲れすぎてて全然楽しめない…😞配達も残り16件だし…あー、誰かと一緒にいれたらいいのに…ねぇ…",
       "slot": "night_ero",
@@ -37,43 +43,28 @@
       "slot": "casual",
       "timestamp": "2026-03-01 13:55:40",
       "hasImage": false
-    },
-    {
-      "text": "なんか、この時期の陽射しってちょっと心地いいよね…でも花粉が…くしゃみが止まらないのだわ。早く帰りたいなぁ…😩✨",
-      "slot": "casual",
-      "timestamp": "2026-03-01 13:02:00",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "morning",
-    "delivery",
-    "casual",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery",
-    "commute",
-    "night_ero"
+    "simple_goodnight"
   ],
-  "today_post_count": 10,
+  "today_post_count": 1,
   "today_goodnight_posted": false,
-  "month_total_posts": 10,
+  "month_total_posts": 11,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-03-01",
-  "last_post_time": "21:55:59",
+  "last_post_date": "2026-03-02",
+  "last_post_time": "00:02:33",
   "ng_retry_count": 58,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-01 21:55:59",
+  "updated_at": "2026-03-02 00:02:33",
   "month_string": "2026-03",
-  "today_skipped": true,
-  "today_simple_goodnight_posted": false,
-  "today_morning_posted": true,
-  "today_skip_count": 3,
-  "today_max_posts": 10,
-  "today_narrative": "おはよ…ねむすぎるな → 今、配達中だけど、ほんとにだるいな…😩… → あー、もう日曜日なのに全然休めてないな…… → なんか、この時期の陽射しってちょっと心地… → さっきの続きってわけじゃないけど、今日は… → しんどいな…配達件数も多いし、桜見に行き… → あーもう…ほんとに疲れた…。このまま運転… → あー、また階段登って汗だくだし…ほんとに… → あー、もうほんとにひとりで帰るのつらいな… → あー、桜みたいな春の気配がするのに疲れす…",
-  "last_post_timestamp_ms": 1772369759835
+  "today_skipped": false,
+  "today_simple_goodnight_posted": true,
+  "today_morning_posted": false,
+  "today_skip_count": 0,
+  "today_max_posts": 13,
+  "today_narrative": "おやすみなさい…",
+  "last_post_timestamp_ms": 1772377353399
 }
