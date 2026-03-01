@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 70,
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "今、配達中だけど、ほんとにだるいな…😩お客さんとのやりとり、あんまりやりたくないなぁ。桜が綺麗なのに、心は曇ってる感じ。誰か会って、うまく褒めてくれたらいいのにな…（誰得）",
+      "slot": "delivery",
+      "timestamp": "2026-03-01 09:03:21",
+      "hasImage": false
+    },
     {
       "text": "おはよ…ねむすぎるな",
       "slot": "morning",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-02-28 14:33:47",
       "hasImage": false
-    },
-    {
-      "text": "あぁ、まだ寒いなぁ…☁️ こういう日は、あったかいお風呂がいいなぁ〜って思う…お風呂入ったら、少しは元気になれるかな…？😔",
-      "slot": "casual",
-      "timestamp": "2026-02-28 13:26:20",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "morning"
+    "morning",
+    "delivery"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 1,
+  "month_total_posts": 2,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-01",
-  "last_post_time": "06:56:41",
+  "last_post_time": "09:03:21",
   "ng_retry_count": 58,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-01 08:12:54",
+  "updated_at": "2026-03-01 09:03:21",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 10,
-  "today_narrative": "おはよ…ねむすぎるな",
-  "last_post_timestamp_ms": 1772315801165
+  "today_narrative": "おはよ…ねむすぎるな → 今、配達中だけど、ほんとにだるいな…😩…",
+  "last_post_timestamp_ms": 1772323401576
 }
