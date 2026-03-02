@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 50,
+  "mood": "lonely",
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "やっぱり一人で帰るのは…つらいなぁ、雨の中…軽貨物の仕事もひと段落、疲れたし…誰かと一緒なら、もっと楽しいのに…😔",
+      "slot": "commute",
+      "timestamp": "2026-03-03 08:53:33",
+      "hasImage": false
+    },
     {
       "text": "このまま冬に逆戻りしてほしい…寒いのも嫌だけど、こういう微妙な季節もやだなぁ…花粉、てんで治らないし…もう寝ようかな…😪",
       "slot": "casual",
@@ -37,36 +43,31 @@
       "slot": "casual",
       "timestamp": "2026-03-02 19:36:59",
       "hasImage": false
-    },
-    {
-      "text": "さっきの配達先、荷物を返したら不在票が…またか…😩こんな日曜じゃ誰も出ないよなぁ…次の軽バンでの移動もきつくなりそう…桜も終わってるし、春の気持ちもどっか行っちゃった…",
-      "slot": "delivery",
-      "timestamp": "2026-03-02 16:38:16",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
     "morning",
-    "casual"
+    "casual",
+    "commute"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": true,
-  "month_total_posts": 26,
+  "month_total_posts": 27,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-03",
-  "last_post_time": "08:21:30",
-  "ng_retry_count": 63,
+  "last_post_time": "08:53:33",
+  "ng_retry_count": 64,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-03 08:21:30",
+  "updated_at": "2026-03-03 08:53:33",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 11,
-  "today_narrative": "もうおやすみの時間…さっきも階段上って、… → あさ…むりだよね…😪 → このまま冬に逆戻りしてほしい…寒いのも嫌…",
-  "last_post_timestamp_ms": 1772493690148
+  "today_narrative": "もうおやすみの時間…さっきも階段上って、… → あさ…むりだよね…😪 → このまま冬に逆戻りしてほしい…寒いのも嫌… → やっぱり一人で帰るのは…つらいなぁ、雨の…",
+  "last_post_timestamp_ms": 1772495613336
 }
