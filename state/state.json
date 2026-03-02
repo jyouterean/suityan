@@ -1,7 +1,13 @@
 {
-  "mood": "melancholy",
-  "energy": 30,
+  "mood": "frustrated",
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "なんかふと、あの時の桜のこと思い出した…🌸 あの季節がまた来るんだなぁって。新生活、少し不安だけど、やっぱり楽しみもあるよね…でもやっぱり、気持ちが重いなぁ…",
+      "slot": "casual",
+      "timestamp": "2026-03-02 13:03:19",
+      "hasImage": false
+    },
     {
       "text": "さっきの愚痴は置いといて、次の配達先へ向かう準備しなきゃ！やる気出さないとね💪 頑張るぞー！",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "night_ero",
       "timestamp": "2026-03-01 21:55:59",
       "hasImage": false
-    },
-    {
-      "text": "あー、もうほんとにひとりで帰るのつらいな…誰かと帰りたいよ…😔段ボールと一緒に帰るのも虚しいもん…はぁ、明日も頑張らないといけないし…",
-      "slot": "commute",
-      "timestamp": "2026-03-01 18:59:57",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "morning",
     "casual",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": false,
-  "month_total_posts": 15,
+  "month_total_posts": 16,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-02",
-  "last_post_time": "12:35:53",
-  "ng_retry_count": 58,
+  "last_post_time": "13:03:19",
+  "ng_retry_count": 59,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-02 12:35:53",
+  "updated_at": "2026-03-02 13:03:19",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "おやすみなさい… → おはよう、ねぼう…☁️ → 今週も始まったのに、なんだかだるいな…☁… → 天気曇りだし、やる気出ないな…さっきも軽… → さっきの愚痴は置いといて、次の配達先へ向…",
-  "last_post_timestamp_ms": 1772422553196
+  "today_narrative": "おやすみなさい… → おはよう、ねぼう…☁️ → 今週も始まったのに、なんだかだるいな…☁… → 天気曇りだし、やる気出ないな…さっきも軽… → さっきの愚痴は置いといて、次の配達先へ向… → なんかふと、あの時の桜のこと思い出した……",
+  "last_post_timestamp_ms": 1772424199449
 }
