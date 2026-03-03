@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あーもう、ほんとしんど…😩帰りたくても運転中だし、早く終わってほしい…このままじゃ倒れそう…",
+      "slot": "casual",
+      "timestamp": "2026-03-03 19:32:34",
+      "hasImage": false
+    },
+    {
       "text": "あー、ほんとしんど…雨の中、また段ボール運ぶなんて、もう無理かも…😩誰かと帰りたいなぁ…やっぱり一人は寂しいよ…",
       "slot": "commute",
       "timestamp": "2026-03-03 18:20:13",
@@ -37,12 +43,6 @@
       "slot": "commute",
       "timestamp": "2026-03-03 08:53:33",
       "hasImage": false
-    },
-    {
-      "text": "このまま冬に逆戻りしてほしい…寒いのも嫌だけど、こういう微妙な季節もやだなぁ…花粉、てんで治らないし…もう寝ようかな…😪",
-      "slot": "casual",
-      "timestamp": "2026-03-03 08:21:30",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -54,25 +54,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "commute"
+    "commute",
+    "casual"
   ],
-  "today_post_count": 9,
+  "today_post_count": 10,
   "today_goodnight_posted": true,
-  "month_total_posts": 32,
+  "month_total_posts": 33,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-03",
-  "last_post_time": "18:20:13",
+  "last_post_time": "19:32:34",
   "ng_retry_count": 66,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-03 18:20:13",
+  "updated_at": "2026-03-03 19:32:34",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 2,
   "today_max_posts": 11,
-  "today_narrative": "もうおやすみの時間…さっきも階段上って、… → あさ…むりだよね…😪 → このまま冬に逆戻りしてほしい…寒いのも嫌… → やっぱり一人で帰るのは…つらいなぁ、雨の… → やっぱり外出るのが億劫…週の初めなのにも… → あー、車の中で雨の音聞きながら、もう帰り… → さっき1Fまで階段で上ったから、もうだる… → だるいなぁ…また段ボールだけ運んで、信号… → あー、ほんとしんど…雨の中、また段ボール…",
-  "last_post_timestamp_ms": 1772529613476
+  "today_narrative": "もうおやすみの時間…さっきも階段上って、… → あさ…むりだよね…😪 → このまま冬に逆戻りしてほしい…寒いのも嫌… → やっぱり一人で帰るのは…つらいなぁ、雨の… → やっぱり外出るのが億劫…週の初めなのにも… → あー、車の中で雨の音聞きながら、もう帰り… → さっき1Fまで階段で上ったから、もうだる… → だるいなぁ…また段ボールだけ運んで、信号… → あー、ほんとしんど…雨の中、また段ボール… → あーもう、ほんとしんど…😩帰りたくても…",
+  "last_post_timestamp_ms": 1772533954750
 }
