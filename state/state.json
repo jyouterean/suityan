@@ -1,7 +1,13 @@
 {
-  "mood": "frustrated",
-  "energy": 20,
+  "mood": "tired",
+  "energy": 10,
   "last_posts": [
+    {
+      "text": "さっき1Fまで階段で上ったから、もうだるい…運転してると、ほんと体力が減ってく…これじゃあ、配達終わったらそのままベッド直行かも…誰か、褒めてくれたら頑張れそうなのに…知らんけど😩",
+      "slot": "delivery",
+      "timestamp": "2026-03-03 15:24:51",
+      "hasImage": false
+    },
     {
       "text": "あー、車の中で雨の音聞きながら、もう帰りたいなぁ…軽バン運転してると体力も削れるし…次の配達は残り1件、って誰に言ってんだろ…😩",
       "slot": "delivery",
@@ -37,12 +43,6 @@
       "slot": "goodnight",
       "timestamp": "2026-03-03 00:26:00",
       "hasImage": false
-    },
-    {
-      "text": "不在票見つけるたび、ほんと悲しくなるなぁ…あの人、今なにしてるんだろ…😔配達終わっても、ふと考えちゃうよね…さっきの桜のことも思い出して、うん、やっぱりきれいだったなぁ…🌸",
-      "slot": "night_ero",
-      "timestamp": "2026-03-02 21:55:45",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -51,25 +51,26 @@
     "casual",
     "commute",
     "casual",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 6,
+  "today_post_count": 7,
   "today_goodnight_posted": true,
-  "month_total_posts": 29,
+  "month_total_posts": 30,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-03",
-  "last_post_time": "14:52:44",
+  "last_post_time": "15:24:51",
   "ng_retry_count": 64,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-03 14:52:44",
+  "updated_at": "2026-03-03 15:24:51",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 2,
   "today_max_posts": 11,
-  "today_narrative": "もうおやすみの時間…さっきも階段上って、… → あさ…むりだよね…😪 → このまま冬に逆戻りしてほしい…寒いのも嫌… → やっぱり一人で帰るのは…つらいなぁ、雨の… → やっぱり外出るのが億劫…週の初めなのにも… → あー、車の中で雨の音聞きながら、もう帰り…",
-  "last_post_timestamp_ms": 1772517164746
+  "today_narrative": "もうおやすみの時間…さっきも階段上って、… → あさ…むりだよね…😪 → このまま冬に逆戻りしてほしい…寒いのも嫌… → やっぱり一人で帰るのは…つらいなぁ、雨の… → やっぱり外出るのが億劫…週の初めなのにも… → あー、車の中で雨の音聞きながら、もう帰り… → さっき1Fまで階段で上ったから、もうだる…",
+  "last_post_timestamp_ms": 1772519091132
 }
