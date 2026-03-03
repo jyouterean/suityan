@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "だるいなぁ…また段ボールだけ運んで、信号も赤だらけで…あー、誰かに会いたいなぁ。褒めてほしい…😪",
+      "slot": "delivery",
+      "timestamp": "2026-03-03 16:43:23",
+      "hasImage": false
+    },
+    {
       "text": "さっき1Fまで階段で上ったから、もうだるい…運転してると、ほんと体力が減ってく…これじゃあ、配達終わったらそのままベッド直行かも…誰か、褒めてくれたら頑張れそうなのに…知らんけど😩",
       "slot": "delivery",
       "timestamp": "2026-03-03 15:24:51",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-03-03 07:06:02",
       "hasImage": false
-    },
-    {
-      "text": "もうおやすみの時間…さっきも階段上って、体力残り80%。お菓子もらったけど、寂しい夜…インターホン鳴らすのも辛いなぁ。明日も頑張らないと…🌙",
-      "slot": "goodnight",
-      "timestamp": "2026-03-03 00:26:00",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "commute",
     "casual",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": true,
-  "month_total_posts": 30,
+  "month_total_posts": 31,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-03",
-  "last_post_time": "15:24:51",
-  "ng_retry_count": 64,
+  "last_post_time": "16:43:23",
+  "ng_retry_count": 66,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-03 15:24:51",
+  "updated_at": "2026-03-03 16:43:23",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 2,
   "today_max_posts": 11,
-  "today_narrative": "もうおやすみの時間…さっきも階段上って、… → あさ…むりだよね…😪 → このまま冬に逆戻りしてほしい…寒いのも嫌… → やっぱり一人で帰るのは…つらいなぁ、雨の… → やっぱり外出るのが億劫…週の初めなのにも… → あー、車の中で雨の音聞きながら、もう帰り… → さっき1Fまで階段で上ったから、もうだる…",
-  "last_post_timestamp_ms": 1772519091132
+  "today_narrative": "もうおやすみの時間…さっきも階段上って、… → あさ…むりだよね…😪 → このまま冬に逆戻りしてほしい…寒いのも嫌… → やっぱり一人で帰るのは…つらいなぁ、雨の… → やっぱり外出るのが億劫…週の初めなのにも… → あー、車の中で雨の音聞きながら、もう帰り… → さっき1Fまで階段で上ったから、もうだる… → だるいなぁ…また段ボールだけ運んで、信号…",
+  "last_post_timestamp_ms": 1772523803653
 }
