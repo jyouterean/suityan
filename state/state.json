@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 70,
+  "mood": "tired",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "あー、眠い…まだ夢の中😪",
+      "slot": "morning",
+      "timestamp": "2026-03-04 06:55:29",
+      "hasImage": false
+    },
     {
       "text": "もう、冷たい雨の中、今日も115件配達…ほんと疲れたよ…はぁ、残り2件しかないのにまだまだ寒いの…誰か、ちょっとだけ癒してほしい…ねぇ、甘えたい…😔",
       "slot": "goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-03-03 15:24:51",
       "hasImage": false
-    },
-    {
-      "text": "あー、車の中で雨の音聞きながら、もう帰りたいなぁ…軽バン運転してると体力も削れるし…次の配達は残り1件、って誰に言ってんだろ…😩",
-      "slot": "delivery",
-      "timestamp": "2026-03-03 14:52:44",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight"
+    "goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": true,
-  "month_total_posts": 35,
+  "month_total_posts": 36,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-04",
-  "last_post_time": "00:56:07",
+  "last_post_time": "06:55:29",
   "ng_retry_count": 66,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-04 00:56:07",
+  "updated_at": "2026-03-04 06:55:29",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もう、冷たい雨の中、今日も115件配達……",
-  "last_post_timestamp_ms": 1772553367394
+  "today_narrative": "もう、冷たい雨の中、今日も115件配達…… → あー、眠い…まだ夢の中😪",
+  "last_post_timestamp_ms": 1772574929429
 }
