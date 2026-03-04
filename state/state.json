@@ -1,7 +1,13 @@
 {
   "mood": "melancholy",
-  "energy": 40,
+  "energy": 30,
   "last_posts": [
+    {
+      "text": "朝の光が入ってくると、なんかちょっとだけ心が温かくなる気がする…でも、まだ寒さが取れないよね…🌸体が重いし、早く帰ってゴロゴロしたいな…😩",
+      "slot": "casual",
+      "timestamp": "2026-03-04 12:26:29",
+      "hasImage": false
+    },
     {
       "text": "届けるのも、ほんとに寒くて気が滅入る… ルート組みも難しいし、お客さんとのやりとりがまた大変だわ。誰かに会いたいなぁ…褒められたいよね。せめて音楽でも聴きながら乗り切るしかないか…😔",
       "slot": "delivery",
@@ -37,37 +43,32 @@
       "slot": "casual",
       "timestamp": "2026-03-03 19:32:34",
       "hasImage": false
-    },
-    {
-      "text": "あー、ほんとしんど…雨の中、また段ボール運ぶなんて、もう無理かも…😩誰かと帰りたいなぁ…やっぱり一人は寂しいよ…",
-      "slot": "commute",
-      "timestamp": "2026-03-03 18:20:13",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
     "morning",
     "delivery",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 4,
+  "today_post_count": 5,
   "today_goodnight_posted": true,
-  "month_total_posts": 38,
+  "month_total_posts": 39,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-04",
-  "last_post_time": "09:04:02",
+  "last_post_time": "12:26:29",
   "ng_retry_count": 66,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-04 09:04:02",
+  "updated_at": "2026-03-04 12:26:29",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もう、冷たい雨の中、今日も115件配達…… → あー、眠い…まだ夢の中😪 → この雨、ほんとに冷たいよ…配達も辛いし、… → 届けるのも、ほんとに寒くて気が滅入る… …",
-  "last_post_timestamp_ms": 1772582642859
+  "today_narrative": "もう、冷たい雨の中、今日も115件配達…… → あー、眠い…まだ夢の中😪 → この雨、ほんとに冷たいよ…配達も辛いし、… → 届けるのも、ほんとに寒くて気が滅入る… … → 朝の光が入ってくると、なんかちょっとだけ…",
+  "last_post_timestamp_ms": 1772594789900
 }
