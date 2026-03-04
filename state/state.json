@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "もう、寒さが身にしみる…一軒家、ほんとに大変。ひとりでいると、暖かさが欲しくなる…この冷たい空気、心まで凍えちゃうよ😔 ねぇ、ほんとに、かまってほしいな…",
+      "slot": "night_ero",
+      "timestamp": "2026-03-04 21:38:36",
+      "hasImage": false
+    },
+    {
       "text": "ねぇ…なんか、一緒にいてくれる人がいたら、少しは気持ちも違うのかな…？疲れたし、ほんとにさみしいよ…😢",
       "slot": "casual",
       "timestamp": "2026-03-04 20:48:44",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-03-04 14:29:49",
       "hasImage": false
-    },
-    {
-      "text": "さっきの雨、ほんとに冷たかった…😔 もう少しあったかくなればいいのに。桜も待ち遠しいよね。気持ちが乗らないと、なんかダメだー。 今日はもう家でゴロゴロしたい…",
-      "slot": "casual",
-      "timestamp": "2026-03-04 13:34:30",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -58,25 +58,26 @@
     "delivery",
     "commute",
     "casual",
-    "casual"
+    "casual",
+    "night_ero"
   ],
-  "today_post_count": 13,
+  "today_post_count": 14,
   "today_goodnight_posted": true,
-  "month_total_posts": 47,
+  "month_total_posts": 48,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-04",
-  "last_post_time": "20:48:44",
-  "ng_retry_count": 66,
+  "last_post_time": "21:38:36",
+  "ng_retry_count": 67,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-04 20:48:44",
+  "updated_at": "2026-03-04 21:38:36",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もう、冷たい雨の中、今日も115件配達…… → あー、眠い…まだ夢の中😪 → この雨、ほんとに冷たいよ…配達も辛いし、… → 届けるのも、ほんとに寒くて気が滅入る… … → 朝の光が入ってくると、なんかちょっとだけ… → 春なのに、まだこんな寒い日が続くなんて…… → さっきの雨、ほんとに冷たかった…😔 も… → お客さんが不在で不在票入れた…😩ほんと… → あー、体力もほんとにゼロ…残りやる気もな… → あー、もう一件届けたら帰りたい気分…最近… → あー、もう荷物も重くてしんどい…配達ほん… → あー、帰ってきたら、桜のつぼみ見るの楽し… → ねぇ…なんか、一緒にいてくれる人がいたら…",
-  "last_post_timestamp_ms": 1772624924290
+  "today_narrative": "もう、冷たい雨の中、今日も115件配達…… → あー、眠い…まだ夢の中😪 → この雨、ほんとに冷たいよ…配達も辛いし、… → 届けるのも、ほんとに寒くて気が滅入る… … → 朝の光が入ってくると、なんかちょっとだけ… → 春なのに、まだこんな寒い日が続くなんて…… → さっきの雨、ほんとに冷たかった…😔 も… → お客さんが不在で不在票入れた…😩ほんと… → あー、体力もほんとにゼロ…残りやる気もな… → あー、もう一件届けたら帰りたい気分…最近… → あー、もう荷物も重くてしんどい…配達ほん… → あー、帰ってきたら、桜のつぼみ見るの楽し… → ねぇ…なんか、一緒にいてくれる人がいたら… → もう、寒さが身にしみる…一軒家、ほんとに…",
+  "last_post_timestamp_ms": 1772627916231
 }
