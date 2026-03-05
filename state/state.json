@@ -1,7 +1,13 @@
 {
-  "mood": "frustrated",
-  "energy": 20,
+  "mood": "tired",
+  "energy": 10,
   "last_posts": [
+    {
+      "text": "うーん、なんだか休憩の時間が少ないなぁ…😩 まだ28件も残ってるなんて…最近、配達先の挨拶でちょっとドキッとすることあって、なんか不思議な気分。誰かに会いたいなぁ…ああ、もうちょっと頑張るか…",
+      "slot": "delivery",
+      "timestamp": "2026-03-05 14:44:26",
+      "hasImage": false
+    },
     {
       "text": "あ〜、なんか花粉のせいで目がかゆい…でも、桜は綺麗だなぁ。まだ朝はちょっと寒いし、どんな服着るか迷う。あと、最近気になってるドラマがあるんだ。どうしよっかな…😵",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "simple_goodnight",
       "timestamp": "2026-03-05 00:28:06",
       "hasImage": false
-    },
-    {
-      "text": "もう、寒さが身にしみる…一軒家、ほんとに大変。ひとりでいると、暖かさが欲しくなる…この冷たい空気、心まで凍えちゃうよ😔 ねぇ、ほんとに、かまってほしいな…",
-      "slot": "night_ero",
-      "timestamp": "2026-03-04 21:38:36",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -51,25 +51,26 @@
     "casual",
     "delivery",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 6,
+  "today_post_count": 7,
   "today_goodnight_posted": false,
-  "month_total_posts": 54,
+  "month_total_posts": 55,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-05",
-  "last_post_time": "13:08:18",
+  "last_post_time": "14:44:26",
   "ng_retry_count": 68,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-05 13:27:41",
+  "updated_at": "2026-03-05 14:44:26",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 11,
-  "today_narrative": "もう目が閉じそう…😴 → おはよ…めちゃねむ… → あー、暖かくなってきたけど、花粉が辛い…… → あー、階段12Fまで上がるの、ほんとダル… → なんか、最近お弁当作るのさ、ちょっと楽し… → あ〜、なんか花粉のせいで目がかゆい…でも…",
-  "last_post_timestamp_ms": 1772683698384
+  "today_narrative": "もう目が閉じそう…😴 → おはよ…めちゃねむ… → あー、暖かくなってきたけど、花粉が辛い…… → あー、階段12Fまで上がるの、ほんとダル… → なんか、最近お弁当作るのさ、ちょっと楽し… → あ〜、なんか花粉のせいで目がかゆい…でも… → うーん、なんだか休憩の時間が少ないなぁ……",
+  "last_post_timestamp_ms": 1772689466834
 }
