@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "なんか、最近ずっと一人で帰るの、虚しいなぁ…😔配達ばっかりで、誰かと一緒に帰りたい…しんどいよ…",
+      "slot": "commute",
+      "timestamp": "2026-03-05 18:17:15",
+      "hasImage": false
+    },
+    {
       "text": "あー、もう疲れた…😩荷物のせいで体がしんどい…配達終わったらコンビニのスイーツ食べたいなぁ…誰か優しい言葉ほしい…かわいいって言ってくれる人と会いたいな…🌸",
       "slot": "delivery",
       "timestamp": "2026-03-05 16:17:22",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-03-05 09:18:09",
       "hasImage": false
-    },
-    {
-      "text": "あー、暖かくなってきたけど、花粉が辛い…😷外出るのだるいなぁ。こんな日はお家でゴロゴロしたい…でも、やることはあるし、うぅ〜。",
-      "slot": "casual",
-      "timestamp": "2026-03-05 08:15:05",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -54,25 +54,26 @@
     "casual",
     "delivery",
     "delivery",
-    "delivery"
+    "delivery",
+    "commute"
   ],
-  "today_post_count": 9,
+  "today_post_count": 10,
   "today_goodnight_posted": false,
-  "month_total_posts": 57,
+  "month_total_posts": 58,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-05",
-  "last_post_time": "16:17:22",
+  "last_post_time": "18:17:15",
   "ng_retry_count": 69,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-05 16:17:22",
+  "updated_at": "2026-03-05 18:17:15",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 11,
-  "today_narrative": "もう目が閉じそう…😴 → おはよ…めちゃねむ… → あー、暖かくなってきたけど、花粉が辛い…… → あー、階段12Fまで上がるの、ほんとダル… → なんか、最近お弁当作るのさ、ちょっと楽し… → あ〜、なんか花粉のせいで目がかゆい…でも… → うーん、なんだか休憩の時間が少ないなぁ…… → もう目がしょぼしょぼ…😩軽バンの運転し… → あー、もう疲れた…😩荷物のせいで体がし…",
-  "last_post_timestamp_ms": 1772695042860
+  "today_narrative": "もう目が閉じそう…😴 → おはよ…めちゃねむ… → あー、暖かくなってきたけど、花粉が辛い…… → あー、階段12Fまで上がるの、ほんとダル… → なんか、最近お弁当作るのさ、ちょっと楽し… → あ〜、なんか花粉のせいで目がかゆい…でも… → うーん、なんだか休憩の時間が少ないなぁ…… → もう目がしょぼしょぼ…😩軽バンの運転し… → あー、もう疲れた…😩荷物のせいで体がし… → なんか、最近ずっと一人で帰るの、虚しいな…",
+  "last_post_timestamp_ms": 1772702235844
 }
