@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 40,
+  "energy": 30,
   "last_posts": [
+    {
+      "text": "なんか、最近お弁当作るのさ、ちょっと楽しいかも…ちゃんと食べてるのはいいことだと思うし。そういえば、コンビニで新しいスイーツ見かけたから、今度買ってみようかなー。お腹すいた…😴",
+      "slot": "casual",
+      "timestamp": "2026-03-05 12:34:56",
+      "hasImage": false
+    },
     {
       "text": "あー、階段12Fまで上がるの、ほんとダルいなぁ…😩 荷物の運搬、慣れてるはずなのに、なんだか体が重い…誰か褒めてくれないかな…",
       "slot": "delivery",
@@ -37,37 +43,32 @@
       "slot": "casual",
       "timestamp": "2026-03-04 20:48:44",
       "hasImage": false
-    },
-    {
-      "text": "あー、帰ってきたら、桜のつぼみ見るの楽しみにしてたのに…もうこんな寒い日が続くと、さむくて外出る気になれないよ…😔なんか、ほんと疲れたなぁ…",
-      "slot": "casual",
-      "timestamp": "2026-03-04 19:17:50",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
     "morning",
     "casual",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 4,
+  "today_post_count": 5,
   "today_goodnight_posted": false,
-  "month_total_posts": 52,
+  "month_total_posts": 53,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-05",
-  "last_post_time": "09:18:09",
+  "last_post_time": "12:34:56",
   "ng_retry_count": 68,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-05 09:18:09",
+  "updated_at": "2026-03-05 12:34:56",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 11,
-  "today_narrative": "もう目が閉じそう…😴 → おはよ…めちゃねむ… → あー、暖かくなってきたけど、花粉が辛い…… → あー、階段12Fまで上がるの、ほんとダル…",
-  "last_post_timestamp_ms": 1772669889187
+  "today_narrative": "もう目が閉じそう…😴 → おはよ…めちゃねむ… → あー、暖かくなってきたけど、花粉が辛い…… → あー、階段12Fまで上がるの、ほんとダル… → なんか、最近お弁当作るのさ、ちょっと楽し…",
+  "last_post_timestamp_ms": 1772681696035
 }
