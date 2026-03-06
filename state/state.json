@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "ねむい…もうねるしかない💤",
+      "slot": "simple_goodnight",
+      "timestamp": "2026-03-06 23:10:54",
+      "hasImage": false
+    },
+    {
       "text": "あー、もう帰るのしんどいなぁ…ほんとだれかと一緒がいい…😢配達も99件終わったけど、重い荷物はもう勘弁…桜、早く見に行きたいな…🌸",
       "slot": "night_ero",
       "timestamp": "2026-03-06 21:36:52",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-03-06 13:43:14",
       "hasImage": false
-    },
-    {
-      "text": "もうちょっと暖かくなったら、外に出てピクニックしたいなぁ🌸それまでに新しいお弁当箱も買っておこうかな…なんかふと考えちゃったら、ちょっとワクワクする！",
-      "slot": "casual",
-      "timestamp": "2026-03-06 12:37:35",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -57,25 +57,26 @@
     "delivery",
     "commute",
     "casual",
-    "night_ero"
+    "night_ero",
+    "simple_goodnight"
   ],
-  "today_post_count": 12,
+  "today_post_count": 13,
   "today_goodnight_posted": true,
-  "month_total_posts": 71,
+  "month_total_posts": 72,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-06",
-  "last_post_time": "21:36:52",
+  "last_post_time": "23:10:54",
   "ng_retry_count": 70,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-06 21:36:52",
+  "updated_at": "2026-03-06 23:10:54",
   "month_string": "2026-03",
   "today_skipped": true,
-  "today_simple_goodnight_posted": false,
+  "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 2,
   "today_max_posts": 13,
-  "today_narrative": "おやすみ…今日も仕事で疲れちゃったなぁ…… → うーん…寝起きなのに仕事のこと考えちゃっ… → ほんと、帰るのが寂しいなぁ…誰かと一緒に… → さっき11Fまで階段…はぁ、エレベーター… → もう少し暖かくなったら、桜見に行きたいな… → もうちょっと暖かくなったら、外に出てピク… → ほんと今日は外に出たくて仕方ないの…🌸… → あーもう、137件配達終わったけど、最後… → あーしんど…置き配ばっかで汗だくだよ💦… → あー、やっぱ帰り道しんどい…誰かと一緒に… → あーもぅ夜になっても寒い…外に出たいなぁ… → あー、もう帰るのしんどいなぁ…ほんとだれ…",
-  "last_post_timestamp_ms": 1772800612560
+  "today_narrative": "おやすみ…今日も仕事で疲れちゃったなぁ…… → うーん…寝起きなのに仕事のこと考えちゃっ… → ほんと、帰るのが寂しいなぁ…誰かと一緒に… → さっき11Fまで階段…はぁ、エレベーター… → もう少し暖かくなったら、桜見に行きたいな… → もうちょっと暖かくなったら、外に出てピク… → ほんと今日は外に出たくて仕方ないの…🌸… → あーもう、137件配達終わったけど、最後… → あーしんど…置き配ばっかで汗だくだよ💦… → あー、やっぱ帰り道しんどい…誰かと一緒に… → あーもぅ夜になっても寒い…外に出たいなぁ… → あー、もう帰るのしんどいなぁ…ほんとだれ… → ねむい…もうねるしかない💤",
+  "last_post_timestamp_ms": 1772806254138
 }
