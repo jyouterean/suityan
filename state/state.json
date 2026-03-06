@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あーもぅ夜になっても寒い…外に出たいなぁ…桜、見たいなぁ…それにしても今日も疲れたし…おやすみ…",
+      "slot": "casual",
+      "timestamp": "2026-03-06 19:06:20",
+      "hasImage": false
+    },
+    {
       "text": "あー、やっぱ帰り道しんどい…誰かと一緒にいたいなぁ😔台車押しながら、今日も126件はいたつしてきたのに、なんか虚しい…まだまだこの疲れが取れない…",
       "slot": "commute",
       "timestamp": "2026-03-06 18:07:29",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-03-06 12:35:41",
       "hasImage": false
-    },
-    {
-      "text": "さっき11Fまで階段…はぁ、エレベーターなしは辛いよね…帰りたくても、配達まだ残り21件…誰かに会いたいなぁ…あ、（…いま何時だ）😩💔",
-      "slot": "delivery",
-      "timestamp": "2026-03-06 09:11:13",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -55,25 +55,26 @@
     "casual",
     "delivery",
     "delivery",
-    "commute"
+    "commute",
+    "casual"
   ],
-  "today_post_count": 10,
+  "today_post_count": 11,
   "today_goodnight_posted": true,
-  "month_total_posts": 69,
+  "month_total_posts": 70,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-06",
-  "last_post_time": "18:07:29",
+  "last_post_time": "19:06:20",
   "ng_retry_count": 70,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-06 18:07:29",
+  "updated_at": "2026-03-06 19:06:20",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 13,
-  "today_narrative": "おやすみ…今日も仕事で疲れちゃったなぁ…… → うーん…寝起きなのに仕事のこと考えちゃっ… → ほんと、帰るのが寂しいなぁ…誰かと一緒に… → さっき11Fまで階段…はぁ、エレベーター… → もう少し暖かくなったら、桜見に行きたいな… → もうちょっと暖かくなったら、外に出てピク… → ほんと今日は外に出たくて仕方ないの…🌸… → あーもう、137件配達終わったけど、最後… → あーしんど…置き配ばっかで汗だくだよ💦… → あー、やっぱ帰り道しんどい…誰かと一緒に…",
-  "last_post_timestamp_ms": 1772788049948
+  "today_narrative": "おやすみ…今日も仕事で疲れちゃったなぁ…… → うーん…寝起きなのに仕事のこと考えちゃっ… → ほんと、帰るのが寂しいなぁ…誰かと一緒に… → さっき11Fまで階段…はぁ、エレベーター… → もう少し暖かくなったら、桜見に行きたいな… → もうちょっと暖かくなったら、外に出てピク… → ほんと今日は外に出たくて仕方ないの…🌸… → あーもう、137件配達終わったけど、最後… → あーしんど…置き配ばっかで汗だくだよ💦… → あー、やっぱ帰り道しんどい…誰かと一緒に… → あーもぅ夜になっても寒い…外に出たいなぁ…",
+  "last_post_timestamp_ms": 1772791580976
 }
