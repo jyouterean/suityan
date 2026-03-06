@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あーしんど…置き配ばっかで汗だくだよ💦帰るの寂しいなぁ…わかってくれる人いないかな…桜見たい。お客さんと少しでも話せたら、なんか元気出るのに…",
+      "slot": "delivery",
+      "timestamp": "2026-03-06 16:40:20",
+      "hasImage": false
+    },
+    {
       "text": "あーもう、137件配達終わったけど、最後の1件が遠い…台車引いて階段上がるとか、ほんとしんどすぎ…💦誰かに会いたいなぁ…",
       "slot": "delivery",
       "timestamp": "2026-03-06 15:05:10",
@@ -37,12 +43,6 @@
       "slot": "commute",
       "timestamp": "2026-03-06 08:47:49",
       "hasImage": false
-    },
-    {
-      "text": "うーん…寝起きなのに仕事のこと考えちゃってる…むり、きつい…😩やっぱり一人で運転するのも寂しいんだよなぁ…",
-      "slot": "morning",
-      "timestamp": "2026-03-06 06:48:30",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "casual",
     "casual",
     "casual",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": true,
-  "month_total_posts": 67,
+  "month_total_posts": 68,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-06",
-  "last_post_time": "15:05:10",
+  "last_post_time": "16:40:20",
   "ng_retry_count": 69,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-06 15:05:10",
+  "updated_at": "2026-03-06 16:40:20",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 13,
-  "today_narrative": "おやすみ…今日も仕事で疲れちゃったなぁ…… → うーん…寝起きなのに仕事のこと考えちゃっ… → ほんと、帰るのが寂しいなぁ…誰かと一緒に… → さっき11Fまで階段…はぁ、エレベーター… → もう少し暖かくなったら、桜見に行きたいな… → もうちょっと暖かくなったら、外に出てピク… → ほんと今日は外に出たくて仕方ないの…🌸… → あーもう、137件配達終わったけど、最後…",
-  "last_post_timestamp_ms": 1772777110117
+  "today_narrative": "おやすみ…今日も仕事で疲れちゃったなぁ…… → うーん…寝起きなのに仕事のこと考えちゃっ… → ほんと、帰るのが寂しいなぁ…誰かと一緒に… → さっき11Fまで階段…はぁ、エレベーター… → もう少し暖かくなったら、桜見に行きたいな… → もうちょっと暖かくなったら、外に出てピク… → ほんと今日は外に出たくて仕方ないの…🌸… → あーもう、137件配達終わったけど、最後… → あーしんど…置き配ばっかで汗だくだよ💦…",
+  "last_post_timestamp_ms": 1772782820964
 }
