@@ -1,7 +1,13 @@
 {
-  "mood": "anxious",
-  "energy": 70,
+  "mood": "tired",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "おはよ、まだ眠いな…",
+      "slot": "morning",
+      "timestamp": "2026-03-07 06:40:43",
+      "hasImage": false
+    },
     {
       "text": "明日もマンションの配達…頑張れるかなぁ…疲れたし、ちょっと不安…でもね、桜がもうすぐ咲くから、それを楽しみに頑張ろうかな…🫥💫",
       "slot": "goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-03-06 16:40:20",
       "hasImage": false
-    },
-    {
-      "text": "あーもう、137件配達終わったけど、最後の1件が遠い…台車引いて階段上がるとか、ほんとしんどすぎ…💦誰かに会いたいなぁ…",
-      "slot": "delivery",
-      "timestamp": "2026-03-06 15:05:10",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight"
+    "goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": true,
-  "month_total_posts": 73,
+  "month_total_posts": 74,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-07",
-  "last_post_time": "00:06:41",
+  "last_post_time": "06:40:43",
   "ng_retry_count": 70,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-07 00:06:41",
+  "updated_at": "2026-03-07 06:40:43",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 9,
-  "today_narrative": "明日もマンションの配達…頑張れるかなぁ……",
-  "last_post_timestamp_ms": 1772809601135
+  "today_narrative": "明日もマンションの配達…頑張れるかなぁ…… → おはよ、まだ眠いな…",
+  "last_post_timestamp_ms": 1772833243730
 }
