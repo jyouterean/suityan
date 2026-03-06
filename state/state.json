@@ -1,7 +1,13 @@
 {
   "mood": "lonely",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "さっき11Fまで階段…はぁ、エレベーターなしは辛いよね…帰りたくても、配達まだ残り21件…誰かに会いたいなぁ…あ、（…いま何時だ）😩💔",
+      "slot": "delivery",
+      "timestamp": "2026-03-06 09:11:13",
+      "hasImage": false
+    },
     {
       "text": "ほんと、帰るのが寂しいなぁ…誰かと一緒に帰りたいよね。お客さんからお菓子もらったけど、やっぱり一人だと虚しいわ。明日も仕事、時間指定のドライバー、だる…🌸",
       "slot": "commute",
@@ -37,36 +43,31 @@
       "slot": "delivery",
       "timestamp": "2026-03-05 16:17:22",
       "hasImage": false
-    },
-    {
-      "text": "もう目がしょぼしょぼ…😩軽バンの運転してると、ほんとしんどい…お客さんとのやりとりも疲れるし、なんかもー誰かに会いたい…褒めてほしいなぁ…",
-      "slot": "delivery",
-      "timestamp": "2026-03-05 15:25:38",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
     "morning",
-    "commute"
+    "commute",
+    "delivery"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": true,
-  "month_total_posts": 62,
+  "month_total_posts": 63,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-06",
-  "last_post_time": "08:47:49",
+  "last_post_time": "09:11:13",
   "ng_retry_count": 69,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-06 08:47:49",
+  "updated_at": "2026-03-06 09:11:13",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "おやすみ…今日も仕事で疲れちゃったなぁ…… → うーん…寝起きなのに仕事のこと考えちゃっ… → ほんと、帰るのが寂しいなぁ…誰かと一緒に…",
-  "last_post_timestamp_ms": 1772754469386
+  "today_narrative": "おやすみ…今日も仕事で疲れちゃったなぁ…… → うーん…寝起きなのに仕事のこと考えちゃっ… → ほんと、帰るのが寂しいなぁ…誰かと一緒に… → さっき11Fまで階段…はぁ、エレベーター…",
+  "last_post_timestamp_ms": 1772755873732
 }
