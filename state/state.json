@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 70,
+  "mood": "tired",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "あさ…こたつから出れないな",
+      "slot": "morning",
+      "timestamp": "2026-03-08 06:45:31",
+      "hasImage": false
+    },
     {
       "text": "あぁ、今日も再配達ばっかりでヘトヘト…。自販機でお釣り出てこなかったし…ほんと疲れたよ…でも明日も頑張らなきゃね。花粉症もきついけど、春だからちょっとだけ気分がいいのかな…おやすみなさい…😔💤",
       "slot": "goodnight",
@@ -37,34 +43,29 @@
       "slot": "casual",
       "timestamp": "2026-03-07 12:20:15",
       "hasImage": false
-    },
-    {
-      "text": "配達中、また再配達かぁ…。お客さんと話すのもなんか疲れたな💭お菓子もらったのちょっと嬉しかったけど、誰かに会いたいな。褒めてほしい…。もう21件かぁ、早く終わんないかな…。",
-      "slot": "delivery",
-      "timestamp": "2026-03-07 09:15:17",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight"
+    "goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": true,
-  "month_total_posts": 82,
+  "month_total_posts": 83,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-08",
-  "last_post_time": "00:17:57",
+  "last_post_time": "06:45:31",
   "ng_retry_count": 70,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-08 00:17:57",
+  "updated_at": "2026-03-08 06:45:31",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 10,
-  "today_narrative": "あぁ、今日も再配達ばっかりでヘトヘト…。…",
-  "last_post_timestamp_ms": 1772896677603
+  "today_narrative": "あぁ、今日も再配達ばっかりでヘトヘト…。… → あさ…こたつから出れないな",
+  "last_post_timestamp_ms": 1772919931786
 }
