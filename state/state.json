@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 60,
+  "mood": "frustrated",
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "信号赤ばっかりでイライラ…もう72件配達とか無理…。誰か褒めてほしいな、頑張ってるのに…それとも誰かに会いたい…こたつでぬくぬくしてたいな〜😩💨",
+      "slot": "delivery",
+      "timestamp": "2026-03-08 07:50:45",
+      "hasImage": false
+    },
     {
       "text": "あさ…こたつから出れないな",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "casual",
       "timestamp": "2026-03-07 12:30:38",
       "hasImage": false
-    },
-    {
-      "text": "ほんと春だねぇ…目も痒いし、鼻もなんか変だし…。マンションの景色、桜がきれいでちょっと癒される🌸でもなんか気怠いなぁ😩明日も配達だし、頑張れるかなぁ...",
-      "slot": "casual",
-      "timestamp": "2026-03-07 12:20:15",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
-    "morning"
+    "morning",
+    "delivery"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": true,
-  "month_total_posts": 83,
+  "month_total_posts": 84,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-08",
-  "last_post_time": "06:45:31",
+  "last_post_time": "07:50:45",
   "ng_retry_count": 70,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-08 06:45:31",
+  "updated_at": "2026-03-08 07:50:45",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 10,
-  "today_narrative": "あぁ、今日も再配達ばっかりでヘトヘト…。… → あさ…こたつから出れないな",
-  "last_post_timestamp_ms": 1772919931786
+  "today_narrative": "あぁ、今日も再配達ばっかりでヘトヘト…。… → あさ…こたつから出れないな → 信号赤ばっかりでイライラ…もう72件配達…",
+  "last_post_timestamp_ms": 1772923845852
 }
