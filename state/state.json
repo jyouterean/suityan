@@ -1,7 +1,13 @@
 {
-  "mood": "melancholy",
-  "energy": 20,
+  "mood": "tired",
+  "energy": 10,
   "last_posts": [
+    {
+      "text": "桜も咲いてるし、春の陽気はいいけど、花粉はほんとに…やだなぁ…。お外に出たらくしゃみ止まんないし、なんだかせつない気分…😢",
+      "slot": "casual",
+      "timestamp": "2026-03-07 13:27:15",
+      "hasImage": false
+    },
     {
       "text": "さっきの春の話だけど、配達中も花粉にやられそうで…いや、もうやられてるわ😩 ほんと、体力が減る一方…。明日も頑張るために少し休もうかな。",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "goodnight",
       "timestamp": "2026-03-07 00:06:41",
       "hasImage": false
-    },
-    {
-      "text": "ねむい…もうねるしかない💤",
-      "slot": "simple_goodnight",
-      "timestamp": "2026-03-06 23:10:54",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -51,25 +51,26 @@
     "casual",
     "delivery",
     "casual",
+    "casual",
     "casual"
   ],
-  "today_post_count": 6,
+  "today_post_count": 7,
   "today_goodnight_posted": true,
-  "month_total_posts": 78,
+  "month_total_posts": 79,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-07",
-  "last_post_time": "12:30:38",
+  "last_post_time": "13:27:15",
   "ng_retry_count": 70,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-07 12:30:38",
+  "updated_at": "2026-03-07 13:27:15",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 9,
-  "today_narrative": "明日もマンションの配達…頑張れるかなぁ…… → おはよ、まだ眠いな… → あー、だるいなぁ…暖かいのに、なんか気分… → 配達中、また再配達かぁ…。お客さんと話す… → ほんと春だねぇ…目も痒いし、鼻もなんか変… → さっきの春の話だけど、配達中も花粉にやら…",
-  "last_post_timestamp_ms": 1772854238331
+  "today_narrative": "明日もマンションの配達…頑張れるかなぁ…… → おはよ、まだ眠いな… → あー、だるいなぁ…暖かいのに、なんか気分… → 配達中、また再配達かぁ…。お客さんと話す… → ほんと春だねぇ…目も痒いし、鼻もなんか変… → さっきの春の話だけど、配達中も花粉にやら… → 桜も咲いてるし、春の陽気はいいけど、花粉…",
+  "last_post_timestamp_ms": 1772857635543
 }
