@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "インターホン鳴った瞬間に泣きそうになった…また再配達…ほんとしんどい…あの人、もっと早く受け取れなかったのかなぁ…つか、1日でこんなに体力使うとは…😩",
+      "slot": "delivery",
+      "timestamp": "2026-03-08 15:03:44",
+      "hasImage": false
+    },
+    {
       "text": "えっと…今、いっこ配達したけどインターホンで出てこなくてムカついた…ダルいなぁ…ほんとに誰かに会いたいのに…やっぱりさ、桜見ながらの配達とか、ちょっと素敵じゃない？…そんなん夢のまた夢だね…😔",
       "slot": "delivery",
       "timestamp": "2026-03-08 14:35:00",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-03-08 06:45:31",
       "hasImage": false
-    },
-    {
-      "text": "あぁ、今日も再配達ばっかりでヘトヘト…。自販機でお釣り出てこなかったし…ほんと疲れたよ…でも明日も頑張らなきゃね。花粉症もきついけど、春だからちょっとだけ気分がいいのかな…おやすみなさい…😔💤",
-      "slot": "goodnight",
-      "timestamp": "2026-03-08 00:17:57",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "delivery",
     "casual",
     "casual",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": true,
-  "month_total_posts": 88,
+  "month_total_posts": 89,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-08",
-  "last_post_time": "14:35:00",
+  "last_post_time": "15:03:44",
   "ng_retry_count": 70,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-08 14:35:00",
+  "updated_at": "2026-03-08 15:03:44",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 10,
-  "today_narrative": "あぁ、今日も再配達ばっかりでヘトヘト…。… → あさ…こたつから出れないな → 信号赤ばっかりでイライラ…もう72件配達… → またナビが変な道案内して…呆れちゃうわ。… → てか、ナビのせいでいつもより時間かかる…… → あぁ、なんか疲れたなぁ…こたつから出れな… → えっと…今、いっこ配達したけどインターホ…",
-  "last_post_timestamp_ms": 1772948100099
+  "today_narrative": "あぁ、今日も再配達ばっかりでヘトヘト…。… → あさ…こたつから出れないな → 信号赤ばっかりでイライラ…もう72件配達… → またナビが変な道案内して…呆れちゃうわ。… → てか、ナビのせいでいつもより時間かかる…… → あぁ、なんか疲れたなぁ…こたつから出れな… → えっと…今、いっこ配達したけどインターホ… → インターホン鳴った瞬間に泣きそうになった…",
+  "last_post_timestamp_ms": 1772949824661
 }
