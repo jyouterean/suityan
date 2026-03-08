@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あーもう、さっきまた階段6Fまで上がって疲れた…この台車重すぎ…。ここから直線でいけると思ったら信号赤ばっかりでイライラ…😩",
+      "slot": "delivery",
+      "timestamp": "2026-03-08 17:49:09",
+      "hasImage": false
+    },
+    {
       "text": "もーなんかさ、配達ルート変えられるたびに気が重い…。信号赤ばっかで時間かかるし、やっと20件残ったのに、またナビが…あー、もうなんやねんこれ…😩",
       "slot": "delivery",
       "timestamp": "2026-03-08 16:34:12",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-03-08 09:14:06",
       "hasImage": false
-    },
-    {
-      "text": "信号赤ばっかりでイライラ…もう72件配達とか無理…。誰か褒めてほしいな、頑張ってるのに…それとも誰かに会いたい…こたつでぬくぬくしてたいな〜😩💨",
-      "slot": "delivery",
-      "timestamp": "2026-03-08 07:50:45",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -54,25 +54,26 @@
     "casual",
     "delivery",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 9,
+  "today_post_count": 10,
   "today_goodnight_posted": true,
-  "month_total_posts": 90,
+  "month_total_posts": 91,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-08",
-  "last_post_time": "16:34:12",
+  "last_post_time": "17:49:09",
   "ng_retry_count": 70,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-08 16:34:12",
+  "updated_at": "2026-03-08 17:49:09",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 10,
-  "today_narrative": "あぁ、今日も再配達ばっかりでヘトヘト…。… → あさ…こたつから出れないな → 信号赤ばっかりでイライラ…もう72件配達… → またナビが変な道案内して…呆れちゃうわ。… → てか、ナビのせいでいつもより時間かかる…… → あぁ、なんか疲れたなぁ…こたつから出れな… → えっと…今、いっこ配達したけどインターホ… → インターホン鳴った瞬間に泣きそうになった… → もーなんかさ、配達ルート変えられるたびに…",
-  "last_post_timestamp_ms": 1772955252776
+  "today_narrative": "あぁ、今日も再配達ばっかりでヘトヘト…。… → あさ…こたつから出れないな → 信号赤ばっかりでイライラ…もう72件配達… → またナビが変な道案内して…呆れちゃうわ。… → てか、ナビのせいでいつもより時間かかる…… → あぁ、なんか疲れたなぁ…こたつから出れな… → えっと…今、いっこ配達したけどインターホ… → インターホン鳴った瞬間に泣きそうになった… → もーなんかさ、配達ルート変えられるたびに… → あーもう、さっきまた階段6Fまで上がって…",
+  "last_post_timestamp_ms": 1772959749143
 }
