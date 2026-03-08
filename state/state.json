@@ -1,7 +1,13 @@
 {
-  "mood": "melancholy",
-  "energy": 20,
+  "mood": "tired",
+  "energy": 10,
   "last_posts": [
+    {
+      "text": "えっと…今、いっこ配達したけどインターホンで出てこなくてムカついた…ダルいなぁ…ほんとに誰かに会いたいのに…やっぱりさ、桜見ながらの配達とか、ちょっと素敵じゃない？…そんなん夢のまた夢だね…😔",
+      "slot": "delivery",
+      "timestamp": "2026-03-08 14:35:00",
+      "hasImage": false
+    },
     {
       "text": "あぁ、なんか疲れたなぁ…こたつから出れないのわかるけど、せめておやつでも食べて気分転換しよかな。桜も咲いてるし、ちょっと出かけようかな…、でもまた道に迷いそうで不安…😅",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "goodnight",
       "timestamp": "2026-03-08 00:17:57",
       "hasImage": false
-    },
-    {
-      "text": "さっきの再配達のことだけど…あーもうほんとしんどい。体力残ってないし、やる気もゼロ…😩💔",
-      "slot": "delivery",
-      "timestamp": "2026-03-07 15:14:11",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -51,25 +51,26 @@
     "delivery",
     "delivery",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 6,
+  "today_post_count": 7,
   "today_goodnight_posted": true,
-  "month_total_posts": 87,
+  "month_total_posts": 88,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-08",
-  "last_post_time": "13:40:07",
+  "last_post_time": "14:35:00",
   "ng_retry_count": 70,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-08 13:40:07",
+  "updated_at": "2026-03-08 14:35:00",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 10,
-  "today_narrative": "あぁ、今日も再配達ばっかりでヘトヘト…。… → あさ…こたつから出れないな → 信号赤ばっかりでイライラ…もう72件配達… → またナビが変な道案内して…呆れちゃうわ。… → てか、ナビのせいでいつもより時間かかる…… → あぁ、なんか疲れたなぁ…こたつから出れな…",
-  "last_post_timestamp_ms": 1772944807052
+  "today_narrative": "あぁ、今日も再配達ばっかりでヘトヘト…。… → あさ…こたつから出れないな → 信号赤ばっかりでイライラ…もう72件配達… → またナビが変な道案内して…呆れちゃうわ。… → てか、ナビのせいでいつもより時間かかる…… → あぁ、なんか疲れたなぁ…こたつから出れな… → えっと…今、いっこ配達したけどインターホ…",
+  "last_post_timestamp_ms": 1772948100099
 }
