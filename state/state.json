@@ -1,7 +1,13 @@
 {
-  "mood": "frustrated",
-  "energy": 30,
+  "mood": "melancholy",
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "あぁ、なんか疲れたなぁ…こたつから出れないのわかるけど、せめておやつでも食べて気分転換しよかな。桜も咲いてるし、ちょっと出かけようかな…、でもまた道に迷いそうで不安…😅",
+      "slot": "casual",
+      "timestamp": "2026-03-08 13:40:07",
+      "hasImage": false
+    },
     {
       "text": "てか、ナビのせいでいつもより時間かかる…これで遅れたらどうしようってドキドキする。早く終わらせて音楽でリラックスしたいなぁ🎶",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-03-07 15:14:11",
       "hasImage": false
-    },
-    {
-      "text": "また再配達だ…もーいい加減にしてほしいなぁ、なんでいつもこうなんだろう…だるい、でもあと2件だし、頑張れるかなぁ…誰かに会いたいな…",
-      "slot": "delivery",
-      "timestamp": "2026-03-07 14:31:06",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "morning",
     "delivery",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": true,
-  "month_total_posts": 86,
+  "month_total_posts": 87,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-08",
-  "last_post_time": "12:43:13",
+  "last_post_time": "13:40:07",
   "ng_retry_count": 70,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-08 12:43:13",
+  "updated_at": "2026-03-08 13:40:07",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 10,
-  "today_narrative": "あぁ、今日も再配達ばっかりでヘトヘト…。… → あさ…こたつから出れないな → 信号赤ばっかりでイライラ…もう72件配達… → またナビが変な道案内して…呆れちゃうわ。… → てか、ナビのせいでいつもより時間かかる……",
-  "last_post_timestamp_ms": 1772941393182
+  "today_narrative": "あぁ、今日も再配達ばっかりでヘトヘト…。… → あさ…こたつから出れないな → 信号赤ばっかりでイライラ…もう72件配達… → またナビが変な道案内して…呆れちゃうわ。… → てか、ナビのせいでいつもより時間かかる…… → あぁ、なんか疲れたなぁ…こたつから出れな…",
+  "last_post_timestamp_ms": 1772944807052
 }
