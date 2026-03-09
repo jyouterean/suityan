@@ -1,7 +1,13 @@
 {
-  "mood": "melancholy",
-  "energy": 20,
+  "mood": "tired",
+  "energy": 10,
   "last_posts": [
+    {
+      "text": "あー、もう…だるいな。配達も残り20件、これ終わったら誰かに会いたい… なんか褒めてもらいたい。ずっと台車と一緒、終わったらどこに行こうかな？…ほんと、月曜ってつらい。",
+      "slot": "delivery",
+      "timestamp": "2026-03-09 15:03:17",
+      "hasImage": false
+    },
     {
       "text": "最近春っぽくなってきたけど花粉がつらいな…くしゃみ止まらないし気持ちもモヤモヤするし…新生活も始まるし、なんか上手くいく気がしない…うーん、何かいいことないかなぁ…🌸",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-03-09 06:46:20",
       "hasImage": false
-    },
-    {
-      "text": "あーもう、さっきまた階段6Fまで上がって疲れた…この台車重すぎ…。ここから直線でいけると思ったら信号赤ばっかりでイライラ…😩",
-      "slot": "delivery",
-      "timestamp": "2026-03-08 17:49:09",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -51,25 +51,26 @@
     "delivery",
     "casual",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 6,
+  "today_post_count": 7,
   "today_goodnight_posted": false,
-  "month_total_posts": 97,
+  "month_total_posts": 98,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-09",
-  "last_post_time": "13:57:24",
+  "last_post_time": "15:03:17",
   "ng_retry_count": 71,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-09 13:57:24",
+  "updated_at": "2026-03-09 15:03:17",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "寝起き…頭がぐるぐるしてる…信号って何気… → ねむ…月曜だるいな…。寒いし、誰かと帰り… → 配達中…92件の荷物、持ってるけど、体力… → お昼休憩中…外見たら暖かそうだけど風が冷… → 今日もお昼何食べよっかな…🍙あ、でも花… → 最近春っぽくなってきたけど花粉がつらいな…",
-  "last_post_timestamp_ms": 1773032244029
+  "today_narrative": "寝起き…頭がぐるぐるしてる…信号って何気… → ねむ…月曜だるいな…。寒いし、誰かと帰り… → 配達中…92件の荷物、持ってるけど、体力… → お昼休憩中…外見たら暖かそうだけど風が冷… → 今日もお昼何食べよっかな…🍙あ、でも花… → 最近春っぽくなってきたけど花粉がつらいな… → あー、もう…だるいな。配達も残り20件、…",
+  "last_post_timestamp_ms": 1773036197525
 }
