@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "ふぅ…まだまだやらなきゃいけないことが多いな。荷物の残りも多いし、月曜だるいなぁ。こんな時、誰かに会いたい…ちゃんと褒めてほしい…💭体力もきれてきた...あーもうすぐお昼だし、何食べるか迷う😩",
+      "slot": "delivery",
+      "timestamp": "2026-03-09 16:48:34",
+      "hasImage": false
+    },
+    {
       "text": "もうすぐ配達終わりだけど、まだまだ荷物残ってる…しんどい…😔こんな時、誰かにほめられたいなぁ、心配されたい気持ち…こんな月曜はだるいよ…幸せな恋なんてしてみたいなぁ…",
       "slot": "delivery",
       "timestamp": "2026-03-09 15:44:47",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-03-09 09:15:49",
       "hasImage": false
-    },
-    {
-      "text": "ねむ…月曜だるいな…。寒いし、誰かと帰りたい気持ち…お届け完了した後の虚しさ、辛いかも🌸階段1Fまで上がっただけで疲れちゃった…春っていいけど、花粉やばいし。うう、早く帰りたいな。",
-      "slot": "commute",
-      "timestamp": "2026-03-09 08:12:50",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "casual",
     "casual",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": false,
-  "month_total_posts": 99,
+  "month_total_posts": 100,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-09",
-  "last_post_time": "15:44:47",
-  "ng_retry_count": 71,
+  "last_post_time": "16:48:34",
+  "ng_retry_count": 72,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-09 15:44:47",
+  "updated_at": "2026-03-09 16:48:34",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "寝起き…頭がぐるぐるしてる…信号って何気… → ねむ…月曜だるいな…。寒いし、誰かと帰り… → 配達中…92件の荷物、持ってるけど、体力… → お昼休憩中…外見たら暖かそうだけど風が冷… → 今日もお昼何食べよっかな…🍙あ、でも花… → 最近春っぽくなってきたけど花粉がつらいな… → あー、もう…だるいな。配達も残り20件、… → もうすぐ配達終わりだけど、まだまだ荷物残…",
-  "last_post_timestamp_ms": 1773038687832
+  "today_narrative": "寝起き…頭がぐるぐるしてる…信号って何気… → ねむ…月曜だるいな…。寒いし、誰かと帰り… → 配達中…92件の荷物、持ってるけど、体力… → お昼休憩中…外見たら暖かそうだけど風が冷… → 今日もお昼何食べよっかな…🍙あ、でも花… → 最近春っぽくなってきたけど花粉がつらいな… → あー、もう…だるいな。配達も残り20件、… → もうすぐ配達終わりだけど、まだまだ荷物残… → ふぅ…まだまだやらなきゃいけないことが多…",
+  "last_post_timestamp_ms": 1773042514411
 }
