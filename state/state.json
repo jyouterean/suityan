@@ -1,7 +1,13 @@
 {
   "mood": "lonely",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "お昼休憩中…外見たら暖かそうだけど風が冷たくて、なんか微妙な気温…☀️コンビニ寄りたいな、甘いものが食べたい。誰か一緒だともっと楽しいのに…😔",
+      "slot": "casual",
+      "timestamp": "2026-03-09 12:19:21",
+      "hasImage": false
+    },
     {
       "text": "配達中…92件の荷物、持ってるけど、体力60%な気がする…だるいなぁ…桜が咲く頃だし、誰かと一緒に見たいな…ちょっとだけ褒めてほしい…お客さんの笑顔、ちょっと元気出るけど…結局一人だし…✨",
       "slot": "delivery",
@@ -37,36 +43,31 @@
       "slot": "delivery",
       "timestamp": "2026-03-08 15:03:44",
       "hasImage": false
-    },
-    {
-      "text": "えっと…今、いっこ配達したけどインターホンで出てこなくてムカついた…ダルいなぁ…ほんとに誰かに会いたいのに…やっぱりさ、桜見ながらの配達とか、ちょっと素敵じゃない？…そんなん夢のまた夢だね…😔",
-      "slot": "delivery",
-      "timestamp": "2026-03-08 14:35:00",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "morning",
     "commute",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": false,
-  "month_total_posts": 94,
+  "month_total_posts": 95,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-09",
-  "last_post_time": "09:15:49",
+  "last_post_time": "12:19:21",
   "ng_retry_count": 71,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-09 09:15:49",
+  "updated_at": "2026-03-09 12:19:21",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "寝起き…頭がぐるぐるしてる…信号って何気… → ねむ…月曜だるいな…。寒いし、誰かと帰り… → 配達中…92件の荷物、持ってるけど、体力…",
-  "last_post_timestamp_ms": 1773015349645
+  "today_narrative": "寝起き…頭がぐるぐるしてる…信号って何気… → ねむ…月曜だるいな…。寒いし、誰かと帰り… → 配達中…92件の荷物、持ってるけど、体力… → お昼休憩中…外見たら暖かそうだけど風が冷…",
+  "last_post_timestamp_ms": 1773026361623
 }
