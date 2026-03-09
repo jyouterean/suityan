@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 70,
+  "mood": "tired",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "おはよ…まだ夢の中…",
+      "slot": "morning",
+      "timestamp": "2026-03-10 06:46:39",
+      "hasImage": false
+    },
     {
       "text": "なんか…今日も136件も配達したのに、なんだか心が寂しいなぁ…😔駐車場にいる時、子供に手振られたのは嬉しかったけど…ねぇ、そろそろ誰かと話したいよ…おやすみ。明日も頑張るから…💤",
       "slot": "goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-03-09 15:44:47",
       "hasImage": false
-    },
-    {
-      "text": "あー、もう…だるいな。配達も残り20件、これ終わったら誰かに会いたい… なんか褒めてもらいたい。ずっと台車と一緒、終わったらどこに行こうかな？…ほんと、月曜ってつらい。",
-      "slot": "delivery",
-      "timestamp": "2026-03-09 15:03:17",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight"
+    "goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": true,
-  "month_total_posts": 104,
+  "month_total_posts": 105,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-10",
-  "last_post_time": "00:54:45",
+  "last_post_time": "06:46:39",
   "ng_retry_count": 73,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-10 00:54:45",
+  "updated_at": "2026-03-10 06:46:39",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "なんか…今日も136件も配達したのに、な…",
-  "last_post_timestamp_ms": 1773071685754
+  "today_narrative": "なんか…今日も136件も配達したのに、な… → おはよ…まだ夢の中…",
+  "last_post_timestamp_ms": 1773092799742
 }
