@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 60,
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "なんか…外、雨の音がする…だる…新生活始まるし、気分あげなきゃなのに…こんな日は寝たいな…",
+      "slot": "casual",
+      "timestamp": "2026-03-10 08:02:29",
+      "hasImage": false
+    },
     {
       "text": "おはよ…まだ夢の中…",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "delivery",
       "timestamp": "2026-03-09 16:48:34",
       "hasImage": false
-    },
-    {
-      "text": "もうすぐ配達終わりだけど、まだまだ荷物残ってる…しんどい…😔こんな時、誰かにほめられたいなぁ、心配されたい気持ち…こんな月曜はだるいよ…幸せな恋なんてしてみたいなぁ…",
-      "slot": "delivery",
-      "timestamp": "2026-03-09 15:44:47",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
-    "morning"
+    "morning",
+    "casual"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": true,
-  "month_total_posts": 105,
+  "month_total_posts": 106,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-10",
-  "last_post_time": "06:46:39",
+  "last_post_time": "08:02:29",
   "ng_retry_count": 73,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-10 06:46:39",
+  "updated_at": "2026-03-10 08:02:29",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "なんか…今日も136件も配達したのに、な… → おはよ…まだ夢の中…",
-  "last_post_timestamp_ms": 1773092799742
+  "today_narrative": "なんか…今日も136件も配達したのに、な… → おはよ…まだ夢の中… → なんか…外、雨の音がする…だる…新生活始…",
+  "last_post_timestamp_ms": 1773097349373
 }
