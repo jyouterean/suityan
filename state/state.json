@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "もうすぐ配達終わりだけど、まだまだ荷物残ってる…しんどい…😔こんな時、誰かにほめられたいなぁ、心配されたい気持ち…こんな月曜はだるいよ…幸せな恋なんてしてみたいなぁ…",
+      "slot": "delivery",
+      "timestamp": "2026-03-09 15:44:47",
+      "hasImage": false
+    },
+    {
       "text": "あー、もう…だるいな。配達も残り20件、これ終わったら誰かに会いたい… なんか褒めてもらいたい。ずっと台車と一緒、終わったらどこに行こうかな？…ほんと、月曜ってつらい。",
       "slot": "delivery",
       "timestamp": "2026-03-09 15:03:17",
@@ -37,12 +43,6 @@
       "slot": "commute",
       "timestamp": "2026-03-09 08:12:50",
       "hasImage": false
-    },
-    {
-      "text": "寝起き…頭がぐるぐるしてる…信号って何気にストレスだよね…あー、むり…😩",
-      "slot": "morning",
-      "timestamp": "2026-03-09 06:46:20",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "casual",
     "casual",
     "casual",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": false,
-  "month_total_posts": 98,
+  "month_total_posts": 99,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-09",
-  "last_post_time": "15:03:17",
+  "last_post_time": "15:44:47",
   "ng_retry_count": 71,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-09 15:03:17",
+  "updated_at": "2026-03-09 15:44:47",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "寝起き…頭がぐるぐるしてる…信号って何気… → ねむ…月曜だるいな…。寒いし、誰かと帰り… → 配達中…92件の荷物、持ってるけど、体力… → お昼休憩中…外見たら暖かそうだけど風が冷… → 今日もお昼何食べよっかな…🍙あ、でも花… → 最近春っぽくなってきたけど花粉がつらいな… → あー、もう…だるいな。配達も残り20件、…",
-  "last_post_timestamp_ms": 1773036197525
+  "today_narrative": "寝起き…頭がぐるぐるしてる…信号って何気… → ねむ…月曜だるいな…。寒いし、誰かと帰り… → 配達中…92件の荷物、持ってるけど、体力… → お昼休憩中…外見たら暖かそうだけど風が冷… → 今日もお昼何食べよっかな…🍙あ、でも花… → 最近春っぽくなってきたけど花粉がつらいな… → あー、もう…だるいな。配達も残り20件、… → もうすぐ配達終わりだけど、まだまだ荷物残…",
+  "last_post_timestamp_ms": 1773038687832
 }
