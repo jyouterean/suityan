@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "なんかさ…エレベーターなしで82件、しんどいなぁ…あと15件もあるのか…外の景色も桜映えないし、だるい…誰か褒めてほしい…お客さんとも会話少なくて、ふと寂しさ感じる…（何言ってんだ）",
+      "slot": "delivery",
+      "timestamp": "2026-03-10 14:55:52",
+      "hasImage": false
+    },
+    {
       "text": "ふとさ…温かい飲み物が恋しい…雨音聞いてたら、なんか懐かしい気持ちになったり…。やっぱ春ってもう少し明るいはずじゃないのかな…。うーん、もうちょっと静かに過ごせたら良いのに…☔️😔",
       "slot": "casual",
       "timestamp": "2026-03-10 13:50:42",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-03-10 06:46:39",
       "hasImage": false
-    },
-    {
-      "text": "なんか…今日も136件も配達したのに、なんだか心が寂しいなぁ…😔駐車場にいる時、子供に手振られたのは嬉しかったけど…ねぇ、そろそろ誰かと話したいよ…おやすみ。明日も頑張るから…💤",
-      "slot": "goodnight",
-      "timestamp": "2026-03-10 00:54:45",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "delivery",
     "casual",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": true,
-  "month_total_posts": 110,
+  "month_total_posts": 111,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-10",
-  "last_post_time": "13:50:42",
+  "last_post_time": "14:55:52",
   "ng_retry_count": 73,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-10 13:50:42",
+  "updated_at": "2026-03-10 14:55:52",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "なんか…今日も136件も配達したのに、な… → おはよ…まだ夢の中… → なんか…外、雨の音がする…だる…新生活始… → やっぱり雨だるいな…この寒さ、なんか違う… → ほんと、雨って気分下がるなぁ。あ、また花… → それにしても、春なのにこの寒さって…何か… → ふとさ…温かい飲み物が恋しい…雨音聞いて…",
-  "last_post_timestamp_ms": 1773118242927
+  "today_narrative": "なんか…今日も136件も配達したのに、な… → おはよ…まだ夢の中… → なんか…外、雨の音がする…だる…新生活始… → やっぱり雨だるいな…この寒さ、なんか違う… → ほんと、雨って気分下がるなぁ。あ、また花… → それにしても、春なのにこの寒さって…何か… → ふとさ…温かい飲み物が恋しい…雨音聞いて… → なんかさ…エレベーターなしで82件、しん…",
+  "last_post_timestamp_ms": 1773122152055
 }
