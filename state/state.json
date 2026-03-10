@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "ほんとさ…帰り道、誰かと一緒にいたいなぁ。今日もだるいし、配達終わったのに虚しい…段ボールばっかり運んで、なんか疲れた。春なのに寒いし、花粉もやばいし…酔ってるかも。",
+      "slot": "commute",
+      "timestamp": "2026-03-10 18:15:25",
+      "hasImage": false
+    },
+    {
       "text": "なんかさ…ずっと同じ道走ってて、ほんとに配達が心折れそう…お客さんとの会話も盛り上がらないし…誰かに褒めてほしいなぁ…あーもう、しんど…😩",
       "slot": "delivery",
       "timestamp": "2026-03-10 16:17:48",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-03-10 12:28:14",
       "hasImage": false
-    },
-    {
-      "text": "やっぱり雨だるいな…この寒さ、なんか違うな😩残り16件、ルート組み直すのも面倒…誰かに褒められたいよ〜😢それにしても、運転中にいいことあればいいな。",
-      "slot": "delivery",
-      "timestamp": "2026-03-10 09:02:58",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -55,25 +55,26 @@
     "casual",
     "delivery",
     "delivery",
-    "delivery"
+    "delivery",
+    "commute"
   ],
-  "today_post_count": 10,
+  "today_post_count": 11,
   "today_goodnight_posted": true,
-  "month_total_posts": 113,
+  "month_total_posts": 114,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-10",
-  "last_post_time": "16:17:48",
+  "last_post_time": "18:15:25",
   "ng_retry_count": 73,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-10 16:17:48",
+  "updated_at": "2026-03-10 18:15:25",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "なんか…今日も136件も配達したのに、な… → おはよ…まだ夢の中… → なんか…外、雨の音がする…だる…新生活始… → やっぱり雨だるいな…この寒さ、なんか違う… → ほんと、雨って気分下がるなぁ。あ、また花… → それにしても、春なのにこの寒さって…何か… → ふとさ…温かい飲み物が恋しい…雨音聞いて… → なんかさ…エレベーターなしで82件、しん… → なんかさ…心なしか配達の時、お客さんの反… → なんかさ…ずっと同じ道走ってて、ほんとに…",
-  "last_post_timestamp_ms": 1773127068864
+  "today_narrative": "なんか…今日も136件も配達したのに、な… → おはよ…まだ夢の中… → なんか…外、雨の音がする…だる…新生活始… → やっぱり雨だるいな…この寒さ、なんか違う… → ほんと、雨って気分下がるなぁ。あ、また花… → それにしても、春なのにこの寒さって…何か… → ふとさ…温かい飲み物が恋しい…雨音聞いて… → なんかさ…エレベーターなしで82件、しん… → なんかさ…心なしか配達の時、お客さんの反… → なんかさ…ずっと同じ道走ってて、ほんとに… → ほんとさ…帰り道、誰かと一緒にいたいなぁ…",
+  "last_post_timestamp_ms": 1773134125990
 }
