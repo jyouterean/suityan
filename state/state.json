@@ -1,7 +1,13 @@
 {
   "mood": "melancholy",
-  "energy": 30,
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "それにしても、春なのにこの寒さって…何かおかしいよね…。🐢気持ちもどんよりしちゃうわ…。今日は家でゴロゴロするしかないかも…もちろんNetflixかな…？",
+      "slot": "casual",
+      "timestamp": "2026-03-10 12:55:58",
+      "hasImage": false
+    },
     {
       "text": "ほんと、雨って気分下がるなぁ。あ、また花粉の季節か…目がかゆい😩新生活なんて無理やり頑張る必要なんかないよね、うん。でも次の休み、どっか行きたいな～…",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-03-09 20:57:42",
       "hasImage": false
-    },
-    {
-      "text": "あー…今日も風つめたいなぁ…外出たらなんだか桜も咲いてるのに、花粉がね…目がかゆい…月曜だし、誰か一緒に帰りたいなぁ…",
-      "slot": "casual",
-      "timestamp": "2026-03-09 19:17:03",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "morning",
     "casual",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": true,
-  "month_total_posts": 108,
+  "month_total_posts": 109,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-10",
-  "last_post_time": "12:28:14",
+  "last_post_time": "12:55:58",
   "ng_retry_count": 73,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-10 12:28:14",
+  "updated_at": "2026-03-10 12:55:58",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "なんか…今日も136件も配達したのに、な… → おはよ…まだ夢の中… → なんか…外、雨の音がする…だる…新生活始… → やっぱり雨だるいな…この寒さ、なんか違う… → ほんと、雨って気分下がるなぁ。あ、また花…",
-  "last_post_timestamp_ms": 1773113294458
+  "today_narrative": "なんか…今日も136件も配達したのに、な… → おはよ…まだ夢の中… → なんか…外、雨の音がする…だる…新生活始… → やっぱり雨だるいな…この寒さ、なんか違う… → ほんと、雨って気分下がるなぁ。あ、また花… → それにしても、春なのにこの寒さって…何か…",
+  "last_post_timestamp_ms": 1773114958476
 }
