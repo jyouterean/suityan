@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "やっぱり雨だるいな…この寒さ、なんか違うな😩残り16件、ルート組み直すのも面倒…誰かに褒められたいよ〜😢それにしても、運転中にいいことあればいいな。",
+      "slot": "delivery",
+      "timestamp": "2026-03-10 09:02:58",
+      "hasImage": false
+    },
     {
       "text": "なんか…外、雨の音がする…だる…新生活始まるし、気分あげなきゃなのに…こんな日は寝たいな…",
       "slot": "casual",
@@ -37,36 +43,31 @@
       "slot": "commute",
       "timestamp": "2026-03-09 18:05:58",
       "hasImage": false
-    },
-    {
-      "text": "ふぅ…まだまだやらなきゃいけないことが多いな。荷物の残りも多いし、月曜だるいなぁ。こんな時、誰かに会いたい…ちゃんと褒めてほしい…💭体力もきれてきた...あーもうすぐお昼だし、何食べるか迷う😩",
-      "slot": "delivery",
-      "timestamp": "2026-03-09 16:48:34",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
     "morning",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": true,
-  "month_total_posts": 106,
+  "month_total_posts": 107,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-10",
-  "last_post_time": "08:02:29",
+  "last_post_time": "09:02:58",
   "ng_retry_count": 73,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-10 08:02:29",
+  "updated_at": "2026-03-10 09:02:58",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "なんか…今日も136件も配達したのに、な… → おはよ…まだ夢の中… → なんか…外、雨の音がする…だる…新生活始…",
-  "last_post_timestamp_ms": 1773097349373
+  "today_narrative": "なんか…今日も136件も配達したのに、な… → おはよ…まだ夢の中… → なんか…外、雨の音がする…だる…新生活始… → やっぱり雨だるいな…この寒さ、なんか違う…",
+  "last_post_timestamp_ms": 1773100978229
 }
