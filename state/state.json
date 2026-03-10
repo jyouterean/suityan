@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "いや、ほんとにさ…こんなに寒いのに一人で頑張ってるとか、ちょっと寂しい…💧誰かかまってよ〜…",
+      "slot": "simple_goodnight",
+      "timestamp": "2026-03-10 23:31:46",
+      "hasImage": false
+    },
+    {
       "text": "なんかさ…いつまでこの寒さ続くのかな…配達もなんか重いし、さっき12Fまで階段上がったせいでしんどい…あぁ、体力が…ほんと、あったかい飲み物でも飲みたいなぁ…😩",
       "slot": "night_ero",
       "timestamp": "2026-03-10 21:58:01",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-03-10 15:10:36",
       "hasImage": false
-    },
-    {
-      "text": "なんかさ…エレベーターなしで82件、しんどいなぁ…あと15件もあるのか…外の景色も桜映えないし、だるい…誰か褒めてほしい…お客さんとも会話少なくて、ふと寂しさ感じる…（何言ってんだ）",
-      "slot": "delivery",
-      "timestamp": "2026-03-10 14:55:52",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -59,25 +59,26 @@
     "commute",
     "casual",
     "casual",
-    "night_ero"
+    "night_ero",
+    "simple_goodnight"
   ],
-  "today_post_count": 14,
+  "today_post_count": 15,
   "today_goodnight_posted": true,
-  "month_total_posts": 117,
+  "month_total_posts": 118,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-10",
-  "last_post_time": "21:58:01",
+  "last_post_time": "23:31:46",
   "ng_retry_count": 74,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-10 21:58:01",
+  "updated_at": "2026-03-10 23:31:46",
   "month_string": "2026-03",
   "today_skipped": false,
-  "today_simple_goodnight_posted": false,
+  "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "なんか…今日も136件も配達したのに、な… → おはよ…まだ夢の中… → なんか…外、雨の音がする…だる…新生活始… → やっぱり雨だるいな…この寒さ、なんか違う… → ほんと、雨って気分下がるなぁ。あ、また花… → それにしても、春なのにこの寒さって…何か… → ふとさ…温かい飲み物が恋しい…雨音聞いて… → なんかさ…エレベーターなしで82件、しん… → なんかさ…心なしか配達の時、お客さんの反… → なんかさ…ずっと同じ道走ってて、ほんとに… → ほんとさ…帰り道、誰かと一緒にいたいなぁ… → ほんとさ…この寒さ、春とは思えないよね…… → おはよ…寒いのに外、なんかすごい晴れだね… → なんかさ…いつまでこの寒さ続くのかな…配…",
-  "last_post_timestamp_ms": 1773147481771
+  "today_narrative": "なんか…今日も136件も配達したのに、な… → おはよ…まだ夢の中… → なんか…外、雨の音がする…だる…新生活始… → やっぱり雨だるいな…この寒さ、なんか違う… → ほんと、雨って気分下がるなぁ。あ、また花… → それにしても、春なのにこの寒さって…何か… → ふとさ…温かい飲み物が恋しい…雨音聞いて… → なんかさ…エレベーターなしで82件、しん… → なんかさ…心なしか配達の時、お客さんの反… → なんかさ…ずっと同じ道走ってて、ほんとに… → ほんとさ…帰り道、誰かと一緒にいたいなぁ… → ほんとさ…この寒さ、春とは思えないよね…… → おはよ…寒いのに外、なんかすごい晴れだね… → なんかさ…いつまでこの寒さ続くのかな…配… → いや、ほんとにさ…こんなに寒いのに一人で…",
+  "last_post_timestamp_ms": 1773153106477
 }
