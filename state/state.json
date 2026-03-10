@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 70,
+  "mood": "tired",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "あさ…ねむすぎる…",
+      "slot": "morning",
+      "timestamp": "2026-03-11 06:58:17",
+      "hasImage": false
+    },
     {
       "text": "インターホン押しても誰も出ないと、なんか寂しい…今日は23件も残ってるのに…早く終わって、誰かと話したいなぁ…😔",
       "slot": "delivery",
@@ -37,34 +43,29 @@
       "slot": "commute",
       "timestamp": "2026-03-10 18:15:25",
       "hasImage": false
-    },
-    {
-      "text": "なんかさ…ずっと同じ道走ってて、ほんとに配達が心折れそう…お客さんとの会話も盛り上がらないし…誰かに褒めてほしいなぁ…あーもう、しんど…😩",
-      "slot": "delivery",
-      "timestamp": "2026-03-10 16:17:48",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "delivery"
+    "delivery",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 119,
+  "month_total_posts": 120,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-11",
-  "last_post_time": "01:00:19",
+  "last_post_time": "06:58:17",
   "ng_retry_count": 75,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-11 01:00:19",
+  "updated_at": "2026-03-11 06:58:17",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "インターホン押しても誰も出ないと、なんか…",
-  "last_post_timestamp_ms": 1773158419697
+  "today_narrative": "インターホン押しても誰も出ないと、なんか… → あさ…ねむすぎる…",
+  "last_post_timestamp_ms": 1773179897454
 }
