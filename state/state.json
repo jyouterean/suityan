@@ -1,7 +1,13 @@
 {
   "mood": "lonely",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "運転中に、また一人だなぁって思ったら…この道も何度も通ってるのに…やっぱり一軒家の荷物運ぶのも孤独感が募る…😔みんな忙しいのかなぁ、かまってほしいな…",
+      "slot": "commute",
+      "timestamp": "2026-03-11 08:59:17",
+      "hasImage": false
+    },
     {
       "text": "あー、こんな寒い中で一人…さみしいなぁ。軽貨物の仕事終わって帰る時、誰かいたらいいのに…😩 17件残ってるけど、もう無理…帰ったらすぐ寝よ…",
       "slot": "commute",
@@ -37,36 +43,31 @@
       "slot": "casual",
       "timestamp": "2026-03-10 20:56:54",
       "hasImage": false
-    },
-    {
-      "text": "ほんとさ…この寒さ、春とは思えないよね…💧あー、温かい飲み物ほしいなぁ。もう、さっきの夢の続き見たいくらい…なんかダルい…",
-      "slot": "casual",
-      "timestamp": "2026-03-10 19:15:50",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "delivery",
     "morning",
+    "commute",
     "commute"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": false,
-  "month_total_posts": 121,
+  "month_total_posts": 122,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-11",
-  "last_post_time": "08:10:08",
+  "last_post_time": "08:59:17",
   "ng_retry_count": 76,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-11 08:10:08",
+  "updated_at": "2026-03-11 08:59:17",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "インターホン押しても誰も出ないと、なんか… → あさ…ねむすぎる… → あー、こんな寒い中で一人…さみしいなぁ。…",
-  "last_post_timestamp_ms": 1773184208539
+  "today_narrative": "インターホン押しても誰も出ないと、なんか… → あさ…ねむすぎる… → あー、こんな寒い中で一人…さみしいなぁ。… → 運転中に、また一人だなぁって思ったら…こ…",
+  "last_post_timestamp_ms": 1773187157640
 }
