@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "なんかさ…心なしか配達の時、お客さんの反応あった方がうれしいなぁ。76件も届けたのに、声かけてくれる人、少なくてさ…しんどいかも。誰かに褒めてほしいよね。エナドリ、ちょっと効いてきたかな😅",
+      "slot": "delivery",
+      "timestamp": "2026-03-10 15:10:36",
+      "hasImage": false
+    },
+    {
       "text": "なんかさ…エレベーターなしで82件、しんどいなぁ…あと15件もあるのか…外の景色も桜映えないし、だるい…誰か褒めてほしい…お客さんとも会話少なくて、ふと寂しさ感じる…（何言ってんだ）",
       "slot": "delivery",
       "timestamp": "2026-03-10 14:55:52",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-03-10 08:02:29",
       "hasImage": false
-    },
-    {
-      "text": "おはよ…まだ夢の中…",
-      "slot": "morning",
-      "timestamp": "2026-03-10 06:46:39",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "casual",
     "casual",
     "casual",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": true,
-  "month_total_posts": 111,
+  "month_total_posts": 112,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-10",
-  "last_post_time": "14:55:52",
+  "last_post_time": "15:10:36",
   "ng_retry_count": 73,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-10 14:55:52",
+  "updated_at": "2026-03-10 15:10:36",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "なんか…今日も136件も配達したのに、な… → おはよ…まだ夢の中… → なんか…外、雨の音がする…だる…新生活始… → やっぱり雨だるいな…この寒さ、なんか違う… → ほんと、雨って気分下がるなぁ。あ、また花… → それにしても、春なのにこの寒さって…何か… → ふとさ…温かい飲み物が恋しい…雨音聞いて… → なんかさ…エレベーターなしで82件、しん…",
-  "last_post_timestamp_ms": 1773122152055
+  "today_narrative": "なんか…今日も136件も配達したのに、な… → おはよ…まだ夢の中… → なんか…外、雨の音がする…だる…新生活始… → やっぱり雨だるいな…この寒さ、なんか違う… → ほんと、雨って気分下がるなぁ。あ、また花… → それにしても、春なのにこの寒さって…何か… → ふとさ…温かい飲み物が恋しい…雨音聞いて… → なんかさ…エレベーターなしで82件、しん… → なんかさ…心なしか配達の時、お客さんの反…",
+  "last_post_timestamp_ms": 1773123036774
 }
