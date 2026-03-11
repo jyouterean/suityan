@@ -1,7 +1,13 @@
 {
   "mood": "lonely",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "なんかさ…今日の仕事も一軒家ばっかだったし、ほんとに誰かと帰りたい…😔 もう帰るの面倒だし、せめて一緒に走ってほしいよ…あー、ねむ…",
+      "slot": "commute",
+      "timestamp": "2026-03-12 08:59:48",
+      "hasImage": false
+    },
     {
       "text": "マンションの階段、さっき6Fまで上がって疲れた…😩この感じ、ほんとに寂しいなぁ。誰かと一緒に帰りたい…早く、普通の毎日にならないかな。",
       "slot": "commute",
@@ -37,36 +43,31 @@
       "slot": "casual",
       "timestamp": "2026-03-11 20:40:15",
       "hasImage": false
-    },
-    {
-      "text": "さっき、また音楽聴きながら運転してたら、ふと孤独感…ああ、やっぱり誰かといるほうがいいよね…あー、でも暖かい春の風、花粉も気になるし、つらいなぁ…💭",
-      "slot": "casual",
-      "timestamp": "2026-03-11 19:07:34",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
     "morning",
+    "commute",
     "commute"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": false,
-  "month_total_posts": 136,
+  "month_total_posts": 137,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-12",
-  "last_post_time": "08:09:44",
+  "last_post_time": "08:59:48",
   "ng_retry_count": 77,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-12 08:09:44",
+  "updated_at": "2026-03-12 08:59:48",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "てかさっきの、ほんとにさ…人に会いたくて… → あれ、もう朝なの…？😴 → マンションの階段、さっき6Fまで上がって…",
-  "last_post_timestamp_ms": 1773270584908
+  "today_narrative": "てかさっきの、ほんとにさ…人に会いたくて… → あれ、もう朝なの…？😴 → マンションの階段、さっき6Fまで上がって… → なんかさ…今日の仕事も一軒家ばっかだった…",
+  "last_post_timestamp_ms": 1773273588156
 }
