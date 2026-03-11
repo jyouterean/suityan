@@ -1,7 +1,13 @@
 {
-  "mood": "melancholy",
-  "energy": 30,
+  "mood": "frustrated",
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "そういえばさ、インターホン押しても誰も出なかったの…ちょっとさみしい…。ボーッと桜の蕾見てたら、あったかくなってきたのに、なんか切なくて…。🌸 今思ったけど、家に帰っても一人って、やっぱり寂しいよね…。",
+      "slot": "casual",
+      "timestamp": "2026-03-11 12:38:51",
+      "hasImage": false
+    },
     {
       "text": "てかさっきの孤独感、運転中聞く音楽が支えなんだよね🎶 いい曲見つけたら、ちょっと気分上がる✨ 仕事の合間にリフレッシュするの大事！",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "simple_goodnight",
       "timestamp": "2026-03-10 23:31:46",
       "hasImage": false
-    },
-    {
-      "text": "なんかさ…いつまでこの寒さ続くのかな…配達もなんか重いし、さっき12Fまで階段上がったせいでしんどい…あぁ、体力が…ほんと、あったかい飲み物でも飲みたいなぁ…😩",
-      "slot": "night_ero",
-      "timestamp": "2026-03-10 21:58:01",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "morning",
     "commute",
     "commute",
+    "casual",
     "casual"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": false,
-  "month_total_posts": 123,
+  "month_total_posts": 124,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-11",
-  "last_post_time": "12:17:53",
+  "last_post_time": "12:38:51",
   "ng_retry_count": 76,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-11 12:17:53",
+  "updated_at": "2026-03-11 12:38:51",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "インターホン押しても誰も出ないと、なんか… → あさ…ねむすぎる… → あー、こんな寒い中で一人…さみしいなぁ。… → 運転中に、また一人だなぁって思ったら…こ… → てかさっきの孤独感、運転中聞く音楽が支え…",
-  "last_post_timestamp_ms": 1773199073049
+  "today_narrative": "インターホン押しても誰も出ないと、なんか… → あさ…ねむすぎる… → あー、こんな寒い中で一人…さみしいなぁ。… → 運転中に、また一人だなぁって思ったら…こ… → てかさっきの孤独感、運転中聞く音楽が支え… → そういえばさ、インターホン押しても誰も出…",
+  "last_post_timestamp_ms": 1773200331844
 }
