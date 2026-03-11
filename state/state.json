@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 10,
+  "mood": "lonely",
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "てかさっきの、ほんとにさ…人に会いたくて仕方ない…もう、誰かと一緒にいたいよ〜😢✨そんなこと考えてたら、余計に寂しくなっちゃった…ねぇ、かまって…",
+      "slot": "simple_goodnight",
+      "timestamp": "2026-03-12 00:41:41",
+      "hasImage": false
+    },
     {
       "text": "インターホン押しても誰も出ないと、なんか切ないなぁ…さっき階段10Fまで上がったのに、誰もいてくれないと寂しすぎる…ほんと、はいたつしてると孤独が増すなぁ。明日は人に会えるかも…？🌸",
       "slot": "goodnight",
@@ -37,48 +43,28 @@
       "slot": "delivery",
       "timestamp": "2026-03-11 16:20:41",
       "hasImage": false
-    },
-    {
-      "text": "あー、こんな寒い中で一人…さみしいなぁ。…10Fまで階段はきついなぁ。はいたつの合間にお昼ごはん食べたいけど、誰にも褒めてもらえないし…運転中にまた一人だなぁって思ったら、心も疲れた…😞",
-      "slot": "delivery",
-      "timestamp": "2026-03-11 15:28:55",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "delivery",
-    "morning",
-    "commute",
-    "commute",
-    "casual",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery",
-    "commute",
-    "casual",
-    "casual",
-    "night_ero",
-    "goodnight"
+    "simple_goodnight"
   ],
-  "today_post_count": 15,
-  "today_goodnight_posted": true,
-  "month_total_posts": 133,
+  "today_post_count": 1,
+  "today_goodnight_posted": false,
+  "month_total_posts": 134,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-03-11",
-  "last_post_time": "23:40:49",
+  "last_post_date": "2026-03-12",
+  "last_post_time": "00:41:41",
   "ng_retry_count": 77,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-11 23:40:49",
+  "updated_at": "2026-03-12 00:41:41",
   "month_string": "2026-03",
   "today_skipped": false,
-  "today_simple_goodnight_posted": false,
-  "today_morning_posted": true,
+  "today_simple_goodnight_posted": true,
+  "today_morning_posted": false,
   "today_skip_count": 0,
-  "today_max_posts": 15,
-  "today_narrative": "インターホン押しても誰も出ないと、なんか… → あさ…ねむすぎる… → あー、こんな寒い中で一人…さみしいなぁ。… → 運転中に、また一人だなぁって思ったら…こ… → てかさっきの孤独感、運転中聞く音楽が支え… → そういえばさ、インターホン押しても誰も出… → インターホン押しても誰も出ないと、なんか… → あー、あさ…ねむすぎる…配達してると、お… → あー、こんな寒い中で一人…さみしいなぁ。… → また一人で運転してると、さみしさがふわふ… → インターホン押しても誰も出ないと、なんか… → さっき、また音楽聴きながら運転してたら、… → ねぇ…今、誰かとおしゃべりしたいな…一緒… → 運転してると、やっぱりふとした瞬間に、ひ… → インターホン押しても誰も出ないと、なんか…",
-  "last_post_timestamp_ms": 1773240049280
+  "today_max_posts": 14,
+  "today_narrative": "てかさっきの、ほんとにさ…人に会いたくて…",
+  "last_post_timestamp_ms": 1773243701004
 }
