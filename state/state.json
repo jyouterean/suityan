@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "インターホン押しても誰も出ないと、なんか…あー、また一人だなぁって思っちゃうよね…でもさ、音楽があるからちょっとマシ…今は、運転中のこの静けさが、なんか…切ないなぁ…😔",
+      "slot": "commute",
+      "timestamp": "2026-03-11 18:14:34",
+      "hasImage": false
+    },
+    {
       "text": "また一人で運転してると、さみしさがふわふわしてくる…音楽も流れてるけど、なんか心に響かないなぁ。今の季節って、出会いの季節なのかな？それとも、配達先でお客さんとちょっと話すだけじゃ足りないのかな...😔",
       "slot": "delivery",
       "timestamp": "2026-03-11 16:20:41",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-03-11 12:17:53",
       "hasImage": false
-    },
-    {
-      "text": "運転中に、また一人だなぁって思ったら…この道も何度も通ってるのに…やっぱり一軒家の荷物運ぶのも孤独感が募る…😔みんな忙しいのかなぁ、かまってほしいな…",
-      "slot": "commute",
-      "timestamp": "2026-03-11 08:59:17",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -55,25 +55,26 @@
     "casual",
     "delivery",
     "delivery",
-    "delivery"
+    "delivery",
+    "commute"
   ],
-  "today_post_count": 10,
+  "today_post_count": 11,
   "today_goodnight_posted": false,
-  "month_total_posts": 128,
+  "month_total_posts": 129,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-11",
-  "last_post_time": "16:20:41",
+  "last_post_time": "18:14:34",
   "ng_retry_count": 76,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-11 16:20:41",
+  "updated_at": "2026-03-11 18:14:34",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "インターホン押しても誰も出ないと、なんか… → あさ…ねむすぎる… → あー、こんな寒い中で一人…さみしいなぁ。… → 運転中に、また一人だなぁって思ったら…こ… → てかさっきの孤独感、運転中聞く音楽が支え… → そういえばさ、インターホン押しても誰も出… → インターホン押しても誰も出ないと、なんか… → あー、あさ…ねむすぎる…配達してると、お… → あー、こんな寒い中で一人…さみしいなぁ。… → また一人で運転してると、さみしさがふわふ…",
-  "last_post_timestamp_ms": 1773213641186
+  "today_narrative": "インターホン押しても誰も出ないと、なんか… → あさ…ねむすぎる… → あー、こんな寒い中で一人…さみしいなぁ。… → 運転中に、また一人だなぁって思ったら…こ… → てかさっきの孤独感、運転中聞く音楽が支え… → そういえばさ、インターホン押しても誰も出… → インターホン押しても誰も出ないと、なんか… → あー、あさ…ねむすぎる…配達してると、お… → あー、こんな寒い中で一人…さみしいなぁ。… → また一人で運転してると、さみしさがふわふ… → インターホン押しても誰も出ないと、なんか…",
+  "last_post_timestamp_ms": 1773220474492
 }
