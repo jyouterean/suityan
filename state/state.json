@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 70,
+  "mood": "tired",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "あれ、もう朝なの…？😴",
+      "slot": "morning",
+      "timestamp": "2026-03-12 06:47:12",
+      "hasImage": false
+    },
     {
       "text": "てかさっきの、ほんとにさ…人に会いたくて仕方ない…もう、誰かと一緒にいたいよ〜😢✨そんなこと考えてたら、余計に寂しくなっちゃった…ねぇ、かまって…",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "commute",
       "timestamp": "2026-03-11 18:14:34",
       "hasImage": false
-    },
-    {
-      "text": "また一人で運転してると、さみしさがふわふわしてくる…音楽も流れてるけど、なんか心に響かないなぁ。今の季節って、出会いの季節なのかな？それとも、配達先でお客さんとちょっと話すだけじゃ足りないのかな...😔",
-      "slot": "delivery",
-      "timestamp": "2026-03-11 16:20:41",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 134,
+  "month_total_posts": 135,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-12",
-  "last_post_time": "00:41:41",
+  "last_post_time": "06:47:12",
   "ng_retry_count": 77,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-12 00:41:41",
+  "updated_at": "2026-03-12 06:47:12",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "てかさっきの、ほんとにさ…人に会いたくて…",
-  "last_post_timestamp_ms": 1773243701004
+  "today_narrative": "てかさっきの、ほんとにさ…人に会いたくて… → あれ、もう朝なの…？😴",
+  "last_post_timestamp_ms": 1773265632564
 }
