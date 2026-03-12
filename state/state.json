@@ -1,7 +1,13 @@
 {
-  "mood": "melancholy",
-  "energy": 30,
+  "mood": "tired",
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "ほんとにさ、仕事帰りのコンビニ寄ったら…なんか楽しいことしてる人たち見て、羨ましくなった…😢 みんな桜見に行ってるのかな…それとも新生活の準備してるのかな。私もそんな日々が欲しいなぁ…",
+      "slot": "casual",
+      "timestamp": "2026-03-12 13:08:41",
+      "hasImage": false
+    },
     {
       "text": "てかさ、なんか最近ひたすら一人でいると寂しくなってきちゃって…誰かとおしゃべりしたいなぁ🌸 こういう暖かい日は特にさ…あー、気付けばもう昼だ…何しよっかなー",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "goodnight",
       "timestamp": "2026-03-11 23:40:49",
       "hasImage": false
-    },
-    {
-      "text": "運転してると、やっぱりふとした瞬間に、ひとが恋しくなるなぁ…。いま、72件はいたつしたけど、誰かと一緒にいたい…と、思う…🌙",
-      "slot": "night_ero",
-      "timestamp": "2026-03-11 21:48:31",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "morning",
     "commute",
     "commute",
+    "casual",
     "casual"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": false,
-  "month_total_posts": 138,
+  "month_total_posts": 139,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-12",
-  "last_post_time": "12:33:03",
+  "last_post_time": "13:08:41",
   "ng_retry_count": 77,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-12 12:33:03",
+  "updated_at": "2026-03-12 13:08:41",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "てかさっきの、ほんとにさ…人に会いたくて… → あれ、もう朝なの…？😴 → マンションの階段、さっき6Fまで上がって… → なんかさ…今日の仕事も一軒家ばっかだった… → てかさ、なんか最近ひたすら一人でいると寂…",
-  "last_post_timestamp_ms": 1773286383605
+  "today_narrative": "てかさっきの、ほんとにさ…人に会いたくて… → あれ、もう朝なの…？😴 → マンションの階段、さっき6Fまで上がって… → なんかさ…今日の仕事も一軒家ばっかだった… → てかさ、なんか最近ひたすら一人でいると寂… → ほんとにさ、仕事帰りのコンビニ寄ったら……",
+  "last_post_timestamp_ms": 1773288521503
 }
