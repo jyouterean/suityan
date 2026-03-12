@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "たしかにさ、最近ほんとに一人でいるの多いかも…あ、でも花粉すごいよねぇ…外でるのしんどくなってきたし😩なんかさ、こういう時に誰かとおしゃべりしたいなぁって思う。あー、あたま疲れた。",
+      "slot": "casual",
+      "timestamp": "2026-03-12 19:14:25",
+      "hasImage": false
+    },
+    {
       "text": "なんかさ、信号待ちしてると余計に寂しくなる…つい人見て話しかけたくなるけど、無理だよね🤔配達もあと6件…つかれた…",
       "slot": "commute",
       "timestamp": "2026-03-12 18:04:51",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-03-12 13:08:41",
       "hasImage": false
-    },
-    {
-      "text": "てかさ、なんか最近ひたすら一人でいると寂しくなってきちゃって…誰かとおしゃべりしたいなぁ🌸 こういう暖かい日は特にさ…あー、気付けばもう昼だ…何しよっかなー",
-      "slot": "casual",
-      "timestamp": "2026-03-12 12:33:03",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "commute"
+    "commute",
+    "casual"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": false,
-  "month_total_posts": 144,
+  "month_total_posts": 145,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-12",
-  "last_post_time": "18:04:51",
+  "last_post_time": "19:14:25",
   "ng_retry_count": 77,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-12 18:04:51",
+  "updated_at": "2026-03-12 19:14:25",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "てかさっきの、ほんとにさ…人に会いたくて… → あれ、もう朝なの…？😴 → マンションの階段、さっき6Fまで上がって… → なんかさ…今日の仕事も一軒家ばっかだった… → てかさ、なんか最近ひたすら一人でいると寂… → ほんとにさ、仕事帰りのコンビニ寄ったら…… → てかさっきの、ほんとにさ…人に会いたくて… → 体力10%で111件配達中…もう27件も… → あーもう、さっき15Fまで階段登ったらめ… → なんかさ…結局、満腹になっても一人だと虚… → なんかさ、信号待ちしてると余計に寂しくな…",
-  "last_post_timestamp_ms": 1773306291208
+  "today_narrative": "てかさっきの、ほんとにさ…人に会いたくて… → あれ、もう朝なの…？😴 → マンションの階段、さっき6Fまで上がって… → なんかさ…今日の仕事も一軒家ばっかだった… → てかさ、なんか最近ひたすら一人でいると寂… → ほんとにさ、仕事帰りのコンビニ寄ったら…… → てかさっきの、ほんとにさ…人に会いたくて… → 体力10%で111件配達中…もう27件も… → あーもう、さっき15Fまで階段登ったらめ… → なんかさ…結局、満腹になっても一人だと虚… → なんかさ、信号待ちしてると余計に寂しくな… → たしかにさ、最近ほんとに一人でいるの多い…",
+  "last_post_timestamp_ms": 1773310465427
 }
