@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "なんかさ…結局、満腹になっても一人だと虚しい…😔配達の途中もさ、何回も同じ道通っててさ、一軒家ばっか…あーもう、お客さんからの「ありがとう」って一言が欲しい。甘いものでも買って帰りたいな…",
+      "slot": "delivery",
+      "timestamp": "2026-03-12 16:33:34",
+      "hasImage": false
+    },
+    {
       "text": "あーもう、さっき15Fまで階段登ったらめっちゃしんどい…😩これからも一軒家ばっかりってどういうことよね？疲れすぎて誰かに会いたくなっちゃう…何か褒めてほしいわ…",
       "slot": "delivery",
       "timestamp": "2026-03-12 15:36:16",
@@ -37,12 +43,6 @@
       "slot": "commute",
       "timestamp": "2026-03-12 08:59:48",
       "hasImage": false
-    },
-    {
-      "text": "マンションの階段、さっき6Fまで上がって疲れた…😩この感じ、ほんとに寂しいなぁ。誰かと一緒に帰りたい…早く、普通の毎日にならないかな。",
-      "slot": "commute",
-      "timestamp": "2026-03-12 08:09:44",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -54,25 +54,26 @@
     "casual",
     "casual",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 9,
+  "today_post_count": 10,
   "today_goodnight_posted": false,
-  "month_total_posts": 142,
+  "month_total_posts": 143,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-12",
-  "last_post_time": "15:36:16",
+  "last_post_time": "16:33:34",
   "ng_retry_count": 77,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-12 15:36:16",
+  "updated_at": "2026-03-12 16:33:34",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "てかさっきの、ほんとにさ…人に会いたくて… → あれ、もう朝なの…？😴 → マンションの階段、さっき6Fまで上がって… → なんかさ…今日の仕事も一軒家ばっかだった… → てかさ、なんか最近ひたすら一人でいると寂… → ほんとにさ、仕事帰りのコンビニ寄ったら…… → てかさっきの、ほんとにさ…人に会いたくて… → 体力10%で111件配達中…もう27件も… → あーもう、さっき15Fまで階段登ったらめ…",
-  "last_post_timestamp_ms": 1773297376999
+  "today_narrative": "てかさっきの、ほんとにさ…人に会いたくて… → あれ、もう朝なの…？😴 → マンションの階段、さっき6Fまで上がって… → なんかさ…今日の仕事も一軒家ばっかだった… → てかさ、なんか最近ひたすら一人でいると寂… → ほんとにさ、仕事帰りのコンビニ寄ったら…… → てかさっきの、ほんとにさ…人に会いたくて… → 体力10%で111件配達中…もう27件も… → あーもう、さっき15Fまで階段登ったらめ… → なんかさ…結局、満腹になっても一人だと虚…",
+  "last_post_timestamp_ms": 1773300814457
 }
