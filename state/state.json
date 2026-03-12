@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "体力10%で111件配達中…もう27件も残ってるし、ほんとにさ、ひたすら不在票配りしてるだけの毎日…😩あー誰かからいい言葉ほしいなぁ…😔",
+      "slot": "delivery",
+      "timestamp": "2026-03-12 14:52:27",
+      "hasImage": false
+    },
+    {
       "text": "てかさっきの、ほんとにさ…人に会いたくて…あれ、もう朝なの…？😴マンションの階段、さっき6Fまで上がって、なんかさ…ほんとに疲れた。今日も一軒家ばっかだったし、帰ったら何しようかな…独り言ばっか言ってる気がする…",
       "slot": "casual",
       "timestamp": "2026-03-12 13:39:31",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-03-12 06:47:12",
       "hasImage": false
-    },
-    {
-      "text": "てかさっきの、ほんとにさ…人に会いたくて仕方ない…もう、誰かと一緒にいたいよ〜😢✨そんなこと考えてたら、余計に寂しくなっちゃった…ねぇ、かまって…",
-      "slot": "simple_goodnight",
-      "timestamp": "2026-03-12 00:41:41",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "commute",
     "casual",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": false,
-  "month_total_posts": 140,
+  "month_total_posts": 141,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-12",
-  "last_post_time": "13:39:31",
+  "last_post_time": "14:52:27",
   "ng_retry_count": 77,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-12 13:39:31",
+  "updated_at": "2026-03-12 14:52:27",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "てかさっきの、ほんとにさ…人に会いたくて… → あれ、もう朝なの…？😴 → マンションの階段、さっき6Fまで上がって… → なんかさ…今日の仕事も一軒家ばっかだった… → てかさ、なんか最近ひたすら一人でいると寂… → ほんとにさ、仕事帰りのコンビニ寄ったら…… → てかさっきの、ほんとにさ…人に会いたくて…",
-  "last_post_timestamp_ms": 1773290371892
+  "today_narrative": "てかさっきの、ほんとにさ…人に会いたくて… → あれ、もう朝なの…？😴 → マンションの階段、さっき6Fまで上がって… → なんかさ…今日の仕事も一軒家ばっかだった… → てかさ、なんか最近ひたすら一人でいると寂… → ほんとにさ、仕事帰りのコンビニ寄ったら…… → てかさっきの、ほんとにさ…人に会いたくて… → 体力10%で111件配達中…もう27件も…",
+  "last_post_timestamp_ms": 1773294747502
 }
