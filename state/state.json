@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 70,
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "おはよ…ねむいよぉ😪",
+      "slot": "morning",
+      "timestamp": "2026-03-13 06:51:29",
+      "hasImage": false
+    },
     {
       "text": "もう無理…寝るしか…😴",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-03-12 16:33:34",
       "hasImage": false
-    },
-    {
-      "text": "あーもう、さっき15Fまで階段登ったらめっちゃしんどい…😩これからも一軒家ばっかりってどういうことよね？疲れすぎて誰かに会いたくなっちゃう…何か褒めてほしいわ…",
-      "slot": "delivery",
-      "timestamp": "2026-03-12 15:36:16",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 148,
+  "month_total_posts": 149,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-13",
-  "last_post_time": "00:50:54",
+  "last_post_time": "06:51:29",
   "ng_retry_count": 77,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-13 00:50:54",
+  "updated_at": "2026-03-13 06:51:29",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "もう無理…寝るしか…😴",
-  "last_post_timestamp_ms": 1773330654923
+  "today_narrative": "もう無理…寝るしか…😴 → おはよ…ねむいよぉ😪",
+  "last_post_timestamp_ms": 1773352289788
 }
