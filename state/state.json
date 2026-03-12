@@ -1,7 +1,13 @@
 {
   "mood": "lonely",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "あー、帰る途中の15F超えがきつかった…もう体力50%…残り2件も早く終わらせて帰りたいな。荷物運ぶのも疲れるけど、犬に吠えられた時はびっくりしたし…寂しいな。誰か一緒に帰ってくれないかなぁ…。",
+      "slot": "commute",
+      "timestamp": "2026-03-13 08:53:52",
+      "hasImage": false
+    },
     {
       "text": "ふぅ、移動中だるいな…誰かと帰りたいよ…台車押してると、なんか虚しい…🛒春なのに寒いし、もうすぐ週末だけどそんな気分じゃない…😔",
       "slot": "commute",
@@ -37,36 +43,31 @@
       "slot": "casual",
       "timestamp": "2026-03-12 19:14:25",
       "hasImage": false
-    },
-    {
-      "text": "なんかさ、信号待ちしてると余計に寂しくなる…つい人見て話しかけたくなるけど、無理だよね🤔配達もあと6件…つかれた…",
-      "slot": "commute",
-      "timestamp": "2026-03-12 18:04:51",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
     "morning",
+    "commute",
     "commute"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": false,
-  "month_total_posts": 150,
+  "month_total_posts": 151,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-13",
-  "last_post_time": "08:11:38",
+  "last_post_time": "08:53:52",
   "ng_retry_count": 77,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-13 08:11:38",
+  "updated_at": "2026-03-13 08:53:52",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "もう無理…寝るしか…😴 → おはよ…ねむいよぉ😪 → ふぅ、移動中だるいな…誰かと帰りたいよ……",
-  "last_post_timestamp_ms": 1773357098966
+  "today_narrative": "もう無理…寝るしか…😴 → おはよ…ねむいよぉ😪 → ふぅ、移動中だるいな…誰かと帰りたいよ…… → あー、帰る途中の15F超えがきつかった……",
+  "last_post_timestamp_ms": 1773359632316
 }
