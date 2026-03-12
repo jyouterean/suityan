@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "なんかさ、信号待ちしてると余計に寂しくなる…つい人見て話しかけたくなるけど、無理だよね🤔配達もあと6件…つかれた…",
+      "slot": "commute",
+      "timestamp": "2026-03-12 18:04:51",
+      "hasImage": false
+    },
+    {
       "text": "なんかさ…結局、満腹になっても一人だと虚しい…😔配達の途中もさ、何回も同じ道通っててさ、一軒家ばっか…あーもう、お客さんからの「ありがとう」って一言が欲しい。甘いものでも買って帰りたいな…",
       "slot": "delivery",
       "timestamp": "2026-03-12 16:33:34",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-03-12 12:33:03",
       "hasImage": false
-    },
-    {
-      "text": "なんかさ…今日の仕事も一軒家ばっかだったし、ほんとに誰かと帰りたい…😔 もう帰るの面倒だし、せめて一緒に走ってほしいよ…あー、ねむ…",
-      "slot": "commute",
-      "timestamp": "2026-03-12 08:59:48",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -55,25 +55,26 @@
     "casual",
     "delivery",
     "delivery",
-    "delivery"
+    "delivery",
+    "commute"
   ],
-  "today_post_count": 10,
+  "today_post_count": 11,
   "today_goodnight_posted": false,
-  "month_total_posts": 143,
+  "month_total_posts": 144,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-12",
-  "last_post_time": "16:33:34",
+  "last_post_time": "18:04:51",
   "ng_retry_count": 77,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-12 16:33:34",
+  "updated_at": "2026-03-12 18:04:51",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "てかさっきの、ほんとにさ…人に会いたくて… → あれ、もう朝なの…？😴 → マンションの階段、さっき6Fまで上がって… → なんかさ…今日の仕事も一軒家ばっかだった… → てかさ、なんか最近ひたすら一人でいると寂… → ほんとにさ、仕事帰りのコンビニ寄ったら…… → てかさっきの、ほんとにさ…人に会いたくて… → 体力10%で111件配達中…もう27件も… → あーもう、さっき15Fまで階段登ったらめ… → なんかさ…結局、満腹になっても一人だと虚…",
-  "last_post_timestamp_ms": 1773300814457
+  "today_narrative": "てかさっきの、ほんとにさ…人に会いたくて… → あれ、もう朝なの…？😴 → マンションの階段、さっき6Fまで上がって… → なんかさ…今日の仕事も一軒家ばっかだった… → てかさ、なんか最近ひたすら一人でいると寂… → ほんとにさ、仕事帰りのコンビニ寄ったら…… → てかさっきの、ほんとにさ…人に会いたくて… → 体力10%で111件配達中…もう27件も… → あーもう、さっき15Fまで階段登ったらめ… → なんかさ…結局、満腹になっても一人だと虚… → なんかさ、信号待ちしてると余計に寂しくな…",
+  "last_post_timestamp_ms": 1773306291208
 }
