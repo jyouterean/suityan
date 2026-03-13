@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 60,
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "ふぅ…あさ、また軽バンで91件…ひとりぼっちの帰り道寂しいなぁ。さっきインターホン押してた時、誰かと一緒だったらなって思ったよ。ほんと、だる…😪",
+      "slot": "commute",
+      "timestamp": "2026-03-14 08:16:38",
+      "hasImage": false
+    },
     {
       "text": "あさ…もう無理…😪",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "delivery",
       "timestamp": "2026-03-13 17:51:46",
       "hasImage": false
-    },
-    {
-      "text": "そろそろ終わりかな…配達件数も残り2件だし、早く帰りたいなぁ…誰かに会いたいよ…（…いま何時だ）やっぱ春っていい匂いするけど…花粉が辛いわ😩",
-      "slot": "delivery",
-      "timestamp": "2026-03-13 16:34:12",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
-    "morning"
+    "morning",
+    "commute"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": true,
-  "month_total_posts": 163,
+  "month_total_posts": 164,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-14",
-  "last_post_time": "06:49:53",
-  "ng_retry_count": 81,
+  "last_post_time": "08:16:38",
+  "ng_retry_count": 82,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-14 06:49:53",
+  "updated_at": "2026-03-14 08:16:38",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 9,
-  "today_narrative": "もう眠いけど、明日も軽バンで頑張らなきゃ… → あさ…もう無理…😪",
-  "last_post_timestamp_ms": 1773438593325
+  "today_narrative": "もう眠いけど、明日も軽バンで頑張らなきゃ… → あさ…もう無理…😪 → ふぅ…あさ、また軽バンで91件…ひとりぼ…",
+  "last_post_timestamp_ms": 1773443798734
 }
