@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "…ふぅ、なんかこの時間つらいなぁ…配達終わったら一人だし…さっきの道のり、がんばったのに誰もいないし…もう少し、誰かに温もりほしいなぁ…😔",
+      "slot": "night_ero",
+      "timestamp": "2026-03-13 21:00:21",
+      "hasImage": false
+    },
+    {
       "text": "なんかさ、駐車場で待ってると誰かに会いたくなる…🌼気づいたら10Fまで階段上がってしんどかったし。ほんと、だれか褒めてほしい…（何言ってんだ）",
       "slot": "delivery",
       "timestamp": "2026-03-13 17:51:46",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-03-13 13:05:51",
       "hasImage": false
-    },
-    {
-      "text": "もうすぐ桜咲くかなぁ…🌸あったかくなってきたし、友達とお花見したいなぁ…でも誰も一緒に行ってくれないし…寂しいな…",
-      "slot": "casual",
-      "timestamp": "2026-03-13 12:29:45",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "delivery"
+    "delivery",
+    "night_ero"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": false,
-  "month_total_posts": 158,
+  "month_total_posts": 159,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-13",
-  "last_post_time": "17:51:46",
+  "last_post_time": "21:00:21",
   "ng_retry_count": 79,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-13 19:04:53",
+  "updated_at": "2026-03-13 21:00:21",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 15,
-  "today_narrative": "もう無理…寝るしか…😴 → おはよ…ねむいよぉ😪 → ふぅ、移動中だるいな…誰かと帰りたいよ…… → あー、帰る途中の15F超えがきつかった…… → もうすぐ桜咲くかなぁ…🌸あったかくなっ… → 春の匂い、いい感じ…🌸でも花粉が辛いね… → うーん、今日は豆腐とわかめの味噌汁にしよ… → あー、配達中に眠気が…😴ひたすら走り続… → さっきの配達はお客さんがいい人でさ、ちょ… → そろそろ終わりかな…配達件数も残り2件だ… → なんかさ、駐車場で待ってると誰かに会いた…",
-  "last_post_timestamp_ms": 1773391906855
+  "today_narrative": "もう無理…寝るしか…😴 → おはよ…ねむいよぉ😪 → ふぅ、移動中だるいな…誰かと帰りたいよ…… → あー、帰る途中の15F超えがきつかった…… → もうすぐ桜咲くかなぁ…🌸あったかくなっ… → 春の匂い、いい感じ…🌸でも花粉が辛いね… → うーん、今日は豆腐とわかめの味噌汁にしよ… → あー、配達中に眠気が…😴ひたすら走り続… → さっきの配達はお客さんがいい人でさ、ちょ… → そろそろ終わりかな…配達件数も残り2件だ… → なんかさ、駐車場で待ってると誰かに会いた… → …ふぅ、なんかこの時間つらいなぁ…配達終…",
+  "last_post_timestamp_ms": 1773403221680
 }
