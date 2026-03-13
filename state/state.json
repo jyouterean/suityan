@@ -1,7 +1,13 @@
 {
-  "mood": "frustrated",
-  "energy": 30,
+  "mood": "tired",
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "春の匂い、いい感じ…🌸でも花粉が辛いね。目がかゆくてうう…早く落ち着いてほしいなぁ。あー、桜の下でお花見したい！友達と笑って過ごしたい！",
+      "slot": "casual",
+      "timestamp": "2026-03-13 13:05:51",
+      "hasImage": false
+    },
     {
       "text": "もうすぐ桜咲くかなぁ…🌸あったかくなってきたし、友達とお花見したいなぁ…でも誰も一緒に行ってくれないし…寂しいな…",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "goodnight",
       "timestamp": "2026-03-12 23:27:52",
       "hasImage": false
-    },
-    {
-      "text": "てか、ほんとにさ…この間、なんか夢中になってたら、気づいたら朝だった…😴すごい眠いよね、てかさ、もう春だし花粉症もやばいし、なんかさ、もうちょっと誰かとお話ししたいなぁ…ねぇ、寂しいよ…",
-      "slot": "casual",
-      "timestamp": "2026-03-12 20:58:20",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "morning",
     "commute",
     "commute",
+    "casual",
     "casual"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": false,
-  "month_total_posts": 152,
+  "month_total_posts": 153,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-13",
-  "last_post_time": "12:29:45",
+  "last_post_time": "13:05:51",
   "ng_retry_count": 77,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-13 12:29:45",
+  "updated_at": "2026-03-13 13:05:51",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "もう無理…寝るしか…😴 → おはよ…ねむいよぉ😪 → ふぅ、移動中だるいな…誰かと帰りたいよ…… → あー、帰る途中の15F超えがきつかった…… → もうすぐ桜咲くかなぁ…🌸あったかくなっ…",
-  "last_post_timestamp_ms": 1773372585478
+  "today_narrative": "もう無理…寝るしか…😴 → おはよ…ねむいよぉ😪 → ふぅ、移動中だるいな…誰かと帰りたいよ…… → あー、帰る途中の15F超えがきつかった…… → もうすぐ桜咲くかなぁ…🌸あったかくなっ… → 春の匂い、いい感じ…🌸でも花粉が辛いね…",
+  "last_post_timestamp_ms": 1773374751820
 }
