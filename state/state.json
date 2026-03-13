@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あー、配達中に眠気が…😴ひたすら走り続けるのつらいなぁ…誰かとお茶してリフレッシュしたい…最近、一軒家の人たちと話すと楽しいかも…",
+      "slot": "delivery",
+      "timestamp": "2026-03-13 14:35:25",
+      "hasImage": false
+    },
+    {
       "text": "うーん、今日は豆腐とわかめの味噌汁にしようかなぁ…でも新しいコンビニのスイーツも気になる…😩どっちにしようか…",
       "slot": "casual",
       "timestamp": "2026-03-13 13:33:57",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-03-13 06:51:29",
       "hasImage": false
-    },
-    {
-      "text": "もう無理…寝るしか…😴",
-      "slot": "simple_goodnight",
-      "timestamp": "2026-03-13 00:50:54",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "commute",
     "casual",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": false,
-  "month_total_posts": 154,
+  "month_total_posts": 155,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-13",
-  "last_post_time": "13:33:57",
+  "last_post_time": "14:35:25",
   "ng_retry_count": 77,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-13 13:33:57",
+  "updated_at": "2026-03-13 14:35:25",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "もう無理…寝るしか…😴 → おはよ…ねむいよぉ😪 → ふぅ、移動中だるいな…誰かと帰りたいよ…… → あー、帰る途中の15F超えがきつかった…… → もうすぐ桜咲くかなぁ…🌸あったかくなっ… → 春の匂い、いい感じ…🌸でも花粉が辛いね… → うーん、今日は豆腐とわかめの味噌汁にしよ…",
-  "last_post_timestamp_ms": 1773376437812
+  "today_narrative": "もう無理…寝るしか…😴 → おはよ…ねむいよぉ😪 → ふぅ、移動中だるいな…誰かと帰りたいよ…… → あー、帰る途中の15F超えがきつかった…… → もうすぐ桜咲くかなぁ…🌸あったかくなっ… → 春の匂い、いい感じ…🌸でも花粉が辛いね… → うーん、今日は豆腐とわかめの味噌汁にしよ… → あー、配達中に眠気が…😴ひたすら走り続…",
+  "last_post_timestamp_ms": 1773380125333
 }
