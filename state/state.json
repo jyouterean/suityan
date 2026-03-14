@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 40,
+  "mood": "frustrated",
+  "energy": 30,
   "last_posts": [
+    {
+      "text": "いや関係ないけど、最近道の混雑がほんとにやばいよね…💦ちょっとでもスムーズに配達できたらいいのに！やっぱり運転好きだし、頑張らなきゃな！",
+      "slot": "casual",
+      "timestamp": "2026-03-14 12:24:15",
+      "hasImage": false
+    },
     {
       "text": "また同じマンション3回…この汗、ほんと疲れる…。配達件数148件、誰かに褒めてほしいな…そのためにやってるわけじゃないけどさ…あぁ、軽バン運転してる時、誰か隣にいてほしい…😔",
       "slot": "delivery",
@@ -37,37 +43,32 @@
       "slot": "night_ero",
       "timestamp": "2026-03-13 21:41:25",
       "hasImage": false
-    },
-    {
-      "text": "…ふぅ、なんかこの時間つらいなぁ…配達終わったら一人だし…さっきの道のり、がんばったのに誰もいないし…もう少し、誰かに温もりほしいなぁ…😔",
-      "slot": "night_ero",
-      "timestamp": "2026-03-13 21:00:21",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
     "morning",
     "commute",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 4,
+  "today_post_count": 5,
   "today_goodnight_posted": true,
-  "month_total_posts": 165,
+  "month_total_posts": 166,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-14",
-  "last_post_time": "09:00:54",
+  "last_post_time": "12:24:15",
   "ng_retry_count": 82,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-14 09:00:54",
+  "updated_at": "2026-03-14 12:24:15",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 9,
-  "today_narrative": "もう眠いけど、明日も軽バンで頑張らなきゃ… → あさ…もう無理…😪 → ふぅ…あさ、また軽バンで91件…ひとりぼ… → また同じマンション3回…この汗、ほんと疲…",
-  "last_post_timestamp_ms": 1773446454438
+  "today_narrative": "もう眠いけど、明日も軽バンで頑張らなきゃ… → あさ…もう無理…😪 → ふぅ…あさ、また軽バンで91件…ひとりぼ… → また同じマンション3回…この汗、ほんと疲… → いや関係ないけど、最近道の混雑がほんとに…",
+  "last_post_timestamp_ms": 1773458655006
 }
