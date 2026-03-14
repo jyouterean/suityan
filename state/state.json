@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "いやーまたマンションの階段で死にそう…15Fまでのぼったけど、残りもまだ24件…こんなに動いてるのに全然痩せないし😩誰か褒めてくれないかな…夜ご飯はまたスーパーの惣菜になりそ…",
+      "slot": "delivery",
+      "timestamp": "2026-03-14 14:56:20",
+      "hasImage": false
+    },
+    {
       "text": "ふぅ…こうやってうとうとしてると春のぽかぽか、うれしいけど目がかゆい…🤧明日もまた軽バンで動くんだよね…あぁ、なんかもどかしい感じ…新生活、何か変わるかなぁ…",
       "slot": "casual",
       "timestamp": "2026-03-14 13:48:00",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-03-14 06:49:53",
       "hasImage": false
-    },
-    {
-      "text": "もう眠いけど、明日も軽バンで頑張らなきゃ…疲れちゃうなぁ、配達の途中でちょっと汗かいたし。ねぇ、誰かかまってよ…🌙✨",
-      "slot": "goodnight",
-      "timestamp": "2026-03-14 00:17:47",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "delivery",
     "casual",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": true,
-  "month_total_posts": 168,
+  "month_total_posts": 169,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-14",
-  "last_post_time": "13:48:00",
+  "last_post_time": "14:56:20",
   "ng_retry_count": 82,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-14 13:48:00",
+  "updated_at": "2026-03-14 14:56:20",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 9,
-  "today_narrative": "もう眠いけど、明日も軽バンで頑張らなきゃ… → あさ…もう無理…😪 → ふぅ…あさ、また軽バンで91件…ひとりぼ… → また同じマンション3回…この汗、ほんと疲… → いや関係ないけど、最近道の混雑がほんとに… → 思ったよりも暖かい春の日差し、花粉で目が… → ふぅ…こうやってうとうとしてると春のぽか…",
-  "last_post_timestamp_ms": 1773463680093
+  "today_narrative": "もう眠いけど、明日も軽バンで頑張らなきゃ… → あさ…もう無理…😪 → ふぅ…あさ、また軽バンで91件…ひとりぼ… → また同じマンション3回…この汗、ほんと疲… → いや関係ないけど、最近道の混雑がほんとに… → 思ったよりも暖かい春の日差し、花粉で目が… → ふぅ…こうやってうとうとしてると春のぽか… → いやーまたマンションの階段で死にそう…1…",
+  "last_post_timestamp_ms": 1773467780126
 }
