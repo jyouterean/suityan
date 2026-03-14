@@ -1,7 +1,13 @@
 {
   "mood": "frustrated",
-  "energy": 30,
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "思ったよりも暖かい春の日差し、花粉で目がかゆいけど…😩あと少しで桜も咲くし、楽しみだな。ただ今の気持ち、じれったい。夜更かししたいけど、あさまた軽バン…もやもやしてる…",
+      "slot": "casual",
+      "timestamp": "2026-03-14 13:01:22",
+      "hasImage": false
+    },
     {
       "text": "いや関係ないけど、最近道の混雑がほんとにやばいよね…💦ちょっとでもスムーズに配達できたらいいのに！やっぱり運転好きだし、頑張らなきゃな！",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "goodnight",
       "timestamp": "2026-03-13 23:26:04",
       "hasImage": false
-    },
-    {
-      "text": "ねぇ、周りが静かで寂しいなぁ…配達終わったらちょっと誰かと話したい気分🤔てか、夜の街の光って少し誘うよね…温もりほしいな…",
-      "slot": "night_ero",
-      "timestamp": "2026-03-13 21:41:25",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "morning",
     "commute",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": true,
-  "month_total_posts": 166,
+  "month_total_posts": 167,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-14",
-  "last_post_time": "12:24:15",
+  "last_post_time": "13:01:22",
   "ng_retry_count": 82,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-14 12:24:15",
+  "updated_at": "2026-03-14 13:01:22",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 9,
-  "today_narrative": "もう眠いけど、明日も軽バンで頑張らなきゃ… → あさ…もう無理…😪 → ふぅ…あさ、また軽バンで91件…ひとりぼ… → また同じマンション3回…この汗、ほんと疲… → いや関係ないけど、最近道の混雑がほんとに…",
-  "last_post_timestamp_ms": 1773458655006
+  "today_narrative": "もう眠いけど、明日も軽バンで頑張らなきゃ… → あさ…もう無理…😪 → ふぅ…あさ、また軽バンで91件…ひとりぼ… → また同じマンション3回…この汗、ほんと疲… → いや関係ないけど、最近道の混雑がほんとに… → 思ったよりも暖かい春の日差し、花粉で目が…",
+  "last_post_timestamp_ms": 1773460882390
 }
