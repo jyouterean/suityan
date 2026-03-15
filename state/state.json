@@ -1,7 +1,13 @@
 {
-  "mood": "melancholy",
-  "energy": 30,
+  "mood": "tired",
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "階段13Fまで上がったら、もう体力残ってない…なんか誰か褒めてほしいなぁ。ずっとマンションの配達ばっかりで、花粉もひどいし…やる気がほんとに出ない。このままじゃ終わりそう…😩",
+      "slot": "delivery",
+      "timestamp": "2026-03-15 14:11:02",
+      "hasImage": false
+    },
     {
       "text": "この天気いいのに、なんかやる気出なくて…気持ちだけぽかぽかしたいなぁ🌸でも、あーほんと、もう何も考えたくない…お昼何食べようかな〜",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-03-14 15:33:29",
       "hasImage": false
-    },
-    {
-      "text": "いやーまたマンションの階段で死にそう…15Fまでのぼったけど、残りもまだ24件…こんなに動いてるのに全然痩せないし😩誰か褒めてくれないかな…夜ご飯はまたスーパーの惣菜になりそ…",
-      "slot": "delivery",
-      "timestamp": "2026-03-14 14:56:20",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "morning",
     "delivery",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": false,
-  "month_total_posts": 175,
+  "month_total_posts": 176,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-15",
-  "last_post_time": "13:11:54",
+  "last_post_time": "14:11:02",
   "ng_retry_count": 83,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-15 13:11:54",
+  "updated_at": "2026-03-15 14:11:02",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 15,
-  "today_narrative": "もう何も考えたくない…ねる → あさ…つら… → 配達待ちでちょっとぼーっと。11件残って… → 配達待ち、あーほんと何もしたくないなぁ。… → この天気いいのに、なんかやる気出なくて……",
-  "last_post_timestamp_ms": 1773547914476
+  "today_narrative": "もう何も考えたくない…ねる → あさ…つら… → 配達待ちでちょっとぼーっと。11件残って… → 配達待ち、あーほんと何もしたくないなぁ。… → この天気いいのに、なんかやる気出なくて…… → 階段13Fまで上がったら、もう体力残って…",
+  "last_post_timestamp_ms": 1773551462773
 }
