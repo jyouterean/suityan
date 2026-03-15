@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あーもう、ふとんから出たくない…ねぇ、ほんとに何もやる気出ないなぁ…☁️こんな天気いいのに…なんでかしら…😩",
+      "slot": "casual",
+      "timestamp": "2026-03-15 20:30:49",
+      "hasImage": false
+    },
+    {
       "text": "なんか、ほんとにやる気出ないなぁ…😩この天気いいのに、ふとした瞬間にため息が出ちゃう。あー、もう何も考えたくなくて…つらい。昼ごはんもボーッと食べたし、早く帰りたいなぁ…😔",
       "slot": "casual",
       "timestamp": "2026-03-15 19:05:51",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-03-15 14:11:02",
       "hasImage": false
-    },
-    {
-      "text": "この天気いいのに、なんかやる気出なくて…気持ちだけぽかぽかしたいなぁ🌸でも、あーほんと、もう何も考えたくない…お昼何食べようかな〜",
-      "slot": "casual",
-      "timestamp": "2026-03-15 13:11:54",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "delivery",
     "commute",
+    "casual",
     "casual"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": false,
-  "month_total_posts": 181,
+  "month_total_posts": 182,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-15",
-  "last_post_time": "19:05:51",
+  "last_post_time": "20:30:49",
   "ng_retry_count": 83,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-15 19:05:51",
+  "updated_at": "2026-03-15 20:30:49",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 15,
-  "today_narrative": "もう何も考えたくない…ねる → あさ…つら… → 配達待ちでちょっとぼーっと。11件残って… → 配達待ち、あーほんと何もしたくないなぁ。… → この天気いいのに、なんかやる気出なくて…… → 階段13Fまで上がったら、もう体力残って… → やっとお昼ごはん…でも配達の再配達あって… → やっと再配達終わったけど、ほんと疲れちゃ… → ほんとに、あーもう、何も考えたくないなぁ… → もうすぐ帰れるかなぁ…ほんとしんどすぎて… → なんか、ほんとにやる気出ないなぁ…😩こ…",
-  "last_post_timestamp_ms": 1773569151262
+  "today_narrative": "もう何も考えたくない…ねる → あさ…つら… → 配達待ちでちょっとぼーっと。11件残って… → 配達待ち、あーほんと何もしたくないなぁ。… → この天気いいのに、なんかやる気出なくて…… → 階段13Fまで上がったら、もう体力残って… → やっとお昼ごはん…でも配達の再配達あって… → やっと再配達終わったけど、ほんと疲れちゃ… → ほんとに、あーもう、何も考えたくないなぁ… → もうすぐ帰れるかなぁ…ほんとしんどすぎて… → なんか、ほんとにやる気出ないなぁ…😩こ… → あーもう、ふとんから出たくない…ねぇ、ほ…",
+  "last_post_timestamp_ms": 1773574249812
 }
