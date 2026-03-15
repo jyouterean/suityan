@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "配達待ち、あーほんと何もしたくないなぁ。天気いいのに外出るのもダルい...😩お昼何食べようかな、コンビニにでも行こうかな。あー、でもやる気出ないなぁ。桜も咲いてるのに…😓",
+      "slot": "casual",
+      "timestamp": "2026-03-15 12:54:38",
+      "hasImage": false
+    },
     {
       "text": "配達待ちでちょっとぼーっと。11件残ってるし、早く終わらせたい…ほんとに疲れた。お客さんとちょっと話したけど、褒められたらやっぱ嬉しいなぁ。あぁ、誰かと一緒にいたい…まあいいか。",
       "slot": "delivery",
@@ -37,36 +43,31 @@
       "slot": "casual",
       "timestamp": "2026-03-14 13:48:00",
       "hasImage": false
-    },
-    {
-      "text": "思ったよりも暖かい春の日差し、花粉で目がかゆいけど…😩あと少しで桜も咲くし、楽しみだな。ただ今の気持ち、じれったい。夜更かししたいけど、あさまた軽バン…もやもやしてる…",
-      "slot": "casual",
-      "timestamp": "2026-03-14 13:01:22",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
     "morning",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": false,
-  "month_total_posts": 173,
+  "month_total_posts": 174,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-15",
-  "last_post_time": "09:13:47",
+  "last_post_time": "12:54:38",
   "ng_retry_count": 83,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-15 09:13:47",
+  "updated_at": "2026-03-15 12:54:38",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 15,
-  "today_narrative": "もう何も考えたくない…ねる → あさ…つら… → 配達待ちでちょっとぼーっと。11件残って…",
-  "last_post_timestamp_ms": 1773533627462
+  "today_narrative": "もう何も考えたくない…ねる → あさ…つら… → 配達待ちでちょっとぼーっと。11件残って… → 配達待ち、あーほんと何もしたくないなぁ。…",
+  "last_post_timestamp_ms": 1773546878558
 }
