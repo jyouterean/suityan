@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 60,
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "配達待ちでちょっとぼーっと。11件残ってるし、早く終わらせたい…ほんとに疲れた。お客さんとちょっと話したけど、褒められたらやっぱ嬉しいなぁ。あぁ、誰かと一緒にいたい…まあいいか。",
+      "slot": "delivery",
+      "timestamp": "2026-03-15 09:13:47",
+      "hasImage": false
+    },
     {
       "text": "あさ…つら…",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "casual",
       "timestamp": "2026-03-14 13:01:22",
       "hasImage": false
-    },
-    {
-      "text": "いや関係ないけど、最近道の混雑がほんとにやばいよね…💦ちょっとでもスムーズに配達できたらいいのに！やっぱり運転好きだし、頑張らなきゃな！",
-      "slot": "casual",
-      "timestamp": "2026-03-14 12:24:15",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
-    "morning"
+    "morning",
+    "delivery"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 172,
+  "month_total_posts": 173,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-15",
-  "last_post_time": "06:58:30",
+  "last_post_time": "09:13:47",
   "ng_retry_count": 83,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-15 07:55:58",
+  "updated_at": "2026-03-15 09:13:47",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 15,
-  "today_narrative": "もう何も考えたくない…ねる → あさ…つら…",
-  "last_post_timestamp_ms": 1773525510279
+  "today_narrative": "もう何も考えたくない…ねる → あさ…つら… → 配達待ちでちょっとぼーっと。11件残って…",
+  "last_post_timestamp_ms": 1773533627462
 }
