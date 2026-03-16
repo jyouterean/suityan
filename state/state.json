@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 40,
+  "mood": "frustrated",
+  "energy": 30,
   "last_posts": [
+    {
+      "text": "だる…帰宅の道、誰かと一緒が良かったなぁ。今日の再配達、残り16件…うんざり。でも暖かくなってきたし、桜も咲いてるみたい。眠いのに、なんか虚しい…",
+      "slot": "commute",
+      "timestamp": "2026-03-17 08:56:06",
+      "hasImage": false
+    },
     {
       "text": "結局、エレベーターなしで運ぶのってホント疲れる。残り8件だけど、なんか…やる気でないなぁ😩週の前半、まだまだ長い…コンビニ寄って帰ろうかな。何か食べたい…🍔",
       "slot": "commute",
@@ -37,37 +43,32 @@
       "slot": "goodnight",
       "timestamp": "2026-03-15 23:30:54",
       "hasImage": false
-    },
-    {
-      "text": "あーほんとに、なんか再配達とかやってるけど、もう疲れちゃって…😞みんなと一緒にいたいなぁ…少しでも温もりがほしい…もう、何も考えたくないよ…ねぇ、どこかにいきたい…",
-      "slot": "night_ero",
-      "timestamp": "2026-03-15 21:52:18",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
     "delivery",
     "morning",
+    "commute",
     "commute"
   ],
-  "today_post_count": 4,
+  "today_post_count": 5,
   "today_goodnight_posted": true,
-  "month_total_posts": 189,
+  "month_total_posts": 190,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-17",
-  "last_post_time": "08:02:38",
-  "ng_retry_count": 85,
+  "last_post_time": "08:56:06",
+  "ng_retry_count": 86,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-17 08:02:38",
+  "updated_at": "2026-03-17 08:56:06",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "仕事終わったけど…なんか違うな…疲れたよ… → またインターホンのやつが全然反応しない…… → あさ…やっぱりねむい → 結局、エレベーターなしで運ぶのってホント…",
-  "last_post_timestamp_ms": 1773702158554
+  "today_narrative": "仕事終わったけど…なんか違うな…疲れたよ… → またインターホンのやつが全然反応しない…… → あさ…やっぱりねむい → 結局、エレベーターなしで運ぶのってホント… → だる…帰宅の道、誰かと一緒が良かったなぁ…",
+  "last_post_timestamp_ms": 1773705366655
 }
