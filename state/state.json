@@ -1,7 +1,13 @@
 {
   "mood": "lonely",
-  "energy": 70,
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "またインターホンのやつが全然反応しない…。98件配達終わったのに、なんかぽっかり心が空いてる💔 誰かに会いたいなぁ、褒められたらちょっと元気出るのに…",
+      "slot": "delivery",
+      "timestamp": "2026-03-17 01:07:23",
+      "hasImage": false
+    },
     {
       "text": "仕事終わったけど…なんか違うな…疲れたよ、台車押してる時、心も体も重い…おやすみなさい、明日はもっと頑張るから、誰かかまってよ…😢🌙",
       "slot": "goodnight",
@@ -37,34 +43,29 @@
       "slot": "casual",
       "timestamp": "2026-03-15 19:05:51",
       "hasImage": false
-    },
-    {
-      "text": "もうすぐ帰れるかなぁ…ほんとしんどすぎて、何も考えたくない…グッタリだわ😩配達も102件もやったし、体力残ってない…誰かと帰りたいなぁ…",
-      "slot": "commute",
-      "timestamp": "2026-03-15 18:09:26",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight"
+    "goodnight",
+    "delivery"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": true,
-  "month_total_posts": 186,
+  "month_total_posts": 187,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-17",
-  "last_post_time": "00:04:34",
+  "last_post_time": "01:07:23",
   "ng_retry_count": 84,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-17 00:04:34",
+  "updated_at": "2026-03-17 01:07:23",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": false,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "仕事終わったけど…なんか違うな…疲れたよ…",
-  "last_post_timestamp_ms": 1773673474771
+  "today_narrative": "仕事終わったけど…なんか違うな…疲れたよ… → またインターホンのやつが全然反応しない……",
+  "last_post_timestamp_ms": 1773677243941
 }
