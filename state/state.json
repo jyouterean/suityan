@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "さっきの配達の件、やっぱり疲れた…新生活とか桜とか関係ないし…誰かに会いたいよ〜…道端の花見とかいいよね〜でも配達中だし…あと4件もあるし、もう無理…",
+      "slot": "delivery",
+      "timestamp": "2026-03-17 16:53:53",
+      "hasImage": false
+    },
+    {
       "text": "あー、もうしんど…不在票でまた戻るのかぁ。今日136件もはいたつしたのにな…誰か褒めてほしい…😅",
       "slot": "delivery",
       "timestamp": "2026-03-17 16:08:32",
@@ -37,12 +43,6 @@
       "slot": "commute",
       "timestamp": "2026-03-17 08:02:38",
       "hasImage": false
-    },
-    {
-      "text": "あさ…やっぱりねむい",
-      "slot": "morning",
-      "timestamp": "2026-03-17 06:56:45",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -54,25 +54,26 @@
     "casual",
     "casual",
     "casual",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 9,
+  "today_post_count": 10,
   "today_goodnight_posted": true,
-  "month_total_posts": 194,
+  "month_total_posts": 195,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-17",
-  "last_post_time": "16:08:32",
+  "last_post_time": "16:53:53",
   "ng_retry_count": 87,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-17 16:08:32",
+  "updated_at": "2026-03-17 16:53:53",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "仕事終わったけど…なんか違うな…疲れたよ… → またインターホンのやつが全然反応しない…… → あさ…やっぱりねむい → 結局、エレベーターなしで運ぶのってホント… → だる…帰宅の道、誰かと一緒が良かったなぁ… → ほんと、こんな日は誰かとご飯食べたいなぁ… → 春になってあったかいけど、やっぱり花粉が… → またインターホンのやつ、全然反応しないし… → あー、もうしんど…不在票でまた戻るのかぁ…",
-  "last_post_timestamp_ms": 1773731312326
+  "today_narrative": "仕事終わったけど…なんか違うな…疲れたよ… → またインターホンのやつが全然反応しない…… → あさ…やっぱりねむい → 結局、エレベーターなしで運ぶのってホント… → だる…帰宅の道、誰かと一緒が良かったなぁ… → ほんと、こんな日は誰かとご飯食べたいなぁ… → 春になってあったかいけど、やっぱり花粉が… → またインターホンのやつ、全然反応しないし… → あー、もうしんど…不在票でまた戻るのかぁ… → さっきの配達の件、やっぱり疲れた…新生活…",
+  "last_post_timestamp_ms": 1773734033726
 }
