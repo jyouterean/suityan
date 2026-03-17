@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "しんどい…またインターホンのやつ、全然反応しないし、そろそろ帰りたいのに…誰かと一緒にいると、もう少し楽なのにねぇ…まだ火曜だし、疲れが取れないよ…😔",
+      "slot": "night_ero",
+      "timestamp": "2026-03-17 21:06:28",
+      "hasImage": false
+    },
+    {
       "text": "春になってあったかくなったのに…花粉がやばいよー😷 目はしょぼしょぼ、鼻もむずむず、ほんとつらい…うー、でも誰かと一緒におしゃべりしたいなぁ…",
       "slot": "casual",
       "timestamp": "2026-03-17 19:15:06",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-03-17 12:44:08",
       "hasImage": false
-    },
-    {
-      "text": "ほんと、こんな日は誰かとご飯食べたいなぁ…コンビニのご飯も悪くないけど、やっぱり一緒がいい✨でも、またインターホンのやつ逃げたの？って思うと…うーん、モヤモヤ😩",
-      "slot": "casual",
-      "timestamp": "2026-03-17 12:29:41",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -57,25 +57,26 @@
     "delivery",
     "delivery",
     "commute",
-    "casual"
+    "casual",
+    "night_ero"
   ],
-  "today_post_count": 12,
+  "today_post_count": 13,
   "today_goodnight_posted": true,
-  "month_total_posts": 197,
+  "month_total_posts": 198,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-17",
-  "last_post_time": "19:15:06",
+  "last_post_time": "21:06:28",
   "ng_retry_count": 87,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-17 19:15:06",
+  "updated_at": "2026-03-17 21:06:28",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "仕事終わったけど…なんか違うな…疲れたよ… → またインターホンのやつが全然反応しない…… → あさ…やっぱりねむい → 結局、エレベーターなしで運ぶのってホント… → だる…帰宅の道、誰かと一緒が良かったなぁ… → ほんと、こんな日は誰かとご飯食べたいなぁ… → 春になってあったかいけど、やっぱり花粉が… → またインターホンのやつ、全然反応しないし… → あー、もうしんど…不在票でまた戻るのかぁ… → さっきの配達の件、やっぱり疲れた…新生活… → あー…もう、帰り道だるい…ひとりって虚し… → 春になってあったかくなったのに…花粉がや…",
-  "last_post_timestamp_ms": 1773742506184
+  "today_narrative": "仕事終わったけど…なんか違うな…疲れたよ… → またインターホンのやつが全然反応しない…… → あさ…やっぱりねむい → 結局、エレベーターなしで運ぶのってホント… → だる…帰宅の道、誰かと一緒が良かったなぁ… → ほんと、こんな日は誰かとご飯食べたいなぁ… → 春になってあったかいけど、やっぱり花粉が… → またインターホンのやつ、全然反応しないし… → あー、もうしんど…不在票でまた戻るのかぁ… → さっきの配達の件、やっぱり疲れた…新生活… → あー…もう、帰り道だるい…ひとりって虚し… → 春になってあったかくなったのに…花粉がや… → しんどい…またインターホンのやつ、全然反…",
+  "last_post_timestamp_ms": 1773749188239
 }
