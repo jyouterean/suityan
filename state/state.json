@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あー、もうしんど…不在票でまた戻るのかぁ。今日136件もはいたつしたのにな…誰か褒めてほしい…😅",
+      "slot": "delivery",
+      "timestamp": "2026-03-17 16:08:32",
+      "hasImage": false
+    },
+    {
       "text": "またインターホンのやつ、全然反応しないし…😩エレベーターなしでの運ぶの、ほんとしんどいなぁ…帰り道、誰かと話しながら帰りたかったけど…なんかひとりだと、さびしいよね…",
       "slot": "casual",
       "timestamp": "2026-03-17 13:47:15",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-03-17 06:56:45",
       "hasImage": false
-    },
-    {
-      "text": "またインターホンのやつが全然反応しない…。98件配達終わったのに、なんかぽっかり心が空いてる💔 誰かに会いたいなぁ、褒められたらちょっと元気出るのに…",
-      "slot": "delivery",
-      "timestamp": "2026-03-17 01:07:23",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "commute",
     "casual",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": true,
-  "month_total_posts": 193,
+  "month_total_posts": 194,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-17",
-  "last_post_time": "13:47:15",
-  "ng_retry_count": 86,
+  "last_post_time": "16:08:32",
+  "ng_retry_count": 87,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-17 15:05:26",
+  "updated_at": "2026-03-17 16:08:32",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "仕事終わったけど…なんか違うな…疲れたよ… → またインターホンのやつが全然反応しない…… → あさ…やっぱりねむい → 結局、エレベーターなしで運ぶのってホント… → だる…帰宅の道、誰かと一緒が良かったなぁ… → ほんと、こんな日は誰かとご飯食べたいなぁ… → 春になってあったかいけど、やっぱり花粉が… → またインターホンのやつ、全然反応しないし…",
-  "last_post_timestamp_ms": 1773722835847
+  "today_narrative": "仕事終わったけど…なんか違うな…疲れたよ… → またインターホンのやつが全然反応しない…… → あさ…やっぱりねむい → 結局、エレベーターなしで運ぶのってホント… → だる…帰宅の道、誰かと一緒が良かったなぁ… → ほんと、こんな日は誰かとご飯食べたいなぁ… → 春になってあったかいけど、やっぱり花粉が… → またインターホンのやつ、全然反応しないし… → あー、もうしんど…不在票でまた戻るのかぁ…",
+  "last_post_timestamp_ms": 1773731312326
 }
