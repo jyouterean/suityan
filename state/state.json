@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 70,
+  "mood": "tired",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "もうダメ、寝る…",
+      "slot": "simple_goodnight",
+      "timestamp": "2026-03-19 00:52:08",
+      "hasImage": false
+    },
     {
       "text": "おやすみ…今日も133件も配達したのに疲れちゃった…花粉もひどくて眠れないかも…誰かかまってよ…もう少し頑張ってみようかな…いや関係ないか…",
       "slot": "goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-03-18 14:48:35",
       "hasImage": false
-    },
-    {
-      "text": "こんな日に限って渋滞…エレベーターなしの荷物運ぶのマジで辛い😩😩 もう95件終わるのに時間指定もあるし、誰か褒めてほしいなぁ…桜も散ってきてるし、ちょっと切ないよ…",
-      "slot": "delivery",
-      "timestamp": "2026-03-18 14:07:37",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight"
+    "goodnight",
+    "simple_goodnight"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": true,
-  "month_total_posts": 210,
+  "month_total_posts": 211,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-19",
-  "last_post_time": "00:08:37",
+  "last_post_time": "00:52:08",
   "ng_retry_count": 87,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-19 00:08:37",
+  "updated_at": "2026-03-19 00:52:08",
   "month_string": "2026-03",
   "today_skipped": false,
-  "today_simple_goodnight_posted": false,
+  "today_simple_goodnight_posted": true,
   "today_morning_posted": false,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "おやすみ…今日も133件も配達したのに疲…",
-  "last_post_timestamp_ms": 1773846517774
+  "today_narrative": "おやすみ…今日も133件も配達したのに疲… → もうダメ、寝る…",
+  "last_post_timestamp_ms": 1773849128247
 }
