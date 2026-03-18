@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "また渋滞…エレベーター故障してるから、今8Fの階段下りてきたけど、ほんと膝やばいかも…はぁ、休みたいなぁ…☠️さっきもトイレ行ってたし、もうちょっと頑張って…？でも、なんか心が寂しい…ねぇ、誰かいてくれたらいいのに…",
+      "slot": "night_ero",
+      "timestamp": "2026-03-18 22:12:55",
+      "hasImage": false
+    },
+    {
       "text": "またトイレ行きたくなっちゃった…配達件数まだ18件もあるのに、しんどいよ…ねぇ、誰か一緒にいてほしいなぁ…😔",
       "slot": "night_ero",
       "timestamp": "2026-03-18 21:15:51",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-03-18 13:23:53",
       "hasImage": false
-    },
-    {
-      "text": "ねむ...なんか曇ってるし寒いし最悪だなぁ。朝から動きたくない…気分がだるい。コンビニで甘いものでも買って、さっさと帰りたい...😩☁️",
-      "slot": "casual",
-      "timestamp": "2026-03-18 08:11:21",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -54,25 +54,26 @@
     "delivery",
     "delivery",
     "commute",
+    "night_ero",
     "night_ero"
   ],
-  "today_post_count": 9,
+  "today_post_count": 10,
   "today_goodnight_posted": true,
-  "month_total_posts": 208,
+  "month_total_posts": 209,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-18",
-  "last_post_time": "21:15:51",
+  "last_post_time": "22:12:55",
   "ng_retry_count": 87,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-18 21:15:51",
+  "updated_at": "2026-03-18 22:12:55",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 4,
   "today_max_posts": 14,
-  "today_narrative": "こんな日に限って渋滞…エレベーターなしの… → おはよ…全然寝れなかった → ねむ...なんか曇ってるし寒いし最悪だな… → あー、またサボりたくなってきた…でも頑張… → こんな日に限って渋滞…エレベーターなしの… → さっき8Fの階段、絶対膝やばい…☠️これ… → しんどいなぁ...もう少しで終わるのに、… → やっと一段落...と思ったらまた不在票が… → またトイレ行きたくなっちゃった…配達件数…",
-  "last_post_timestamp_ms": 1773836151650
+  "today_narrative": "こんな日に限って渋滞…エレベーターなしの… → おはよ…全然寝れなかった → ねむ...なんか曇ってるし寒いし最悪だな… → あー、またサボりたくなってきた…でも頑張… → こんな日に限って渋滞…エレベーターなしの… → さっき8Fの階段、絶対膝やばい…☠️これ… → しんどいなぁ...もう少しで終わるのに、… → やっと一段落...と思ったらまた不在票が… → またトイレ行きたくなっちゃった…配達件数… → また渋滞…エレベーター故障してるから、今…",
+  "last_post_timestamp_ms": 1773839575624
 }
