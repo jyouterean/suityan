@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "あー、またサボりたくなってきた…でも頑張らないとね。新生活の準備、進まなすぎて焦るし。せっかく暖かくなってきたのに、桜見に行けないなぁ…😭💭",
+      "slot": "casual",
+      "timestamp": "2026-03-18 13:23:53",
+      "hasImage": false
+    },
     {
       "text": "ねむ...なんか曇ってるし寒いし最悪だなぁ。朝から動きたくない…気分がだるい。コンビニで甘いものでも買って、さっさと帰りたい...😩☁️",
       "slot": "casual",
@@ -37,36 +43,31 @@
       "slot": "casual",
       "timestamp": "2026-03-17 19:15:06",
       "hasImage": false
-    },
-    {
-      "text": "あー…もう、帰り道だるい…ひとりって虚しい…誰かと帰りたかったなぁ…今日もマンションの配達やらかしたし…体力ゼロ…さ、帰ってご飯でも食べて寝ようかな…でもまた花粉が…",
-      "slot": "commute",
-      "timestamp": "2026-03-17 18:13:17",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
     "morning",
+    "casual",
     "casual"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": true,
-  "month_total_posts": 202,
+  "month_total_posts": 203,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-18",
-  "last_post_time": "08:11:21",
+  "last_post_time": "13:23:53",
   "ng_retry_count": 87,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-18 12:33:39",
+  "updated_at": "2026-03-18 13:23:53",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 2,
   "today_max_posts": 14,
-  "today_narrative": "こんな日に限って渋滞…エレベーターなしの… → おはよ…全然寝れなかった → ねむ...なんか曇ってるし寒いし最悪だな…",
-  "last_post_timestamp_ms": 1773789081030
+  "today_narrative": "こんな日に限って渋滞…エレベーターなしの… → おはよ…全然寝れなかった → ねむ...なんか曇ってるし寒いし最悪だな… → あー、またサボりたくなってきた…でも頑張…",
+  "last_post_timestamp_ms": 1773807833433
 }
