@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "またあさがきたね…😪 こうやって一日がはやくすぎると、なんかほんとにさみしい気持ちになる…花粉もすごいし、春っていいけど、なんか切ないなぁ。",
+      "slot": "casual",
+      "timestamp": "2026-03-19 19:07:06",
+      "hasImage": false
+    },
+    {
       "text": "ふと思う…台車押しながら帰る道、ほんとに誰かと一緒に帰りたいなぁ…配送ルートが重すぎて、イライラ…ああ、もう何時だ…😔",
       "slot": "commute",
       "timestamp": "2026-03-19 18:18:13",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-03-19 12:58:59",
       "hasImage": false
-    },
-    {
-      "text": "最近、なんか間に合わない気がしてモヤモヤ…。桜も咲き始めてるのに、心はどこで迷ってるのかな…🌸 ああ、花粉も気になるし、早く春を楽しみたいのに。",
-      "slot": "casual",
-      "timestamp": "2026-03-19 12:41:31",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -57,25 +57,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "commute"
+    "commute",
+    "casual"
   ],
-  "today_post_count": 12,
+  "today_post_count": 13,
   "today_goodnight_posted": true,
-  "month_total_posts": 221,
+  "month_total_posts": 222,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-19",
-  "last_post_time": "18:18:13",
+  "last_post_time": "19:07:06",
   "ng_retry_count": 89,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-19 18:18:13",
+  "updated_at": "2026-03-19 19:07:06",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "おやすみ…今日も133件も配達したのに疲… → もうダメ、寝る… → もぉ、あさだよ…😴 → 帰り道、台車押しながらふと思う…誰かと一… → 配達終わって、帰り道の小雨がちょっと心に… → 最近、なんか間に合わない気がしてモヤモヤ… → ああ、今日もなんだかさみしいな…😔 暖… → さっきの花粉のことだけど…今日の配達もま… → もう少しで帰れる…けどさ、置き配してたら… → やっぱり軽バンの運転ってしんどい…😩 … → そんなこと言っても、ふと思うよね…誰かと… → ふと思う…台車押しながら帰る道、ほんとに…",
-  "last_post_timestamp_ms": 1773911893241
+  "today_narrative": "おやすみ…今日も133件も配達したのに疲… → もうダメ、寝る… → もぉ、あさだよ…😴 → 帰り道、台車押しながらふと思う…誰かと一… → 配達終わって、帰り道の小雨がちょっと心に… → 最近、なんか間に合わない気がしてモヤモヤ… → ああ、今日もなんだかさみしいな…😔 暖… → さっきの花粉のことだけど…今日の配達もま… → もう少しで帰れる…けどさ、置き配してたら… → やっぱり軽バンの運転ってしんどい…😩 … → そんなこと言っても、ふと思うよね…誰かと… → ふと思う…台車押しながら帰る道、ほんとに… → またあさがきたね…😪 こうやって一日が…",
+  "last_post_timestamp_ms": 1773914826810
 }
