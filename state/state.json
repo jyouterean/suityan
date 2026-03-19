@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "ふと思う…台車押しながら帰る道、ほんとに誰かと一緒に帰りたいなぁ…配送ルートが重すぎて、イライラ…ああ、もう何時だ…😔",
+      "slot": "commute",
+      "timestamp": "2026-03-19 18:18:13",
+      "hasImage": false
+    },
+    {
       "text": "そんなこと言っても、ふと思うよね…誰かと仕事の話とかして、褒めてもらえたら、もう少し頑張れるんじゃないかな…😩 ルート組みも大変だし、最近はさみしさが増してる気がする…",
       "slot": "delivery",
       "timestamp": "2026-03-19 16:42:03",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-03-19 12:41:31",
       "hasImage": false
-    },
-    {
-      "text": "配達終わって、帰り道の小雨がちょっと心に染みる…台車押しながら誰かに褒めてもらいたいなぁって思ってる。あー、もうちょっと誰かとお話したいよ…😔",
-      "slot": "delivery",
-      "timestamp": "2026-03-19 09:18:28",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "delivery"
+    "delivery",
+    "commute"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": true,
-  "month_total_posts": 220,
+  "month_total_posts": 221,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-19",
-  "last_post_time": "16:42:03",
+  "last_post_time": "18:18:13",
   "ng_retry_count": 89,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-19 16:42:03",
+  "updated_at": "2026-03-19 18:18:13",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "おやすみ…今日も133件も配達したのに疲… → もうダメ、寝る… → もぉ、あさだよ…😴 → 帰り道、台車押しながらふと思う…誰かと一… → 配達終わって、帰り道の小雨がちょっと心に… → 最近、なんか間に合わない気がしてモヤモヤ… → ああ、今日もなんだかさみしいな…😔 暖… → さっきの花粉のことだけど…今日の配達もま… → もう少しで帰れる…けどさ、置き配してたら… → やっぱり軽バンの運転ってしんどい…😩 … → そんなこと言っても、ふと思うよね…誰かと…",
-  "last_post_timestamp_ms": 1773906123758
+  "today_narrative": "おやすみ…今日も133件も配達したのに疲… → もうダメ、寝る… → もぉ、あさだよ…😴 → 帰り道、台車押しながらふと思う…誰かと一… → 配達終わって、帰り道の小雨がちょっと心に… → 最近、なんか間に合わない気がしてモヤモヤ… → ああ、今日もなんだかさみしいな…😔 暖… → さっきの花粉のことだけど…今日の配達もま… → もう少しで帰れる…けどさ、置き配してたら… → やっぱり軽バンの運転ってしんどい…😩 … → そんなこと言っても、ふと思うよね…誰かと… → ふと思う…台車押しながら帰る道、ほんとに…",
+  "last_post_timestamp_ms": 1773911893241
 }
