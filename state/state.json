@@ -1,7 +1,13 @@
 {
-  "mood": "frustrated",
-  "energy": 30,
+  "mood": "melancholy",
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "最近、なんか間に合わない気がしてモヤモヤ…。桜も咲き始めてるのに、心はどこで迷ってるのかな…🌸 ああ、花粉も気になるし、早く春を楽しみたいのに。",
+      "slot": "casual",
+      "timestamp": "2026-03-19 12:41:31",
+      "hasImage": false
+    },
     {
       "text": "配達終わって、帰り道の小雨がちょっと心に染みる…台車押しながら誰かに褒めてもらいたいなぁって思ってる。あー、もうちょっと誰かとお話したいよ…😔",
       "slot": "delivery",
@@ -37,12 +43,6 @@
       "slot": "night_ero",
       "timestamp": "2026-03-18 22:12:55",
       "hasImage": false
-    },
-    {
-      "text": "またトイレ行きたくなっちゃった…配達件数まだ18件もあるのに、しんどいよ…ねぇ、誰か一緒にいてほしいなぁ…😔",
-      "slot": "night_ero",
-      "timestamp": "2026-03-18 21:15:51",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "simple_goodnight",
     "morning",
     "commute",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": true,
-  "month_total_posts": 214,
+  "month_total_posts": 215,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-19",
-  "last_post_time": "09:18:28",
+  "last_post_time": "12:41:31",
   "ng_retry_count": 87,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-19 09:18:28",
+  "updated_at": "2026-03-19 12:41:31",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "おやすみ…今日も133件も配達したのに疲… → もうダメ、寝る… → もぉ、あさだよ…😴 → 帰り道、台車押しながらふと思う…誰かと一… → 配達終わって、帰り道の小雨がちょっと心に…",
-  "last_post_timestamp_ms": 1773879508075
+  "today_narrative": "おやすみ…今日も133件も配達したのに疲… → もうダメ、寝る… → もぉ、あさだよ…😴 → 帰り道、台車押しながらふと思う…誰かと一… → 配達終わって、帰り道の小雨がちょっと心に… → 最近、なんか間に合わない気がしてモヤモヤ…",
+  "last_post_timestamp_ms": 1773891691965
 }
