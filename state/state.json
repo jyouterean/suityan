@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "そんなこと言っても、ふと思うよね…誰かと仕事の話とかして、褒めてもらえたら、もう少し頑張れるんじゃないかな…😩 ルート組みも大変だし、最近はさみしさが増してる気がする…",
+      "slot": "delivery",
+      "timestamp": "2026-03-19 16:42:03",
+      "hasImage": false
+    },
+    {
       "text": "やっぱり軽バンの運転ってしんどい…😩 人の多いとこ行くとやたら疲れるし、荷物も重たいし…あー、誰かに会いたいなぁ。お客さんとの会話は楽しいけど、やっぱり孤独感が消えない…😔",
       "slot": "delivery",
       "timestamp": "2026-03-19 15:34:41",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-03-19 09:18:28",
       "hasImage": false
-    },
-    {
-      "text": "帰り道、台車押しながらふと思う…誰かと一緒に帰りたいよね…😞雨も降ってきたし、もう帰りたくないかも…虚しいな…",
-      "slot": "commute",
-      "timestamp": "2026-03-19 08:24:00",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -55,25 +55,26 @@
     "casual",
     "delivery",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 10,
+  "today_post_count": 11,
   "today_goodnight_posted": true,
-  "month_total_posts": 219,
+  "month_total_posts": 220,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-19",
-  "last_post_time": "15:34:41",
-  "ng_retry_count": 88,
+  "last_post_time": "16:42:03",
+  "ng_retry_count": 89,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-19 15:34:41",
+  "updated_at": "2026-03-19 16:42:03",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "おやすみ…今日も133件も配達したのに疲… → もうダメ、寝る… → もぉ、あさだよ…😴 → 帰り道、台車押しながらふと思う…誰かと一… → 配達終わって、帰り道の小雨がちょっと心に… → 最近、なんか間に合わない気がしてモヤモヤ… → ああ、今日もなんだかさみしいな…😔 暖… → さっきの花粉のことだけど…今日の配達もま… → もう少しで帰れる…けどさ、置き配してたら… → やっぱり軽バンの運転ってしんどい…😩 …",
-  "last_post_timestamp_ms": 1773902081049
+  "today_narrative": "おやすみ…今日も133件も配達したのに疲… → もうダメ、寝る… → もぉ、あさだよ…😴 → 帰り道、台車押しながらふと思う…誰かと一… → 配達終わって、帰り道の小雨がちょっと心に… → 最近、なんか間に合わない気がしてモヤモヤ… → ああ、今日もなんだかさみしいな…😔 暖… → さっきの花粉のことだけど…今日の配達もま… → もう少しで帰れる…けどさ、置き配してたら… → やっぱり軽バンの運転ってしんどい…😩 … → そんなこと言っても、ふと思うよね…誰かと…",
+  "last_post_timestamp_ms": 1773906123758
 }
