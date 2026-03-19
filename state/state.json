@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "さっきの花粉のことだけど…今日の配達もまた大変だった💦体力残ってないし、もう何も考えたくないなぁ…",
+      "slot": "delivery",
+      "timestamp": "2026-03-19 14:12:50",
+      "hasImage": false
+    },
+    {
       "text": "ああ、今日もなんだかさみしいな…😔 暖かくなってきたけど、花粉がすごくて…外に出るのがなんか憂鬱…でもお花見とかしたいなぁ…",
       "slot": "casual",
       "timestamp": "2026-03-19 12:58:59",
@@ -37,12 +43,6 @@
       "slot": "simple_goodnight",
       "timestamp": "2026-03-19 00:52:08",
       "hasImage": false
-    },
-    {
-      "text": "おやすみ…今日も133件も配達したのに疲れちゃった…花粉もひどくて眠れないかも…誰かかまってよ…もう少し頑張ってみようかな…いや関係ないか…",
-      "slot": "goodnight",
-      "timestamp": "2026-03-19 00:08:37",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "commute",
     "delivery",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": true,
-  "month_total_posts": 216,
+  "month_total_posts": 217,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-19",
-  "last_post_time": "12:58:59",
+  "last_post_time": "14:12:50",
   "ng_retry_count": 87,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-19 12:58:59",
+  "updated_at": "2026-03-19 14:12:50",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "おやすみ…今日も133件も配達したのに疲… → もうダメ、寝る… → もぉ、あさだよ…😴 → 帰り道、台車押しながらふと思う…誰かと一… → 配達終わって、帰り道の小雨がちょっと心に… → 最近、なんか間に合わない気がしてモヤモヤ… → ああ、今日もなんだかさみしいな…😔 暖…",
-  "last_post_timestamp_ms": 1773892739709
+  "today_narrative": "おやすみ…今日も133件も配達したのに疲… → もうダメ、寝る… → もぉ、あさだよ…😴 → 帰り道、台車押しながらふと思う…誰かと一… → 配達終わって、帰り道の小雨がちょっと心に… → 最近、なんか間に合わない気がしてモヤモヤ… → ああ、今日もなんだかさみしいな…😔 暖… → さっきの花粉のことだけど…今日の配達もま…",
+  "last_post_timestamp_ms": 1773897170473
 }
