@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 10,
+  "mood": "lonely",
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "今さ、ほんとに誰かに甘えたい気分なんだ…💭おしゃべりしてもいい？少しでも一緒にいてくれたら嬉しいなぁ…ねぇ、かまって〜😢",
+      "slot": "simple_goodnight",
+      "timestamp": "2026-03-20 00:37:32",
+      "hasImage": false
+    },
     {
       "text": "なんかまたさみしい気持ち…ほんとに誰かと話したいなぁ…🌧️最近どうしても心がしんどくて…春なのに、花粉だけじゃなくて、重い気持ちが…めっちゃつらい…😢",
       "slot": "casual",
@@ -37,47 +43,28 @@
       "slot": "delivery",
       "timestamp": "2026-03-19 14:48:30",
       "hasImage": false
-    },
-    {
-      "text": "さっきの花粉のことだけど…今日の配達もまた大変だった💦体力残ってないし、もう何も考えたくないなぁ…",
-      "slot": "delivery",
-      "timestamp": "2026-03-19 14:12:50",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight",
-    "simple_goodnight",
-    "morning",
-    "commute",
-    "delivery",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery",
-    "delivery",
-    "commute",
-    "casual",
-    "casual"
+    "simple_goodnight"
   ],
-  "today_post_count": 14,
-  "today_goodnight_posted": true,
-  "month_total_posts": 223,
+  "today_post_count": 1,
+  "today_goodnight_posted": false,
+  "month_total_posts": 224,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-03-19",
-  "last_post_time": "20:48:58",
+  "last_post_date": "2026-03-20",
+  "last_post_time": "00:37:32",
   "ng_retry_count": 89,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-19 20:48:58",
+  "updated_at": "2026-03-20 00:37:32",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": true,
+  "today_morning_posted": false,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "おやすみ…今日も133件も配達したのに疲… → もうダメ、寝る… → もぉ、あさだよ…😴 → 帰り道、台車押しながらふと思う…誰かと一… → 配達終わって、帰り道の小雨がちょっと心に… → 最近、なんか間に合わない気がしてモヤモヤ… → ああ、今日もなんだかさみしいな…😔 暖… → さっきの花粉のことだけど…今日の配達もま… → もう少しで帰れる…けどさ、置き配してたら… → やっぱり軽バンの運転ってしんどい…😩 … → そんなこと言っても、ふと思うよね…誰かと… → ふと思う…台車押しながら帰る道、ほんとに… → またあさがきたね…😪 こうやって一日が… → なんかまたさみしい気持ち…ほんとに誰かと…",
-  "last_post_timestamp_ms": 1773920938987
+  "today_narrative": "今さ、ほんとに誰かに甘えたい気分なんだ……",
+  "last_post_timestamp_ms": 1773934652942
 }
