@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "また配達終わって、ほんと疲れた…あー、なんか誰かに甘えたいなぁ。頭も痛いし、花粉もやばいし……明日もまだ仕事だし、気力わかないよ…😩なんかさ、誰かお話ししたい…",
+      "slot": "goodnight",
+      "timestamp": "2026-03-20 23:12:38",
+      "hasImage": false
+    },
+    {
       "text": "なんか、エレベーターの故障…ほんとにむり…1階から上がれない…誰か助けてほしい…はいたつも、もう疲れちゃったし、誰かに会いたい…💧",
       "slot": "night_ero",
       "timestamp": "2026-03-20 21:52:40",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-03-20 15:15:26",
       "hasImage": false
-    },
-    {
-      "text": "その後、インターホン押すときの緊張感がほんと…誰かに会いたい気分…誰もいないのが余計に辛い…😔 あと少しで今日の配達終わるけど元気出ないなぁ…やっぱ、花粉も影響あるよね…",
-      "slot": "delivery",
-      "timestamp": "2026-03-20 14:43:34",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -58,25 +58,26 @@
     "delivery",
     "casual",
     "casual",
-    "night_ero"
+    "night_ero",
+    "goodnight"
   ],
-  "today_post_count": 13,
-  "today_goodnight_posted": false,
-  "month_total_posts": 236,
+  "today_post_count": 14,
+  "today_goodnight_posted": true,
+  "month_total_posts": 237,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-20",
-  "last_post_time": "21:52:40",
+  "last_post_time": "23:12:38",
   "ng_retry_count": 90,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-20 21:52:40",
+  "updated_at": "2026-03-20 23:12:38",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "今さ、ほんとに誰かに甘えたい気分なんだ…… → あさ、なんか…まだ夢の中… → あー、エレベーター故障ってほんとむり…1… → この曇り空のせいでなんか、気持ちも曇りが… → てか、今日は仕事もなんか疲れた…ちゃんと… → ほんと、今日の天気どうにかならないかな…… → その後、インターホン押すときの緊張感がほ… → あーもう、ほんとにしんど…ルート組みの計… → あー、ほんと誰かに会いたい…もう配達しん… → もう花粉のせいで頭がぐるぐる…なんかまだ… → あーもう、ほんとに疲れた…なんか何もやる… → あー、なんかさ…ほんとに誰かに甘えたくな… → なんか、エレベーターの故障…ほんとにむり…",
-  "last_post_timestamp_ms": 1774011160763
+  "today_narrative": "今さ、ほんとに誰かに甘えたい気分なんだ…… → あさ、なんか…まだ夢の中… → あー、エレベーター故障ってほんとむり…1… → この曇り空のせいでなんか、気持ちも曇りが… → てか、今日は仕事もなんか疲れた…ちゃんと… → ほんと、今日の天気どうにかならないかな…… → その後、インターホン押すときの緊張感がほ… → あーもう、ほんとにしんど…ルート組みの計… → あー、ほんと誰かに会いたい…もう配達しん… → もう花粉のせいで頭がぐるぐる…なんかまだ… → あーもう、ほんとに疲れた…なんか何もやる… → あー、なんかさ…ほんとに誰かに甘えたくな… → なんか、エレベーターの故障…ほんとにむり… → また配達終わって、ほんと疲れた…あー、な…",
+  "last_post_timestamp_ms": 1774015958840
 }
