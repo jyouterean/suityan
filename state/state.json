@@ -1,7 +1,13 @@
 {
   "mood": "lonely",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "この曇り空のせいでなんか、気持ちも曇りがち…でもそろそろ桜も見たいなぁ🌸新生活に期待したいけど、ちょっと寂しい気持ちと戦ってる…どこかに行きたいなぁ…誰か遊んで〜！",
+      "slot": "casual",
+      "timestamp": "2026-03-20 12:16:46",
+      "hasImage": false
+    },
     {
       "text": "あー、エレベーター故障ってほんとむり…11Fまで階段で上がって疲れた😩 お客さんとのやりとり、ちょっと楽しかったけど、もっと誰かとお喋りしたいなぁ…。桜咲いてるのに、私の心はまだ冬だわ…",
       "slot": "delivery",
@@ -37,36 +43,31 @@
       "slot": "commute",
       "timestamp": "2026-03-19 18:18:13",
       "hasImage": false
-    },
-    {
-      "text": "そんなこと言っても、ふと思うよね…誰かと仕事の話とかして、褒めてもらえたら、もう少し頑張れるんじゃないかな…😩 ルート組みも大変だし、最近はさみしさが増してる気がする…",
-      "slot": "delivery",
-      "timestamp": "2026-03-19 16:42:03",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
     "morning",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": false,
-  "month_total_posts": 226,
+  "month_total_posts": 227,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-20",
-  "last_post_time": "07:58:06",
+  "last_post_time": "12:16:46",
   "ng_retry_count": 89,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-20 09:09:36",
+  "updated_at": "2026-03-20 12:16:46",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "今さ、ほんとに誰かに甘えたい気分なんだ…… → あさ、なんか…まだ夢の中… → あー、エレベーター故障ってほんとむり…1…",
-  "last_post_timestamp_ms": 1773961086037
+  "today_narrative": "今さ、ほんとに誰かに甘えたい気分なんだ…… → あさ、なんか…まだ夢の中… → あー、エレベーター故障ってほんとむり…1… → この曇り空のせいでなんか、気持ちも曇りが…",
+  "last_post_timestamp_ms": 1773976606657
 }
