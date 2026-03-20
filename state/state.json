@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 70,
+  "mood": "tired",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "おはよう…今日も眠いなぁ",
+      "slot": "morning",
+      "timestamp": "2026-03-21 06:59:20",
+      "hasImage": false
+    },
     {
       "text": "土曜日なのに、渋滞で段ボール運び大変…ほんと疲れた、誰か甘えさせてほしい…まだ仕事終わらないけど、明日も頑張るからね…✨",
       "slot": "goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-03-20 17:52:32",
       "hasImage": false
-    },
-    {
-      "text": "あー、ほんと誰かに会いたい…もう配達しんどすぎて、気持ちもどんより。春なのにこの曇り空、やっぱ花粉のせいかな？エレベーター故障も地味に響く…もう何も考えたくないや😩",
-      "slot": "delivery",
-      "timestamp": "2026-03-20 16:55:30",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight"
+    "goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": true,
-  "month_total_posts": 238,
+  "month_total_posts": 239,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-21",
-  "last_post_time": "00:16:12",
+  "last_post_time": "06:59:20",
   "ng_retry_count": 90,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-21 00:16:12",
+  "updated_at": "2026-03-21 06:59:20",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 8,
-  "today_narrative": "土曜日なのに、渋滞で段ボール運び大変…ほ…",
-  "last_post_timestamp_ms": 1774019772554
+  "today_narrative": "土曜日なのに、渋滞で段ボール運び大変…ほ… → おはよう…今日も眠いなぁ",
+  "last_post_timestamp_ms": 1774043960986
 }
