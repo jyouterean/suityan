@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "もう花粉のせいで頭がぐるぐる…なんかまだ夢の中にいる気分…。あー、マンションのエレベーターも故障ってほんとむり…って誰に言ってんだろ。126件もはいたつしたのに、全然スッキリしないや。ほんと、しんど。",
+      "slot": "delivery",
+      "timestamp": "2026-03-20 17:52:32",
+      "hasImage": false
+    },
+    {
       "text": "あー、ほんと誰かに会いたい…もう配達しんどすぎて、気持ちもどんより。春なのにこの曇り空、やっぱ花粉のせいかな？エレベーター故障も地味に響く…もう何も考えたくないや😩",
       "slot": "delivery",
       "timestamp": "2026-03-20 16:55:30",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-03-20 12:16:46",
       "hasImage": false
-    },
-    {
-      "text": "あー、エレベーター故障ってほんとむり…11Fまで階段で上がって疲れた😩 お客さんとのやりとり、ちょっと楽しかったけど、もっと誰かとお喋りしたいなぁ…。桜咲いてるのに、私の心はまだ冬だわ…",
-      "slot": "delivery",
-      "timestamp": "2026-03-20 07:58:06",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -54,25 +54,26 @@
     "casual",
     "delivery",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 9,
+  "today_post_count": 10,
   "today_goodnight_posted": false,
-  "month_total_posts": 232,
+  "month_total_posts": 233,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-20",
-  "last_post_time": "16:55:30",
+  "last_post_time": "17:52:32",
   "ng_retry_count": 90,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-20 16:55:30",
+  "updated_at": "2026-03-20 17:52:32",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "今さ、ほんとに誰かに甘えたい気分なんだ…… → あさ、なんか…まだ夢の中… → あー、エレベーター故障ってほんとむり…1… → この曇り空のせいでなんか、気持ちも曇りが… → てか、今日は仕事もなんか疲れた…ちゃんと… → ほんと、今日の天気どうにかならないかな…… → その後、インターホン押すときの緊張感がほ… → あーもう、ほんとにしんど…ルート組みの計… → あー、ほんと誰かに会いたい…もう配達しん…",
-  "last_post_timestamp_ms": 1773993330574
+  "today_narrative": "今さ、ほんとに誰かに甘えたい気分なんだ…… → あさ、なんか…まだ夢の中… → あー、エレベーター故障ってほんとむり…1… → この曇り空のせいでなんか、気持ちも曇りが… → てか、今日は仕事もなんか疲れた…ちゃんと… → ほんと、今日の天気どうにかならないかな…… → その後、インターホン押すときの緊張感がほ… → あーもう、ほんとにしんど…ルート組みの計… → あー、ほんと誰かに会いたい…もう配達しん… → もう花粉のせいで頭がぐるぐる…なんかまだ…",
+  "last_post_timestamp_ms": 1773996752913
 }
