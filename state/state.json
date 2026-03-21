@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 50,
+  "mood": "lonely",
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "再配達…ほんと面倒…誰かに会いたいなぁ…褒めてほしい…あ、さっきのお客さん、ありがとうって言ってくれた…嬉しかったけど、ふと寂しい気持ち…あー、缶コーヒーでも飲もうかな☕️",
+      "slot": "delivery",
+      "timestamp": "2026-03-21 09:14:34",
+      "hasImage": false
+    },
     {
       "text": "眠い…けど、今日も残り28件かぁ。まずは台車押して…体が重いなぁ、誰か褒めてほしい...🌸仕事中の妄想、イケメンのお客さんと話したい！っと、現実逃避😅",
       "slot": "delivery",
@@ -37,36 +43,31 @@
       "slot": "casual",
       "timestamp": "2026-03-20 20:46:42",
       "hasImage": false
-    },
-    {
-      "text": "あーもう、ほんとに疲れた…なんか何もやる気おきないし、ただ早く帰りたいなぁ。もう体力残ってないし、終わったら寝たい…😩",
-      "slot": "casual",
-      "timestamp": "2026-03-20 19:22:55",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
     "morning",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": true,
-  "month_total_posts": 240,
+  "month_total_posts": 241,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-21",
-  "last_post_time": "07:58:46",
+  "last_post_time": "09:14:34",
   "ng_retry_count": 90,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-21 07:58:46",
+  "updated_at": "2026-03-21 09:14:34",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 8,
-  "today_narrative": "土曜日なのに、渋滞で段ボール運び大変…ほ… → おはよう…今日も眠いなぁ → 眠い…けど、今日も残り28件かぁ。まずは…",
-  "last_post_timestamp_ms": 1774047526294
+  "today_narrative": "土曜日なのに、渋滞で段ボール運び大変…ほ… → おはよう…今日も眠いなぁ → 眠い…けど、今日も残り28件かぁ。まずは… → 再配達…ほんと面倒…誰かに会いたいなぁ……",
+  "last_post_timestamp_ms": 1774052074666
 }
