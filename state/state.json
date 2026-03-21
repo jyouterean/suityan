@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 70,
+  "mood": "lonely",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "帰り道…やっぱり一人は寂しいなぁ。さっき2Fまで階段上がって、足も疲れた…配達ルートも決まってるのに、誰かと帰りたい…🌸なんかいいことないかな…（誰得）",
+      "slot": "commute",
+      "timestamp": "2026-03-22 08:07:00",
+      "hasImage": false
+    },
     {
       "text": "あさ…めざましこえ…",
       "slot": "morning",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-03-21 09:14:34",
       "hasImage": false
-    },
-    {
-      "text": "眠い…けど、今日も残り28件かぁ。まずは台車押して…体が重いなぁ、誰か褒めてほしい...🌸仕事中の妄想、イケメンのお客さんと話したい！っと、現実逃避😅",
-      "slot": "delivery",
-      "timestamp": "2026-03-21 07:58:46",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "morning"
+    "morning",
+    "commute"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 246,
+  "month_total_posts": 247,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-22",
-  "last_post_time": "06:39:24",
+  "last_post_time": "08:07:00",
   "ng_retry_count": 92,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-22 06:39:24",
+  "updated_at": "2026-03-22 08:07:00",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "あさ…めざましこえ…",
-  "last_post_timestamp_ms": 1774129164103
+  "today_narrative": "あさ…めざましこえ… → 帰り道…やっぱり一人は寂しいなぁ。さっき…",
+  "last_post_timestamp_ms": 1774134420132
 }
