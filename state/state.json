@@ -1,7 +1,13 @@
 {
-  "mood": "frustrated",
-  "energy": 20,
+  "mood": "tired",
+  "energy": 10,
   "last_posts": [
+    {
+      "text": "なんか、配達の合間にこうやって呟くのもいいかも…でもやっぱり誰かに会いたいなぁ 置き配とか面倒な時もあるけど、たまには会話したくなる…眠いけど、今はいい天気だからちょっとウキウキ…",
+      "slot": "delivery",
+      "timestamp": "2026-03-21 14:48:44",
+      "hasImage": false
+    },
     {
       "text": "土曜なのに、渋滞で段ボール運び大変…ほ…いまいちやる気出ないなぁ。お昼のコンビニご飯、何にしようかな…新生活の準備に追われてる友達がうらやましい😅💭",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "goodnight",
       "timestamp": "2026-03-21 00:16:12",
       "hasImage": false
-    },
-    {
-      "text": "また配達終わって、ほんと疲れた…あー、なんか誰かに甘えたいなぁ。頭も痛いし、花粉もやばいし……明日もまだ仕事だし、気力わかないよ…😩なんかさ、誰かお話ししたい…",
-      "slot": "goodnight",
-      "timestamp": "2026-03-20 23:12:38",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -51,25 +51,26 @@
     "delivery",
     "delivery",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 6,
+  "today_post_count": 7,
   "today_goodnight_posted": true,
-  "month_total_posts": 243,
+  "month_total_posts": 244,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-21",
-  "last_post_time": "13:36:06",
-  "ng_retry_count": 90,
+  "last_post_time": "14:48:44",
+  "ng_retry_count": 91,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-21 13:36:06",
+  "updated_at": "2026-03-21 14:48:44",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 8,
-  "today_narrative": "土曜日なのに、渋滞で段ボール運び大変…ほ… → おはよう…今日も眠いなぁ → 眠い…けど、今日も残り28件かぁ。まずは… → 再配達…ほんと面倒…誰かに会いたいなぁ…… → さっき、渋滞でイライラ…でも天気いいから… → 土曜なのに、渋滞で段ボール運び大変…ほ……",
-  "last_post_timestamp_ms": 1774067766405
+  "today_narrative": "土曜日なのに、渋滞で段ボール運び大変…ほ… → おはよう…今日も眠いなぁ → 眠い…けど、今日も残り28件かぁ。まずは… → 再配達…ほんと面倒…誰かに会いたいなぁ…… → さっき、渋滞でイライラ…でも天気いいから… → 土曜なのに、渋滞で段ボール運び大変…ほ…… → なんか、配達の合間にこうやって呟くのもい…",
+  "last_post_timestamp_ms": 1774072124874
 }
