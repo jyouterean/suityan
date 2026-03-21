@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 40,
+  "mood": "tired",
+  "energy": 30,
   "last_posts": [
+    {
+      "text": "さっき、渋滞でイライラ…でも天気いいから外出たいなぁ…桜も見たいし、誰かとお花見したい…😔✨",
+      "slot": "casual",
+      "timestamp": "2026-03-21 12:33:21",
+      "hasImage": false
+    },
     {
       "text": "再配達…ほんと面倒…誰かに会いたいなぁ…褒めてほしい…あ、さっきのお客さん、ありがとうって言ってくれた…嬉しかったけど、ふと寂しい気持ち…あー、缶コーヒーでも飲もうかな☕️",
       "slot": "delivery",
@@ -37,37 +43,32 @@
       "slot": "night_ero",
       "timestamp": "2026-03-20 21:52:40",
       "hasImage": false
-    },
-    {
-      "text": "あー、なんかさ…ほんとに誰かに甘えたくなってきちゃった…🌧️最近の気持ち、まるで曇り空みたい…誰か話しかけてくれたらいいのに…ねぇ、私ってどうしてこんなに孤独なのかな…",
-      "slot": "casual",
-      "timestamp": "2026-03-20 20:46:42",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
     "morning",
     "delivery",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 4,
+  "today_post_count": 5,
   "today_goodnight_posted": true,
-  "month_total_posts": 241,
+  "month_total_posts": 242,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-21",
-  "last_post_time": "09:14:34",
+  "last_post_time": "12:33:21",
   "ng_retry_count": 90,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-21 09:14:34",
+  "updated_at": "2026-03-21 12:33:21",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 8,
-  "today_narrative": "土曜日なのに、渋滞で段ボール運び大変…ほ… → おはよう…今日も眠いなぁ → 眠い…けど、今日も残り28件かぁ。まずは… → 再配達…ほんと面倒…誰かに会いたいなぁ……",
-  "last_post_timestamp_ms": 1774052074666
+  "today_narrative": "土曜日なのに、渋滞で段ボール運び大変…ほ… → おはよう…今日も眠いなぁ → 眠い…けど、今日も残り28件かぁ。まずは… → 再配達…ほんと面倒…誰かに会いたいなぁ…… → さっき、渋滞でイライラ…でも天気いいから…",
+  "last_post_timestamp_ms": 1774064001623
 }
