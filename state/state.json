@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 10,
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "あさ…めざましこえ…",
+      "slot": "morning",
+      "timestamp": "2026-03-22 06:39:24",
+      "hasImage": false
+    },
     {
       "text": "やっとおわった…でも、残りの荷物まだあるし…しんどい…エレベーターなしで運ぶのほんと辛い…誰か褒めてくれないかなぁ…なんか、こういう日ってほんと会いたくなる…#はいたつ",
       "slot": "delivery",
@@ -37,41 +43,28 @@
       "slot": "delivery",
       "timestamp": "2026-03-21 07:58:46",
       "hasImage": false
-    },
-    {
-      "text": "おはよう…今日も眠いなぁ",
-      "slot": "morning",
-      "timestamp": "2026-03-21 06:59:20",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight",
-    "morning",
-    "delivery",
-    "delivery",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery"
+    "morning"
   ],
-  "today_post_count": 8,
-  "today_goodnight_posted": true,
-  "month_total_posts": 245,
+  "today_post_count": 1,
+  "today_goodnight_posted": false,
+  "month_total_posts": 246,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-03-21",
-  "last_post_time": "15:18:19",
+  "last_post_date": "2026-03-22",
+  "last_post_time": "06:39:24",
   "ng_retry_count": 92,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-21 15:18:19",
+  "updated_at": "2026-03-22 06:39:24",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
-  "today_max_posts": 8,
-  "today_narrative": "土曜日なのに、渋滞で段ボール運び大変…ほ… → おはよう…今日も眠いなぁ → 眠い…けど、今日も残り28件かぁ。まずは… → 再配達…ほんと面倒…誰かに会いたいなぁ…… → さっき、渋滞でイライラ…でも天気いいから… → 土曜なのに、渋滞で段ボール運び大変…ほ…… → なんか、配達の合間にこうやって呟くのもい… → やっとおわった…でも、残りの荷物まだある…",
-  "last_post_timestamp_ms": 1774073899093
+  "today_max_posts": 15,
+  "today_narrative": "あさ…めざましこえ…",
+  "last_post_timestamp_ms": 1774129164103
 }
