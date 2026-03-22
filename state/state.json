@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 70,
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "さっきの…うん、まだ眠い…😪朝ごはんどうしよ…むりだ…",
+      "slot": "morning",
+      "timestamp": "2026-03-23 06:55:51",
+      "hasImage": false
+    },
     {
       "text": "もう無理、寝るわ…😴",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-03-22 17:45:38",
       "hasImage": false
-    },
-    {
-      "text": "あー、花粉のせいで鼻ムズムズ…桜も綺麗だけど、外出るのしんどいなぁ😷お届け完了したら、コインランドリー寄りたいけど、疲れたし…やっぱり一人は寂しいなぁ。誰かと話したいな。",
-      "slot": "delivery",
-      "timestamp": "2026-03-22 16:20:22",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 259,
+  "month_total_posts": 260,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-23",
-  "last_post_time": "00:03:12",
+  "last_post_time": "06:55:51",
   "ng_retry_count": 93,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-23 00:03:12",
+  "updated_at": "2026-03-23 06:55:51",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "もう無理、寝るわ…😴",
-  "last_post_timestamp_ms": 1774191792141
+  "today_narrative": "もう無理、寝るわ…😴 → さっきの…うん、まだ眠い…😪朝ごはんど…",
+  "last_post_timestamp_ms": 1774216551440
 }
