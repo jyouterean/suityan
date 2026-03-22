@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あー、ほんとしんどい…不在票ばっかでさ、階段も3Fまであがったし…もう体力ゼロだよ…とにかく、早く帰りたいなぁ…それにしても、明日も配達79件とか…やるこた多いけど…ほんと、またゆっくり寝たい…",
+      "slot": "goodnight",
+      "timestamp": "2026-03-22 23:05:29",
+      "hasImage": false
+    },
+    {
       "text": "あー、桜の花びら舞ってるの見ると…なんか切なくなるなぁ…配達の合間に、ちょっとだけあったかい風感じたいなぁ…誰か一緒にいてほしいなぁ…",
       "slot": "night_ero",
       "timestamp": "2026-03-22 21:31:35",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-03-22 15:32:15",
       "hasImage": false
-    },
-    {
-      "text": "今日の配達…不在票、多いなぁ。階段3Fまで上がるの、ほんとダルい…そんな時、誰かに褒めてもらいたい気分だよ…あぁ、誰か会いたいなぁ。桜の季節なのに、まだ一人だし…。",
-      "slot": "delivery",
-      "timestamp": "2026-03-22 14:42:25",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -57,25 +57,26 @@
     "delivery",
     "casual",
     "casual",
-    "night_ero"
+    "night_ero",
+    "goodnight"
   ],
-  "today_post_count": 12,
-  "today_goodnight_posted": false,
-  "month_total_posts": 257,
+  "today_post_count": 13,
+  "today_goodnight_posted": true,
+  "month_total_posts": 258,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-22",
-  "last_post_time": "21:31:35",
+  "last_post_time": "23:05:29",
   "ng_retry_count": 93,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-22 21:31:35",
+  "updated_at": "2026-03-22 23:05:29",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 15,
-  "today_narrative": "あさ…めざましこえ… → 帰り道…やっぱり一人は寂しいなぁ。さっき… → また昼寝したいなぁ…天気いいのに全然寝れ… → 花粉もあって、鼻ムズムズ…外の桜がすごく… → まだまだ配達件数79件…今日は軽バンで移… → 今日の配達…不在票、多いなぁ。階段3Fま… → あーもう、ほんとしんどい…疲れたら家に帰… → あー、花粉のせいで鼻ムズムズ…桜も綺麗だ… → あー、ほんとしんどい…不在票ばっかでさ…… → やっぱり一人で帰るの寂しいなぁ…あーもう… → あー、また昼寝したいなぁ…ほんと、やるこ… → あー、桜の花びら舞ってるの見ると…なんか…",
-  "last_post_timestamp_ms": 1774182695519
+  "today_narrative": "あさ…めざましこえ… → 帰り道…やっぱり一人は寂しいなぁ。さっき… → また昼寝したいなぁ…天気いいのに全然寝れ… → 花粉もあって、鼻ムズムズ…外の桜がすごく… → まだまだ配達件数79件…今日は軽バンで移… → 今日の配達…不在票、多いなぁ。階段3Fま… → あーもう、ほんとしんどい…疲れたら家に帰… → あー、花粉のせいで鼻ムズムズ…桜も綺麗だ… → あー、ほんとしんどい…不在票ばっかでさ…… → やっぱり一人で帰るの寂しいなぁ…あーもう… → あー、また昼寝したいなぁ…ほんと、やるこ… → あー、桜の花びら舞ってるの見ると…なんか… → あー、ほんとしんどい…不在票ばっかでさ、…",
+  "last_post_timestamp_ms": 1774188329341
 }
