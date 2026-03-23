@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "もう無理、寝るわ…😴 さっきの配達、ほんとしんどかっ…🌀 なんか気力ゼロ…ねぇ、誰かかまってほしい…",
+      "slot": "goodnight",
+      "timestamp": "2026-03-23 23:42:09",
+      "hasImage": false
+    },
+    {
       "text": "もう、配達ルートが終わったのに…なんか気分がすっごい沈んでる…。夜の街、ちょっと孤独だなぁ…😔 だれか温もりほしい…ねぇ。いや関係ないか…",
       "slot": "night_ero",
       "timestamp": "2026-03-23 21:43:41",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-03-23 16:00:18",
       "hasImage": false
-    },
-    {
-      "text": "あー、また、荷物積み下ろしの時しんどかった…エレベーターないから、ほんと疲れるよね…😩誰かに会いたいなぁ、褒めてほしい……😴",
-      "slot": "delivery",
-      "timestamp": "2026-03-23 15:08:55",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -59,25 +59,26 @@
     "commute",
     "casual",
     "casual",
-    "night_ero"
+    "night_ero",
+    "goodnight"
   ],
-  "today_post_count": 14,
-  "today_goodnight_posted": false,
-  "month_total_posts": 272,
+  "today_post_count": 15,
+  "today_goodnight_posted": true,
+  "month_total_posts": 273,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-23",
-  "last_post_time": "21:43:41",
-  "ng_retry_count": 95,
+  "last_post_time": "23:42:09",
+  "ng_retry_count": 96,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-23 21:43:41",
+  "updated_at": "2026-03-23 23:42:09",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "もう無理、寝るわ…😴 → さっきの…うん、まだ眠い…😪朝ごはんど… → ルート組み終わって、ほんとクタクタ…。お… → もう月曜だ…ほんとだるいなー。花粉もヤバ… → あーもう、なんか雨降ってるし寒いし…😩… → もう、なんか日が短くなってきた気がする…… → あー、配達も92件終わって、もうほんとク… → あー、また、荷物積み下ろしの時しんどかっ… → もう夕方だし、さっきの配達ほんとしんどか… → もう月曜だし、ほんとだるいなー。お客さん… → もうなんか今日はずっと配達ばっかりだった… → あーもう、ホントしんどい…何もしたくない… → なんかもう、ちょっと外出たら寒いし花粉す… → もう、配達ルートが終わったのに…なんか気…",
-  "last_post_timestamp_ms": 1774269821133
+  "today_narrative": "もう無理、寝るわ…😴 → さっきの…うん、まだ眠い…😪朝ごはんど… → ルート組み終わって、ほんとクタクタ…。お… → もう月曜だ…ほんとだるいなー。花粉もヤバ… → あーもう、なんか雨降ってるし寒いし…😩… → もう、なんか日が短くなってきた気がする…… → あー、配達も92件終わって、もうほんとク… → あー、また、荷物積み下ろしの時しんどかっ… → もう夕方だし、さっきの配達ほんとしんどか… → もう月曜だし、ほんとだるいなー。お客さん… → もうなんか今日はずっと配達ばっかりだった… → あーもう、ホントしんどい…何もしたくない… → なんかもう、ちょっと外出たら寒いし花粉す… → もう、配達ルートが終わったのに…なんか気… → もう無理、寝るわ…😴 さっきの配達、ほ…",
+  "last_post_timestamp_ms": 1774276929793
 }
