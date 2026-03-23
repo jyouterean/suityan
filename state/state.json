@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "もう夕方だし、さっきの配達ほんとしんどかった…。荷物積む時、また腰痛めた気がする…😩誰か助けてほしい…お客さんも優しくないし、もう配達やりたくない…",
+      "slot": "delivery",
+      "timestamp": "2026-03-23 16:00:18",
+      "hasImage": false
+    },
+    {
       "text": "あー、また、荷物積み下ろしの時しんどかった…エレベーターないから、ほんと疲れるよね…😩誰かに会いたいなぁ、褒めてほしい……😴",
       "slot": "delivery",
       "timestamp": "2026-03-23 15:08:55",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-03-23 07:50:26",
       "hasImage": false
-    },
-    {
-      "text": "さっきの…うん、まだ眠い…😪朝ごはんどうしよ…むりだ…",
-      "slot": "morning",
-      "timestamp": "2026-03-23 06:55:51",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "casual",
     "casual",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": false,
-  "month_total_posts": 266,
+  "month_total_posts": 267,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-23",
-  "last_post_time": "15:08:55",
-  "ng_retry_count": 94,
+  "last_post_time": "16:00:18",
+  "ng_retry_count": 95,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-23 15:08:55",
+  "updated_at": "2026-03-23 16:00:18",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "もう無理、寝るわ…😴 → さっきの…うん、まだ眠い…😪朝ごはんど… → ルート組み終わって、ほんとクタクタ…。お… → もう月曜だ…ほんとだるいなー。花粉もヤバ… → あーもう、なんか雨降ってるし寒いし…😩… → もう、なんか日が短くなってきた気がする…… → あー、配達も92件終わって、もうほんとク… → あー、また、荷物積み下ろしの時しんどかっ…",
-  "last_post_timestamp_ms": 1774246135014
+  "today_narrative": "もう無理、寝るわ…😴 → さっきの…うん、まだ眠い…😪朝ごはんど… → ルート組み終わって、ほんとクタクタ…。お… → もう月曜だ…ほんとだるいなー。花粉もヤバ… → あーもう、なんか雨降ってるし寒いし…😩… → もう、なんか日が短くなってきた気がする…… → あー、配達も92件終わって、もうほんとク… → あー、また、荷物積み下ろしの時しんどかっ… → もう夕方だし、さっきの配達ほんとしんどか…",
+  "last_post_timestamp_ms": 1774249218609
 }
