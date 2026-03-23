@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 70,
+  "mood": "tired",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "おはよ…ねむういな",
+      "slot": "morning",
+      "timestamp": "2026-03-24 06:50:14",
+      "hasImage": false
+    },
     {
       "text": "てかさっきの配達、ほんともう疲れたし…😢 誰か一緒にいてくれたら、ちょっとは楽なのになぁ…かまってほしいよぉ…",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "commute",
       "timestamp": "2026-03-23 18:23:54",
       "hasImage": false
-    },
-    {
-      "text": "もう月曜だし、ほんとだるいなー。お客さんとのやりとりも疲れる…。エレベーターなしで11Fまで階段上がって、もうくらくら…誰かに癒されたいなぁ…😪",
-      "slot": "delivery",
-      "timestamp": "2026-03-23 16:57:02",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 274,
+  "month_total_posts": 275,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-24",
-  "last_post_time": "00:53:00",
+  "last_post_time": "06:50:14",
   "ng_retry_count": 96,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-24 00:53:00",
+  "updated_at": "2026-03-24 06:50:14",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "てかさっきの配達、ほんともう疲れたし…\ud83d…",
-  "last_post_timestamp_ms": 1774281180708
+  "today_narrative": "てかさっきの配達、ほんともう疲れたし…\ud83d… → おはよ…ねむういな",
+  "last_post_timestamp_ms": 1774302614487
 }
