@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 30,
+  "mood": "frustrated",
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "もう、なんか日が短くなってきた気がする…😔新生活って言っても、やっぱり月曜朝がつらい。ちょっと前に見た桜が恋しいなぁ。あれ、もっと晴れてたら良かったのに…",
+      "slot": "casual",
+      "timestamp": "2026-03-23 13:07:03",
+      "hasImage": false
+    },
     {
       "text": "あーもう、なんか雨降ってるし寒いし…😩こんな日はお家でゴロゴロしてたいなぁ…誰か遊びに来ないかなぁ…",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "goodnight",
       "timestamp": "2026-03-22 23:05:29",
       "hasImage": false
-    },
-    {
-      "text": "あー、桜の花びら舞ってるの見ると…なんか切なくなるなぁ…配達の合間に、ちょっとだけあったかい風感じたいなぁ…誰か一緒にいてほしいなぁ…",
-      "slot": "night_ero",
-      "timestamp": "2026-03-22 21:31:35",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "morning",
     "delivery",
     "casual",
+    "casual",
     "casual"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": false,
-  "month_total_posts": 263,
+  "month_total_posts": 264,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-23",
-  "last_post_time": "12:55:41",
+  "last_post_time": "13:07:03",
   "ng_retry_count": 93,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-23 12:55:41",
+  "updated_at": "2026-03-23 13:07:03",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "もう無理、寝るわ…😴 → さっきの…うん、まだ眠い…😪朝ごはんど… → ルート組み終わって、ほんとクタクタ…。お… → もう月曜だ…ほんとだるいなー。花粉もヤバ… → あーもう、なんか雨降ってるし寒いし…😩…",
-  "last_post_timestamp_ms": 1774238141063
+  "today_narrative": "もう無理、寝るわ…😴 → さっきの…うん、まだ眠い…😪朝ごはんど… → ルート組み終わって、ほんとクタクタ…。お… → もう月曜だ…ほんとだるいなー。花粉もヤバ… → あーもう、なんか雨降ってるし寒いし…😩… → もう、なんか日が短くなってきた気がする……",
+  "last_post_timestamp_ms": 1774238823186
 }
