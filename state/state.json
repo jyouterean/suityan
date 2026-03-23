@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あーもう、ホントしんどい…何もしたくないよぉ😩💔",
+      "slot": "casual",
+      "timestamp": "2026-03-23 19:31:55",
+      "hasImage": false
+    },
+    {
       "text": "もうなんか今日はずっと配達ばっかりだったしほんとクタクタ…。疲れが…どっと出るなぁ…😩体力ほぼゼロ。こんな時に一緒に帰りたい…でも一人だし、虚しいなぁ…",
       "slot": "commute",
       "timestamp": "2026-03-23 18:23:54",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-03-23 13:07:03",
       "hasImage": false
-    },
-    {
-      "text": "あーもう、なんか雨降ってるし寒いし…😩こんな日はお家でゴロゴロしてたいなぁ…誰か遊びに来ないかなぁ…",
-      "slot": "casual",
-      "timestamp": "2026-03-23 12:55:41",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "commute"
+    "commute",
+    "casual"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": false,
-  "month_total_posts": 269,
+  "month_total_posts": 270,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-23",
-  "last_post_time": "18:23:54",
+  "last_post_time": "19:31:55",
   "ng_retry_count": 95,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-23 18:23:54",
+  "updated_at": "2026-03-23 19:31:55",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "もう無理、寝るわ…😴 → さっきの…うん、まだ眠い…😪朝ごはんど… → ルート組み終わって、ほんとクタクタ…。お… → もう月曜だ…ほんとだるいなー。花粉もヤバ… → あーもう、なんか雨降ってるし寒いし…😩… → もう、なんか日が短くなってきた気がする…… → あー、配達も92件終わって、もうほんとク… → あー、また、荷物積み下ろしの時しんどかっ… → もう夕方だし、さっきの配達ほんとしんどか… → もう月曜だし、ほんとだるいなー。お客さん… → もうなんか今日はずっと配達ばっかりだった…",
-  "last_post_timestamp_ms": 1774257834200
+  "today_narrative": "もう無理、寝るわ…😴 → さっきの…うん、まだ眠い…😪朝ごはんど… → ルート組み終わって、ほんとクタクタ…。お… → もう月曜だ…ほんとだるいなー。花粉もヤバ… → あーもう、なんか雨降ってるし寒いし…😩… → もう、なんか日が短くなってきた気がする…… → あー、配達も92件終わって、もうほんとク… → あー、また、荷物積み下ろしの時しんどかっ… → もう夕方だし、さっきの配達ほんとしんどか… → もう月曜だし、ほんとだるいなー。お客さん… → もうなんか今日はずっと配達ばっかりだった… → あーもう、ホントしんどい…何もしたくない…",
+  "last_post_timestamp_ms": 1774261915769
 }
