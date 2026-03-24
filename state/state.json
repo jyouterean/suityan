@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 70,
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "あさ…まだねむ…😴",
+      "slot": "morning",
+      "timestamp": "2026-03-25 06:47:20",
+      "hasImage": false
+    },
     {
       "text": "最近お客さんとのやりとりが微妙で…ほんと、配達ばっかりじゃつまんないよね。誰か褒めてくれたらちょっとは元気出るのに…残り10件もあるし、また階段か…😩",
       "slot": "delivery",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-03-24 16:04:47",
       "hasImage": false
-    },
-    {
-      "text": "はぁ…ほんと何やってんだろうな…軽バンに乗ってるだけで体力削られてく…桜見に行きたいなぁ…誰かと一緒にさ…",
-      "slot": "delivery",
-      "timestamp": "2026-03-24 14:45:24",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "delivery"
+    "delivery",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 286,
+  "month_total_posts": 287,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-25",
-  "last_post_time": "01:11:04",
+  "last_post_time": "06:47:20",
   "ng_retry_count": 98,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-25 01:11:04",
+  "updated_at": "2026-03-25 06:47:20",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "最近お客さんとのやりとりが微妙で…ほんと…",
-  "last_post_timestamp_ms": 1774368664860
+  "today_narrative": "最近お客さんとのやりとりが微妙で…ほんと… → あさ…まだねむ…😴",
+  "last_post_timestamp_ms": 1774388840220
 }
