@@ -1,7 +1,13 @@
 {
-  "mood": "melancholy",
-  "energy": 20,
+  "mood": "tired",
+  "energy": 10,
   "last_posts": [
+    {
+      "text": "はぁ…ほんと何やってんだろうな…軽バンに乗ってるだけで体力削られてく…桜見に行きたいなぁ…誰かと一緒にさ…",
+      "slot": "delivery",
+      "timestamp": "2026-03-24 14:45:24",
+      "hasImage": false
+    },
     {
       "text": "ほんと運転ばっかで疲れた…124件も配達したのに誰も褒めてくれないし、ちょっと寂しいなぁ😔 でも桜が咲くのを見ると、気持ちが和む…まあいいか。缶コーヒーでも飲んで一息つこうかな。",
       "slot": "delivery",
@@ -37,12 +43,6 @@
       "slot": "simple_goodnight",
       "timestamp": "2026-03-24 00:53:00",
       "hasImage": false
-    },
-    {
-      "text": "もう無理、寝るわ…😴 さっきの配達、ほんとしんどかっ…🌀 なんか気力ゼロ…ねぇ、誰かかまってほしい…",
-      "slot": "goodnight",
-      "timestamp": "2026-03-23 23:42:09",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -51,25 +51,26 @@
     "casual",
     "delivery",
     "casual",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 6,
+  "today_post_count": 7,
   "today_goodnight_posted": false,
-  "month_total_posts": 279,
+  "month_total_posts": 280,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-24",
-  "last_post_time": "14:02:42",
+  "last_post_time": "14:45:24",
   "ng_retry_count": 97,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-24 14:02:42",
+  "updated_at": "2026-03-24 14:45:24",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 12,
-  "today_narrative": "てかさっきの配達、ほんともう疲れたし…\ud83d… → おはよ…ねむういな → てかさっきの、ほんとだるいな…今日も配送… → 今日の配達ルート、ほんと疲れるなぁ…お客… → 春ねぇ、なんか気持ちがぽかぽかするけど、… → ほんと運転ばっかで疲れた…124件も配達…",
-  "last_post_timestamp_ms": 1774328562177
+  "today_narrative": "てかさっきの配達、ほんともう疲れたし…\ud83d… → おはよ…ねむういな → てかさっきの、ほんとだるいな…今日も配送… → 今日の配達ルート、ほんと疲れるなぁ…お客… → 春ねぇ、なんか気持ちがぽかぽかするけど、… → ほんと運転ばっかで疲れた…124件も配達… → はぁ…ほんと何やってんだろうな…軽バンに…",
+  "last_post_timestamp_ms": 1774331124574
 }
