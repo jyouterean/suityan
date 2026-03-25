@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 40,
+  "mood": "frustrated",
+  "energy": 30,
   "last_posts": [
+    {
+      "text": "朝ごはんもまだ食べれてなくて…。なんか、気持ちまで寒くなっちゃうなぁ…😞 ほんと最近、周りの声が冷たい気がするんだよね。桜も咲いてるのに、こんなに寂しい気持ちになるなんて…。",
+      "slot": "casual",
+      "timestamp": "2026-03-25 12:40:47",
+      "hasImage": false
+    },
     {
       "text": "インターホン越しの声も、ほんとに冷たい気がする…なんだか、もう少し優しい言葉がほしいなぁ。配達が83件もあってさ、でも全然褒めてもらえないし…誰かに会いたい、寂しいなぁ…。",
       "slot": "delivery",
@@ -37,37 +43,32 @@
       "slot": "night_ero",
       "timestamp": "2026-03-24 21:04:52",
       "hasImage": false
-    },
-    {
-      "text": "あーもう、最近ほんとしんどいな…桜とか見たいけど、運転ばっか。春なのに気持ちが重い気がする。みんな元気そうなのに、どうして私だけこんななんだろ…😞",
-      "slot": "casual",
-      "timestamp": "2026-03-24 19:30:36",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "delivery",
     "morning",
     "commute",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 4,
+  "today_post_count": 5,
   "today_goodnight_posted": false,
-  "month_total_posts": 289,
+  "month_total_posts": 290,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-25",
-  "last_post_time": "09:12:42",
+  "last_post_time": "12:40:47",
   "ng_retry_count": 99,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-25 09:12:42",
+  "updated_at": "2026-03-25 12:40:47",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "最近お客さんとのやりとりが微妙で…ほんと… → あさ…まだねむ…😴 → インターホンの声も少し元気ない気がして…… → インターホン越しの声も、ほんとに冷たい気…",
-  "last_post_timestamp_ms": 1774397562771
+  "today_narrative": "最近お客さんとのやりとりが微妙で…ほんと… → あさ…まだねむ…😴 → インターホンの声も少し元気ない気がして…… → インターホン越しの声も、ほんとに冷たい気… → 朝ごはんもまだ食べれてなくて…。なんか、…",
+  "last_post_timestamp_ms": 1774410047912
 }
