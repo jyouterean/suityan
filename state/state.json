@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "はぁ…雨、ほんと面倒くさいなぁ…配達先の段ボール重いし…エレベーター止まってるし…あーもう、しんど…😩でもさ、誰かに会いたいなぁ…なんか、優しい言葉もらえたら元気出るのに…",
+      "slot": "delivery",
+      "timestamp": "2026-03-25 15:03:22",
+      "hasImage": false
+    },
+    {
       "text": "お客さんとのやりとり、ほんと微妙で…エレベーターなしの荷物運ぶのダルいし、何か褒めてほしいなぁ…😩今、心がちょっとだけ朽ちてる気がする…",
       "slot": "delivery",
       "timestamp": "2026-03-25 14:05:11",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-03-25 06:47:20",
       "hasImage": false
-    },
-    {
-      "text": "最近お客さんとのやりとりが微妙で…ほんと、配達ばっかりじゃつまんないよね。誰か褒めてくれたらちょっとは元気出るのに…残り10件もあるし、また階段か…😩",
-      "slot": "delivery",
-      "timestamp": "2026-03-25 01:11:04",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "delivery",
     "casual",
     "casual",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": false,
-  "month_total_posts": 292,
+  "month_total_posts": 293,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-25",
-  "last_post_time": "14:05:11",
+  "last_post_time": "15:03:22",
   "ng_retry_count": 99,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-25 14:05:11",
+  "updated_at": "2026-03-25 15:03:22",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "最近お客さんとのやりとりが微妙で…ほんと… → あさ…まだねむ…😴 → インターホンの声も少し元気ない気がして…… → インターホン越しの声も、ほんとに冷たい気… → 朝ごはんもまだ食べれてなくて…。なんか、… → 季節の変わり目だからかな…なんか心も曇り… → お客さんとのやりとり、ほんと微妙で…エレ…",
-  "last_post_timestamp_ms": 1774415111237
+  "today_narrative": "最近お客さんとのやりとりが微妙で…ほんと… → あさ…まだねむ…😴 → インターホンの声も少し元気ない気がして…… → インターホン越しの声も、ほんとに冷たい気… → 朝ごはんもまだ食べれてなくて…。なんか、… → 季節の変わり目だからかな…なんか心も曇り… → お客さんとのやりとり、ほんと微妙で…エレ… → はぁ…雨、ほんと面倒くさいなぁ…配達先の…",
+  "last_post_timestamp_ms": 1774418602469
 }
