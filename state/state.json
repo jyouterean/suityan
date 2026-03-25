@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あーほんと、この段ボール運ぶのしんどい…😭なんか最近お客さんも冷たいし、わたしも心が曇ってるなぁ。誰かに会いたい…みんな元気にしてるのかなぁ…",
+      "slot": "delivery",
+      "timestamp": "2026-03-25 16:35:33",
+      "hasImage": false
+    },
+    {
       "text": "雨の中のはいたつ、ほんとしんどいなぁ…😞インターホンの声も冷たい気がするし、さっき9Fまで階段上がったけどなんかもう、すぐに会いたい誰かが欲しい…そろそろ優しい言葉、ほしいなぁ。",
       "slot": "delivery",
       "timestamp": "2026-03-25 15:56:01",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-03-25 09:12:42",
       "hasImage": false
-    },
-    {
-      "text": "インターホンの声も少し元気ない気がして…これから渋滞だし、帰るのだるい…誰かと帰りたいなぁ…もう少しで家だけど…😞",
-      "slot": "commute",
-      "timestamp": "2026-03-25 08:21:04",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -54,25 +54,26 @@
     "casual",
     "delivery",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 9,
+  "today_post_count": 10,
   "today_goodnight_posted": false,
-  "month_total_posts": 294,
+  "month_total_posts": 295,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-25",
-  "last_post_time": "15:56:01",
-  "ng_retry_count": 100,
+  "last_post_time": "16:35:33",
+  "ng_retry_count": 101,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-25 15:56:01",
+  "updated_at": "2026-03-25 16:35:33",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "最近お客さんとのやりとりが微妙で…ほんと… → あさ…まだねむ…😴 → インターホンの声も少し元気ない気がして…… → インターホン越しの声も、ほんとに冷たい気… → 朝ごはんもまだ食べれてなくて…。なんか、… → 季節の変わり目だからかな…なんか心も曇り… → お客さんとのやりとり、ほんと微妙で…エレ… → はぁ…雨、ほんと面倒くさいなぁ…配達先の… → 雨の中のはいたつ、ほんとしんどいなぁ…\ud83d…",
-  "last_post_timestamp_ms": 1774421761206
+  "today_narrative": "最近お客さんとのやりとりが微妙で…ほんと… → あさ…まだねむ…😴 → インターホンの声も少し元気ない気がして…… → インターホン越しの声も、ほんとに冷たい気… → 朝ごはんもまだ食べれてなくて…。なんか、… → 季節の変わり目だからかな…なんか心も曇り… → お客さんとのやりとり、ほんと微妙で…エレ… → はぁ…雨、ほんと面倒くさいなぁ…配達先の… → 雨の中のはいたつ、ほんとしんどいなぁ…\ud83d… → あーほんと、この段ボール運ぶのしんどい……",
+  "last_post_timestamp_ms": 1774424133594
 }
