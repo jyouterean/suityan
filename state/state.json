@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "ほんと、最近はお客さんとのやりとりが微妙で…あー、なんか心も曇り気味。もうちょっと優しくなれよって思う。あ、朝ごはんもまだ食べれてないし…😩",
+      "slot": "casual",
+      "timestamp": "2026-03-25 19:18:45",
+      "hasImage": false
+    },
+    {
       "text": "あー、ほんと…お客さんとのやりとり、なんか微妙だなぁ…😞あのインターホンの声、冷たい感じがするし。今日は配達も重い段ボールばっかりでさ…もうほんと、力抜けてきてる…まぁ、早く帰りたいなぁ…",
       "slot": "commute",
       "timestamp": "2026-03-25 18:14:02",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-03-25 13:20:27",
       "hasImage": false
-    },
-    {
-      "text": "朝ごはんもまだ食べれてなくて…。なんか、気持ちまで寒くなっちゃうなぁ…😞 ほんと最近、周りの声が冷たい気がするんだよね。桜も咲いてるのに、こんなに寂しい気持ちになるなんて…。",
-      "slot": "casual",
-      "timestamp": "2026-03-25 12:40:47",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "commute"
+    "commute",
+    "casual"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": false,
-  "month_total_posts": 296,
+  "month_total_posts": 297,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-25",
-  "last_post_time": "18:14:02",
+  "last_post_time": "19:18:45",
   "ng_retry_count": 101,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-25 18:14:02",
+  "updated_at": "2026-03-25 19:18:45",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "最近お客さんとのやりとりが微妙で…ほんと… → あさ…まだねむ…😴 → インターホンの声も少し元気ない気がして…… → インターホン越しの声も、ほんとに冷たい気… → 朝ごはんもまだ食べれてなくて…。なんか、… → 季節の変わり目だからかな…なんか心も曇り… → お客さんとのやりとり、ほんと微妙で…エレ… → はぁ…雨、ほんと面倒くさいなぁ…配達先の… → 雨の中のはいたつ、ほんとしんどいなぁ…\ud83d… → あーほんと、この段ボール運ぶのしんどい…… → あー、ほんと…お客さんとのやりとり、なん…",
-  "last_post_timestamp_ms": 1774430042732
+  "today_narrative": "最近お客さんとのやりとりが微妙で…ほんと… → あさ…まだねむ…😴 → インターホンの声も少し元気ない気がして…… → インターホン越しの声も、ほんとに冷たい気… → 朝ごはんもまだ食べれてなくて…。なんか、… → 季節の変わり目だからかな…なんか心も曇り… → お客さんとのやりとり、ほんと微妙で…エレ… → はぁ…雨、ほんと面倒くさいなぁ…配達先の… → 雨の中のはいたつ、ほんとしんどいなぁ…\ud83d… → あーほんと、この段ボール運ぶのしんどい…… → あー、ほんと…お客さんとのやりとり、なん… → ほんと、最近はお客さんとのやりとりが微妙…",
+  "last_post_timestamp_ms": 1774433925346
 }
