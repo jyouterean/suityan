@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 10,
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "あーもう、ねむい…おやすみ",
+      "slot": "simple_goodnight",
+      "timestamp": "2026-03-26 00:56:35",
+      "hasImage": false
+    },
     {
       "text": "ほんと…インターホン越しの声も、ちょっと冷たくて…これからどうなるのかなぁ…😔 配達先でも、なんか元気ないお客さん多くて…冬の名残りがまだ心に…つらいなぁ…",
       "slot": "goodnight",
@@ -37,48 +43,28 @@
       "slot": "delivery",
       "timestamp": "2026-03-25 16:35:33",
       "hasImage": false
-    },
-    {
-      "text": "雨の中のはいたつ、ほんとしんどいなぁ…😞インターホンの声も冷たい気がするし、さっき9Fまで階段上がったけどなんかもう、すぐに会いたい誰かが欲しい…そろそろ優しい言葉、ほしいなぁ。",
-      "slot": "delivery",
-      "timestamp": "2026-03-25 15:56:01",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "delivery",
-    "morning",
-    "commute",
-    "delivery",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery",
-    "delivery",
-    "commute",
-    "casual",
-    "casual",
-    "night_ero",
-    "goodnight"
+    "simple_goodnight"
   ],
-  "today_post_count": 15,
-  "today_goodnight_posted": true,
-  "month_total_posts": 300,
+  "today_post_count": 1,
+  "today_goodnight_posted": false,
+  "month_total_posts": 301,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-03-25",
-  "last_post_time": "23:49:06",
+  "last_post_date": "2026-03-26",
+  "last_post_time": "00:56:35",
   "ng_retry_count": 101,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-25 23:49:06",
+  "updated_at": "2026-03-26 00:56:35",
   "month_string": "2026-03",
   "today_skipped": false,
-  "today_simple_goodnight_posted": false,
-  "today_morning_posted": true,
+  "today_simple_goodnight_posted": true,
+  "today_morning_posted": false,
   "today_skip_count": 0,
-  "today_max_posts": 15,
-  "today_narrative": "最近お客さんとのやりとりが微妙で…ほんと… → あさ…まだねむ…😴 → インターホンの声も少し元気ない気がして…… → インターホン越しの声も、ほんとに冷たい気… → 朝ごはんもまだ食べれてなくて…。なんか、… → 季節の変わり目だからかな…なんか心も曇り… → お客さんとのやりとり、ほんと微妙で…エレ… → はぁ…雨、ほんと面倒くさいなぁ…配達先の… → 雨の中のはいたつ、ほんとしんどいなぁ…\ud83d… → あーほんと、この段ボール運ぶのしんどい…… → あー、ほんと…お客さんとのやりとり、なん… → ほんと、最近はお客さんとのやりとりが微妙… → ねぇ…雨ほんとやだ…☔ちょっと暗い感じだ… → なんかね…今日の配達、ほんとしんどい…\ud83d… → ほんと…インターホン越しの声も、ちょっと…",
-  "last_post_timestamp_ms": 1774450146471
+  "today_max_posts": 14,
+  "today_narrative": "あーもう、ねむい…おやすみ",
+  "last_post_timestamp_ms": 1774454195994
 }
