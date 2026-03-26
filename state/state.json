@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あー、駐禁のおっちゃんとすれ違ったの思い出した…気まずい…😅でも、ほんと台車の運転疲れた…もう早く帰りたい…",
+      "slot": "delivery",
+      "timestamp": "2026-03-26 17:04:09",
+      "hasImage": false
+    },
+    {
       "text": "あーもう、ほんとしんどい…体力ゼロだわ。配達終わったら何するか考えるのも無理…😩😩",
       "slot": "delivery",
       "timestamp": "2026-03-26 15:53:24",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-03-26 08:19:09",
       "hasImage": false
-    },
-    {
-      "text": "おはよ…あさだね…",
-      "slot": "morning",
-      "timestamp": "2026-03-26 07:05:41",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "casual",
     "delivery",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": false,
-  "month_total_posts": 308,
+  "month_total_posts": 309,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-26",
-  "last_post_time": "15:53:24",
+  "last_post_time": "17:04:09",
   "ng_retry_count": 101,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-26 15:53:24",
+  "updated_at": "2026-03-26 17:04:09",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "あーもう、ねむい…おやすみ → おはよ…あさだね… → そっか…おはよって言ったけど、まだ眠い…… → 配達先着いたけど、雨がほんと面倒…☔️ … → さっきの続きだけど、雨でも配達するのが仕… → あー、雨の中配達するのほんとキツイ…💦… → もう4件も配達したのに、全然終わらない…… → あーもう、ほんとしんどい…体力ゼロだわ。…",
-  "last_post_timestamp_ms": 1774508004555
+  "today_narrative": "あーもう、ねむい…おやすみ → おはよ…あさだね… → そっか…おはよって言ったけど、まだ眠い…… → 配達先着いたけど、雨がほんと面倒…☔️ … → さっきの続きだけど、雨でも配達するのが仕… → あー、雨の中配達するのほんとキツイ…💦… → もう4件も配達したのに、全然終わらない…… → あーもう、ほんとしんどい…体力ゼロだわ。… → あー、駐禁のおっちゃんとすれ違ったの思い…",
+  "last_post_timestamp_ms": 1774512249386
 }
