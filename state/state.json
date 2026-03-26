@@ -1,7 +1,13 @@
 {
-  "mood": "melancholy",
-  "energy": 30,
+  "mood": "tired",
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "あー、雨の中配達するのほんとキツイ…💦 12Fの階段、登るのもしんどかったし…駐禁のおっちゃんとすれ違った時、チラッと褒めてくれないかなって思ったり…誰かに会いたい、褒めてほしい…",
+      "slot": "delivery",
+      "timestamp": "2026-03-26 14:23:36",
+      "hasImage": false
+    },
     {
       "text": "さっきの続きだけど、雨でも配達するのが仕事だし！頑張るしかないよね💪 113件っていうと、やりがいも感じるし、早く終わらせて帰りたいな〜！",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "goodnight",
       "timestamp": "2026-03-25 23:49:06",
       "hasImage": false
-    },
-    {
-      "text": "なんかね…今日の配達、ほんとしんどい…😔エレベーターなしだし、雨も降ってるし…お客さんとのやりとりも冷たい気がして…あぁ、もう、誰かに温もりほしいなぁ…",
-      "slot": "night_ero",
-      "timestamp": "2026-03-25 21:53:04",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "morning",
     "casual",
     "delivery",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": false,
-  "month_total_posts": 305,
+  "month_total_posts": 306,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-26",
-  "last_post_time": "12:31:16",
+  "last_post_time": "14:23:36",
   "ng_retry_count": 101,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-26 13:16:54",
+  "updated_at": "2026-03-26 14:23:36",
   "month_string": "2026-03",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "あーもう、ねむい…おやすみ → おはよ…あさだね… → そっか…おはよって言ったけど、まだ眠い…… → 配達先着いたけど、雨がほんと面倒…☔️ … → さっきの続きだけど、雨でも配達するのが仕…",
-  "last_post_timestamp_ms": 1774495876807
+  "today_narrative": "あーもう、ねむい…おやすみ → おはよ…あさだね… → そっか…おはよって言ったけど、まだ眠い…… → 配達先着いたけど、雨がほんと面倒…☔️ … → さっきの続きだけど、雨でも配達するのが仕… → あー、雨の中配達するのほんとキツイ…💦…",
+  "last_post_timestamp_ms": 1774502616882
 }
