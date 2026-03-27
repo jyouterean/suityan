@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 70,
+  "mood": "tired",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "おはよ…でも、まだ眠い…",
+      "slot": "morning",
+      "timestamp": "2026-03-28 06:57:21",
+      "hasImage": false
+    },
     {
       "text": "でもさ、こんな夜中にひとりじゃ、ちょっとさみしいよね…😢 誰かとおしゃべりしたいなぁ…かまってくれない？",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-03-27 14:06:43",
       "hasImage": false
-    },
-    {
-      "text": "ぐっすり寝たい…でもさ、夜中の景色がほんと素敵でさ、あさの光とか見るとウットリしちゃう。お客さんに褒められた時の笑顔とか思い出しちゃうなぁ…🌸",
-      "slot": "casual",
-      "timestamp": "2026-03-27 13:17:11",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 326,
+  "month_total_posts": 327,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-28",
-  "last_post_time": "00:53:47",
+  "last_post_time": "06:57:21",
   "ng_retry_count": 105,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-28 00:53:47",
+  "updated_at": "2026-03-28 06:57:21",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "でもさ、こんな夜中にひとりじゃ、ちょっと…",
-  "last_post_timestamp_ms": 1774626827705
+  "today_narrative": "でもさ、こんな夜中にひとりじゃ、ちょっと… → おはよ…でも、まだ眠い…",
+  "last_post_timestamp_ms": 1774648641038
 }
