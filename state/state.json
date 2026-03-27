@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あーもう、ぐっすり寝たい…でもさ、夜中の荷物運びって、ほんと素敵な景色に出会うこと多いなぁ…🌸一軒家って何であんなにいい感じなんだろ…でも体力残り10%…😩",
+      "slot": "commute",
+      "timestamp": "2026-03-27 18:14:46",
+      "hasImage": false
+    },
+    {
       "text": "はぁ…やっぱりあったかくなると外も気持ちいいなぁ🌸 それでもエレベーターなしの家ってほんとしんどい…😩 こんな時、誰かに会いたいなぁ…まったく。",
       "slot": "delivery",
       "timestamp": "2026-03-27 16:50:21",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-03-27 12:54:14",
       "hasImage": false
-    },
-    {
-      "text": "なんかさ、置き配の時にお客さんに褒められると嬉しいよね…でも、そんなの滅多にないし…今日は146件配って、まだ10件残ってる。早く帰って寝たいな…だるい。桜見ながら誰かとお話ししたい…🌸",
-      "slot": "delivery",
-      "timestamp": "2026-03-27 09:26:38",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "delivery"
+    "delivery",
+    "commute"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": false,
-  "month_total_posts": 324,
+  "month_total_posts": 325,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-27",
-  "last_post_time": "16:50:21",
+  "last_post_time": "18:14:46",
   "ng_retry_count": 105,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-27 16:50:21",
+  "updated_at": "2026-03-27 18:14:46",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "ぐっすり寝たい… → でもさ、夜中に荷物運んでると、いつも景色… → あさ…うとうとしちゃう → 一軒家はいつも素敵な所多いなぁ…🌸 で… → なんかさ、置き配の時にお客さんに褒められ… → 今日も天気良くて気持ちいいなぁ…🌸 で… → ぐっすり寝たい…でもさ、夜中の景色がほん… → 一軒家ってほんと素敵なところ多い…🌼 … → あーもう、ほんとにしんどい…😩 休憩し… → ほんと、配達してると色んなお客さんいるな… → はぁ…やっぱりあったかくなると外も気持ち…",
-  "last_post_timestamp_ms": 1774597821555
+  "today_narrative": "ぐっすり寝たい… → でもさ、夜中に荷物運んでると、いつも景色… → あさ…うとうとしちゃう → 一軒家はいつも素敵な所多いなぁ…🌸 で… → なんかさ、置き配の時にお客さんに褒められ… → 今日も天気良くて気持ちいいなぁ…🌸 で… → ぐっすり寝たい…でもさ、夜中の景色がほん… → 一軒家ってほんと素敵なところ多い…🌼 … → あーもう、ほんとにしんどい…😩 休憩し… → ほんと、配達してると色んなお客さんいるな… → はぁ…やっぱりあったかくなると外も気持ち… → あーもう、ぐっすり寝たい…でもさ、夜中の…",
+  "last_post_timestamp_ms": 1774602886102
 }
