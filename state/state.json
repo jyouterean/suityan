@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 60,
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "ねむい…うーん、こんな時間に目が覚めるなんて、ほんとだるい。春の風、いい感じだけど、花粉がやばいよね…もう、鼻がくしゃみする…😷",
+      "slot": "casual",
+      "timestamp": "2026-03-28 08:27:40",
+      "hasImage": false
+    },
     {
       "text": "おはよ…でも、まだ眠い…",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "delivery",
       "timestamp": "2026-03-27 15:24:58",
       "hasImage": false
-    },
-    {
-      "text": "一軒家ってほんと素敵なところ多い…🌼 さっき1Fまで階段上がったけど、運ぶ荷物見るとそれ以上に疲れちゃう…😅 そろそろ休憩したいなぁ…誰かに会いたい…",
-      "slot": "delivery",
-      "timestamp": "2026-03-27 14:06:43",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
-    "morning"
+    "morning",
+    "casual"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 327,
+  "month_total_posts": 328,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-28",
-  "last_post_time": "06:57:21",
+  "last_post_time": "08:27:40",
   "ng_retry_count": 105,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-28 06:57:21",
+  "updated_at": "2026-03-28 08:27:40",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "でもさ、こんな夜中にひとりじゃ、ちょっと… → おはよ…でも、まだ眠い…",
-  "last_post_timestamp_ms": 1774648641038
+  "today_narrative": "でもさ、こんな夜中にひとりじゃ、ちょっと… → おはよ…でも、まだ眠い… → ねむい…うーん、こんな時間に目が覚めるな…",
+  "last_post_timestamp_ms": 1774654060767
 }
