@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 40,
+  "mood": "tired",
+  "energy": 30,
   "last_posts": [
+    {
+      "text": "なんかさ、置き配の時にお客さんに褒められると嬉しいよね…でも、そんなの滅多にないし…今日は146件配って、まだ10件残ってる。早く帰って寝たいな…だるい。桜見ながら誰かとお話ししたい…🌸",
+      "slot": "delivery",
+      "timestamp": "2026-03-27 09:26:38",
+      "hasImage": false
+    },
     {
       "text": "一軒家はいつも素敵な所多いなぁ…🌸 でも、運ぶ荷物が多いと気分も下がるし…誰かに褒めてほしいなぁ😔 まだ30件も残ってる…",
       "slot": "delivery",
@@ -37,37 +43,32 @@
       "slot": "casual",
       "timestamp": "2026-03-26 20:56:20",
       "hasImage": false
-    },
-    {
-      "text": "ほんともう、重い雨だなぁ…☔️ こんな中で歩くの、やっぱりめんどくさいよね…どこか、あったかい所でのんびりしたいなぁ。",
-      "slot": "casual",
-      "timestamp": "2026-03-26 19:50:16",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
     "delivery",
     "morning",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 4,
+  "today_post_count": 5,
   "today_goodnight_posted": false,
-  "month_total_posts": 317,
+  "month_total_posts": 318,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-27",
-  "last_post_time": "07:56:13",
+  "last_post_time": "09:26:38",
   "ng_retry_count": 102,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-27 07:56:13",
+  "updated_at": "2026-03-27 09:26:38",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "ぐっすり寝たい… → でもさ、夜中に荷物運んでると、いつも景色… → あさ…うとうとしちゃう → 一軒家はいつも素敵な所多いなぁ…🌸 で…",
-  "last_post_timestamp_ms": 1774565773630
+  "today_narrative": "ぐっすり寝たい… → でもさ、夜中に荷物運んでると、いつも景色… → あさ…うとうとしちゃう → 一軒家はいつも素敵な所多いなぁ…🌸 で… → なんかさ、置き配の時にお客さんに褒められ…",
+  "last_post_timestamp_ms": 1774571198651
 }
