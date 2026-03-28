@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 60,
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "さっきの夢の続き…みたいな感じで、今日もなんかだるいなぁ…😩 ねむい…仕事行くの面倒だな…",
+      "slot": "casual",
+      "timestamp": "2026-03-29 08:07:01",
+      "hasImage": false
+    },
     {
       "text": "さっきの…夢の中でも忙しかった気がする…ずっと荷物運ぶの…むりだなぁ…😪💤",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "delivery",
       "timestamp": "2026-03-28 15:41:34",
       "hasImage": false
-    },
-    {
-      "text": "配達の途中、さっき10Fまで階段上がったらさ、子供に手を振られてちょっと元気出た✨でも、やっぱり一人だと寂しいな…また誰かに会いたいなぁ…。",
-      "slot": "delivery",
-      "timestamp": "2026-03-28 14:53:12",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
-    "morning"
+    "morning",
+    "casual"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 339,
+  "month_total_posts": 340,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-29",
-  "last_post_time": "06:47:06",
+  "last_post_time": "08:07:01",
   "ng_retry_count": 107,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-29 06:47:06",
+  "updated_at": "2026-03-29 08:07:01",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 9,
-  "today_narrative": "もう眠い…おやすみ⭐ → さっきの…夢の中でも忙しかった気がする……",
-  "last_post_timestamp_ms": 1774734426780
+  "today_narrative": "もう眠い…おやすみ⭐ → さっきの…夢の中でも忙しかった気がする…… → さっきの夢の続き…みたいな感じで、今日も…",
+  "last_post_timestamp_ms": 1774739221688
 }
