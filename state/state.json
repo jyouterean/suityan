@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "ほんと眠い…残り28件もあるし、やる気出ない…今日は配達多すぎるよ…桜の季節でも、ひとりでやってるとさみしい…お客さんともうちょっと話したいなぁ…😩",
+      "slot": "delivery",
+      "timestamp": "2026-03-28 16:29:46",
+      "hasImage": false
+    },
+    {
       "text": "なんか違うなぁ、配達の道すがら桜がちらほら。こんなに暖かいのに、ひとりで寂しいのはなぜ…ほんと、誰かに会いたい…😔💔",
       "slot": "delivery",
       "timestamp": "2026-03-28 15:41:34",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-03-28 08:58:20",
       "hasImage": false
-    },
-    {
-      "text": "ねむい…うーん、こんな時間に目が覚めるなんて、ほんとだるい。春の風、いい感じだけど、花粉がやばいよね…もう、鼻がくしゃみする…😷",
-      "slot": "casual",
-      "timestamp": "2026-03-28 08:27:40",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -54,25 +54,26 @@
     "casual",
     "delivery",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 9,
+  "today_post_count": 10,
   "today_goodnight_posted": false,
-  "month_total_posts": 334,
+  "month_total_posts": 335,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-28",
-  "last_post_time": "15:41:34",
-  "ng_retry_count": 106,
+  "last_post_time": "16:29:46",
+  "ng_retry_count": 107,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-28 15:41:34",
+  "updated_at": "2026-03-28 16:29:46",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "でもさ、こんな夜中にひとりじゃ、ちょっと… → おはよ…でも、まだ眠い… → ねむい…うーん、こんな時間に目が覚めるな… → なんかさ、桜咲いてるの見たら嬉しいような… → こんな暖かい夜なのに、なんでひとりぼっち… → やっぱ春っていいなぁ…でも、何かと心がザ… → はぁ、配達の時間指定ってほんと大変…なん… → 配達の途中、さっき10Fまで階段上がった… → なんか違うなぁ、配達の道すがら桜がちらほ…",
-  "last_post_timestamp_ms": 1774680094228
+  "today_narrative": "でもさ、こんな夜中にひとりじゃ、ちょっと… → おはよ…でも、まだ眠い… → ねむい…うーん、こんな時間に目が覚めるな… → なんかさ、桜咲いてるの見たら嬉しいような… → こんな暖かい夜なのに、なんでひとりぼっち… → やっぱ春っていいなぁ…でも、何かと心がザ… → はぁ、配達の時間指定ってほんと大変…なん… → 配達の途中、さっき10Fまで階段上がった… → なんか違うなぁ、配達の道すがら桜がちらほ… → ほんと眠い…残り28件もあるし、やる気出…",
+  "last_post_timestamp_ms": 1774682986813
 }
