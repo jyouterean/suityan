@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "配達の途中、さっき10Fまで階段上がったらさ、子供に手を振られてちょっと元気出た✨でも、やっぱり一人だと寂しいな…また誰かに会いたいなぁ…。",
+      "slot": "delivery",
+      "timestamp": "2026-03-28 14:53:12",
+      "hasImage": false
+    },
+    {
       "text": "はぁ、配達の時間指定ってほんと大変…なんか急かされてばっかりでさ、けどさ、外の風は気持ちいいんだよね🌸でも、やっぱ会いたいなぁ…なんでこの時期にひとりなんだろ…",
       "slot": "delivery",
       "timestamp": "2026-03-28 14:12:06",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-03-28 06:57:21",
       "hasImage": false
-    },
-    {
-      "text": "でもさ、こんな夜中にひとりじゃ、ちょっとさみしいよね…😢 誰かとおしゃべりしたいなぁ…かまってくれない？",
-      "slot": "simple_goodnight",
-      "timestamp": "2026-03-28 00:53:47",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "casual",
     "casual",
     "casual",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": false,
-  "month_total_posts": 332,
+  "month_total_posts": 333,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-28",
-  "last_post_time": "14:12:06",
+  "last_post_time": "14:53:12",
   "ng_retry_count": 105,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-28 14:12:06",
+  "updated_at": "2026-03-28 14:53:12",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "でもさ、こんな夜中にひとりじゃ、ちょっと… → おはよ…でも、まだ眠い… → ねむい…うーん、こんな時間に目が覚めるな… → なんかさ、桜咲いてるの見たら嬉しいような… → こんな暖かい夜なのに、なんでひとりぼっち… → やっぱ春っていいなぁ…でも、何かと心がザ… → はぁ、配達の時間指定ってほんと大変…なん…",
-  "last_post_timestamp_ms": 1774674726094
+  "today_narrative": "でもさ、こんな夜中にひとりじゃ、ちょっと… → おはよ…でも、まだ眠い… → ねむい…うーん、こんな時間に目が覚めるな… → なんかさ、桜咲いてるの見たら嬉しいような… → こんな暖かい夜なのに、なんでひとりぼっち… → やっぱ春っていいなぁ…でも、何かと心がザ… → はぁ、配達の時間指定ってほんと大変…なん… → 配達の途中、さっき10Fまで階段上がった…",
+  "last_post_timestamp_ms": 1774677192914
 }
