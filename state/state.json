@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あー、また明日もはいたつだなぁ…でもさ、春の風って気持ちいいよね…桜もいい感じだし…でも、こんな夜中にひとりじゃ、ちょっとつらい…😔",
+      "slot": "casual",
+      "timestamp": "2026-03-28 19:01:42",
+      "hasImage": false
+    },
+    {
       "text": "なんか、こんな暖かい夜にひとりなのって、ちょっと…虚しいよね。配達の途中に見た桜…少しだけ心がほっこりしたけど、やっぱり視界に誰かいる方がいいなぁ…あーもう、しんど…（…いま何時だ）",
       "slot": "commute",
       "timestamp": "2026-03-28 18:20:36",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-03-28 12:58:41",
       "hasImage": false
-    },
-    {
-      "text": "こんな暖かい夜なのに、なんでひとりぼっちなんだろ...桜見ながら、誰かとおしゃべりしたいなぁ。🤔",
-      "slot": "casual",
-      "timestamp": "2026-03-28 12:36:05",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "commute"
+    "commute",
+    "casual"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": false,
-  "month_total_posts": 336,
+  "month_total_posts": 337,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-28",
-  "last_post_time": "18:20:36",
+  "last_post_time": "19:01:42",
   "ng_retry_count": 107,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-28 18:20:36",
+  "updated_at": "2026-03-28 19:01:42",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "でもさ、こんな夜中にひとりじゃ、ちょっと… → おはよ…でも、まだ眠い… → ねむい…うーん、こんな時間に目が覚めるな… → なんかさ、桜咲いてるの見たら嬉しいような… → こんな暖かい夜なのに、なんでひとりぼっち… → やっぱ春っていいなぁ…でも、何かと心がザ… → はぁ、配達の時間指定ってほんと大変…なん… → 配達の途中、さっき10Fまで階段上がった… → なんか違うなぁ、配達の道すがら桜がちらほ… → ほんと眠い…残り28件もあるし、やる気出… → なんか、こんな暖かい夜にひとりなのって、…",
-  "last_post_timestamp_ms": 1774689636213
+  "today_narrative": "でもさ、こんな夜中にひとりじゃ、ちょっと… → おはよ…でも、まだ眠い… → ねむい…うーん、こんな時間に目が覚めるな… → なんかさ、桜咲いてるの見たら嬉しいような… → こんな暖かい夜なのに、なんでひとりぼっち… → やっぱ春っていいなぁ…でも、何かと心がザ… → はぁ、配達の時間指定ってほんと大変…なん… → 配達の途中、さっき10Fまで階段上がった… → なんか違うなぁ、配達の道すがら桜がちらほ… → ほんと眠い…残り28件もあるし、やる気出… → なんか、こんな暖かい夜にひとりなのって、… → あー、また明日もはいたつだなぁ…でもさ、…",
+  "last_post_timestamp_ms": 1774692102221
 }
