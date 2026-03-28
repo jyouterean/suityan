@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 10,
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "もう眠い…おやすみ⭐",
+      "slot": "simple_goodnight",
+      "timestamp": "2026-03-29 00:04:56",
+      "hasImage": false
+    },
     {
       "text": "あー、また明日もはいたつだなぁ…でもさ、春の風って気持ちいいよね…桜もいい感じだし…でも、こんな夜中にひとりじゃ、ちょっとつらい…😔",
       "slot": "casual",
@@ -37,45 +43,28 @@
       "slot": "delivery",
       "timestamp": "2026-03-28 14:12:06",
       "hasImage": false
-    },
-    {
-      "text": "やっぱ春っていいなぁ…でも、何かと心がザワザワする…なんでだろ…それとも、桜の季節って思い出が多いからかな…😔✨ でもさ、昼間の明るさは好き…この感じ、もっと誰かと分かち合えたらいいのに…",
-      "slot": "casual",
-      "timestamp": "2026-03-28 12:58:41",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight",
-    "morning",
-    "casual",
-    "casual",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery",
-    "delivery",
-    "commute",
-    "casual"
+    "simple_goodnight"
   ],
-  "today_post_count": 12,
+  "today_post_count": 1,
   "today_goodnight_posted": false,
-  "month_total_posts": 337,
+  "month_total_posts": 338,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-03-28",
-  "last_post_time": "19:01:42",
+  "last_post_date": "2026-03-29",
+  "last_post_time": "00:04:56",
   "ng_retry_count": 107,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-28 19:01:42",
+  "updated_at": "2026-03-29 00:04:56",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": true,
+  "today_morning_posted": false,
   "today_skip_count": 0,
-  "today_max_posts": 12,
-  "today_narrative": "でもさ、こんな夜中にひとりじゃ、ちょっと… → おはよ…でも、まだ眠い… → ねむい…うーん、こんな時間に目が覚めるな… → なんかさ、桜咲いてるの見たら嬉しいような… → こんな暖かい夜なのに、なんでひとりぼっち… → やっぱ春っていいなぁ…でも、何かと心がザ… → はぁ、配達の時間指定ってほんと大変…なん… → 配達の途中、さっき10Fまで階段上がった… → なんか違うなぁ、配達の道すがら桜がちらほ… → ほんと眠い…残り28件もあるし、やる気出… → なんか、こんな暖かい夜にひとりなのって、… → あー、また明日もはいたつだなぁ…でもさ、…",
-  "last_post_timestamp_ms": 1774692102221
+  "today_max_posts": 9,
+  "today_narrative": "もう眠い…おやすみ⭐",
+  "last_post_timestamp_ms": 1774710296320
 }
