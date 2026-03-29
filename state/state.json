@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "もう少しでおわりだけど…心も体もつかれた〜💧ちょっとお話ししたいなぁ、誰かと…配達しながら考えちゃう😴",
+      "slot": "delivery",
+      "timestamp": "2026-03-29 15:03:06",
+      "hasImage": false
+    },
+    {
       "text": "また不在票出しちゃった…みんな出かけすぎじゃない？桜は綺麗だけど、そんなこと気にしてる場合じゃないよね…🤷‍♀️はぁ、誰かに褒められたい…",
       "slot": "delivery",
       "timestamp": "2026-03-29 14:13:06",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-03-29 06:47:06",
       "hasImage": false
-    },
-    {
-      "text": "もう眠い…おやすみ⭐",
-      "slot": "simple_goodnight",
-      "timestamp": "2026-03-29 00:04:56",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "delivery",
     "casual",
     "casual",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": false,
-  "month_total_posts": 344,
+  "month_total_posts": 345,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-29",
-  "last_post_time": "14:13:06",
+  "last_post_time": "15:03:06",
   "ng_retry_count": 108,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-29 14:13:06",
+  "updated_at": "2026-03-29 15:03:06",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 9,
-  "today_narrative": "もう眠い…おやすみ⭐ → さっきの…夢の中でも忙しかった気がする…… → さっきの夢の続き…みたいな感じで、今日も… → なんか配達してると、ふとした瞬間に誰かに… → もう眠い…おやすみ⭐\n夢の中でも誰かを待… → 夢の中でも忙しかった気がするけど、結局疲… → また不在票出しちゃった…みんな出かけすぎ…",
-  "last_post_timestamp_ms": 1774761186410
+  "today_narrative": "もう眠い…おやすみ⭐ → さっきの…夢の中でも忙しかった気がする…… → さっきの夢の続き…みたいな感じで、今日も… → なんか配達してると、ふとした瞬間に誰かに… → もう眠い…おやすみ⭐\n夢の中でも誰かを待… → 夢の中でも忙しかった気がするけど、結局疲… → また不在票出しちゃった…みんな出かけすぎ… → もう少しでおわりだけど…心も体もつかれた…",
+  "last_post_timestamp_ms": 1774764186133
 }
