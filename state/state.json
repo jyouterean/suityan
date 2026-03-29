@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 10,
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "寝る準備整った…おやすみなさい…",
+      "slot": "simple_goodnight",
+      "timestamp": "2026-03-30 00:26:16",
+      "hasImage": false
+    },
     {
       "text": "もう眠い…すっごくつかれた。はいたつの合間に誰かに会いたいなぁ。置き配してると、ふとした瞬間に何か感じる。たまには褒めてほしいよね。さっきも夢の中でも忙しかった気がする…😴🌸",
       "slot": "delivery",
@@ -37,42 +43,28 @@
       "slot": "delivery",
       "timestamp": "2026-03-29 09:15:24",
       "hasImage": false
-    },
-    {
-      "text": "さっきの夢の続き…みたいな感じで、今日もなんかだるいなぁ…😩 ねむい…仕事行くの面倒だな…",
-      "slot": "casual",
-      "timestamp": "2026-03-29 08:07:01",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight",
-    "morning",
-    "casual",
-    "delivery",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery"
+    "simple_goodnight"
   ],
-  "today_post_count": 9,
+  "today_post_count": 1,
   "today_goodnight_posted": false,
-  "month_total_posts": 346,
+  "month_total_posts": 347,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-03-29",
-  "last_post_time": "15:40:08",
+  "last_post_date": "2026-03-30",
+  "last_post_time": "00:26:16",
   "ng_retry_count": 109,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-29 15:40:08",
+  "updated_at": "2026-03-30 00:26:16",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": true,
+  "today_morning_posted": false,
   "today_skip_count": 0,
-  "today_max_posts": 9,
-  "today_narrative": "もう眠い…おやすみ⭐ → さっきの…夢の中でも忙しかった気がする…… → さっきの夢の続き…みたいな感じで、今日も… → なんか配達してると、ふとした瞬間に誰かに… → もう眠い…おやすみ⭐\n夢の中でも誰かを待… → 夢の中でも忙しかった気がするけど、結局疲… → また不在票出しちゃった…みんな出かけすぎ… → もう少しでおわりだけど…心も体もつかれた… → もう眠い…すっごくつかれた。はいたつの合…",
-  "last_post_timestamp_ms": 1774766408632
+  "today_max_posts": 12,
+  "today_narrative": "寝る準備整った…おやすみなさい…",
+  "last_post_timestamp_ms": 1774797976012
 }
