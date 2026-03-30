@@ -1,7 +1,13 @@
 {
-  "mood": "melancholy",
-  "energy": 30,
+  "mood": "frustrated",
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "さっきのだけど、今から仕事行くのだるいな…荷物重いし、運転中は花粉飛んでくるし…😩早く終わって帰りたい。",
+      "slot": "casual",
+      "timestamp": "2026-03-30 13:32:22",
+      "hasImage": false
+    },
     {
       "text": "今日も快晴🌞でも花粉にやられてる…みんな元気なのかなぁ？なんか一人で過ごしてると、めっちゃ寂しい。誰か、話したい…🙁",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-03-29 15:40:08",
       "hasImage": false
-    },
-    {
-      "text": "もう少しでおわりだけど…心も体もつかれた〜💧ちょっとお話ししたいなぁ、誰かと…配達しながら考えちゃう😴",
-      "slot": "delivery",
-      "timestamp": "2026-03-29 15:03:06",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "morning",
     "commute",
     "commute",
+    "casual",
     "casual"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": false,
-  "month_total_posts": 351,
+  "month_total_posts": 352,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-30",
-  "last_post_time": "12:49:00",
+  "last_post_time": "13:32:22",
   "ng_retry_count": 109,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-30 12:49:00",
+  "updated_at": "2026-03-30 13:32:22",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "寝る準備整った…おやすみなさい… → おはよう…ねむいなぁ…🌅 → 移動中、なんかさ…疲れてるのに誰かと帰り… → 移動中、花粉でクシャミ止まらん…春だなぁ… → 今日も快晴🌞でも花粉にやられてる…みん…",
-  "last_post_timestamp_ms": 1774842540587
+  "today_narrative": "寝る準備整った…おやすみなさい… → おはよう…ねむいなぁ…🌅 → 移動中、なんかさ…疲れてるのに誰かと帰り… → 移動中、花粉でクシャミ止まらん…春だなぁ… → 今日も快晴🌞でも花粉にやられてる…みん… → さっきのだけど、今から仕事行くのだるいな…",
+  "last_post_timestamp_ms": 1774845142819
 }
