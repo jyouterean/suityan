@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 70,
+  "mood": "tired",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "なんかもうむり…意識が…飛びそう…これからまた階段登るの？やだなぁ…お腹すいたし、誰か優しい人いないかな…😩",
+      "slot": "morning",
+      "timestamp": "2026-03-31 07:19:49",
+      "hasImage": false
+    },
     {
       "text": "しばらく駐車場で待機…お客さんに「ありがとう」って言われてちょっと嬉しかった…でもこの階段上がるの、もう勘弁してほしい…残り2件、早く終わらせて帰りたい…誰か会いたいなぁ…😔",
       "slot": "delivery",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-03-30 15:21:39",
       "hasImage": false
-    },
-    {
-      "text": "あ〜、マンションの階段が疲れる…さっき持った荷物、重すぎたよ💦お客さんも優しかったらいいのに…なんか褒めてもらえたら、もっと頑張れるのに…😅",
-      "slot": "delivery",
-      "timestamp": "2026-03-30 14:33:03",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "delivery"
+    "delivery",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 359,
+  "month_total_posts": 360,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-31",
-  "last_post_time": "01:09:19",
+  "last_post_time": "07:19:49",
   "ng_retry_count": 109,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-31 01:09:19",
+  "updated_at": "2026-03-31 07:19:49",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "しばらく駐車場で待機…お客さんに「ありが…",
-  "last_post_timestamp_ms": 1774886959170
+  "today_narrative": "しばらく駐車場で待機…お客さんに「ありが… → なんかもうむり…意識が…飛びそう…これか…",
+  "last_post_timestamp_ms": 1774909189204
 }
