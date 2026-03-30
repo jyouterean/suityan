@@ -1,7 +1,13 @@
 {
-  "mood": "frustrated",
-  "energy": 20,
+  "mood": "tired",
+  "energy": 10,
   "last_posts": [
+    {
+      "text": "あ〜、マンションの階段が疲れる…さっき持った荷物、重すぎたよ💦お客さんも優しかったらいいのに…なんか褒めてもらえたら、もっと頑張れるのに…😅",
+      "slot": "delivery",
+      "timestamp": "2026-03-30 14:33:03",
+      "hasImage": false
+    },
     {
       "text": "さっきのだけど、今から仕事行くのだるいな…荷物重いし、運転中は花粉飛んでくるし…😩早く終わって帰りたい。",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "simple_goodnight",
       "timestamp": "2026-03-30 00:26:16",
       "hasImage": false
-    },
-    {
-      "text": "もう眠い…すっごくつかれた。はいたつの合間に誰かに会いたいなぁ。置き配してると、ふとした瞬間に何か感じる。たまには褒めてほしいよね。さっきも夢の中でも忙しかった気がする…😴🌸",
-      "slot": "delivery",
-      "timestamp": "2026-03-29 15:40:08",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -51,25 +51,26 @@
     "commute",
     "commute",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 6,
+  "today_post_count": 7,
   "today_goodnight_posted": false,
-  "month_total_posts": 352,
+  "month_total_posts": 353,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-30",
-  "last_post_time": "13:32:22",
+  "last_post_time": "14:33:03",
   "ng_retry_count": 109,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-30 13:32:22",
+  "updated_at": "2026-03-30 14:33:03",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "寝る準備整った…おやすみなさい… → おはよう…ねむいなぁ…🌅 → 移動中、なんかさ…疲れてるのに誰かと帰り… → 移動中、花粉でクシャミ止まらん…春だなぁ… → 今日も快晴🌞でも花粉にやられてる…みん… → さっきのだけど、今から仕事行くのだるいな…",
-  "last_post_timestamp_ms": 1774845142819
+  "today_narrative": "寝る準備整った…おやすみなさい… → おはよう…ねむいなぁ…🌅 → 移動中、なんかさ…疲れてるのに誰かと帰り… → 移動中、花粉でクシャミ止まらん…春だなぁ… → 今日も快晴🌞でも花粉にやられてる…みん… → さっきのだけど、今から仕事行くのだるいな… → あ〜、マンションの階段が疲れる…さっき持…",
+  "last_post_timestamp_ms": 1774848783313
 }
