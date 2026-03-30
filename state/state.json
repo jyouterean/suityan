@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 60,
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "帰り道…なんかもう誰かと帰りたいなぁ…軽バンの運転、ただの移動…眠いし、だるいし、花粉でくしゃみもでるし…今日は141件の配達だったし…帰ったら缶コーヒー飲も…☕",
+      "slot": "commute",
+      "timestamp": "2026-03-31 08:23:46",
+      "hasImage": false
+    },
     {
       "text": "なんかもうむり…意識が…飛びそう…これからまた階段登るの？やだなぁ…お腹すいたし、誰か優しい人いないかな…😩",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "delivery",
       "timestamp": "2026-03-30 16:25:37",
       "hasImage": false
-    },
-    {
-      "text": "段ボール積むのしんどいなぁ…これから130件のはいたつ💦だれかと一緒に帰りたいよ〜、誰か褒めてほしい…お腹空いた…",
-      "slot": "delivery",
-      "timestamp": "2026-03-30 15:21:39",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "delivery",
-    "morning"
+    "morning",
+    "commute"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 360,
+  "month_total_posts": 361,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-31",
-  "last_post_time": "07:19:49",
+  "last_post_time": "08:23:46",
   "ng_retry_count": 109,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-31 07:19:49",
+  "updated_at": "2026-03-31 08:23:46",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "しばらく駐車場で待機…お客さんに「ありが… → なんかもうむり…意識が…飛びそう…これか…",
-  "last_post_timestamp_ms": 1774909189204
+  "today_narrative": "しばらく駐車場で待機…お客さんに「ありが… → なんかもうむり…意識が…飛びそう…これか… → 帰り道…なんかもう誰かと帰りたいなぁ…軽…",
+  "last_post_timestamp_ms": 1774913026836
 }
