@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あー、もう疲れた…段ボールのせいで心も体もしんどい…さっきも思ったけど、誰かに会って褒めてほしいなぁ…。配達終わったらほんとに誰かと帰りたい…（自分で言ってて悲しくなった）",
+      "slot": "delivery",
+      "timestamp": "2026-03-30 17:22:46",
+      "hasImage": false
+    },
+    {
       "text": "ひとりで配達してると、なんかさ…帰りに誰かと話したい…最近さみしいなぁ…132件も運んでるのに人と関わってない…エナドリ飲んで頑張るしかないか…😅",
       "slot": "delivery",
       "timestamp": "2026-03-30 16:25:37",
@@ -37,12 +43,6 @@
       "slot": "commute",
       "timestamp": "2026-03-30 08:58:34",
       "hasImage": false
-    },
-    {
-      "text": "移動中、なんかさ…疲れてるのに誰かと帰りたい気持ちがもどかしい。軽バンの運転は楽しいけど、夜は寂しいなぁ…さっき6Fまで階段登ったのに、帰っても一人だと虚しい…（自分で言ってて悲しくなった）",
-      "slot": "commute",
-      "timestamp": "2026-03-30 08:18:33",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -54,25 +54,26 @@
     "casual",
     "delivery",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 9,
+  "today_post_count": 10,
   "today_goodnight_posted": false,
-  "month_total_posts": 355,
+  "month_total_posts": 356,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-30",
-  "last_post_time": "16:25:37",
+  "last_post_time": "17:22:46",
   "ng_retry_count": 109,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-30 16:25:37",
+  "updated_at": "2026-03-30 17:22:46",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "寝る準備整った…おやすみなさい… → おはよう…ねむいなぁ…🌅 → 移動中、なんかさ…疲れてるのに誰かと帰り… → 移動中、花粉でクシャミ止まらん…春だなぁ… → 今日も快晴🌞でも花粉にやられてる…みん… → さっきのだけど、今から仕事行くのだるいな… → あ〜、マンションの階段が疲れる…さっき持… → 段ボール積むのしんどいなぁ…これから13… → ひとりで配達してると、なんかさ…帰りに誰…",
-  "last_post_timestamp_ms": 1774855537276
+  "today_narrative": "寝る準備整った…おやすみなさい… → おはよう…ねむいなぁ…🌅 → 移動中、なんかさ…疲れてるのに誰かと帰り… → 移動中、花粉でクシャミ止まらん…春だなぁ… → 今日も快晴🌞でも花粉にやられてる…みん… → さっきのだけど、今から仕事行くのだるいな… → あ〜、マンションの階段が疲れる…さっき持… → 段ボール積むのしんどいなぁ…これから13… → ひとりで配達してると、なんかさ…帰りに誰… → あー、もう疲れた…段ボールのせいで心も体…",
+  "last_post_timestamp_ms": 1774858966824
 }
