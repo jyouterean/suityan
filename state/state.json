@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "もうすぐ帰るのに、なんかね…頭がぼーっとしてきた。雨も降ってるし、花粉だし、色々きつい…早く家に帰りたいなぁ…やっぱり一人はつらいわ。たまには誰かと一緒に帰りたい、ほんとに…☔😩",
+      "slot": "casual",
+      "timestamp": "2026-03-31 19:39:59",
+      "hasImage": false
+    },
+    {
       "text": "帰り道…あーもうほんと誰かと帰りたいなぁ…しんどいし、明日もあるし…エナドリでも飲んで元気出さなきゃ😩配達中の花粉やばいし、もう限界…意識が…飛びそう…",
       "slot": "commute",
       "timestamp": "2026-03-31 18:16:32",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-03-31 13:30:10",
       "hasImage": false
-    },
-    {
-      "text": "最近暖かくなってきたけど、花粉がきつい…😩 なんか鼻ムズムズするし、外出るのも億劫。。。あぁ、桜見たいなぁ。いつの間にかこんな時期か…",
-      "slot": "casual",
-      "timestamp": "2026-03-31 12:57:20",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "commute"
+    "commute",
+    "casual"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": false,
-  "month_total_posts": 369,
+  "month_total_posts": 370,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-31",
-  "last_post_time": "18:16:32",
+  "last_post_time": "19:39:59",
   "ng_retry_count": 112,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-31 18:16:32",
+  "updated_at": "2026-03-31 19:39:59",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "しばらく駐車場で待機…お客さんに「ありが… → なんかもうむり…意識が…飛びそう…これか… → 帰り道…なんかもう誰かと帰りたいなぁ…軽… → 待機中って暇だわ…配達先の人、優しかった… → 最近暖かくなってきたけど、花粉がきつい…… → てかさっきの、今日は配達多いし、花粉で頭… → 駐車場で待機中、もう限界…お客さん「あり… → もうしんどいよ…配達の残り少しなのに、も… → ほんと…待機中って暇だわ。お客さん、優し… → 待機中で頭がぼんやり…お客さんとのやり取… → 帰り道…あーもうほんと誰かと帰りたいなぁ…",
-  "last_post_timestamp_ms": 1774948592260
+  "today_narrative": "しばらく駐車場で待機…お客さんに「ありが… → なんかもうむり…意識が…飛びそう…これか… → 帰り道…なんかもう誰かと帰りたいなぁ…軽… → 待機中って暇だわ…配達先の人、優しかった… → 最近暖かくなってきたけど、花粉がきつい…… → てかさっきの、今日は配達多いし、花粉で頭… → 駐車場で待機中、もう限界…お客さん「あり… → もうしんどいよ…配達の残り少しなのに、も… → ほんと…待機中って暇だわ。お客さん、優し… → 待機中で頭がぼんやり…お客さんとのやり取… → 帰り道…あーもうほんと誰かと帰りたいなぁ… → もうすぐ帰るのに、なんかね…頭がぼーっと…",
+  "last_post_timestamp_ms": 1774953599265
 }
