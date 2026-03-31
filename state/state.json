@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "もうしんどいよ…配達の残り少しなのに、もう意識が飛びかけてるわ…あー誰かに会いたいなぁ…色々と褒めてほしい気分だわ…小雨降ってるし、帰りたい…🌧️",
+      "slot": "delivery",
+      "timestamp": "2026-03-31 15:18:04",
+      "hasImage": false
+    },
+    {
       "text": "駐車場で待機中、もう限界…お客さん「ありが」って、言葉がすぐ返せなかった…3Fまで階段、ほんとしんどい。まだ7件もあるし、意識が飛びそう。帰り道、誰かと帰れたらいいのになぁ…😩",
       "slot": "delivery",
       "timestamp": "2026-03-31 14:05:39",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-03-31 07:19:49",
       "hasImage": false
-    },
-    {
-      "text": "しばらく駐車場で待機…お客さんに「ありがとう」って言われてちょっと嬉しかった…でもこの階段上がるの、もう勘弁してほしい…残り2件、早く終わらせて帰りたい…誰か会いたいなぁ…😔",
-      "slot": "delivery",
-      "timestamp": "2026-03-31 01:09:19",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "delivery",
     "casual",
     "casual",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": false,
-  "month_total_posts": 365,
+  "month_total_posts": 366,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-31",
-  "last_post_time": "14:05:39",
-  "ng_retry_count": 109,
+  "last_post_time": "15:18:04",
+  "ng_retry_count": 110,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-31 14:05:39",
+  "updated_at": "2026-03-31 15:18:04",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "しばらく駐車場で待機…お客さんに「ありが… → なんかもうむり…意識が…飛びそう…これか… → 帰り道…なんかもう誰かと帰りたいなぁ…軽… → 待機中って暇だわ…配達先の人、優しかった… → 最近暖かくなってきたけど、花粉がきつい…… → てかさっきの、今日は配達多いし、花粉で頭… → 駐車場で待機中、もう限界…お客さん「あり…",
-  "last_post_timestamp_ms": 1774933539869
+  "today_narrative": "しばらく駐車場で待機…お客さんに「ありが… → なんかもうむり…意識が…飛びそう…これか… → 帰り道…なんかもう誰かと帰りたいなぁ…軽… → 待機中って暇だわ…配達先の人、優しかった… → 最近暖かくなってきたけど、花粉がきつい…… → てかさっきの、今日は配達多いし、花粉で頭… → 駐車場で待機中、もう限界…お客さん「あり… → もうしんどいよ…配達の残り少しなのに、も…",
+  "last_post_timestamp_ms": 1774937884485
 }
