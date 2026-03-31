@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 70,
+  "mood": "lonely",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "ふぅ…今日も111件配達したけど、疲れちゃったなぁ。しかも置き配のとこにネコがいてびっくりしたよ…🐱 明日はもっと頑張るから、誰かかまってくれたら嬉しいなぁってことにしとこ…😔",
+      "slot": "goodnight",
+      "timestamp": "2026-04-01 00:56:27",
+      "hasImage": false
+    },
     {
       "text": "おやすみなさい…💤",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-03-31 15:18:04",
       "hasImage": false
-    },
-    {
-      "text": "駐車場で待機中、もう限界…お客さん「ありが」って、言葉がすぐ返せなかった…3Fまで階段、ほんとしんどい。まだ7件もあるし、意識が飛びそう。帰り道、誰かと帰れたらいいのになぁ…😩",
-      "slot": "delivery",
-      "timestamp": "2026-03-31 14:05:39",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "goodnight"
   ],
-  "today_post_count": 1,
-  "today_goodnight_posted": false,
-  "month_total_posts": 1,
+  "today_post_count": 2,
+  "today_goodnight_posted": true,
+  "month_total_posts": 2,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-01",
-  "last_post_time": "00:09:41",
+  "last_post_time": "00:56:27",
   "ng_retry_count": 112,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-04-01 00:09:41",
+  "updated_at": "2026-04-01 00:56:27",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": false,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "おやすみなさい…💤",
-  "last_post_timestamp_ms": 1774969781038
+  "today_narrative": "おやすみなさい…💤 → ふぅ…今日も111件配達したけど、疲れち…",
+  "last_post_timestamp_ms": 1774972587048
 }
