@@ -1,7 +1,13 @@
 {
-  "mood": "melancholy",
-  "energy": 30,
+  "mood": "tired",
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "てかさっきの、今日は配達多いし、花粉で頭痛…💧 早く終わらせて休みたいなぁ。気が重い💭",
+      "slot": "casual",
+      "timestamp": "2026-03-31 13:30:10",
+      "hasImage": false
+    },
     {
       "text": "最近暖かくなってきたけど、花粉がきつい…😩 なんか鼻ムズムズするし、外出るのも億劫。。。あぁ、桜見たいなぁ。いつの間にかこんな時期か…",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-03-30 20:12:03",
       "hasImage": false
-    },
-    {
-      "text": "あーもう、ほんとにしんどい…体力が底をついた感じ…😩配達終わったら何も考えたくないなぁ…誰かに甘えたい…😞",
-      "slot": "commute",
-      "timestamp": "2026-03-30 18:39:59",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "morning",
     "commute",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": false,
-  "month_total_posts": 363,
+  "month_total_posts": 364,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-03-31",
-  "last_post_time": "12:57:20",
+  "last_post_time": "13:30:10",
   "ng_retry_count": 109,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-03-31 12:57:20",
+  "updated_at": "2026-03-31 13:30:10",
   "month_string": "2026-03",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "しばらく駐車場で待機…お客さんに「ありが… → なんかもうむり…意識が…飛びそう…これか… → 帰り道…なんかもう誰かと帰りたいなぁ…軽… → 待機中って暇だわ…配達先の人、優しかった… → 最近暖かくなってきたけど、花粉がきつい……",
-  "last_post_timestamp_ms": 1774929440133
+  "today_narrative": "しばらく駐車場で待機…お客さんに「ありが… → なんかもうむり…意識が…飛びそう…これか… → 帰り道…なんかもう誰かと帰りたいなぁ…軽… → 待機中って暇だわ…配達先の人、優しかった… → 最近暖かくなってきたけど、花粉がきつい…… → てかさっきの、今日は配達多いし、花粉で頭…",
+  "last_post_timestamp_ms": 1774931410295
 }
