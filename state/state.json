@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "なんか、配達先のお客さんが優しくて…ちょっと褒められたら嬉しかったなぁ…💖それだけで心が温かくなる感じ…まだ残り22件か…むり…",
+      "slot": "delivery",
+      "timestamp": "2026-04-01 07:56:17",
+      "hasImage": false
+    },
     {
       "text": "おはよ…まだ夢の中😴",
       "slot": "morning",
@@ -37,36 +43,31 @@
       "slot": "delivery",
       "timestamp": "2026-03-31 16:53:20",
       "hasImage": false
-    },
-    {
-      "text": "ほんと…待機中って暇だわ。お客さん、優しかったなぁ。あー、誰かに会いたい。もっと褒めてほしい…。もう意識が飛びそうだよ。残りの配達、早く終わってほしい…😩🌧️",
-      "slot": "delivery",
-      "timestamp": "2026-03-31 15:51:33",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
     "goodnight",
-    "morning"
+    "morning",
+    "delivery"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": true,
-  "month_total_posts": 3,
+  "month_total_posts": 4,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-01",
-  "last_post_time": "07:11:17",
+  "last_post_time": "07:56:17",
   "ng_retry_count": 112,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-04-01 07:11:17",
+  "updated_at": "2026-04-01 07:56:17",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "おやすみなさい…💤 → ふぅ…今日も111件配達したけど、疲れち… → おはよ…まだ夢の中😴",
-  "last_post_timestamp_ms": 1774995077033
+  "today_narrative": "おやすみなさい…💤 → ふぅ…今日も111件配達したけど、疲れち… → おはよ…まだ夢の中😴 → なんか、配達先のお客さんが優しくて…ちょ…",
+  "last_post_timestamp_ms": 1774997777198
 }
