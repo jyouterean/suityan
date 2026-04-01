@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "春ってあったかくなってきたけど、やっぱ花粉が…くしゃみ止まんないし。あぁ、なんかだるいなぁ。まったりしたい気分なのに。",
+      "slot": "casual",
+      "timestamp": "2026-04-02 08:28:17",
+      "hasImage": false
+    },
     {
       "text": "ほんと、寝起きでぼーっとしてて…荷物のこと考えてたら頭が痛くなってきた😓 もうなんか、むり…どうしよう…",
       "slot": "morning",
@@ -37,36 +43,31 @@
       "slot": "delivery",
       "timestamp": "2026-04-01 17:04:42",
       "hasImage": false
-    },
-    {
-      "text": "あー、雨の中での配達はほんと嫌だなぁ…💧ほかの人に会いたい…そしたら元気もらえそうなのに…",
-      "slot": "delivery",
-      "timestamp": "2026-04-01 16:27:51",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
     "delivery",
-    "morning"
+    "morning",
+    "casual"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": false,
-  "month_total_posts": 15,
+  "month_total_posts": 16,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-02",
-  "last_post_time": "06:58:35",
+  "last_post_time": "08:28:17",
   "ng_retry_count": 114,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-04-02 06:58:35",
+  "updated_at": "2026-04-02 08:28:17",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 11,
-  "today_narrative": "もう眠い…寝る… → 雨、やんなっちゃう…荷物がまた増えてるし… → ほんと、寝起きでぼーっとしてて…荷物のこ…",
-  "last_post_timestamp_ms": 1775080715036
+  "today_narrative": "もう眠い…寝る… → 雨、やんなっちゃう…荷物がまた増えてるし… → ほんと、寝起きでぼーっとしてて…荷物のこ… → 春ってあったかくなってきたけど、やっぱ花…",
+  "last_post_timestamp_ms": 1775086097415
 }
