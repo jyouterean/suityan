@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あー、ほんとに心がもやもや…春なのに、こうやってずっと雨降ってると、気持ちも重くなっちゃうよね… なんか、だれかかまってほしいなぁ…🌧️",
+      "slot": "casual",
+      "timestamp": "2026-04-01 20:02:29",
+      "hasImage": false
+    },
+    {
       "text": "ほんと、運転ばっかだと心がどんより…なんか一人で帰る虚しさ半端ない。誰かと一緒に帰りたいなぁ、あーしんど…😔",
       "slot": "commute",
       "timestamp": "2026-04-01 18:33:49",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-04-01 13:13:10",
       "hasImage": false
-    },
-    {
-      "text": "あぁ、また軽バンでの移動が続く…もう心が疲れちゃってるなぁ😞 配達先の子供が手を振ってくれたの、嬉しかったけど…結局一人ぼっち。誰かと話したいよ、ほんと…",
-      "slot": "delivery",
-      "timestamp": "2026-04-01 09:01:44",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "commute"
+    "commute",
+    "casual"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": true,
-  "month_total_posts": 11,
+  "month_total_posts": 12,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-01",
-  "last_post_time": "18:33:49",
+  "last_post_time": "20:02:29",
   "ng_retry_count": 114,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-04-01 18:33:49",
+  "updated_at": "2026-04-01 20:02:29",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 12,
-  "today_narrative": "おやすみなさい…💤 → ふぅ…今日も111件配達したけど、疲れち… → おはよ…まだ夢の中😴 → なんか、配達先のお客さんが優しくて…ちょ… → あぁ、また軽バンでの移動が続く…もう心が… → 雨やんだらいいなぁ…🌧️ほんと春は花粉… → さっきの花粉だけど、今日もたくさん運転し… → あーもう、重い荷物運ぶのしんどい…😩早… → あー、雨の中での配達はほんと嫌だなぁ…\ud83d… → ほんと、ずっと配達してると気分もどんより… → ほんと、運転ばっかだと心がどんより…なん…",
-  "last_post_timestamp_ms": 1775036029465
+  "today_narrative": "おやすみなさい…💤 → ふぅ…今日も111件配達したけど、疲れち… → おはよ…まだ夢の中😴 → なんか、配達先のお客さんが優しくて…ちょ… → あぁ、また軽バンでの移動が続く…もう心が… → 雨やんだらいいなぁ…🌧️ほんと春は花粉… → さっきの花粉だけど、今日もたくさん運転し… → あーもう、重い荷物運ぶのしんどい…😩早… → あー、雨の中での配達はほんと嫌だなぁ…\ud83d… → ほんと、ずっと配達してると気分もどんより… → ほんと、運転ばっかだと心がどんより…なん… → あー、ほんとに心がもやもや…春なのに、こ…",
+  "last_post_timestamp_ms": 1775041349262
 }
