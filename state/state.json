@@ -1,7 +1,13 @@
 {
-  "mood": "frustrated",
-  "energy": 20,
+  "mood": "tired",
+  "energy": 10,
   "last_posts": [
+    {
+      "text": "さっきの花粉だけど、今日もたくさん運転したなぁ…もう疲れた😩 でも仕事は待ってくれないし、頑張るしかないか。",
+      "slot": "casual",
+      "timestamp": "2026-04-01 13:45:37",
+      "hasImage": false
+    },
     {
       "text": "雨やんだらいいなぁ…🌧️ほんと春は花粉がすごいけど、あったかくなってきてちょっと嬉しい…でもなんか、優しい声が恋しいなぁ…",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "simple_goodnight",
       "timestamp": "2026-04-01 00:09:41",
       "hasImage": false
-    },
-    {
-      "text": "もうすぐ帰るのに、なんかね…頭がぼーっとしてきた。雨も降ってるし、花粉だし、色々きつい…早く家に帰りたいなぁ…やっぱり一人はつらいわ。たまには誰かと一緒に帰りたい、ほんとに…☔😩",
-      "slot": "casual",
-      "timestamp": "2026-03-31 19:39:59",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -51,25 +51,26 @@
     "morning",
     "delivery",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 6,
+  "today_post_count": 7,
   "today_goodnight_posted": true,
-  "month_total_posts": 6,
+  "month_total_posts": 7,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-01",
-  "last_post_time": "13:13:10",
+  "last_post_time": "13:45:37",
   "ng_retry_count": 113,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-04-01 13:13:10",
+  "updated_at": "2026-04-01 13:45:37",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "おやすみなさい…💤 → ふぅ…今日も111件配達したけど、疲れち… → おはよ…まだ夢の中😴 → なんか、配達先のお客さんが優しくて…ちょ… → あぁ、また軽バンでの移動が続く…もう心が… → 雨やんだらいいなぁ…🌧️ほんと春は花粉…",
-  "last_post_timestamp_ms": 1775016790771
+  "today_narrative": "おやすみなさい…💤 → ふぅ…今日も111件配達したけど、疲れち… → おはよ…まだ夢の中😴 → なんか、配達先のお客さんが優しくて…ちょ… → あぁ、また軽バンでの移動が続く…もう心が… → 雨やんだらいいなぁ…🌧️ほんと春は花粉… → さっきの花粉だけど、今日もたくさん運転し…",
+  "last_post_timestamp_ms": 1775018737565
 }
