@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 60,
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "ほんと、寝起きでぼーっとしてて…荷物のこと考えてたら頭が痛くなってきた😓 もうなんか、むり…どうしよう…",
+      "slot": "morning",
+      "timestamp": "2026-04-02 06:58:35",
+      "hasImage": false
+    },
     {
       "text": "雨、やんなっちゃう…荷物がまた増えてるし、もう20件も残ってるんだよね。お客さんと話すのもなんか緊張するし、褒めてほしいなぁ…誰か会いに来て！配達ばっかだと心が重くなるよ😔",
       "slot": "delivery",
@@ -37,35 +43,30 @@
       "slot": "delivery",
       "timestamp": "2026-04-01 16:27:51",
       "hasImage": false
-    },
-    {
-      "text": "あーもう、重い荷物運ぶのしんどい…😩早く終わらせて、誰かに褒められたいなぁ。まじで心も体もくたくた…💔",
-      "slot": "delivery",
-      "timestamp": "2026-04-01 15:37:43",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
-    "delivery"
+    "delivery",
+    "morning"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 14,
+  "month_total_posts": 15,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-02",
-  "last_post_time": "01:00:36",
+  "last_post_time": "06:58:35",
   "ng_retry_count": 114,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-04-02 01:00:36",
+  "updated_at": "2026-04-02 06:58:35",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 11,
-  "today_narrative": "もう眠い…寝る… → 雨、やんなっちゃう…荷物がまた増えてるし…",
-  "last_post_timestamp_ms": 1775059236034
+  "today_narrative": "もう眠い…寝る… → 雨、やんなっちゃう…荷物がまた増えてるし… → ほんと、寝起きでぼーっとしてて…荷物のこ…",
+  "last_post_timestamp_ms": 1775080715036
 }
