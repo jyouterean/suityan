@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "ほんと、運転ばっかだと心がどんより…なんか一人で帰る虚しさ半端ない。誰かと一緒に帰りたいなぁ、あーしんど…😔",
+      "slot": "commute",
+      "timestamp": "2026-04-01 18:33:49",
+      "hasImage": false
+    },
+    {
       "text": "ほんと、ずっと配達してると気分もどんより…😖やっぱり誰かに優しくされたいなぁ…もう少しパワーほしい!!お客さんとの会話やっぱり大事だよね…😔",
       "slot": "delivery",
       "timestamp": "2026-04-01 17:04:42",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-04-01 09:01:44",
       "hasImage": false
-    },
-    {
-      "text": "なんか、配達先のお客さんが優しくて…ちょっと褒められたら嬉しかったなぁ…💖それだけで心が温かくなる感じ…まだ残り22件か…むり…",
-      "slot": "delivery",
-      "timestamp": "2026-04-01 07:56:17",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -55,25 +55,26 @@
     "casual",
     "delivery",
     "delivery",
-    "delivery"
+    "delivery",
+    "commute"
   ],
-  "today_post_count": 10,
+  "today_post_count": 11,
   "today_goodnight_posted": true,
-  "month_total_posts": 10,
+  "month_total_posts": 11,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-01",
-  "last_post_time": "17:04:42",
-  "ng_retry_count": 113,
+  "last_post_time": "18:33:49",
+  "ng_retry_count": 114,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-04-01 17:04:42",
+  "updated_at": "2026-04-01 18:33:49",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 12,
-  "today_narrative": "おやすみなさい…💤 → ふぅ…今日も111件配達したけど、疲れち… → おはよ…まだ夢の中😴 → なんか、配達先のお客さんが優しくて…ちょ… → あぁ、また軽バンでの移動が続く…もう心が… → 雨やんだらいいなぁ…🌧️ほんと春は花粉… → さっきの花粉だけど、今日もたくさん運転し… → あーもう、重い荷物運ぶのしんどい…😩早… → あー、雨の中での配達はほんと嫌だなぁ…\ud83d… → ほんと、ずっと配達してると気分もどんより…",
-  "last_post_timestamp_ms": 1775030682169
+  "today_narrative": "おやすみなさい…💤 → ふぅ…今日も111件配達したけど、疲れち… → おはよ…まだ夢の中😴 → なんか、配達先のお客さんが優しくて…ちょ… → あぁ、また軽バンでの移動が続く…もう心が… → 雨やんだらいいなぁ…🌧️ほんと春は花粉… → さっきの花粉だけど、今日もたくさん運転し… → あーもう、重い荷物運ぶのしんどい…😩早… → あー、雨の中での配達はほんと嫌だなぁ…\ud83d… → ほんと、ずっと配達してると気分もどんより… → ほんと、運転ばっかだと心がどんより…なん…",
+  "last_post_timestamp_ms": 1775036029465
 }
