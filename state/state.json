@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "配達してると、いろんな人に会うけど…なかなか心が満たされないなぁ…誰かに褒めてほしい…それとこの季節、なんかいろいろ思い出してさ…桜の下で誰かとふたりでお花見したいな…😔✨",
+      "slot": "delivery",
+      "timestamp": "2026-04-02 14:13:05",
+      "hasImage": false
+    },
+    {
       "text": "最近、一人の時間が長いなぁ…なんかちょっと寂しい…それでも、桜が咲いてるから春の香りがするのはいいよね🌸暖かくてウトウトしちゃう…でも、やっぱり花粉が辛い…",
       "slot": "casual",
       "timestamp": "2026-04-02 13:28:59",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-04-02 01:00:36",
       "hasImage": false
-    },
-    {
-      "text": "もう眠い…寝る…",
-      "slot": "simple_goodnight",
-      "timestamp": "2026-04-02 00:13:59",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "casual",
     "delivery",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": false,
-  "month_total_posts": 19,
+  "month_total_posts": 20,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-02",
-  "last_post_time": "13:28:59",
+  "last_post_time": "14:13:05",
   "ng_retry_count": 114,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-04-02 13:28:59",
+  "updated_at": "2026-04-02 14:13:05",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 11,
-  "today_narrative": "もう眠い…寝る… → 雨、やんなっちゃう…荷物がまた増えてるし… → ほんと、寝起きでぼーっとしてて…荷物のこ… → 春ってあったかくなってきたけど、やっぱ花… → ねむい…最近、犬に吠えられること多くなっ… → もう眠いな…最近、暖かくなってきたとはい… → 最近、一人の時間が長いなぁ…なんかちょっ…",
-  "last_post_timestamp_ms": 1775104139602
+  "today_narrative": "もう眠い…寝る… → 雨、やんなっちゃう…荷物がまた増えてるし… → ほんと、寝起きでぼーっとしてて…荷物のこ… → 春ってあったかくなってきたけど、やっぱ花… → ねむい…最近、犬に吠えられること多くなっ… → もう眠いな…最近、暖かくなってきたとはい… → 最近、一人の時間が長いなぁ…なんかちょっ… → 配達してると、いろんな人に会うけど…なか…",
+  "last_post_timestamp_ms": 1775106785775
 }
