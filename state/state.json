@@ -1,7 +1,13 @@
 {
-  "mood": "melancholy",
-  "energy": 20,
+  "mood": "tired",
+  "energy": 10,
   "last_posts": [
+    {
+      "text": "最近、一人の時間が長いなぁ…なんかちょっと寂しい…それでも、桜が咲いてるから春の香りがするのはいいよね🌸暖かくてウトウトしちゃう…でも、やっぱり花粉が辛い…",
+      "slot": "casual",
+      "timestamp": "2026-04-02 13:28:59",
+      "hasImage": false
+    },
     {
       "text": "もう眠いな…最近、暖かくなってきたとはいえ、やっぱり春ってなんか切ない気持ちになるよね…新しい季節、なんか色々変わるからかも。桜もどんどん咲いてるし、花粉もひどいし…今日もぼんやりしちゃったな。",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "simple_goodnight",
       "timestamp": "2026-04-02 00:13:59",
       "hasImage": false
-    },
-    {
-      "text": "あー、ほんとに心がもやもや…春なのに、こうやってずっと雨降ってると、気持ちも重くなっちゃうよね… なんか、だれかかまってほしいなぁ…🌧️",
-      "slot": "casual",
-      "timestamp": "2026-04-01 20:02:29",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -51,25 +51,26 @@
     "morning",
     "casual",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 6,
+  "today_post_count": 7,
   "today_goodnight_posted": false,
-  "month_total_posts": 18,
+  "month_total_posts": 19,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-02",
-  "last_post_time": "12:57:09",
+  "last_post_time": "13:28:59",
   "ng_retry_count": 114,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-04-02 12:57:09",
+  "updated_at": "2026-04-02 13:28:59",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 11,
-  "today_narrative": "もう眠い…寝る… → 雨、やんなっちゃう…荷物がまた増えてるし… → ほんと、寝起きでぼーっとしてて…荷物のこ… → 春ってあったかくなってきたけど、やっぱ花… → ねむい…最近、犬に吠えられること多くなっ… → もう眠いな…最近、暖かくなってきたとはい…",
-  "last_post_timestamp_ms": 1775102229728
+  "today_narrative": "もう眠い…寝る… → 雨、やんなっちゃう…荷物がまた増えてるし… → ほんと、寝起きでぼーっとしてて…荷物のこ… → 春ってあったかくなってきたけど、やっぱ花… → ねむい…最近、犬に吠えられること多くなっ… → もう眠いな…最近、暖かくなってきたとはい… → 最近、一人の時間が長いなぁ…なんかちょっ…",
+  "last_post_timestamp_ms": 1775104139602
 }
