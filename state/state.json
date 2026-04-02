@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 10,
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "おやすみなさい…もう無理…",
+      "slot": "simple_goodnight",
+      "timestamp": "2026-04-03 00:41:11",
+      "hasImage": false
+    },
     {
       "text": "あーしんど…やっと残り10件。あっつくなってきたけど、気分はひんやり…ほんと、一人の時間が増えると寂しくなるなぁ。なんか、誰かに会いたい…ふう、配達の合間に深呼吸しよ💭",
       "slot": "delivery",
@@ -37,44 +43,28 @@
       "slot": "casual",
       "timestamp": "2026-04-02 12:57:09",
       "hasImage": false
-    },
-    {
-      "text": "ねむい…最近、犬に吠えられること多くなってきた気がする…配達も80件はしんどいよね、ほんと気が滅入るわ💭 今日は雨も降りそうだし、誰かに会いたいなぁ…",
-      "slot": "delivery",
-      "timestamp": "2026-04-02 09:02:27",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight",
-    "delivery",
-    "morning",
-    "casual",
-    "delivery",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery",
-    "delivery"
+    "simple_goodnight"
   ],
-  "today_post_count": 11,
+  "today_post_count": 1,
   "today_goodnight_posted": false,
-  "month_total_posts": 23,
+  "month_total_posts": 24,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-04-02",
-  "last_post_time": "16:52:32",
+  "last_post_date": "2026-04-03",
+  "last_post_time": "00:41:11",
   "ng_retry_count": 114,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-04-02 16:52:32",
+  "updated_at": "2026-04-03 00:41:11",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": true,
+  "today_morning_posted": false,
   "today_skip_count": 0,
-  "today_max_posts": 11,
-  "today_narrative": "もう眠い…寝る… → 雨、やんなっちゃう…荷物がまた増えてるし… → ほんと、寝起きでぼーっとしてて…荷物のこ… → 春ってあったかくなってきたけど、やっぱ花… → ねむい…最近、犬に吠えられること多くなっ… → もう眠いな…最近、暖かくなってきたとはい… → 最近、一人の時間が長いなぁ…なんかちょっ… → 配達してると、いろんな人に会うけど…なか… → 荷物のこ…やっぱり疲れちゃうなぁ…今日は… → あーもう本当にしんどい…再はいたつの荷物… → あーしんど…やっと残り10件。あっつくな…",
-  "last_post_timestamp_ms": 1775116352136
+  "today_max_posts": 12,
+  "today_narrative": "おやすみなさい…もう無理…",
+  "last_post_timestamp_ms": 1775144471396
 }
