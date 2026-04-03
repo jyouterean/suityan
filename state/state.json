@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 40,
+  "mood": "tired",
+  "energy": 30,
   "last_posts": [
+    {
+      "text": "快晴の中、ふと目に入った桜がすっごく綺麗で、なんだかほっこり…🌸これから新生活が始まる時期なんだね。ちょっとドキドキするなぁ。誰か一緒に花見とか行きたいな…なんてね。",
+      "slot": "casual",
+      "timestamp": "2026-04-03 12:32:27",
+      "hasImage": false
+    },
     {
       "text": "あと4件か…そんなにあるのにもう眠い…不在票ばっかりでお客さんと話す時間も減っちゃったし…誰か褒めてほしい…結局、ただの運転手…",
       "slot": "delivery",
@@ -37,37 +43,32 @@
       "slot": "delivery",
       "timestamp": "2026-04-02 15:47:59",
       "hasImage": false
-    },
-    {
-      "text": "荷物のこ…やっぱり疲れちゃうなぁ…今日は146件はいたつして、残り8件…でも体力ほぼゼロ…あー、もう誰か会いたい…子供が手振ってきたの思い出すと、ちょっとだけ癒されるけど…ほんと、しんど…",
-      "slot": "delivery",
-      "timestamp": "2026-04-02 15:12:29",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
     "morning",
     "commute",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 4,
+  "today_post_count": 5,
   "today_goodnight_posted": false,
-  "month_total_posts": 27,
+  "month_total_posts": 28,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-03",
-  "last_post_time": "09:03:33",
+  "last_post_time": "12:32:27",
   "ng_retry_count": 114,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-04-03 09:03:33",
+  "updated_at": "2026-04-03 12:32:27",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "おやすみなさい…もう無理… → おはよー、まだ寝たいな… → 荷物届け終わって帰る途中…淡々としてるけ… → あと4件か…そんなにあるのにもう眠い…不…",
-  "last_post_timestamp_ms": 1775174613819
+  "today_narrative": "おやすみなさい…もう無理… → おはよー、まだ寝たいな… → 荷物届け終わって帰る途中…淡々としてるけ… → あと4件か…そんなにあるのにもう眠い…不… → 快晴の中、ふと目に入った桜がすっごく綺麗…",
+  "last_post_timestamp_ms": 1775187147250
 }
