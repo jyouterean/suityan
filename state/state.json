@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 60,
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "春の日差しが気持ちいいけど、やっぱり眠くてだるいなぁ…もう寝る時間だよね。おやすみなさい、良い夢見れるといいなぁ…🌙",
+      "slot": "casual",
+      "timestamp": "2026-04-04 08:25:34",
+      "hasImage": false
+    },
     {
       "text": "あれ…また寝ちゃった…",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "delivery",
       "timestamp": "2026-04-03 16:04:19",
       "hasImage": false
-    },
-    {
-      "text": "あーもう、ほんとしんどい…荷物運ぶのも84件って言ったけど、私の体力はもうほぼゼロ…誰かにほめてもらいたいなぁ…ってことにしとこ💭",
-      "slot": "delivery",
-      "timestamp": "2026-04-03 15:09:15",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
-    "morning"
+    "morning",
+    "casual"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": true,
-  "month_total_posts": 37,
+  "month_total_posts": 38,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-04",
-  "last_post_time": "06:56:58",
+  "last_post_time": "08:25:34",
   "ng_retry_count": 118,
   "fallback_used_count": 3,
   "created_at": null,
-  "updated_at": "2026-04-04 06:56:58",
+  "updated_at": "2026-04-04 08:25:34",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "もう寝る時間…お疲れ様なぁ。残り9件の配… → あれ…また寝ちゃった…",
-  "last_post_timestamp_ms": 1775253418888
+  "today_narrative": "もう寝る時間…お疲れ様なぁ。残り9件の配… → あれ…また寝ちゃった… → 春の日差しが気持ちいいけど、やっぱり眠く…",
+  "last_post_timestamp_ms": 1775258734495
 }
