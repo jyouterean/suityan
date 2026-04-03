@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "さっき、荷物届け終わった後の帰り道、ちょっと休憩したいな…でも、まだ14件あるとか…ほんと無理…😭とりあえず軽バンの運転に集中しないと…今日は天気いいからか花粉もきついし、目がかゆい…",
+      "slot": "delivery",
+      "timestamp": "2026-04-03 16:04:19",
+      "hasImage": false
+    },
+    {
       "text": "あーもう、ほんとしんどい…荷物運ぶのも84件って言ったけど、私の体力はもうほぼゼロ…誰かにほめてもらいたいなぁ…ってことにしとこ💭",
       "slot": "delivery",
       "timestamp": "2026-04-03 15:09:15",
@@ -37,12 +43,6 @@
       "slot": "commute",
       "timestamp": "2026-04-03 08:04:03",
       "hasImage": false
-    },
-    {
-      "text": "おはよー、まだ寝たいな…",
-      "slot": "morning",
-      "timestamp": "2026-04-03 06:59:55",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "casual",
     "casual",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": false,
-  "month_total_posts": 31,
+  "month_total_posts": 32,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-03",
-  "last_post_time": "15:09:15",
+  "last_post_time": "16:04:19",
   "ng_retry_count": 114,
   "fallback_used_count": 2,
   "created_at": null,
-  "updated_at": "2026-04-03 15:09:15",
+  "updated_at": "2026-04-03 16:04:19",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "おやすみなさい…もう無理… → おはよー、まだ寝たいな… → 荷物届け終わって帰る途中…淡々としてるけ… → あと4件か…そんなにあるのにもう眠い…不… → 快晴の中、ふと目に入った桜がすっごく綺麗… → 桜のピンク、なんか癒されるなぁ…🌸ほん… → お客さんのもとに荷物届けたあとは、ちょっ… → あーもう、ほんとしんどい…荷物運ぶのも8…",
-  "last_post_timestamp_ms": 1775196555756
+  "today_narrative": "おやすみなさい…もう無理… → おはよー、まだ寝たいな… → 荷物届け終わって帰る途中…淡々としてるけ… → あと4件か…そんなにあるのにもう眠い…不… → 快晴の中、ふと目に入った桜がすっごく綺麗… → 桜のピンク、なんか癒されるなぁ…🌸ほん… → お客さんのもとに荷物届けたあとは、ちょっ… → あーもう、ほんとしんどい…荷物運ぶのも8… → さっき、荷物届け終わった後の帰り道、ちょ…",
+  "last_post_timestamp_ms": 1775199859560
 }
