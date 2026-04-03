@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 10,
+  "mood": "lonely",
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "もう寝る時間…お疲れ様なぁ。残り9件の配達、ちょっとだけ頑張れるかな…? こういう日は甘えたくなっちゃうなぁ、ねぇ…🌙 みんな、良い夢見てね…",
+      "slot": "goodnight",
+      "timestamp": "2026-04-04 00:35:51",
+      "hasImage": false
+    },
     {
       "text": "ほんと桜のピンクって癒されるなぁ…🌸ふわっとした気持ちになるけど、あー疲れた…まだまだ荷物運ぶのか…しんどいなぁ…",
       "slot": "casual",
@@ -37,45 +43,28 @@
       "slot": "delivery",
       "timestamp": "2026-04-03 14:15:31",
       "hasImage": false
-    },
-    {
-      "text": "桜のピンク、なんか癒されるなぁ…🌸ほんと春になってきたなぁ。こういう穏やかな日が続くといいな。今週末、どこか行きたい気分…でも、すぐ寝ちゃいそう…😴",
-      "slot": "casual",
-      "timestamp": "2026-04-03 13:05:30",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight",
-    "morning",
-    "commute",
-    "delivery",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery",
-    "delivery",
-    "commute",
-    "casual"
+    "goodnight"
   ],
-  "today_post_count": 12,
-  "today_goodnight_posted": false,
-  "month_total_posts": 35,
+  "today_post_count": 1,
+  "today_goodnight_posted": true,
+  "month_total_posts": 36,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-04-03",
-  "last_post_time": "19:30:12",
-  "ng_retry_count": 117,
+  "last_post_date": "2026-04-04",
+  "last_post_time": "00:35:51",
+  "ng_retry_count": 118,
   "fallback_used_count": 3,
   "created_at": null,
-  "updated_at": "2026-04-03 19:30:12",
+  "updated_at": "2026-04-04 00:35:51",
   "month_string": "2026-04",
   "today_skipped": false,
-  "today_simple_goodnight_posted": true,
-  "today_morning_posted": true,
+  "today_simple_goodnight_posted": false,
+  "today_morning_posted": false,
   "today_skip_count": 0,
-  "today_max_posts": 12,
-  "today_narrative": "おやすみなさい…もう無理… → おはよー、まだ寝たいな… → 荷物届け終わって帰る途中…淡々としてるけ… → あと4件か…そんなにあるのにもう眠い…不… → 快晴の中、ふと目に入った桜がすっごく綺麗… → 桜のピンク、なんか癒されるなぁ…🌸ほん… → お客さんのもとに荷物届けたあとは、ちょっ… → あーもう、ほんとしんどい…荷物運ぶのも8… → さっき、荷物届け終わった後の帰り道、ちょ… → 今日も配達がんばった。疲れたけど、明日も… → あー、今日も重い荷物運んで…疲れたなぁ。… → ほんと桜のピンクって癒されるなぁ…🌸ふ…",
-  "last_post_timestamp_ms": 1775212212563
+  "today_max_posts": 15,
+  "today_narrative": "もう寝る時間…お疲れ様なぁ。残り9件の配…",
+  "last_post_timestamp_ms": 1775230551319
 }
