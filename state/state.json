@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あー…なんだか、もう夜も遅いねぇ…雨の音が静かでちょっと落ち着くけど、眠気がまさる…こんな日は甘いものでも食べたいなあ…🍰でも食べたら余計に眠くなっちゃうよねぇ…😴",
+      "slot": "casual",
+      "timestamp": "2026-04-04 20:53:05",
+      "hasImage": false
+    },
+    {
       "text": "あーもう疲れた…ほんと体力がゼロ。こういう日ってなんで続くんだろう…😩誰か助けて…",
       "slot": "casual",
       "timestamp": "2026-04-04 19:05:40",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-04-04 09:02:12",
       "hasImage": false
-    },
-    {
-      "text": "春の日差しが気持ちいいけど、やっぱり眠くてだるいなぁ…もう寝る時間だよね。おやすみなさい、良い夢見れるといいなぁ…🌙",
-      "slot": "casual",
-      "timestamp": "2026-04-04 08:25:34",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -54,25 +54,26 @@
     "delivery",
     "delivery",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 9,
+  "today_post_count": 10,
   "today_goodnight_posted": true,
-  "month_total_posts": 44,
+  "month_total_posts": 45,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-04",
-  "last_post_time": "19:05:40",
+  "last_post_time": "20:53:05",
   "ng_retry_count": 120,
   "fallback_used_count": 3,
   "created_at": null,
-  "updated_at": "2026-04-04 19:05:40",
+  "updated_at": "2026-04-04 20:53:05",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 3,
   "today_max_posts": 15,
-  "today_narrative": "もう寝る時間…お疲れ様なぁ。残り9件の配… → あれ…また寝ちゃった… → 春の日差しが気持ちいいけど、やっぱり眠く… → やっとこさ配達終わり…でも残り15件、ま… → こんな小雨の中、なんか無性に甘いもの食べ… → こんな雨の中、薄暗い駐車場で待機中…置き… → あーもう、さっきの配達でまた階段上がった… → やっと配達終わったと思ったら、残りまた1… → あーもう疲れた…ほんと体力がゼロ。こうい…",
-  "last_post_timestamp_ms": 1775297140007
+  "today_narrative": "もう寝る時間…お疲れ様なぁ。残り9件の配… → あれ…また寝ちゃった… → 春の日差しが気持ちいいけど、やっぱり眠く… → やっとこさ配達終わり…でも残り15件、ま… → こんな小雨の中、なんか無性に甘いもの食べ… → こんな雨の中、薄暗い駐車場で待機中…置き… → あーもう、さっきの配達でまた階段上がった… → やっと配達終わったと思ったら、残りまた1… → あーもう疲れた…ほんと体力がゼロ。こうい… → あー…なんだか、もう夜も遅いねぇ…雨の音…",
+  "last_post_timestamp_ms": 1775303585841
 }
