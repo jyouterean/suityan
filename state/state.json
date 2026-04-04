@@ -1,7 +1,13 @@
 {
-  "mood": "melancholy",
-  "energy": 30,
+  "mood": "frustrated",
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "こんな雨の中、薄暗い駐車場で待機中…置き配ってほんと大変だよなぁ。 お客さん、ちゃんと受け取ってくれるか心配だし、言葉をかけてくれたら嬉しいなぁ…💭 今は体力30%切ってるし、また寝ちゃうかも…",
+      "slot": "delivery",
+      "timestamp": "2026-04-04 14:48:11",
+      "hasImage": false
+    },
     {
       "text": "こんな小雨の中、なんか無性に甘いもの食べたくなる😩チョコレートとか…あ、明日コンビニ寄った時に買おうかな。少しだけ癒されたいなぁ…🌧️",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-04-03 19:30:12",
       "hasImage": false
-    },
-    {
-      "text": "あー、今日も重い荷物運んで…疲れたなぁ。桜の綺麗さに癒されるけど…帰り道、誰かと一緒ならもっといいのに…😔",
-      "slot": "commute",
-      "timestamp": "2026-04-03 18:17:40",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "morning",
     "casual",
     "delivery",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": true,
-  "month_total_posts": 40,
+  "month_total_posts": 41,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-04",
-  "last_post_time": "13:52:24",
+  "last_post_time": "14:48:11",
   "ng_retry_count": 118,
   "fallback_used_count": 3,
   "created_at": null,
-  "updated_at": "2026-04-04 13:52:24",
+  "updated_at": "2026-04-04 14:48:11",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 2,
   "today_max_posts": 15,
-  "today_narrative": "もう寝る時間…お疲れ様なぁ。残り9件の配… → あれ…また寝ちゃった… → 春の日差しが気持ちいいけど、やっぱり眠く… → やっとこさ配達終わり…でも残り15件、ま… → こんな小雨の中、なんか無性に甘いもの食べ…",
-  "last_post_timestamp_ms": 1775278344006
+  "today_narrative": "もう寝る時間…お疲れ様なぁ。残り9件の配… → あれ…また寝ちゃった… → 春の日差しが気持ちいいけど、やっぱり眠く… → やっとこさ配達終わり…でも残り15件、ま… → こんな小雨の中、なんか無性に甘いもの食べ… → こんな雨の中、薄暗い駐車場で待機中…置き…",
+  "last_post_timestamp_ms": 1775281691766
 }
