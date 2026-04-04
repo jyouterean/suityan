@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "ねむすぎて、もうダメ…おやすみ😴",
+      "slot": "simple_goodnight",
+      "timestamp": "2026-04-04 23:16:21",
+      "hasImage": false
+    },
+    {
       "text": "この小雨の中、やっとこさ一息…置き配、ほんと疲れたなぁ。ねぇ、誰かと一緒に居たい気分…もう、ひとりは…寂しいよぉ…。そろそろ、甘いものでも食べよっかな…🍰",
       "slot": "night_ero",
       "timestamp": "2026-04-04 21:42:47",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-04-04 14:48:11",
       "hasImage": false
-    },
-    {
-      "text": "こんな小雨の中、なんか無性に甘いもの食べたくなる😩チョコレートとか…あ、明日コンビニ寄った時に買おうかな。少しだけ癒されたいなぁ…🌧️",
-      "slot": "casual",
-      "timestamp": "2026-04-04 13:52:24",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "casual",
     "casual",
-    "night_ero"
+    "night_ero",
+    "simple_goodnight"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": true,
-  "month_total_posts": 46,
+  "month_total_posts": 47,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-04",
-  "last_post_time": "21:42:47",
+  "last_post_time": "23:16:21",
   "ng_retry_count": 121,
   "fallback_used_count": 3,
   "created_at": null,
-  "updated_at": "2026-04-04 21:42:47",
+  "updated_at": "2026-04-04 23:16:21",
   "month_string": "2026-04",
   "today_skipped": true,
-  "today_simple_goodnight_posted": false,
+  "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 3,
   "today_max_posts": 15,
-  "today_narrative": "もう寝る時間…お疲れ様なぁ。残り9件の配… → あれ…また寝ちゃった… → 春の日差しが気持ちいいけど、やっぱり眠く… → やっとこさ配達終わり…でも残り15件、ま… → こんな小雨の中、なんか無性に甘いもの食べ… → こんな雨の中、薄暗い駐車場で待機中…置き… → あーもう、さっきの配達でまた階段上がった… → やっと配達終わったと思ったら、残りまた1… → あーもう疲れた…ほんと体力がゼロ。こうい… → あー…なんだか、もう夜も遅いねぇ…雨の音… → この小雨の中、やっとこさ一息…置き配、ほ…",
-  "last_post_timestamp_ms": 1775306567183
+  "today_narrative": "もう寝る時間…お疲れ様なぁ。残り9件の配… → あれ…また寝ちゃった… → 春の日差しが気持ちいいけど、やっぱり眠く… → やっとこさ配達終わり…でも残り15件、ま… → こんな小雨の中、なんか無性に甘いもの食べ… → こんな雨の中、薄暗い駐車場で待機中…置き… → あーもう、さっきの配達でまた階段上がった… → やっと配達終わったと思ったら、残りまた1… → あーもう疲れた…ほんと体力がゼロ。こうい… → あー…なんだか、もう夜も遅いねぇ…雨の音… → この小雨の中、やっとこさ一息…置き配、ほ… → ねむすぎて、もうダメ…おやすみ😴",
+  "last_post_timestamp_ms": 1775312181543
 }
