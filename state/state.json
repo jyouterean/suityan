@@ -1,7 +1,13 @@
 {
-  "mood": "melancholy",
-  "energy": 20,
+  "mood": "tired",
+  "energy": 10,
   "last_posts": [
+    {
+      "text": "配達の合間に見た桜、ほんと癒やし…でも配達件数多くてしんどい、73件とか…😩誰かに褒めてもらいたいなぁって思う…こんな時に、ふと会いたくなるよね…",
+      "slot": "delivery",
+      "timestamp": "2026-04-05 14:10:43",
+      "hasImage": false
+    },
     {
       "text": "てかさっきの、桜見たら少しは元気出るかな…🌸今からまた仕事行かなきゃだけど、体力がね…😩",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "simple_goodnight",
       "timestamp": "2026-04-05 00:20:57",
       "hasImage": false
-    },
-    {
-      "text": "ねむすぎて、もうダメ…おやすみ😴",
-      "slot": "simple_goodnight",
-      "timestamp": "2026-04-04 23:16:21",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -51,25 +51,26 @@
     "commute",
     "delivery",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 6,
+  "today_post_count": 7,
   "today_goodnight_posted": false,
-  "month_total_posts": 53,
+  "month_total_posts": 54,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-05",
-  "last_post_time": "13:39:47",
+  "last_post_time": "14:10:43",
   "ng_retry_count": 121,
   "fallback_used_count": 3,
   "created_at": null,
-  "updated_at": "2026-04-05 13:39:47",
+  "updated_at": "2026-04-05 14:10:43",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "もう無理…寝よ…😪 → あさ、やっぱりむりだ…😩 → 階段9Fまで上がるって、ほんと疲れるよね… → ナビが変な道案内したからさっきちょっとイ… → ふぅ、なんだか今日は全然やる気がでない…… → てかさっきの、桜見たら少しは元気出るかな…",
-  "last_post_timestamp_ms": 1775363987070
+  "today_narrative": "もう無理…寝よ…😪 → あさ、やっぱりむりだ…😩 → 階段9Fまで上がるって、ほんと疲れるよね… → ナビが変な道案内したからさっきちょっとイ… → ふぅ、なんだか今日は全然やる気がでない…… → てかさっきの、桜見たら少しは元気出るかな… → 配達の合間に見た桜、ほんと癒やし…でも配…",
+  "last_post_timestamp_ms": 1775365843329
 }
