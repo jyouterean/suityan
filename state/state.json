@@ -1,7 +1,13 @@
 {
   "mood": "lonely",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "ナビが変な道案内したからさっきちょっとイラッとした…軽バンの運転ほんと大変😩運転してる時、誰かと話したいなって思う。これもメンヘラってことなのかな…？（自分で言ってて悲しくなった）",
+      "slot": "delivery",
+      "timestamp": "2026-04-05 09:04:42",
+      "hasImage": false
+    },
     {
       "text": "階段9Fまで上がるって、ほんと疲れるよね…😩ナビも変な道案内してきて、もう死ぬかと思ったわ…帰り道、一人は寂しいなぁ。誰かと帰りたい気分…",
       "slot": "commute",
@@ -37,36 +43,31 @@
       "slot": "casual",
       "timestamp": "2026-04-04 20:53:05",
       "hasImage": false
-    },
-    {
-      "text": "あーもう疲れた…ほんと体力がゼロ。こういう日ってなんで続くんだろう…😩誰か助けて…",
-      "slot": "casual",
-      "timestamp": "2026-04-04 19:05:40",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
     "morning",
-    "commute"
+    "commute",
+    "delivery"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": false,
-  "month_total_posts": 50,
+  "month_total_posts": 51,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-05",
-  "last_post_time": "08:13:06",
+  "last_post_time": "09:04:42",
   "ng_retry_count": 121,
   "fallback_used_count": 3,
   "created_at": null,
-  "updated_at": "2026-04-05 08:13:06",
+  "updated_at": "2026-04-05 09:04:42",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "もう無理…寝よ…😪 → あさ、やっぱりむりだ…😩 → 階段9Fまで上がるって、ほんと疲れるよね…",
-  "last_post_timestamp_ms": 1775344386681
+  "today_narrative": "もう無理…寝よ…😪 → あさ、やっぱりむりだ…😩 → 階段9Fまで上がるって、ほんと疲れるよね… → ナビが変な道案内したからさっきちょっとイ…",
+  "last_post_timestamp_ms": 1775347482526
 }
