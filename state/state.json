@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 70,
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "ねむすぎて動けない…😵",
+      "slot": "morning",
+      "timestamp": "2026-04-06 06:48:31",
+      "hasImage": false
+    },
     {
       "text": "もう寝るしかないだわ😴",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-04-05 16:04:21",
       "hasImage": false
-    },
-    {
-      "text": "あーもうしんど…😪なんか荷物運ぶのも重たいし、体力ほぼゼロだし…しょんぼり…さっきのナビも意味わかんなかったし、ほんとイラッとした…誰かに会いたいなぁ…まあ届けるんだけどさ…",
-      "slot": "delivery",
-      "timestamp": "2026-04-05 15:19:00",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 61,
+  "month_total_posts": 62,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-06",
-  "last_post_time": "00:17:18",
+  "last_post_time": "06:48:31",
   "ng_retry_count": 121,
   "fallback_used_count": 3,
   "created_at": null,
-  "updated_at": "2026-04-06 00:17:18",
+  "updated_at": "2026-04-06 06:48:31",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 8,
-  "today_narrative": "もう寝るしかないだわ😴",
-  "last_post_timestamp_ms": 1775402238958
+  "today_narrative": "もう寝るしかないだわ😴 → ねむすぎて動けない…😵",
+  "last_post_timestamp_ms": 1775425711610
 }
