@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "ふぅ、ほんとに最近やる気でないな…😔さっき見た桜も癒やしだったけど、もう無理…またあの道行くの？って思うと…あー、しんど…",
+      "slot": "casual",
+      "timestamp": "2026-04-05 19:17:04",
+      "hasImage": false
+    },
+    {
       "text": "あーもう、ほんとしんどい…運転中に頭も痛くなってきた。どこかで休みたい気分😩",
       "slot": "delivery",
       "timestamp": "2026-04-05 17:56:35",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-04-05 13:39:47",
       "hasImage": false
-    },
-    {
-      "text": "ふぅ、なんだか今日は全然やる気がでない…😞外の風は暖かいのに、心はちょっと寒い感じ。桜も咲いてるのに、誰かと一緒に見たいなぁ。",
-      "slot": "casual",
-      "timestamp": "2026-04-05 12:48:49",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": false,
-  "month_total_posts": 58,
+  "month_total_posts": 59,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-05",
-  "last_post_time": "17:56:35",
+  "last_post_time": "19:17:04",
   "ng_retry_count": 121,
   "fallback_used_count": 3,
   "created_at": null,
-  "updated_at": "2026-04-05 17:56:35",
+  "updated_at": "2026-04-05 19:17:04",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "もう無理…寝よ…😪 → あさ、やっぱりむりだ…😩 → 階段9Fまで上がるって、ほんと疲れるよね… → ナビが変な道案内したからさっきちょっとイ… → ふぅ、なんだか今日は全然やる気がでない…… → てかさっきの、桜見たら少しは元気出るかな… → 配達の合間に見た桜、ほんと癒やし…でも配… → あーもうしんど…😪なんか荷物運ぶのも重… → あーほんと疲れる…もう軽バンの運転も飽き… → 信号待ちなう…マジで、これってなんなんだ… → あーもう、ほんとしんどい…運転中に頭も痛…",
-  "last_post_timestamp_ms": 1775379395551
+  "today_narrative": "もう無理…寝よ…😪 → あさ、やっぱりむりだ…😩 → 階段9Fまで上がるって、ほんと疲れるよね… → ナビが変な道案内したからさっきちょっとイ… → ふぅ、なんだか今日は全然やる気がでない…… → てかさっきの、桜見たら少しは元気出るかな… → 配達の合間に見た桜、ほんと癒やし…でも配… → あーもうしんど…😪なんか荷物運ぶのも重… → あーほんと疲れる…もう軽バンの運転も飽き… → 信号待ちなう…マジで、これってなんなんだ… → あーもう、ほんとしんどい…運転中に頭も痛… → ふぅ、ほんとに最近やる気でないな…😔さ…",
+  "last_post_timestamp_ms": 1775384224209
 }
