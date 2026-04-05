@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 30,
+  "mood": "melancholy",
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "てかさっきの、桜見たら少しは元気出るかな…🌸今からまた仕事行かなきゃだけど、体力がね…😩",
+      "slot": "casual",
+      "timestamp": "2026-04-05 13:39:47",
+      "hasImage": false
+    },
     {
       "text": "ふぅ、なんだか今日は全然やる気がでない…😞外の風は暖かいのに、心はちょっと寒い感じ。桜も咲いてるのに、誰かと一緒に見たいなぁ。",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "simple_goodnight",
       "timestamp": "2026-04-04 23:16:21",
       "hasImage": false
-    },
-    {
-      "text": "この小雨の中、やっとこさ一息…置き配、ほんと疲れたなぁ。ねぇ、誰かと一緒に居たい気分…もう、ひとりは…寂しいよぉ…。そろそろ、甘いものでも食べよっかな…🍰",
-      "slot": "night_ero",
-      "timestamp": "2026-04-04 21:42:47",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "morning",
     "commute",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": false,
-  "month_total_posts": 52,
+  "month_total_posts": 53,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-05",
-  "last_post_time": "12:48:49",
+  "last_post_time": "13:39:47",
   "ng_retry_count": 121,
   "fallback_used_count": 3,
   "created_at": null,
-  "updated_at": "2026-04-05 12:48:49",
+  "updated_at": "2026-04-05 13:39:47",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "もう無理…寝よ…😪 → あさ、やっぱりむりだ…😩 → 階段9Fまで上がるって、ほんと疲れるよね… → ナビが変な道案内したからさっきちょっとイ… → ふぅ、なんだか今日は全然やる気がでない……",
-  "last_post_timestamp_ms": 1775360929530
+  "today_narrative": "もう無理…寝よ…😪 → あさ、やっぱりむりだ…😩 → 階段9Fまで上がるって、ほんと疲れるよね… → ナビが変な道案内したからさっきちょっとイ… → ふぅ、なんだか今日は全然やる気がでない…… → てかさっきの、桜見たら少しは元気出るかな…",
+  "last_post_timestamp_ms": 1775363987070
 }
