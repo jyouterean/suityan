@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 70,
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "あさ…まだ眠い😴",
+      "slot": "morning",
+      "timestamp": "2026-04-07 07:01:03",
+      "hasImage": false
+    },
     {
       "text": "今日も疲れたなぁ…あ、配達先の子供が手振ってくれたの、ちょっと嬉しかったかも…すごい疲れてるのに…もう、明日も頑張らなきゃね。かまってほしいけど、いや関係ないか…おやすみ…😴",
       "slot": "goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-04-06 09:02:54",
       "hasImage": false
-    },
-    {
-      "text": "運転疲れたなぁ…😩 不在票また出しちゃったし。さっきの子供、手振ってくれたの、ちょっと癒されたけどやっぱり一人だと寂しい…帰るのダルいなぁ。桜見ながらの帰り道、良かったなぁ。眠い…😴",
-      "slot": "commute",
-      "timestamp": "2026-04-06 08:07:14",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight"
+    "goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": true,
-  "month_total_posts": 69,
+  "month_total_posts": 70,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-07",
-  "last_post_time": "00:15:06",
+  "last_post_time": "07:01:03",
   "ng_retry_count": 121,
   "fallback_used_count": 3,
   "created_at": null,
-  "updated_at": "2026-04-07 00:15:06",
+  "updated_at": "2026-04-07 07:01:03",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "今日も疲れたなぁ…あ、配達先の子供が手振…",
-  "last_post_timestamp_ms": 1775488506801
+  "today_narrative": "今日も疲れたなぁ…あ、配達先の子供が手振… → あさ…まだ眠い😴",
+  "last_post_timestamp_ms": 1775512863247
 }
