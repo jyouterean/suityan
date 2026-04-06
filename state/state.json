@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "えっとね、また不在票出しちゃった…😩 もうほんとあーあ…って感じ ルート組み、やっぱりつらいなぁ… 早く終わんないかなぁ…😴 だれかに会いたい…それか褒めてほしい…",
+      "slot": "delivery",
+      "timestamp": "2026-04-06 15:29:54",
+      "hasImage": false
+    },
+    {
       "text": "もう少しで終わるけど、 体力の限界…😩 残り13件、まじでしんどい…😵 置き配の連続、うまくいかないし。 新生活のあれこれ、たまには誰かに寄りかかりたいよ…",
       "slot": "delivery",
       "timestamp": "2026-04-06 14:34:42",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-04-06 06:48:31",
       "hasImage": false
-    },
-    {
-      "text": "もう寝るしかないだわ😴",
-      "slot": "simple_goodnight",
-      "timestamp": "2026-04-06 00:17:18",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "delivery",
     "casual",
     "casual",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": false,
-  "month_total_posts": 67,
+  "month_total_posts": 68,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-06",
-  "last_post_time": "14:34:42",
+  "last_post_time": "15:29:54",
   "ng_retry_count": 121,
   "fallback_used_count": 3,
   "created_at": null,
-  "updated_at": "2026-04-06 14:34:42",
+  "updated_at": "2026-04-06 15:29:54",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 8,
-  "today_narrative": "もう寝るしかないだわ😴 → ねむすぎて動けない…😵 → 運転疲れたなぁ…😩 不在票また出しちゃ… → ふぅ…軽バンの運転、だるいなぁ…😩 ま… → 何だか土曜日が待ち遠しい…😴 でも、ま… → 寝たいなぁ…月曜は一番だるい…😴 もう… → もう少しで終わるけど、 体力の限界…😩…",
-  "last_post_timestamp_ms": 1775453682256
+  "today_narrative": "もう寝るしかないだわ😴 → ねむすぎて動けない…😵 → 運転疲れたなぁ…😩 不在票また出しちゃ… → ふぅ…軽バンの運転、だるいなぁ…😩 ま… → 何だか土曜日が待ち遠しい…😴 でも、ま… → 寝たいなぁ…月曜は一番だるい…😴 もう… → もう少しで終わるけど、 体力の限界…😩… → えっとね、また不在票出しちゃった…😩 …",
+  "last_post_timestamp_ms": 1775456994921
 }
