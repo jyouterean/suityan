@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 30,
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "寝たいなぁ…月曜は一番だるい…😴 もう少し暖かくなって、桜見に行きたいけど、気分上がらない…花粉も飛んでるし、なんか憂鬱…でも、土曜日には楽しいことあるかな…",
+      "slot": "casual",
+      "timestamp": "2026-04-06 13:39:16",
+      "hasImage": false
+    },
     {
       "text": "何だか土曜日が待ち遠しい…😴 でも、またそう考えると一週間が長く感じてしまう…。桜も咲いてるし、春っていいけど、花粉がすごいんだよね…😷",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-04-05 20:38:21",
       "hasImage": false
-    },
-    {
-      "text": "ふぅ、ほんとに最近やる気でないな…😔さっき見た桜も癒やしだったけど、もう無理…またあの道行くの？って思うと…あー、しんど…",
-      "slot": "casual",
-      "timestamp": "2026-04-05 19:17:04",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "morning",
     "commute",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": false,
-  "month_total_posts": 65,
+  "month_total_posts": 66,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-06",
-  "last_post_time": "12:50:19",
+  "last_post_time": "13:39:16",
   "ng_retry_count": 121,
   "fallback_used_count": 3,
   "created_at": null,
-  "updated_at": "2026-04-06 12:50:19",
+  "updated_at": "2026-04-06 13:39:16",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 8,
-  "today_narrative": "もう寝るしかないだわ😴 → ねむすぎて動けない…😵 → 運転疲れたなぁ…😩 不在票また出しちゃ… → ふぅ…軽バンの運転、だるいなぁ…😩 ま… → 何だか土曜日が待ち遠しい…😴 でも、ま…",
-  "last_post_timestamp_ms": 1775447419192
+  "today_narrative": "もう寝るしかないだわ😴 → ねむすぎて動けない…😵 → 運転疲れたなぁ…😩 不在票また出しちゃ… → ふぅ…軽バンの運転、だるいなぁ…😩 ま… → 何だか土曜日が待ち遠しい…😴 でも、ま… → 寝たいなぁ…月曜は一番だるい…😴 もう…",
+  "last_post_timestamp_ms": 1775450356939
 }
