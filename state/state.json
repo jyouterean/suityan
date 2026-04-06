@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 10,
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "今日も疲れたなぁ…あ、配達先の子供が手振ってくれたの、ちょっと嬉しかったかも…すごい疲れてるのに…もう、明日も頑張らなきゃね。かまってほしいけど、いや関係ないか…おやすみ…😴",
+      "slot": "goodnight",
+      "timestamp": "2026-04-07 00:15:06",
+      "hasImage": false
+    },
     {
       "text": "えっとね、また不在票出しちゃった…😩 もうほんとあーあ…って感じ ルート組み、やっぱりつらいなぁ… 早く終わんないかなぁ…😴 だれかに会いたい…それか褒めてほしい…",
       "slot": "delivery",
@@ -37,41 +43,28 @@
       "slot": "commute",
       "timestamp": "2026-04-06 08:07:14",
       "hasImage": false
-    },
-    {
-      "text": "ねむすぎて動けない…😵",
-      "slot": "morning",
-      "timestamp": "2026-04-06 06:48:31",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight",
-    "morning",
-    "commute",
-    "delivery",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery"
+    "goodnight"
   ],
-  "today_post_count": 8,
-  "today_goodnight_posted": false,
-  "month_total_posts": 68,
+  "today_post_count": 1,
+  "today_goodnight_posted": true,
+  "month_total_posts": 69,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-04-06",
-  "last_post_time": "15:29:54",
+  "last_post_date": "2026-04-07",
+  "last_post_time": "00:15:06",
   "ng_retry_count": 121,
   "fallback_used_count": 3,
   "created_at": null,
-  "updated_at": "2026-04-06 15:29:54",
+  "updated_at": "2026-04-07 00:15:06",
   "month_string": "2026-04",
   "today_skipped": false,
-  "today_simple_goodnight_posted": true,
-  "today_morning_posted": true,
+  "today_simple_goodnight_posted": false,
+  "today_morning_posted": false,
   "today_skip_count": 0,
-  "today_max_posts": 8,
-  "today_narrative": "もう寝るしかないだわ😴 → ねむすぎて動けない…😵 → 運転疲れたなぁ…😩 不在票また出しちゃ… → ふぅ…軽バンの運転、だるいなぁ…😩 ま… → 何だか土曜日が待ち遠しい…😴 でも、ま… → 寝たいなぁ…月曜は一番だるい…😴 もう… → もう少しで終わるけど、 体力の限界…😩… → えっとね、また不在票出しちゃった…😩 …",
-  "last_post_timestamp_ms": 1775456994921
+  "today_max_posts": 13,
+  "today_narrative": "今日も疲れたなぁ…あ、配達先の子供が手振…",
+  "last_post_timestamp_ms": 1775488506801
 }
