@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 60,
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "あぁ…まだ頭が働かない😩曇り空…微妙な天気だなぁ、花粉もつらいし…お腹すいたな、何か食べたいけど、やる気出ない…",
+      "slot": "casual",
+      "timestamp": "2026-04-07 08:02:33",
+      "hasImage": false
+    },
     {
       "text": "あさ…まだ眠い😴",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "casual",
       "timestamp": "2026-04-06 12:50:19",
       "hasImage": false
-    },
-    {
-      "text": "ふぅ…軽バンの運転、だるいなぁ…😩 まじで、誰かに会いたい気分… 18件残ってるし、あと何件で終わるんだろ… 眠気やばいし、水分補給しないとやばそう…",
-      "slot": "delivery",
-      "timestamp": "2026-04-06 09:02:54",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
-    "morning"
+    "morning",
+    "casual"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": true,
-  "month_total_posts": 70,
+  "month_total_posts": 71,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-07",
-  "last_post_time": "07:01:03",
+  "last_post_time": "08:02:33",
   "ng_retry_count": 121,
   "fallback_used_count": 3,
   "created_at": null,
-  "updated_at": "2026-04-07 07:01:03",
+  "updated_at": "2026-04-07 08:02:33",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "今日も疲れたなぁ…あ、配達先の子供が手振… → あさ…まだ眠い😴",
-  "last_post_timestamp_ms": 1775512863247
+  "today_narrative": "今日も疲れたなぁ…あ、配達先の子供が手振… → あさ…まだ眠い😴 → あぁ…まだ頭が働かない😩曇り空…微妙な…",
+  "last_post_timestamp_ms": 1775516553519
 }
