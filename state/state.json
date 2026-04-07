@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "ああ…またインターホンの音にびっくりしちゃった😩今の仕事はほんと…同じのばっかりで、なんかつまんないなぁ…誰か褒めてくれないかな…たまにはドライブ気分味わいたいな…🌼",
+      "slot": "delivery",
+      "timestamp": "2026-04-07 16:58:19",
+      "hasImage": false
+    },
+    {
       "text": "ほんと…最近はルートが毎回同じでつまらんかも😔あ、でもさっきの子供の笑顔はほんと癒されたなぁ…自分もそんな風に誰かを元気にできたらいいのに…😢",
       "slot": "delivery",
       "timestamp": "2026-04-07 16:03:49",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-04-07 08:02:33",
       "hasImage": false
-    },
-    {
-      "text": "あさ…まだ眠い😴",
-      "slot": "morning",
-      "timestamp": "2026-04-07 07:01:03",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "casual",
     "delivery",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": true,
-  "month_total_posts": 76,
+  "month_total_posts": 77,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-07",
-  "last_post_time": "16:03:49",
+  "last_post_time": "16:58:19",
   "ng_retry_count": 122,
   "fallback_used_count": 3,
   "created_at": null,
-  "updated_at": "2026-04-07 16:03:49",
+  "updated_at": "2026-04-07 16:58:19",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 13,
-  "today_narrative": "今日も疲れたなぁ…あ、配達先の子供が手振… → あさ…まだ眠い😴 → あぁ…まだ頭が働かない😩曇り空…微妙な… → 雨が強い…☔やっぱり春ってちょっと不安定… → なんか急に花粉が増えてきた気がする…くし… → 配達先の子供が手を振ってくれて、ちょっと… → あーもう…しんどいなぁ…置き配って面倒く… → ほんと…最近はルートが毎回同じでつまらん…",
-  "last_post_timestamp_ms": 1775545429333
+  "today_narrative": "今日も疲れたなぁ…あ、配達先の子供が手振… → あさ…まだ眠い😴 → あぁ…まだ頭が働かない😩曇り空…微妙な… → 雨が強い…☔やっぱり春ってちょっと不安定… → なんか急に花粉が増えてきた気がする…くし… → 配達先の子供が手を振ってくれて、ちょっと… → あーもう…しんどいなぁ…置き配って面倒く… → ほんと…最近はルートが毎回同じでつまらん… → ああ…またインターホンの音にびっくりしち…",
+  "last_post_timestamp_ms": 1775548699313
 }
