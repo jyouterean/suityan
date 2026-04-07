@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 10,
+  "mood": "lonely",
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "配達中、11Fまで階段…疲れたなぁ。再配達とか意味不明すぎ😩誰か褒めてほしい。桜見たいな…誰かに会いたいな…",
+      "slot": "delivery",
+      "timestamp": "2026-04-08 01:13:13",
+      "hasImage": false
+    },
     {
       "text": "ねむい…もう寝るな🛌",
       "slot": "simple_goodnight",
@@ -37,45 +43,28 @@
       "slot": "delivery",
       "timestamp": "2026-04-07 15:20:12",
       "hasImage": false
-    },
-    {
-      "text": "配達先の子供が手を振ってくれて、ちょっと癒された…でもまた次の一軒家へ向かう…あぁ、誰かに会いたいなぁ。水分補給しなきゃだるい…😴",
-      "slot": "delivery",
-      "timestamp": "2026-04-07 14:30:49",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight",
-    "morning",
-    "casual",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery",
-    "delivery",
-    "casual",
-    "night_ero",
-    "simple_goodnight"
+    "delivery"
   ],
-  "today_post_count": 12,
-  "today_goodnight_posted": true,
-  "month_total_posts": 80,
+  "today_post_count": 1,
+  "today_goodnight_posted": false,
+  "month_total_posts": 81,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-04-07",
-  "last_post_time": "23:58:12",
+  "last_post_date": "2026-04-08",
+  "last_post_time": "01:13:13",
   "ng_retry_count": 122,
   "fallback_used_count": 3,
   "created_at": null,
-  "updated_at": "2026-04-07 23:58:12",
+  "updated_at": "2026-04-08 01:13:13",
   "month_string": "2026-04",
-  "today_skipped": true,
-  "today_simple_goodnight_posted": true,
-  "today_morning_posted": true,
-  "today_skip_count": 3,
-  "today_max_posts": 13,
-  "today_narrative": "今日も疲れたなぁ…あ、配達先の子供が手振… → あさ…まだ眠い😴 → あぁ…まだ頭が働かない😩曇り空…微妙な… → 雨が強い…☔やっぱり春ってちょっと不安定… → なんか急に花粉が増えてきた気がする…くし… → 配達先の子供が手を振ってくれて、ちょっと… → あーもう…しんどいなぁ…置き配って面倒く… → ほんと…最近はルートが毎回同じでつまらん… → ああ…またインターホンの音にびっくりしち… → あぁ…ちょっと曇り空に気分もふさいじゃう… → 寒いなぁ…体が動かん😩荷物も重いし…9… → ねむい…もう寝るな🛌",
-  "last_post_timestamp_ms": 1775573892060
+  "today_skipped": false,
+  "today_simple_goodnight_posted": false,
+  "today_morning_posted": false,
+  "today_skip_count": 0,
+  "today_max_posts": 15,
+  "today_narrative": "配達中、11Fまで階段…疲れたなぁ。再配…",
+  "last_post_timestamp_ms": 1775578393630
 }
