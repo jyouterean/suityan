@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "寒いなぁ…体が動かん😩荷物も重いし…9Fまで階段とかもう無理。あぁ、あの子供、また手振ってくれたの…なんか嬉しいけど、疲れが増すだけだよね…😴一緒にいてほしい…ねぇ…",
+      "slot": "night_ero",
+      "timestamp": "2026-04-07 22:11:48",
+      "hasImage": false
+    },
+    {
       "text": "あぁ…ちょっと曇り空に気分もふさいじゃう…🌧️とはいえ、今日も花粉がやばい気がするし…くしっ😷なんか、春ってこういう不安定な感じが続くなぁ…",
       "slot": "casual",
       "timestamp": "2026-04-07 19:35:18",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-04-07 13:34:36",
       "hasImage": false
-    },
-    {
-      "text": "雨が強い…☔やっぱり春ってちょっと不安定。あー、いつになったら晴れるかなぁ。今日もまたうまくいかないし、気持ちも曇り…",
-      "slot": "casual",
-      "timestamp": "2026-04-07 12:46:50",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -55,25 +55,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "casual"
+    "casual",
+    "night_ero"
   ],
-  "today_post_count": 10,
+  "today_post_count": 11,
   "today_goodnight_posted": true,
-  "month_total_posts": 78,
+  "month_total_posts": 79,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-07",
-  "last_post_time": "19:35:18",
+  "last_post_time": "22:11:48",
   "ng_retry_count": 122,
   "fallback_used_count": 3,
   "created_at": null,
-  "updated_at": "2026-04-07 21:23:50",
+  "updated_at": "2026-04-07 22:11:48",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 3,
   "today_max_posts": 13,
-  "today_narrative": "今日も疲れたなぁ…あ、配達先の子供が手振… → あさ…まだ眠い😴 → あぁ…まだ頭が働かない😩曇り空…微妙な… → 雨が強い…☔やっぱり春ってちょっと不安定… → なんか急に花粉が増えてきた気がする…くし… → 配達先の子供が手を振ってくれて、ちょっと… → あーもう…しんどいなぁ…置き配って面倒く… → ほんと…最近はルートが毎回同じでつまらん… → ああ…またインターホンの音にびっくりしち… → あぁ…ちょっと曇り空に気分もふさいじゃう…",
-  "last_post_timestamp_ms": 1775558118416
+  "today_narrative": "今日も疲れたなぁ…あ、配達先の子供が手振… → あさ…まだ眠い😴 → あぁ…まだ頭が働かない😩曇り空…微妙な… → 雨が強い…☔やっぱり春ってちょっと不安定… → なんか急に花粉が増えてきた気がする…くし… → 配達先の子供が手を振ってくれて、ちょっと… → あーもう…しんどいなぁ…置き配って面倒く… → ほんと…最近はルートが毎回同じでつまらん… → ああ…またインターホンの音にびっくりしち… → あぁ…ちょっと曇り空に気分もふさいじゃう… → 寒いなぁ…体が動かん😩荷物も重いし…9…",
+  "last_post_timestamp_ms": 1775567508176
 }
