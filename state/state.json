@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "雨が強い…☔やっぱり春ってちょっと不安定。あー、いつになったら晴れるかなぁ。今日もまたうまくいかないし、気持ちも曇り…",
+      "slot": "casual",
+      "timestamp": "2026-04-07 12:46:50",
+      "hasImage": false
+    },
     {
       "text": "あぁ…まだ頭が働かない😩曇り空…微妙な天気だなぁ、花粉もつらいし…お腹すいたな、何か食べたいけど、やる気出ない…",
       "slot": "casual",
@@ -37,36 +43,31 @@
       "slot": "casual",
       "timestamp": "2026-04-06 13:39:16",
       "hasImage": false
-    },
-    {
-      "text": "何だか土曜日が待ち遠しい…😴 でも、またそう考えると一週間が長く感じてしまう…。桜も咲いてるし、春っていいけど、花粉がすごいんだよね…😷",
-      "slot": "casual",
-      "timestamp": "2026-04-06 12:50:19",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
     "morning",
+    "casual",
     "casual"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": true,
-  "month_total_posts": 71,
+  "month_total_posts": 72,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-07",
-  "last_post_time": "08:02:33",
+  "last_post_time": "12:46:50",
   "ng_retry_count": 121,
   "fallback_used_count": 3,
   "created_at": null,
-  "updated_at": "2026-04-07 09:24:21",
+  "updated_at": "2026-04-07 12:46:50",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 13,
-  "today_narrative": "今日も疲れたなぁ…あ、配達先の子供が手振… → あさ…まだ眠い😴 → あぁ…まだ頭が働かない😩曇り空…微妙な…",
-  "last_post_timestamp_ms": 1775516553519
+  "today_narrative": "今日も疲れたなぁ…あ、配達先の子供が手振… → あさ…まだ眠い😴 → あぁ…まだ頭が働かない😩曇り空…微妙な… → 雨が強い…☔やっぱり春ってちょっと不安定…",
+  "last_post_timestamp_ms": 1775533610152
 }
