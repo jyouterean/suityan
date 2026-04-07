@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 70,
+  "mood": "tired",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "あぁ…起きたくない…😪",
+      "slot": "morning",
+      "timestamp": "2026-04-08 06:56:16",
+      "hasImage": false
+    },
     {
       "text": "配達中、11Fまで階段…疲れたなぁ。再配達とか意味不明すぎ😩誰か褒めてほしい。桜見たいな…誰かに会いたいな…",
       "slot": "delivery",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-04-07 16:03:49",
       "hasImage": false
-    },
-    {
-      "text": "あーもう…しんどいなぁ…置き配って面倒くさい…こないだの配達先の子供みたいに、誰かも手振ってくれればいいのに…こういう疲れた日ってほんと…うんざり…😩",
-      "slot": "delivery",
-      "timestamp": "2026-04-07 15:20:12",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "delivery"
+    "delivery",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 81,
+  "month_total_posts": 82,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-08",
-  "last_post_time": "01:13:13",
+  "last_post_time": "06:56:16",
   "ng_retry_count": 122,
   "fallback_used_count": 3,
   "created_at": null,
-  "updated_at": "2026-04-08 01:13:13",
+  "updated_at": "2026-04-08 06:56:16",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "配達中、11Fまで階段…疲れたなぁ。再配…",
-  "last_post_timestamp_ms": 1775578393630
+  "today_narrative": "配達中、11Fまで階段…疲れたなぁ。再配… → あぁ…起きたくない…😪",
+  "last_post_timestamp_ms": 1775598976120
 }
