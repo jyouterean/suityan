@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 30,
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "配達先の子供が手を振ってくれて、ちょっと癒された…でもまた次の一軒家へ向かう…あぁ、誰かに会いたいなぁ。水分補給しなきゃだるい…😴",
+      "slot": "delivery",
+      "timestamp": "2026-04-07 14:30:49",
+      "hasImage": false
+    },
     {
       "text": "なんか急に花粉が増えてきた気がする…くしゃみ止まらない😷でも桜はちょっとずつ咲いてきてるね、今日も曇りだけど…新生活始まった人も多いのかな…あぁ、なんか自分も頑張らなきゃなぁ…",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-04-06 15:29:54",
       "hasImage": false
-    },
-    {
-      "text": "もう少しで終わるけど、 体力の限界…😩 残り13件、まじでしんどい…😵 置き配の連続、うまくいかないし。 新生活のあれこれ、たまには誰かに寄りかかりたいよ…",
-      "slot": "delivery",
-      "timestamp": "2026-04-06 14:34:42",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "morning",
     "casual",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": true,
-  "month_total_posts": 73,
+  "month_total_posts": 74,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-07",
-  "last_post_time": "13:34:36",
-  "ng_retry_count": 121,
+  "last_post_time": "14:30:49",
+  "ng_retry_count": 122,
   "fallback_used_count": 3,
   "created_at": null,
-  "updated_at": "2026-04-07 13:34:36",
+  "updated_at": "2026-04-07 14:30:49",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 13,
-  "today_narrative": "今日も疲れたなぁ…あ、配達先の子供が手振… → あさ…まだ眠い😴 → あぁ…まだ頭が働かない😩曇り空…微妙な… → 雨が強い…☔やっぱり春ってちょっと不安定… → なんか急に花粉が増えてきた気がする…くし…",
-  "last_post_timestamp_ms": 1775536476202
+  "today_narrative": "今日も疲れたなぁ…あ、配達先の子供が手振… → あさ…まだ眠い😴 → あぁ…まだ頭が働かない😩曇り空…微妙な… → 雨が強い…☔やっぱり春ってちょっと不安定… → なんか急に花粉が増えてきた気がする…くし… → 配達先の子供が手を振ってくれて、ちょっと…",
+  "last_post_timestamp_ms": 1775539849201
 }
