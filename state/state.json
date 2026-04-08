@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あーあ、配達中にまた渋滞…💨インターホン鳴らしてもお客さん出てこないし…もう少し早く帰りたいなぁ…なんか誰かに会いたい…😔10Fまで階段…ふぅ、ほんとしんどい…",
+      "slot": "delivery",
+      "timestamp": "2026-04-08 17:06:25",
+      "hasImage": false
+    },
+    {
       "text": "あーもう、再配達のストレス…さっき13Fまで階段…ほんとしんどい😪 なんか、誰かに会いたいなぁ…褒めてほしい…◯◯さんとか…あぁ、夢見ちゃう…",
       "slot": "delivery",
       "timestamp": "2026-04-08 16:21:40",
@@ -37,12 +43,6 @@
       "slot": "commute",
       "timestamp": "2026-04-08 08:09:10",
       "hasImage": false
-    },
-    {
-      "text": "あぁ…起きたくない…😪",
-      "slot": "morning",
-      "timestamp": "2026-04-08 06:56:16",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "casual",
     "delivery",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": false,
-  "month_total_posts": 88,
+  "month_total_posts": 89,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-08",
-  "last_post_time": "16:21:40",
+  "last_post_time": "17:06:25",
   "ng_retry_count": 122,
   "fallback_used_count": 3,
   "created_at": null,
-  "updated_at": "2026-04-08 16:21:40",
+  "updated_at": "2026-04-08 17:06:25",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 15,
-  "today_narrative": "配達中、11Fまで階段…疲れたなぁ。再配… → あぁ…起きたくない…😪 → いや関係ないけど…今日の配送先、遠い気が… → 置き配、また階段…ふぅ…10Fまで行くの… → やっぱ暖かくなってきたんだなぁ…桜ももう… → 11Fまで階段…はぁ、ほんと疲れる…😪… → あーもう、さっきのお客さんに「ありがとう… → あーもう、再配達のストレス…さっき13F…",
-  "last_post_timestamp_ms": 1775632900222
+  "today_narrative": "配達中、11Fまで階段…疲れたなぁ。再配… → あぁ…起きたくない…😪 → いや関係ないけど…今日の配送先、遠い気が… → 置き配、また階段…ふぅ…10Fまで行くの… → やっぱ暖かくなってきたんだなぁ…桜ももう… → 11Fまで階段…はぁ、ほんと疲れる…😪… → あーもう、さっきのお客さんに「ありがとう… → あーもう、再配達のストレス…さっき13F… → あーあ、配達中にまた渋滞…💨インターホ…",
+  "last_post_timestamp_ms": 1775635585574
 }
