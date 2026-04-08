@@ -1,7 +1,13 @@
 {
   "mood": "frustrated",
-  "energy": 30,
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "11Fまで階段…はぁ、ほんと疲れる…😪再配達って…どうしても足元が…遠く感じるなぁ。春のせいかな、誰かに会いたいなぁ…やっぱり褒められたい気持ちが募るなぁ…",
+      "slot": "delivery",
+      "timestamp": "2026-04-08 14:15:41",
+      "hasImage": false
+    },
     {
       "text": "やっぱ暖かくなってきたんだなぁ…桜ももうすぐだし、春って感じ。今日もいい天気だけど、がっつり階段…11Fほんと疲れるわ💨",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "simple_goodnight",
       "timestamp": "2026-04-07 23:58:12",
       "hasImage": false
-    },
-    {
-      "text": "寒いなぁ…体が動かん😩荷物も重いし…9Fまで階段とかもう無理。あぁ、あの子供、また手振ってくれたの…なんか嬉しいけど、疲れが増すだけだよね…😴一緒にいてほしい…ねぇ…",
-      "slot": "night_ero",
-      "timestamp": "2026-04-07 22:11:48",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "morning",
     "commute",
     "delivery",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": false,
-  "month_total_posts": 85,
+  "month_total_posts": 86,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-08",
-  "last_post_time": "13:37:23",
+  "last_post_time": "14:15:41",
   "ng_retry_count": 122,
   "fallback_used_count": 3,
   "created_at": null,
-  "updated_at": "2026-04-08 13:37:23",
+  "updated_at": "2026-04-08 14:15:41",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 15,
-  "today_narrative": "配達中、11Fまで階段…疲れたなぁ。再配… → あぁ…起きたくない…😪 → いや関係ないけど…今日の配送先、遠い気が… → 置き配、また階段…ふぅ…10Fまで行くの… → やっぱ暖かくなってきたんだなぁ…桜ももう…",
-  "last_post_timestamp_ms": 1775623043690
+  "today_narrative": "配達中、11Fまで階段…疲れたなぁ。再配… → あぁ…起きたくない…😪 → いや関係ないけど…今日の配送先、遠い気が… → 置き配、また階段…ふぅ…10Fまで行くの… → やっぱ暖かくなってきたんだなぁ…桜ももう… → 11Fまで階段…はぁ、ほんと疲れる…😪…",
+  "last_post_timestamp_ms": 1775625341298
 }
