@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 70,
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "あさ…まだ夢の中…",
+      "slot": "morning",
+      "timestamp": "2026-04-09 07:18:34",
+      "hasImage": false
+    },
     {
       "text": "もう死んでる…おやすみ",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-04-08 17:06:25",
       "hasImage": false
-    },
-    {
-      "text": "あーもう、再配達のストレス…さっき13Fまで階段…ほんとしんどい😪 なんか、誰かに会いたいなぁ…褒めてほしい…◯◯さんとか…あぁ、夢見ちゃう…",
-      "slot": "delivery",
-      "timestamp": "2026-04-08 16:21:40",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 94,
+  "month_total_posts": 95,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-09",
-  "last_post_time": "00:59:44",
+  "last_post_time": "07:18:34",
   "ng_retry_count": 123,
   "fallback_used_count": 3,
   "created_at": null,
-  "updated_at": "2026-04-09 00:59:44",
+  "updated_at": "2026-04-09 07:18:34",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もう死んでる…おやすみ",
-  "last_post_timestamp_ms": 1775663984368
+  "today_narrative": "もう死んでる…おやすみ → あさ…まだ夢の中…",
+  "last_post_timestamp_ms": 1775686714746
 }
