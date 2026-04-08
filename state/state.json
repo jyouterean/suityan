@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "ほんと、疲れたなぁ。外出たら暖かいけど、夜はやっぱりさみしい…😪階段のぼって、台車押して、終わったら何も考えたくない…誰かと一緒にいてほしい…ねぇ…",
+      "slot": "night_ero",
+      "timestamp": "2026-04-08 21:21:38",
+      "hasImage": false
+    },
+    {
       "text": "また階段…ほんとさ、11Fまでさ、しんどいなぁ…もうフラフラ…帰りたい…😪なんでこんなに疲れるの…さっきの配達もだいぶ遠かったし…なんか桜とか咲いてんのに全然癒されない…はぁ…",
       "slot": "commute",
       "timestamp": "2026-04-08 18:33:20",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-04-08 13:37:23",
       "hasImage": false
-    },
-    {
-      "text": "置き配、また階段…ふぅ…10Fまで行くのしんどすぎ😩 しかも今日はホントに桜でも見に行きたい気分。あぁ、誰かに会いたい…ってことにしとこ",
-      "slot": "delivery",
-      "timestamp": "2026-04-08 09:26:28",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -55,25 +55,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "commute"
+    "commute",
+    "night_ero"
   ],
-  "today_post_count": 10,
+  "today_post_count": 11,
   "today_goodnight_posted": false,
-  "month_total_posts": 90,
+  "month_total_posts": 91,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-08",
-  "last_post_time": "18:33:20",
-  "ng_retry_count": 122,
+  "last_post_time": "21:21:38",
+  "ng_retry_count": 123,
   "fallback_used_count": 3,
   "created_at": null,
-  "updated_at": "2026-04-08 19:59:07",
+  "updated_at": "2026-04-08 21:21:38",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 2,
   "today_max_posts": 15,
-  "today_narrative": "配達中、11Fまで階段…疲れたなぁ。再配… → あぁ…起きたくない…😪 → いや関係ないけど…今日の配送先、遠い気が… → 置き配、また階段…ふぅ…10Fまで行くの… → やっぱ暖かくなってきたんだなぁ…桜ももう… → 11Fまで階段…はぁ、ほんと疲れる…😪… → あーもう、さっきのお客さんに「ありがとう… → あーもう、再配達のストレス…さっき13F… → あーあ、配達中にまた渋滞…💨インターホ… → また階段…ほんとさ、11Fまでさ、しんど…",
-  "last_post_timestamp_ms": 1775640800953
+  "today_narrative": "配達中、11Fまで階段…疲れたなぁ。再配… → あぁ…起きたくない…😪 → いや関係ないけど…今日の配送先、遠い気が… → 置き配、また階段…ふぅ…10Fまで行くの… → やっぱ暖かくなってきたんだなぁ…桜ももう… → 11Fまで階段…はぁ、ほんと疲れる…😪… → あーもう、さっきのお客さんに「ありがとう… → あーもう、再配達のストレス…さっき13F… → あーあ、配達中にまた渋滞…💨インターホ… → また階段…ほんとさ、11Fまでさ、しんど… → ほんと、疲れたなぁ。外出たら暖かいけど、…",
+  "last_post_timestamp_ms": 1775650898616
 }
