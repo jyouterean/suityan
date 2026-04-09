@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 70,
+  "mood": "frustrated",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "インターホン鳴った瞬間に心折れそう…また階段、13Fまで…疲れたのに誰も褒めてくれない…あー、ほんと誰かに会いたい…桜見たいな…🌸",
+      "slot": "delivery",
+      "timestamp": "2026-04-10 01:08:45",
+      "hasImage": false
+    },
     {
       "text": "あー、もう無理、寝る。",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-04-09 17:01:14",
       "hasImage": false
-    },
-    {
-      "text": "不在票書くの地味に手が疲れるんだよね",
-      "slot": "delivery",
-      "timestamp": "2026-04-09 16:00:42",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "delivery"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 108,
+  "month_total_posts": 109,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-10",
-  "last_post_time": "00:20:10",
+  "last_post_time": "01:08:45",
   "ng_retry_count": 129,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-10 00:20:10",
+  "updated_at": "2026-04-10 01:08:45",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": false,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "あー、もう無理、寝る。",
-  "last_post_timestamp_ms": 1775748010668
+  "today_narrative": "あー、もう無理、寝る。 → インターホン鳴った瞬間に心折れそう…また…",
+  "last_post_timestamp_ms": 1775750925662
 }
