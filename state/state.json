@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "不在票書くの地味に手が疲れるんだよね",
+      "slot": "delivery",
+      "timestamp": "2026-04-09 16:00:42",
+      "hasImage": false
+    },
+    {
       "text": "あー、また階段で足が痛くなってきた…軽バンの中でのんびりしたいなぁ…お客さんとももっと楽しく話したいけど、なんかみんな急いでる…誰かに会いたい…たまには褒めてほしいな…",
       "slot": "delivery",
       "timestamp": "2026-04-09 15:25:07",
@@ -37,12 +43,6 @@
       "slot": "commute",
       "timestamp": "2026-04-09 08:10:14",
       "hasImage": false
-    },
-    {
-      "text": "あさ…まだ夢の中…",
-      "slot": "morning",
-      "timestamp": "2026-04-09 07:18:34",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "casual",
     "casual",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": false,
-  "month_total_posts": 101,
+  "month_total_posts": 102,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-09",
-  "last_post_time": "15:25:07",
-  "ng_retry_count": 125,
-  "fallback_used_count": 3,
+  "last_post_time": "16:00:42",
+  "ng_retry_count": 128,
+  "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-09 15:25:07",
+  "updated_at": "2026-04-09 16:00:42",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もう死んでる…おやすみ → あさ…まだ夢の中… → 帰宅途中、段ボールしか見えない…だるいな… → さっき3Fまで階段上がって筋肉痛になりそ… → また部屋の片付けしなきゃ…でもやる気出な… → あれ…また花粉がひどい…目がかゆいし鼻も… → あー、さっきの犬に吠えられて心臓止まりそ… → あー、また階段で足が痛くなってきた…軽バ…",
-  "last_post_timestamp_ms": 1775715907397
+  "today_narrative": "もう死んでる…おやすみ → あさ…まだ夢の中… → 帰宅途中、段ボールしか見えない…だるいな… → さっき3Fまで階段上がって筋肉痛になりそ… → また部屋の片付けしなきゃ…でもやる気出な… → あれ…また花粉がひどい…目がかゆいし鼻も… → あー、さっきの犬に吠えられて心臓止まりそ… → あー、また階段で足が痛くなってきた…軽バ… → 不在票書くの地味に手が疲れるんだよね",
+  "last_post_timestamp_ms": 1775718042202
 }
