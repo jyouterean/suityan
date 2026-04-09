@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "いま帰宅途中…段ボールしか見えない…だるいな…あー、花粉がまたひどい…目かゆいし鼻もやばい😩😩 なんかもう何も考えたくない…ただ帰りたいよ…",
+      "slot": "commute",
+      "timestamp": "2026-04-09 18:19:52",
+      "hasImage": false
+    },
+    {
       "text": "あー、もうしんど…段ボール運びすぎて目が…眠い…😩誰かに会いたいなぁ。花粉もひどいし、また鼻が…😷ほんと、普通の暮らししたいよ…（誰得）",
       "slot": "delivery",
       "timestamp": "2026-04-09 17:01:14",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-04-09 12:59:40",
       "hasImage": false
-    },
-    {
-      "text": "さっき3Fまで階段上がって筋肉痛になりそう…めっちゃ疲れた。あと少しで帰れるけど、誰かに会って話したいなぁ…。配達中のルート組みももう飽きたし、ドラマみたいな恋愛がしたい...🌸",
-      "slot": "delivery",
-      "timestamp": "2026-04-09 09:22:59",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -55,25 +55,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "delivery"
+    "delivery",
+    "commute"
   ],
-  "today_post_count": 10,
+  "today_post_count": 11,
   "today_goodnight_posted": false,
-  "month_total_posts": 103,
+  "month_total_posts": 104,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-09",
-  "last_post_time": "17:01:14",
+  "last_post_time": "18:19:52",
   "ng_retry_count": 128,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-09 17:01:14",
+  "updated_at": "2026-04-09 18:19:52",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もう死んでる…おやすみ → あさ…まだ夢の中… → 帰宅途中、段ボールしか見えない…だるいな… → さっき3Fまで階段上がって筋肉痛になりそ… → また部屋の片付けしなきゃ…でもやる気出な… → あれ…また花粉がひどい…目がかゆいし鼻も… → あー、さっきの犬に吠えられて心臓止まりそ… → あー、また階段で足が痛くなってきた…軽バ… → 不在票書くの地味に手が疲れるんだよね → あー、もうしんど…段ボール運びすぎて目が…",
-  "last_post_timestamp_ms": 1775721674842
+  "today_narrative": "もう死んでる…おやすみ → あさ…まだ夢の中… → 帰宅途中、段ボールしか見えない…だるいな… → さっき3Fまで階段上がって筋肉痛になりそ… → また部屋の片付けしなきゃ…でもやる気出な… → あれ…また花粉がひどい…目がかゆいし鼻も… → あー、さっきの犬に吠えられて心臓止まりそ… → あー、また階段で足が痛くなってきた…軽バ… → 不在票書くの地味に手が疲れるんだよね → あー、もうしんど…段ボール運びすぎて目が… → いま帰宅途中…段ボールしか見えない…だる…",
+  "last_post_timestamp_ms": 1775726392568
 }
