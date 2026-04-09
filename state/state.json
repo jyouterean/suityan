@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 10,
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "あー、もう無理、寝る。",
+      "slot": "simple_goodnight",
+      "timestamp": "2026-04-10 00:20:10",
+      "hasImage": false
+    },
     {
       "text": "ほんと、まだ夢の中にいる気分…目がかゆいし、花粉しんどいなぁ。最近、段ボールとの戦いばっかりで…疲れすぎて立ってるのもつらいよ…。おやすみなさい、さみしいなぁ…😔📦",
       "slot": "night_ero",
@@ -37,47 +43,28 @@
       "slot": "delivery",
       "timestamp": "2026-04-09 16:00:42",
       "hasImage": false
-    },
-    {
-      "text": "あー、また階段で足が痛くなってきた…軽バンの中でのんびりしたいなぁ…お客さんとももっと楽しく話したいけど、なんかみんな急いでる…誰かに会いたい…たまには褒めてほしいな…",
-      "slot": "delivery",
-      "timestamp": "2026-04-09 15:25:07",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight",
-    "morning",
-    "commute",
-    "delivery",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery",
-    "delivery",
-    "commute",
-    "casual",
-    "night_ero",
-    "night_ero"
+    "simple_goodnight"
   ],
-  "today_post_count": 14,
+  "today_post_count": 1,
   "today_goodnight_posted": false,
-  "month_total_posts": 107,
+  "month_total_posts": 108,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-04-09",
-  "last_post_time": "22:21:04",
+  "last_post_date": "2026-04-10",
+  "last_post_time": "00:20:10",
   "ng_retry_count": 129,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-09 22:21:04",
+  "updated_at": "2026-04-10 00:20:10",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": true,
+  "today_morning_posted": false,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もう死んでる…おやすみ → あさ…まだ夢の中… → 帰宅途中、段ボールしか見えない…だるいな… → さっき3Fまで階段上がって筋肉痛になりそ… → また部屋の片付けしなきゃ…でもやる気出な… → あれ…また花粉がひどい…目がかゆいし鼻も… → あー、さっきの犬に吠えられて心臓止まりそ… → あー、また階段で足が痛くなってきた…軽バ… → 不在票書くの地味に手が疲れるんだよね → あー、もうしんど…段ボール運びすぎて目が… → いま帰宅途中…段ボールしか見えない…だる… → あーもう、ほんとにしんどい…何もしたくな… → ほんと何もやる気出ない…疲れすぎてる…ま… → ほんと、まだ夢の中にいる気分…目がかゆい…",
-  "last_post_timestamp_ms": 1775740864530
+  "today_narrative": "あー、もう無理、寝る。",
+  "last_post_timestamp_ms": 1775748010668
 }
