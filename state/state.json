@@ -1,7 +1,13 @@
 {
-  "mood": "frustrated",
-  "energy": 60,
+  "mood": "tired",
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "目覚ましうざい…まだ寝たい😴",
+      "slot": "morning",
+      "timestamp": "2026-04-10 07:15:31",
+      "hasImage": false
+    },
     {
       "text": "インターホン鳴った瞬間に心折れそう…また階段、13Fまで…疲れたのに誰も褒めてくれない…あー、ほんと誰かに会いたい…桜見たいな…🌸",
       "slot": "delivery",
@@ -37,35 +43,30 @@
       "slot": "commute",
       "timestamp": "2026-04-09 18:19:52",
       "hasImage": false
-    },
-    {
-      "text": "あー、もうしんど…段ボール運びすぎて目が…眠い…😩誰かに会いたいなぁ。花粉もひどいし、また鼻が…😷ほんと、普通の暮らししたいよ…（誰得）",
-      "slot": "delivery",
-      "timestamp": "2026-04-09 17:01:14",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
-    "delivery"
+    "delivery",
+    "morning"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 109,
+  "month_total_posts": 110,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-10",
-  "last_post_time": "01:08:45",
+  "last_post_time": "07:15:31",
   "ng_retry_count": 129,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-10 01:08:45",
+  "updated_at": "2026-04-10 07:15:31",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "あー、もう無理、寝る。 → インターホン鳴った瞬間に心折れそう…また…",
-  "last_post_timestamp_ms": 1775750925662
+  "today_narrative": "あー、もう無理、寝る。 → インターホン鳴った瞬間に心折れそう…また… → 目覚ましうざい…まだ寝たい😴",
+  "last_post_timestamp_ms": 1775772931052
 }
