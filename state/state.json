@@ -1,7 +1,13 @@
 {
   "mood": "frustrated",
-  "energy": 30,
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "あれ…また花粉がひどい…目がかゆいし鼻もムズムズ…新生活始まるのに、こんな状態じゃ無理だよね…日差しは気持ちいいのに…気持ちだけでも晴れたらいいのに…☀️💧",
+      "slot": "casual",
+      "timestamp": "2026-04-09 13:30:20",
+      "hasImage": false
+    },
     {
       "text": "また部屋の片付けしなきゃ…でもやる気出ないなぁ。花粉もすごいし、外に出るのも億劫…こうやってダラダラしてると、ほんとに何も進まないよね😩🌸",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "goodnight",
       "timestamp": "2026-04-08 23:53:45",
       "hasImage": false
-    },
-    {
-      "text": "さっき12Fまで階段あがったら、ほんとふぅって感じ…また配達が待ってるのかぁ…あぁ、もう少しだけ誰かに寄り添ってほしいなぁ…やっぱり暖かくなってきたね…桜も咲く頃だし…🌸",
-      "slot": "night_ero",
-      "timestamp": "2026-04-08 22:15:51",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "morning",
     "commute",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": false,
-  "month_total_posts": 98,
+  "month_total_posts": 99,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-09",
-  "last_post_time": "12:59:40",
+  "last_post_time": "13:30:20",
   "ng_retry_count": 124,
   "fallback_used_count": 3,
   "created_at": null,
-  "updated_at": "2026-04-09 12:59:40",
+  "updated_at": "2026-04-09 13:30:20",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もう死んでる…おやすみ → あさ…まだ夢の中… → 帰宅途中、段ボールしか見えない…だるいな… → さっき3Fまで階段上がって筋肉痛になりそ… → また部屋の片付けしなきゃ…でもやる気出な…",
-  "last_post_timestamp_ms": 1775707180512
+  "today_narrative": "もう死んでる…おやすみ → あさ…まだ夢の中… → 帰宅途中、段ボールしか見えない…だるいな… → さっき3Fまで階段上がって筋肉痛になりそ… → また部屋の片付けしなきゃ…でもやる気出な… → あれ…また花粉がひどい…目がかゆいし鼻も…",
+  "last_post_timestamp_ms": 1775709020677
 }
