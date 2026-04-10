@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あー、もう無理…🚚まだ眠いのにまたピンポン…誰もいないのに😩もうこの再はいたつ、心折れる…ねぇ、側にいてほしいなぁ…",
+      "slot": "night_ero",
+      "timestamp": "2026-04-10 22:02:54",
+      "hasImage": false
+    },
+    {
       "text": "…ねぇ、誰か私を癒してくれないかなぁ…😔",
       "slot": "casual",
       "timestamp": "2026-04-10 20:54:52",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-04-10 07:15:31",
       "hasImage": false
-    },
-    {
-      "text": "インターホン鳴った瞬間に心折れそう…また階段、13Fまで…疲れたのに誰も褒めてくれない…あー、ほんと誰かに会いたい…桜見たいな…🌸",
-      "slot": "delivery",
-      "timestamp": "2026-04-10 01:08:45",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "casual",
     "delivery",
     "delivery",
-    "casual"
+    "casual",
+    "night_ero"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": false,
-  "month_total_posts": 115,
+  "month_total_posts": 116,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-10",
-  "last_post_time": "20:54:52",
+  "last_post_time": "22:02:54",
   "ng_retry_count": 129,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-10 20:54:52",
+  "updated_at": "2026-04-10 22:02:54",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 6,
   "today_max_posts": 14,
-  "today_narrative": "あー、もう無理、寝る。 → インターホン鳴った瞬間に心折れそう…また… → 目覚ましうざい…まだ寝たい😴 → 今日も不在票だらけ…何回ピンポン鳴らされ… → あー、もう無理、寝る…でも雨…ちょっと寒… → あー、もう本当に疲れた…台車押すの、腕が… → あー、またインターホン鳴った瞬間、心折れ… → …ねぇ、誰か私を癒してくれないかなぁ…\ud83d…",
-  "last_post_timestamp_ms": 1775822092718
+  "today_narrative": "あー、もう無理、寝る。 → インターホン鳴った瞬間に心折れそう…また… → 目覚ましうざい…まだ寝たい😴 → 今日も不在票だらけ…何回ピンポン鳴らされ… → あー、もう無理、寝る…でも雨…ちょっと寒… → あー、もう本当に疲れた…台車押すの、腕が… → あー、またインターホン鳴った瞬間、心折れ… → …ねぇ、誰か私を癒してくれないかなぁ…\ud83d… → あー、もう無理…🚚まだ眠いのにまたピン…",
+  "last_post_timestamp_ms": 1775826174183
 }
