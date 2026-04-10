@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 40,
+  "mood": "melancholy",
+  "energy": 30,
   "last_posts": [
+    {
+      "text": "あー、もう無理、寝る…でも雨…ちょっと寒いし…せっかくの金曜なのにこの天気…誰かと遊びたいなー…でもまた不在票かな…😔",
+      "slot": "casual",
+      "timestamp": "2026-04-10 13:34:49",
+      "hasImage": false
+    },
     {
       "text": "今日も不在票だらけ…何回ピンポン鳴らされるのかな…眠いしだるいし、もう帰りたいよ😩仕事終わっても虚しいなぁ…誰かと一緒に帰りたいなぁ。",
       "slot": "commute",
@@ -37,37 +43,32 @@
       "slot": "night_ero",
       "timestamp": "2026-04-09 21:19:51",
       "hasImage": false
-    },
-    {
-      "text": "あーもう、ほんとにしんどい…何もしたくない…頭も働かないし、早くベッドに入って寝たい…😩",
-      "slot": "casual",
-      "timestamp": "2026-04-09 19:46:53",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
     "delivery",
     "morning",
-    "commute"
+    "commute",
+    "casual"
   ],
-  "today_post_count": 4,
+  "today_post_count": 5,
   "today_goodnight_posted": false,
-  "month_total_posts": 111,
+  "month_total_posts": 112,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-10",
-  "last_post_time": "08:30:55",
+  "last_post_time": "13:34:49",
   "ng_retry_count": 129,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-10 12:53:41",
+  "updated_at": "2026-04-10 13:34:49",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 2,
   "today_max_posts": 14,
-  "today_narrative": "あー、もう無理、寝る。 → インターホン鳴った瞬間に心折れそう…また… → 目覚ましうざい…まだ寝たい😴 → 今日も不在票だらけ…何回ピンポン鳴らされ…",
-  "last_post_timestamp_ms": 1775777455429
+  "today_narrative": "あー、もう無理、寝る。 → インターホン鳴った瞬間に心折れそう…また… → 目覚ましうざい…まだ寝たい😴 → 今日も不在票だらけ…何回ピンポン鳴らされ… → あー、もう無理、寝る…でも雨…ちょっと寒…",
+  "last_post_timestamp_ms": 1775795689381
 }
