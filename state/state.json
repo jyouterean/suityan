@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 60,
+  "mood": "tired",
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "おはよ…まだ夢の中…😪",
+      "slot": "morning",
+      "timestamp": "2026-04-11 06:58:50",
+      "hasImage": false
+    },
     {
       "text": "…ねぇ、もうおやすみの時間だよ…疲れたなぁ。配達ルートで103件も頑張ったのに、誰も褒めてくれない…でも、明日も頑張ろうって気持ちだけは持ってるよ…🌸",
       "slot": "goodnight",
@@ -37,35 +43,30 @@
       "slot": "delivery",
       "timestamp": "2026-04-10 14:39:31",
       "hasImage": false
-    },
-    {
-      "text": "あー、もう無理、寝る…でも雨…ちょっと寒いし…せっかくの金曜なのにこの天気…誰かと遊びたいなー…でもまた不在票かな…😔",
-      "slot": "casual",
-      "timestamp": "2026-04-10 13:34:49",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
-    "goodnight"
+    "goodnight",
+    "morning"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": true,
-  "month_total_posts": 118,
+  "month_total_posts": 119,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-11",
-  "last_post_time": "00:34:01",
+  "last_post_time": "06:58:50",
   "ng_retry_count": 129,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-11 00:34:01",
+  "updated_at": "2026-04-11 06:58:50",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "うぅ、もう眠い…😴 → …ねぇ、もうおやすみの時間だよ…疲れたな…",
-  "last_post_timestamp_ms": 1775835241694
+  "today_narrative": "うぅ、もう眠い…😴 → …ねぇ、もうおやすみの時間だよ…疲れたな… → おはよ…まだ夢の中…😪",
+  "last_post_timestamp_ms": 1775858330833
 }
