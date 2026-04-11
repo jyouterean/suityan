@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "もぅ、荷物運ぶの疲れた…😩まだ残り18件もあるなんて…あぁ、誰かかまってほしいよ…💦新生活とか全然関係ないよ、ほんと…",
+      "slot": "night_ero",
+      "timestamp": "2026-04-11 21:58:34",
+      "hasImage": false
+    },
+    {
       "text": "あーもう、ほんとしんどい…💧あと何件もあるのに…誰か助けてくれないかな…",
       "slot": "casual",
       "timestamp": "2026-04-11 19:21:00",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-04-11 14:07:19",
       "hasImage": false
-    },
-    {
-      "text": "もう少し寝かせてほしい…最近さ、夜の眠りが浅い気がする…🌙ああ、春なのに眠れぬ日々…どうにかしたいな…",
-      "slot": "casual",
-      "timestamp": "2026-04-11 13:17:18",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "delivery",
     "commute",
-    "casual"
+    "casual",
+    "night_ero"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": true,
-  "month_total_posts": 127,
+  "month_total_posts": 128,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-11",
-  "last_post_time": "19:21:00",
+  "last_post_time": "21:58:34",
   "ng_retry_count": 130,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-11 20:41:34",
+  "updated_at": "2026-04-11 21:58:34",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 3,
   "today_max_posts": 14,
-  "today_narrative": "うぅ、もう眠い…😴 → …ねぇ、もうおやすみの時間だよ…疲れたな… → おはよ…まだ夢の中…😪 → うぅ、もう朝だね…なんかすごい晴れてるな… → もう少し寝かせてほしい…最近さ、夜の眠り… → さっき3Fまで階段上がったし…もう体力残… → もう身体がだるい…さっき置き配してたら、… → うぅ、また荷物運ぶのか…けど、ほんとにお… → あーもう、ほんとにしんどいな…💦さっき… → あー、また朝か…😩軽バンの運転しんどい… → あーもう、ほんとしんどい…💧あと何件も…",
-  "last_post_timestamp_ms": 1775902860309
+  "today_narrative": "うぅ、もう眠い…😴 → …ねぇ、もうおやすみの時間だよ…疲れたな… → おはよ…まだ夢の中…😪 → うぅ、もう朝だね…なんかすごい晴れてるな… → もう少し寝かせてほしい…最近さ、夜の眠り… → さっき3Fまで階段上がったし…もう体力残… → もう身体がだるい…さっき置き配してたら、… → うぅ、また荷物運ぶのか…けど、ほんとにお… → あーもう、ほんとにしんどいな…💦さっき… → あー、また朝か…😩軽バンの運転しんどい… → あーもう、ほんとしんどい…💧あと何件も… → もぅ、荷物運ぶの疲れた…😩まだ残り18…",
+  "last_post_timestamp_ms": 1775912314548
 }
