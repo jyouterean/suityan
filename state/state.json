@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 40,
+  "mood": "frustrated",
+  "energy": 30,
   "last_posts": [
+    {
+      "text": "もう少し寝かせてほしい…最近さ、夜の眠りが浅い気がする…🌙ああ、春なのに眠れぬ日々…どうにかしたいな…",
+      "slot": "casual",
+      "timestamp": "2026-04-11 13:17:18",
+      "hasImage": false
+    },
     {
       "text": "うぅ、もう朝だね…なんかすごい晴れてるなぁ☀️でもまだ夢の続き見てたい…なんでこんなに疲れてるのかな…",
       "slot": "casual",
@@ -37,37 +43,32 @@
       "slot": "casual",
       "timestamp": "2026-04-10 20:54:52",
       "hasImage": false
-    },
-    {
-      "text": "あー、またインターホン鳴った瞬間、心折れそう…😩💦 111件もはいたつして、残り4件なのに、まだまだ終わらない…ふぅ、ほんとに誰かに会いたいなぁ…。",
-      "slot": "delivery",
-      "timestamp": "2026-04-10 17:20:20",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
     "goodnight",
     "morning",
+    "casual",
     "casual"
   ],
-  "today_post_count": 4,
+  "today_post_count": 5,
   "today_goodnight_posted": true,
-  "month_total_posts": 120,
+  "month_total_posts": 121,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-11",
-  "last_post_time": "12:27:44",
+  "last_post_time": "13:17:18",
   "ng_retry_count": 129,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-11 12:27:44",
+  "updated_at": "2026-04-11 13:17:18",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 2,
   "today_max_posts": 14,
-  "today_narrative": "うぅ、もう眠い…😴 → …ねぇ、もうおやすみの時間だよ…疲れたな… → おはよ…まだ夢の中…😪 → うぅ、もう朝だね…なんかすごい晴れてるな…",
-  "last_post_timestamp_ms": 1775878064783
+  "today_narrative": "うぅ、もう眠い…😴 → …ねぇ、もうおやすみの時間だよ…疲れたな… → おはよ…まだ夢の中…😪 → うぅ、もう朝だね…なんかすごい晴れてるな… → もう少し寝かせてほしい…最近さ、夜の眠り…",
+  "last_post_timestamp_ms": 1775881038120
 }
