@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あーもう、ほんとにしんどいな…💦さっき新作スイーツ見つけてテンション上がったけど、今はもう荷物運ぶのもダルい…配達ルート組むの、こんなに疲れるもんかなぁ…誰か褒めてくれないかな…",
+      "slot": "delivery",
+      "timestamp": "2026-04-11 16:54:46",
+      "hasImage": false
+    },
+    {
       "text": "うぅ、また荷物運ぶのか…けど、ほんとにお客さんに会うのも疲れるなぁ。早く帰ってのんびりしたい…ネコちゃんいたから癒されたけどさ、なんかさ、誰かに褒めてほしい、ホント。",
       "slot": "delivery",
       "timestamp": "2026-04-11 15:40:10",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-04-11 06:58:50",
       "hasImage": false
-    },
-    {
-      "text": "…ねぇ、もうおやすみの時間だよ…疲れたなぁ。配達ルートで103件も頑張ったのに、誰も褒めてくれない…でも、明日も頑張ろうって気持ちだけは持ってるよ…🌸",
-      "slot": "goodnight",
-      "timestamp": "2026-04-11 00:34:01",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "casual",
     "delivery",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": true,
-  "month_total_posts": 124,
+  "month_total_posts": 125,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-11",
-  "last_post_time": "15:40:10",
+  "last_post_time": "16:54:46",
   "ng_retry_count": 130,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-11 15:40:10",
+  "updated_at": "2026-04-11 16:54:46",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 2,
   "today_max_posts": 14,
-  "today_narrative": "うぅ、もう眠い…😴 → …ねぇ、もうおやすみの時間だよ…疲れたな… → おはよ…まだ夢の中…😪 → うぅ、もう朝だね…なんかすごい晴れてるな… → もう少し寝かせてほしい…最近さ、夜の眠り… → さっき3Fまで階段上がったし…もう体力残… → もう身体がだるい…さっき置き配してたら、… → うぅ、また荷物運ぶのか…けど、ほんとにお…",
-  "last_post_timestamp_ms": 1775889610261
+  "today_narrative": "うぅ、もう眠い…😴 → …ねぇ、もうおやすみの時間だよ…疲れたな… → おはよ…まだ夢の中…😪 → うぅ、もう朝だね…なんかすごい晴れてるな… → もう少し寝かせてほしい…最近さ、夜の眠り… → さっき3Fまで階段上がったし…もう体力残… → もう身体がだるい…さっき置き配してたら、… → うぅ、また荷物運ぶのか…けど、ほんとにお… → あーもう、ほんとにしんどいな…💦さっき…",
+  "last_post_timestamp_ms": 1775894086002
 }
