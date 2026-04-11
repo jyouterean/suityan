@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "もぅ、また荷物運ぶのかぁ…😩不在票、ほんと勘弁してほしいな…あー、なんか誰かに甘えたい…誰か優しくしてくれないかな…😪",
+      "slot": "delivery",
+      "timestamp": "2026-04-11 23:22:13",
+      "hasImage": false
+    },
+    {
       "text": "もぅ、荷物運ぶの疲れた…😩まだ残り18件もあるなんて…あぁ、誰かかまってほしいよ…💦新生活とか全然関係ないよ、ほんと…",
       "slot": "night_ero",
       "timestamp": "2026-04-11 21:58:34",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-04-11 14:49:09",
       "hasImage": false
-    },
-    {
-      "text": "さっき3Fまで階段上がったし…もう体力残ってないよ…😩荷物もってると余計疲れる…でもこんな春、桜見るために誰かと一緒に散歩したいな…出会いってどこにあるんだろ…",
-      "slot": "delivery",
-      "timestamp": "2026-04-11 14:07:19",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -57,25 +57,26 @@
     "delivery",
     "commute",
     "casual",
-    "night_ero"
+    "night_ero",
+    "delivery"
   ],
-  "today_post_count": 12,
+  "today_post_count": 13,
   "today_goodnight_posted": true,
-  "month_total_posts": 128,
+  "month_total_posts": 129,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-11",
-  "last_post_time": "21:58:34",
+  "last_post_time": "23:22:13",
   "ng_retry_count": 130,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-11 21:58:34",
+  "updated_at": "2026-04-11 23:22:13",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 3,
   "today_max_posts": 14,
-  "today_narrative": "うぅ、もう眠い…😴 → …ねぇ、もうおやすみの時間だよ…疲れたな… → おはよ…まだ夢の中…😪 → うぅ、もう朝だね…なんかすごい晴れてるな… → もう少し寝かせてほしい…最近さ、夜の眠り… → さっき3Fまで階段上がったし…もう体力残… → もう身体がだるい…さっき置き配してたら、… → うぅ、また荷物運ぶのか…けど、ほんとにお… → あーもう、ほんとにしんどいな…💦さっき… → あー、また朝か…😩軽バンの運転しんどい… → あーもう、ほんとしんどい…💧あと何件も… → もぅ、荷物運ぶの疲れた…😩まだ残り18…",
-  "last_post_timestamp_ms": 1775912314548
+  "today_narrative": "うぅ、もう眠い…😴 → …ねぇ、もうおやすみの時間だよ…疲れたな… → おはよ…まだ夢の中…😪 → うぅ、もう朝だね…なんかすごい晴れてるな… → もう少し寝かせてほしい…最近さ、夜の眠り… → さっき3Fまで階段上がったし…もう体力残… → もう身体がだるい…さっき置き配してたら、… → うぅ、また荷物運ぶのか…けど、ほんとにお… → あーもう、ほんとにしんどいな…💦さっき… → あー、また朝か…😩軽バンの運転しんどい… → あーもう、ほんとしんどい…💧あと何件も… → もぅ、荷物運ぶの疲れた…😩まだ残り18… → もぅ、また荷物運ぶのかぁ…😩不在票、ほ…",
+  "last_post_timestamp_ms": 1775917333058
 }
