@@ -1,7 +1,13 @@
 {
   "mood": "lonely",
-  "energy": 70,
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "…また寂しいなぁ…。むりだわ、誰か来てほしい。最近ずっと一人だし…😔",
+      "slot": "morning",
+      "timestamp": "2026-04-12 06:51:14",
+      "hasImage": false
+    },
     {
       "text": "さっきの愚痴だけどさ…あー、なんかほんと誰かと一緒にいたいなぁ…😢 ねぇ、かまってよぉ…これじゃいけないって分かってるけど、寂しいのはどうしようもないよ…",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-04-11 16:54:46",
       "hasImage": false
-    },
-    {
-      "text": "うぅ、また荷物運ぶのか…けど、ほんとにお客さんに会うのも疲れるなぁ。早く帰ってのんびりしたい…ネコちゃんいたから癒されたけどさ、なんかさ、誰かに褒めてほしい、ホント。",
-      "slot": "delivery",
-      "timestamp": "2026-04-11 15:40:10",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 130,
+  "month_total_posts": 131,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-12",
-  "last_post_time": "00:07:46",
+  "last_post_time": "06:51:14",
   "ng_retry_count": 130,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-12 00:07:46",
+  "updated_at": "2026-04-12 06:51:14",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 8,
-  "today_narrative": "さっきの愚痴だけどさ…あー、なんかほんと…",
-  "last_post_timestamp_ms": 1775920066649
+  "today_narrative": "さっきの愚痴だけどさ…あー、なんかほんと… → …また寂しいなぁ…。むりだわ、誰か来てほ…",
+  "last_post_timestamp_ms": 1775944274049
 }
