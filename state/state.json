@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 70,
+  "mood": "tired",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "寝起き…まだぼんやりしてる…。ほんと、昨日の疲れが取れない…😩 こんな調子で配達…むり…。",
+      "slot": "morning",
+      "timestamp": "2026-04-13 06:52:08",
+      "hasImage": false
+    },
     {
       "text": "明日も配達…頑張るしかないけど、ほんと憂鬱だ…仕事終わりに誰かと話したいなぁ…😔 インターホンばっかで疲れちゃう…。おやすみ、少し甘えさせてね。明日も花粉に負けずに頑張る。",
       "slot": "goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-04-12 09:12:17",
       "hasImage": false
-    },
-    {
-      "text": "あー、なんかまた疲れた…雨降ったり、荷物運びしたりでなんかもうだるい…誰かと帰りたいなぁ…もしかしてまだ3Fの階段の影響…？あー、ほんとしんどい…😓",
-      "slot": "commute",
-      "timestamp": "2026-04-12 08:13:49",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight"
+    "goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": true,
-  "month_total_posts": 138,
+  "month_total_posts": 139,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-13",
-  "last_post_time": "00:23:27",
+  "last_post_time": "06:52:08",
   "ng_retry_count": 130,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-13 00:23:27",
+  "updated_at": "2026-04-13 06:52:08",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "明日も配達…頑張るしかないけど、ほんと憂…",
-  "last_post_timestamp_ms": 1776007407872
+  "today_narrative": "明日も配達…頑張るしかないけど、ほんと憂… → 寝起き…まだぼんやりしてる…。ほんと、昨…",
+  "last_post_timestamp_ms": 1776030728759
 }
