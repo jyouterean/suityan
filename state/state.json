@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 30,
+  "mood": "melancholy",
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "あー、なんかまた寂しいなぁ…😞誰か来てほしいな…もう無理だよ、ひとりは…春なのに花粉だけは最悪…",
+      "slot": "casual",
+      "timestamp": "2026-04-12 13:51:28",
+      "hasImage": false
+    },
     {
       "text": "さっきの愚痴だけどさ…あー、なんかほんと…配達の合間に桜見たいなぁ🌸でもベランダから見るだけじゃダメだよね…誰か一緒に花見とかできる人いないかなぁ…",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-04-11 23:22:13",
       "hasImage": false
-    },
-    {
-      "text": "もぅ、荷物運ぶの疲れた…😩まだ残り18件もあるなんて…あぁ、誰かかまってほしいよ…💦新生活とか全然関係ないよ、ほんと…",
-      "slot": "night_ero",
-      "timestamp": "2026-04-11 21:58:34",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "morning",
     "commute",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": false,
-  "month_total_posts": 134,
+  "month_total_posts": 135,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-12",
-  "last_post_time": "13:18:12",
+  "last_post_time": "13:51:28",
   "ng_retry_count": 130,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-12 13:18:12",
+  "updated_at": "2026-04-12 13:51:28",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 8,
-  "today_narrative": "さっきの愚痴だけどさ…あー、なんかほんと… → …また寂しいなぁ…。むりだわ、誰か来てほ… → あー、なんかまた疲れた…雨降ったり、荷物… → 運転中、配達が多いからほんと腰痛い…😩… → さっきの愚痴だけどさ…あー、なんかほんと…",
-  "last_post_timestamp_ms": 1775967492598
+  "today_narrative": "さっきの愚痴だけどさ…あー、なんかほんと… → …また寂しいなぁ…。むりだわ、誰か来てほ… → あー、なんかまた疲れた…雨降ったり、荷物… → 運転中、配達が多いからほんと腰痛い…😩… → さっきの愚痴だけどさ…あー、なんかほんと… → あー、なんかまた寂しいなぁ…😞誰か来て…",
+  "last_post_timestamp_ms": 1775969488344
 }
