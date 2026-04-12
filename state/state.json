@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 10,
+  "mood": "lonely",
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "明日も配達…頑張るしかないけど、ほんと憂鬱だ…仕事終わりに誰かと話したいなぁ…😔 インターホンばっかで疲れちゃう…。おやすみ、少し甘えさせてね。明日も花粉に負けずに頑張る。",
+      "slot": "goodnight",
+      "timestamp": "2026-04-13 00:23:27",
+      "hasImage": false
+    },
     {
       "text": "さっきの続きだけど、あーほんと、多いなぁ、はいたつ…😩腰痛いし、ちっちゃい階段も多いし…んでな、もー再配達ばっかりで疲れちった…💦ほんと、誰か会いに来てよ…",
       "slot": "delivery",
@@ -37,41 +43,28 @@
       "slot": "commute",
       "timestamp": "2026-04-12 08:13:49",
       "hasImage": false
-    },
-    {
-      "text": "…また寂しいなぁ…。むりだわ、誰か来てほしい。最近ずっと一人だし…😔",
-      "slot": "morning",
-      "timestamp": "2026-04-12 06:51:14",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight",
-    "morning",
-    "commute",
-    "delivery",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery"
+    "goodnight"
   ],
-  "today_post_count": 8,
-  "today_goodnight_posted": false,
-  "month_total_posts": 137,
+  "today_post_count": 1,
+  "today_goodnight_posted": true,
+  "month_total_posts": 138,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-04-12",
-  "last_post_time": "15:34:07",
+  "last_post_date": "2026-04-13",
+  "last_post_time": "00:23:27",
   "ng_retry_count": 130,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-12 15:34:07",
+  "updated_at": "2026-04-13 00:23:27",
   "month_string": "2026-04",
   "today_skipped": false,
-  "today_simple_goodnight_posted": true,
-  "today_morning_posted": true,
+  "today_simple_goodnight_posted": false,
+  "today_morning_posted": false,
   "today_skip_count": 0,
-  "today_max_posts": 8,
-  "today_narrative": "さっきの愚痴だけどさ…あー、なんかほんと… → …また寂しいなぁ…。むりだわ、誰か来てほ… → あー、なんかまた疲れた…雨降ったり、荷物… → 運転中、配達が多いからほんと腰痛い…😩… → さっきの愚痴だけどさ…あー、なんかほんと… → あー、なんかまた寂しいなぁ…😞誰か来て… → エレベーターなしのとこばっかでほんと疲れ… → さっきの続きだけど、あーほんと、多いなぁ…",
-  "last_post_timestamp_ms": 1775975647871
+  "today_max_posts": 15,
+  "today_narrative": "明日も配達…頑張るしかないけど、ほんと憂…",
+  "last_post_timestamp_ms": 1776007407872
 }
