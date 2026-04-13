@@ -1,7 +1,13 @@
 {
   "mood": "melancholy",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "ふぅ、配達中に子供に手振られた…ちょっとだけ癒されたけど、やっぱり疲れた…。さっきの家も一軒家だったし…なんかそれだけで切ないなぁ…😔💨",
+      "slot": "delivery",
+      "timestamp": "2026-04-13 09:19:10",
+      "hasImage": false
+    },
     {
       "text": "ぅぅ、ほんと疲れた…配達109件も運んで、今帰ってる途中。ひとりだとさ、虚しさが増すね。誰かと帰りたい…春なのにあんまり嬉しくない。月曜の憂鬱がボディブローのように効いてる感じ。明日も早いし、もう寝よかな…😴💤",
       "slot": "commute",
@@ -37,36 +43,31 @@
       "slot": "casual",
       "timestamp": "2026-04-12 13:51:28",
       "hasImage": false
-    },
-    {
-      "text": "さっきの愚痴だけどさ…あー、なんかほんと…配達の合間に桜見たいなぁ🌸でもベランダから見るだけじゃダメだよね…誰か一緒に花見とかできる人いないかなぁ…",
-      "slot": "casual",
-      "timestamp": "2026-04-12 13:18:12",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
     "morning",
-    "commute"
+    "commute",
+    "delivery"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": true,
-  "month_total_posts": 140,
+  "month_total_posts": 141,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-13",
-  "last_post_time": "08:14:31",
+  "last_post_time": "09:19:10",
   "ng_retry_count": 130,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-13 08:14:31",
+  "updated_at": "2026-04-13 09:19:10",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "明日も配達…頑張るしかないけど、ほんと憂… → 寝起き…まだぼんやりしてる…。ほんと、昨… → ぅぅ、ほんと疲れた…配達109件も運んで…",
-  "last_post_timestamp_ms": 1776035671400
+  "today_narrative": "明日も配達…頑張るしかないけど、ほんと憂… → 寝起き…まだぼんやりしてる…。ほんと、昨… → ぅぅ、ほんと疲れた…配達109件も運んで… → ふぅ、配達中に子供に手振られた…ちょっと…",
+  "last_post_timestamp_ms": 1776039550199
 }
