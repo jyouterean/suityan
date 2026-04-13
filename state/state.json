@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "いや、運転中にまだボーっとしちゃってる…😴 だるい…このままだと今日もヤバそう…",
+      "slot": "commute",
+      "timestamp": "2026-04-14 08:10:48",
+      "hasImage": false
+    },
     {
       "text": "おはよ…ねむい…まだ夢の中…",
       "slot": "morning",
@@ -37,36 +43,31 @@
       "slot": "casual",
       "timestamp": "2026-04-13 20:28:34",
       "hasImage": false
-    },
-    {
-      "text": "うーん、なんかあったかくて気持ちいいけど、月曜日はやっぱ重いなぁ…。あー、もう花粉がひどいし、ほんと憂鬱…😩🌸",
-      "slot": "casual",
-      "timestamp": "2026-04-13 19:01:01",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
     "delivery",
-    "morning"
+    "morning",
+    "commute"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": true,
-  "month_total_posts": 153,
+  "month_total_posts": 154,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-14",
-  "last_post_time": "06:59:42",
+  "last_post_time": "08:10:48",
   "ng_retry_count": 131,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-14 06:59:42",
+  "updated_at": "2026-04-14 08:10:48",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 11,
-  "today_narrative": "今日も127件配達してきたけど、疲れた…… → 配達中、またインターホン鳴らすの…誰かに… → おはよ…ねむい…まだ夢の中…",
-  "last_post_timestamp_ms": 1776117582519
+  "today_narrative": "今日も127件配達してきたけど、疲れた…… → 配達中、またインターホン鳴らすの…誰かに… → おはよ…ねむい…まだ夢の中… → いや、運転中にまだボーっとしちゃってる……",
+  "last_post_timestamp_ms": 1776121848583
 }
