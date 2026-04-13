@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あー、ほんと憂鬱だなぁ…もう月曜だし😩配達、90件もあったし…あの荷物、めっちゃ重かったしさ…。ねぇ、誰か一緒にいてほしいな…温もり、ほしいよ…😢",
+      "slot": "night_ero",
+      "timestamp": "2026-04-13 21:22:50",
+      "hasImage": false
+    },
+    {
       "text": "てかさっきの…ほんとに疲れた…ねぇ、誰かかまってくれないかな、寂しいよぉ…😢",
       "slot": "casual",
       "timestamp": "2026-04-13 20:28:34",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-04-13 13:32:56",
       "hasImage": false
-    },
-    {
-      "text": "てかさっきの配達先、すごいいい家だったなぁ！庭も広くて、子供の声が聞こえてきたのが印象的。ほんと家族の幸せって感じで…うらやましい！😊",
-      "slot": "casual",
-      "timestamp": "2026-04-13 12:56:55",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "delivery",
     "casual",
-    "casual"
+    "casual",
+    "night_ero"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": true,
-  "month_total_posts": 148,
+  "month_total_posts": 149,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-13",
-  "last_post_time": "20:28:34",
+  "last_post_time": "21:22:50",
   "ng_retry_count": 130,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-13 20:28:34",
+  "updated_at": "2026-04-13 21:22:50",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 15,
-  "today_narrative": "明日も配達…頑張るしかないけど、ほんと憂… → 寝起き…まだぼんやりしてる…。ほんと、昨… → ぅぅ、ほんと疲れた…配達109件も運んで… → ふぅ、配達中に子供に手振られた…ちょっと… → てかさっきの配達先、すごいいい家だったな… → うーん、ちょっと気分が重いなぁ…月曜日は… → あーもう、ほんとしんどい…残り29件なの… → あー、何回同じマンション行くんだよ…階段… → あー、ほんとぉ、運転するだけでも疲れが…… → うーん、なんかあったかくて気持ちいいけど… → てかさっきの…ほんとに疲れた…ねぇ、誰か…",
-  "last_post_timestamp_ms": 1776079714753
+  "today_narrative": "明日も配達…頑張るしかないけど、ほんと憂… → 寝起き…まだぼんやりしてる…。ほんと、昨… → ぅぅ、ほんと疲れた…配達109件も運んで… → ふぅ、配達中に子供に手振られた…ちょっと… → てかさっきの配達先、すごいいい家だったな… → うーん、ちょっと気分が重いなぁ…月曜日は… → あーもう、ほんとしんどい…残り29件なの… → あー、何回同じマンション行くんだよ…階段… → あー、ほんとぉ、運転するだけでも疲れが…… → うーん、なんかあったかくて気持ちいいけど… → てかさっきの…ほんとに疲れた…ねぇ、誰か… → あー、ほんと憂鬱だなぁ…もう月曜だし😩…",
+  "last_post_timestamp_ms": 1776082970892
 }
