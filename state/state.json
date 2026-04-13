@@ -1,7 +1,13 @@
 {
   "mood": "lonely",
-  "energy": 70,
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "配達中、またインターホン鳴らすの…誰かに会いたくなるよね。桜も咲いてきたし、新生活の季節なのに、私だけこんなに寂しい気持ち…🙁 あ、お客さんに「ありがとう」って言われたのちょっと心が温まった✨ でも、やっぱり誰かにかまってほしいな。残り25件、頑張らなきゃ…",
+      "slot": "delivery",
+      "timestamp": "2026-04-14 01:10:13",
+      "hasImage": false
+    },
     {
       "text": "今日も127件配達してきたけど、疲れた…おやすみなさい…ねぇ、誰か一緒にいてほしいな…桜が咲いてきたのに、心が少し寂しい😢",
       "slot": "goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-04-13 17:43:53",
       "hasImage": false
-    },
-    {
-      "text": "あー、何回同じマンション行くんだよ…階段3Fとか、もうやだよー💦ほんと、今日のはいたつ大変すぎて…誰かに褒められたいなぁ…😔",
-      "slot": "delivery",
-      "timestamp": "2026-04-13 16:33:55",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight"
+    "goodnight",
+    "delivery"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": true,
-  "month_total_posts": 151,
+  "month_total_posts": 152,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-14",
-  "last_post_time": "00:23:06",
+  "last_post_time": "01:10:13",
   "ng_retry_count": 131,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-14 00:23:06",
+  "updated_at": "2026-04-14 01:10:13",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": false,
   "today_skip_count": 0,
   "today_max_posts": 11,
-  "today_narrative": "今日も127件配達してきたけど、疲れた……",
-  "last_post_timestamp_ms": 1776093786826
+  "today_narrative": "今日も127件配達してきたけど、疲れた…… → 配達中、またインターホン鳴らすの…誰かに…",
+  "last_post_timestamp_ms": 1776096613987
 }
