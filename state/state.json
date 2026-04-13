@@ -1,7 +1,13 @@
 {
-  "mood": "melancholy",
-  "energy": 40,
+  "mood": "frustrated",
+  "energy": 30,
   "last_posts": [
+    {
+      "text": "てかさっきの配達先、すごいいい家だったなぁ！庭も広くて、子供の声が聞こえてきたのが印象的。ほんと家族の幸せって感じで…うらやましい！😊",
+      "slot": "casual",
+      "timestamp": "2026-04-13 12:56:55",
+      "hasImage": false
+    },
     {
       "text": "ふぅ、配達中に子供に手振られた…ちょっとだけ癒されたけど、やっぱり疲れた…。さっきの家も一軒家だったし…なんかそれだけで切ないなぁ…😔💨",
       "slot": "delivery",
@@ -37,37 +43,32 @@
       "slot": "delivery",
       "timestamp": "2026-04-12 14:22:49",
       "hasImage": false
-    },
-    {
-      "text": "あー、なんかまた寂しいなぁ…😞誰か来てほしいな…もう無理だよ、ひとりは…春なのに花粉だけは最悪…",
-      "slot": "casual",
-      "timestamp": "2026-04-12 13:51:28",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
     "morning",
     "commute",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 4,
+  "today_post_count": 5,
   "today_goodnight_posted": true,
-  "month_total_posts": 141,
+  "month_total_posts": 142,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-13",
-  "last_post_time": "09:19:10",
+  "last_post_time": "12:56:55",
   "ng_retry_count": 130,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-13 09:19:10",
+  "updated_at": "2026-04-13 12:56:55",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "明日も配達…頑張るしかないけど、ほんと憂… → 寝起き…まだぼんやりしてる…。ほんと、昨… → ぅぅ、ほんと疲れた…配達109件も運んで… → ふぅ、配達中に子供に手振られた…ちょっと…",
-  "last_post_timestamp_ms": 1776039550199
+  "today_narrative": "明日も配達…頑張るしかないけど、ほんと憂… → 寝起き…まだぼんやりしてる…。ほんと、昨… → ぅぅ、ほんと疲れた…配達109件も運んで… → ふぅ、配達中に子供に手振られた…ちょっと… → てかさっきの配達先、すごいいい家だったな…",
+  "last_post_timestamp_ms": 1776052615186
 }
