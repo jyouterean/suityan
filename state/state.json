@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あー、何回同じマンション行くんだよ…階段3Fとか、もうやだよー💦ほんと、今日のはいたつ大変すぎて…誰かに褒められたいなぁ…😔",
+      "slot": "delivery",
+      "timestamp": "2026-04-13 16:33:55",
+      "hasImage": false
+    },
+    {
       "text": "あーもう、ほんとしんどい…残り29件なのに、もう力ないかも。今なんかほんと誰かに会いたいよ、褒めてほしいし…😔一軒家に運ぶだけの毎日、つらいなぁ。心も体もへばってる…",
       "slot": "delivery",
       "timestamp": "2026-04-13 15:33:19",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-04-13 06:52:08",
       "hasImage": false
-    },
-    {
-      "text": "明日も配達…頑張るしかないけど、ほんと憂鬱だ…仕事終わりに誰かと話したいなぁ…😔 インターホンばっかで疲れちゃう…。おやすみ、少し甘えさせてね。明日も花粉に負けずに頑張る。",
-      "slot": "goodnight",
-      "timestamp": "2026-04-13 00:23:27",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "delivery",
     "casual",
     "casual",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": true,
-  "month_total_posts": 144,
+  "month_total_posts": 145,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-13",
-  "last_post_time": "15:33:19",
+  "last_post_time": "16:33:55",
   "ng_retry_count": 130,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-13 15:33:19",
+  "updated_at": "2026-04-13 16:33:55",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 15,
-  "today_narrative": "明日も配達…頑張るしかないけど、ほんと憂… → 寝起き…まだぼんやりしてる…。ほんと、昨… → ぅぅ、ほんと疲れた…配達109件も運んで… → ふぅ、配達中に子供に手振られた…ちょっと… → てかさっきの配達先、すごいいい家だったな… → うーん、ちょっと気分が重いなぁ…月曜日は… → あーもう、ほんとしんどい…残り29件なの…",
-  "last_post_timestamp_ms": 1776061999141
+  "today_narrative": "明日も配達…頑張るしかないけど、ほんと憂… → 寝起き…まだぼんやりしてる…。ほんと、昨… → ぅぅ、ほんと疲れた…配達109件も運んで… → ふぅ、配達中に子供に手振られた…ちょっと… → てかさっきの配達先、すごいいい家だったな… → うーん、ちょっと気分が重いなぁ…月曜日は… → あーもう、ほんとしんどい…残り29件なの… → あー、何回同じマンション行くんだよ…階段…",
+  "last_post_timestamp_ms": 1776065635755
 }
