@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 60,
+  "mood": "tired",
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "おはよ…ねむい…まだ夢の中…",
+      "slot": "morning",
+      "timestamp": "2026-04-14 06:59:42",
+      "hasImage": false
+    },
     {
       "text": "配達中、またインターホン鳴らすの…誰かに会いたくなるよね。桜も咲いてきたし、新生活の季節なのに、私だけこんなに寂しい気持ち…🙁 あ、お客さんに「ありがとう」って言われたのちょっと心が温まった✨ でも、やっぱり誰かにかまってほしいな。残り25件、頑張らなきゃ…",
       "slot": "delivery",
@@ -37,35 +43,30 @@
       "slot": "casual",
       "timestamp": "2026-04-13 19:01:01",
       "hasImage": false
-    },
-    {
-      "text": "あー、ほんとぉ、運転するだけでも疲れが…止まって一息つきたいなぁ…子供の笑顔見ると、ほんの少しだけ癒される…配達中の小さな幸せ…✌️でも、帰ったら誰かに褒めてほしい…",
-      "slot": "delivery",
-      "timestamp": "2026-04-13 17:43:53",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
-    "delivery"
+    "delivery",
+    "morning"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": true,
-  "month_total_posts": 152,
+  "month_total_posts": 153,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-14",
-  "last_post_time": "01:10:13",
+  "last_post_time": "06:59:42",
   "ng_retry_count": 131,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-14 01:10:13",
+  "updated_at": "2026-04-14 06:59:42",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 11,
-  "today_narrative": "今日も127件配達してきたけど、疲れた…… → 配達中、またインターホン鳴らすの…誰かに…",
-  "last_post_timestamp_ms": 1776096613987
+  "today_narrative": "今日も127件配達してきたけど、疲れた…… → 配達中、またインターホン鳴らすの…誰かに… → おはよ…ねむい…まだ夢の中…",
+  "last_post_timestamp_ms": 1776117582519
 }
