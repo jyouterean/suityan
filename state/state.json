@@ -1,7 +1,13 @@
 {
   "mood": "melancholy",
-  "energy": 30,
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "暖かくなってきたからか、桜もちらほら咲いてるみたい。新生活始まる人も多いんだろな…なんか切ないなぁ。うらやましいかも…🌸☁️もっと楽しめたらいいのに…",
+      "slot": "casual",
+      "timestamp": "2026-04-14 12:47:29",
+      "hasImage": false
+    },
     {
       "text": "またインターホン鳴らすの…うんざりだな…変な客は来ないでほしいけど、誰かに会いたい気持ちもある…今日は配達98件だけど、疲れたままの体力40%だし…さっき見たコンビニの新作、少しだけ気になる。",
       "slot": "delivery",
@@ -37,12 +43,6 @@
       "slot": "night_ero",
       "timestamp": "2026-04-13 22:26:04",
       "hasImage": false
-    },
-    {
-      "text": "あー、ほんと憂鬱だなぁ…もう月曜だし😩配達、90件もあったし…あの荷物、めっちゃ重かったしさ…。ねぇ、誰か一緒にいてほしいな…温もり、ほしいよ…😢",
-      "slot": "night_ero",
-      "timestamp": "2026-04-13 21:22:50",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "delivery",
     "morning",
     "commute",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": true,
-  "month_total_posts": 155,
+  "month_total_posts": 156,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-14",
-  "last_post_time": "09:07:57",
+  "last_post_time": "12:47:29",
   "ng_retry_count": 131,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-14 09:07:57",
+  "updated_at": "2026-04-14 12:47:29",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 11,
-  "today_narrative": "今日も127件配達してきたけど、疲れた…… → 配達中、またインターホン鳴らすの…誰かに… → おはよ…ねむい…まだ夢の中… → いや、運転中にまだボーっとしちゃってる…… → またインターホン鳴らすの…うんざりだな……",
-  "last_post_timestamp_ms": 1776125277718
+  "today_narrative": "今日も127件配達してきたけど、疲れた…… → 配達中、またインターホン鳴らすの…誰かに… → おはよ…ねむい…まだ夢の中… → いや、運転中にまだボーっとしちゃってる…… → またインターホン鳴らすの…うんざりだな…… → 暖かくなってきたからか、桜もちらほら咲い…",
+  "last_post_timestamp_ms": 1776138449239
 }
