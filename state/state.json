@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "しんどい…もう配達で14F階段上がるのとか無理…😩インターホン鳴らすのもまたか…誰か褒めてくれたら…少しは元気出るのに。あー、しかも花粉が…頭がボーっとする…新生活の準備とかしてる人いるのかなぁ。私はただ運転してるだけ…",
+      "slot": "delivery",
+      "timestamp": "2026-04-14 15:17:45",
+      "hasImage": false
+    },
+    {
       "text": "もう22℃もあるし、外に出たら花粉のせいで目がちかちか…😩またネコに癒されたいなぁ。配達中は、ほとんどボーっとしてて、ほんと誰かに会いたい気分…もちろん、褒めてほしいし…知らんけど。",
       "slot": "delivery",
       "timestamp": "2026-04-14 14:30:55",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-04-14 06:59:42",
       "hasImage": false
-    },
-    {
-      "text": "配達中、またインターホン鳴らすの…誰かに会いたくなるよね。桜も咲いてきたし、新生活の季節なのに、私だけこんなに寂しい気持ち…🙁 あ、お客さんに「ありがとう」って言われたのちょっと心が温まった✨ でも、やっぱり誰かにかまってほしいな。残り25件、頑張らなきゃ…",
-      "slot": "delivery",
-      "timestamp": "2026-04-14 01:10:13",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "delivery",
     "casual",
     "casual",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": true,
-  "month_total_posts": 158,
+  "month_total_posts": 159,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-14",
-  "last_post_time": "14:30:55",
+  "last_post_time": "15:17:45",
   "ng_retry_count": 131,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-14 14:30:55",
+  "updated_at": "2026-04-14 15:17:45",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 11,
-  "today_narrative": "今日も127件配達してきたけど、疲れた…… → 配達中、またインターホン鳴らすの…誰かに… → おはよ…ねむい…まだ夢の中… → いや、運転中にまだボーっとしちゃってる…… → またインターホン鳴らすの…うんざりだな…… → 暖かくなってきたからか、桜もちらほら咲い… → また新しい一週間が始まっちゃうのか…なん… → もう22℃もあるし、外に出たら花粉のせい…",
-  "last_post_timestamp_ms": 1776144655659
+  "today_narrative": "今日も127件配達してきたけど、疲れた…… → 配達中、またインターホン鳴らすの…誰かに… → おはよ…ねむい…まだ夢の中… → いや、運転中にまだボーっとしちゃってる…… → またインターホン鳴らすの…うんざりだな…… → 暖かくなってきたからか、桜もちらほら咲い… → また新しい一週間が始まっちゃうのか…なん… → もう22℃もあるし、外に出たら花粉のせい… → しんどい…もう配達で14F階段上がるのと…",
+  "last_post_timestamp_ms": 1776147465768
 }
