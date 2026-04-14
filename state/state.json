@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "もう22℃もあるし、外に出たら花粉のせいで目がちかちか…😩またネコに癒されたいなぁ。配達中は、ほとんどボーっとしてて、ほんと誰かに会いたい気分…もちろん、褒めてほしいし…知らんけど。",
+      "slot": "delivery",
+      "timestamp": "2026-04-14 14:30:55",
+      "hasImage": false
+    },
+    {
       "text": "また新しい一週間が始まっちゃうのか…なんか期待と不安が…🌸桜もこのまま満開になってほしいけど、どこか切ない気持ちもあって...仕事、いつも通りの流れだけど感情がちょっとぐるぐるしてる...",
       "slot": "casual",
       "timestamp": "2026-04-14 13:27:03",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-04-14 01:10:13",
       "hasImage": false
-    },
-    {
-      "text": "今日も127件配達してきたけど、疲れた…おやすみなさい…ねぇ、誰か一緒にいてほしいな…桜が咲いてきたのに、心が少し寂しい😢",
-      "slot": "goodnight",
-      "timestamp": "2026-04-14 00:23:06",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "commute",
     "delivery",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": true,
-  "month_total_posts": 157,
+  "month_total_posts": 158,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-14",
-  "last_post_time": "13:27:03",
+  "last_post_time": "14:30:55",
   "ng_retry_count": 131,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-14 13:27:03",
+  "updated_at": "2026-04-14 14:30:55",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 11,
-  "today_narrative": "今日も127件配達してきたけど、疲れた…… → 配達中、またインターホン鳴らすの…誰かに… → おはよ…ねむい…まだ夢の中… → いや、運転中にまだボーっとしちゃってる…… → またインターホン鳴らすの…うんざりだな…… → 暖かくなってきたからか、桜もちらほら咲い… → また新しい一週間が始まっちゃうのか…なん…",
-  "last_post_timestamp_ms": 1776140823044
+  "today_narrative": "今日も127件配達してきたけど、疲れた…… → 配達中、またインターホン鳴らすの…誰かに… → おはよ…ねむい…まだ夢の中… → いや、運転中にまだボーっとしちゃってる…… → またインターホン鳴らすの…うんざりだな…… → 暖かくなってきたからか、桜もちらほら咲い… → また新しい一週間が始まっちゃうのか…なん… → もう22℃もあるし、外に出たら花粉のせい…",
+  "last_post_timestamp_ms": 1776144655659
 }
