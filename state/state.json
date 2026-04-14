@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "まだ3件も残ってるのか…あーもう、誰かに会いたいなぁ…配達終わったら、誰かに褒めてもらいたい気分。人恋しい…😞",
+      "slot": "delivery",
+      "timestamp": "2026-04-14 17:16:00",
+      "hasImage": false
+    },
+    {
       "text": "またインターホン鳴らすの…ほんとにうんざり。あーもう、誰かに会いたいし、褒めてほしい…気分はぼーっとしたまま運転中…。新生活も始まるし、桜も咲き始めたのに…知らんけど🌸🚚",
       "slot": "delivery",
       "timestamp": "2026-04-14 16:07:03",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-04-14 09:07:57",
       "hasImage": false
-    },
-    {
-      "text": "いや、運転中にまだボーっとしちゃってる…😴 だるい…このままだと今日もヤバそう…",
-      "slot": "commute",
-      "timestamp": "2026-04-14 08:10:48",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -55,25 +55,26 @@
     "casual",
     "delivery",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 10,
+  "today_post_count": 11,
   "today_goodnight_posted": true,
-  "month_total_posts": 160,
+  "month_total_posts": 161,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-14",
-  "last_post_time": "16:07:03",
-  "ng_retry_count": 131,
+  "last_post_time": "17:16:00",
+  "ng_retry_count": 132,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-14 16:07:03",
+  "updated_at": "2026-04-14 17:16:00",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 11,
-  "today_narrative": "今日も127件配達してきたけど、疲れた…… → 配達中、またインターホン鳴らすの…誰かに… → おはよ…ねむい…まだ夢の中… → いや、運転中にまだボーっとしちゃってる…… → またインターホン鳴らすの…うんざりだな…… → 暖かくなってきたからか、桜もちらほら咲い… → また新しい一週間が始まっちゃうのか…なん… → もう22℃もあるし、外に出たら花粉のせい… → しんどい…もう配達で14F階段上がるのと… → またインターホン鳴らすの…ほんとにうんざ…",
-  "last_post_timestamp_ms": 1776150423922
+  "today_narrative": "今日も127件配達してきたけど、疲れた…… → 配達中、またインターホン鳴らすの…誰かに… → おはよ…ねむい…まだ夢の中… → いや、運転中にまだボーっとしちゃってる…… → またインターホン鳴らすの…うんざりだな…… → 暖かくなってきたからか、桜もちらほら咲い… → また新しい一週間が始まっちゃうのか…なん… → もう22℃もあるし、外に出たら花粉のせい… → しんどい…もう配達で14F階段上がるのと… → またインターホン鳴らすの…ほんとにうんざ… → まだ3件も残ってるのか…あーもう、誰かに…",
+  "last_post_timestamp_ms": 1776154560151
 }
