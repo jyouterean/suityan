@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 50,
+  "mood": "lonely",
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "荷物降ろして、やっと帰れるって思ったらこの天気だよ…やれやれ、ほんと気が重い。誰かと一緒なら少しは楽しいのに…😔",
+      "slot": "commute",
+      "timestamp": "2026-04-15 08:31:02",
+      "hasImage": false
+    },
     {
       "text": "ねむねむ…まだ寝たいな",
       "slot": "morning",
@@ -37,36 +43,31 @@
       "slot": "delivery",
       "timestamp": "2026-04-14 15:17:45",
       "hasImage": false
-    },
-    {
-      "text": "もう22℃もあるし、外に出たら花粉のせいで目がちかちか…😩またネコに癒されたいなぁ。配達中は、ほとんどボーっとしてて、ほんと誰かに会いたい気分…もちろん、褒めてほしいし…知らんけど。",
-      "slot": "delivery",
-      "timestamp": "2026-04-14 14:30:55",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
     "delivery",
-    "morning"
+    "morning",
+    "commute"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": true,
-  "month_total_posts": 164,
+  "month_total_posts": 165,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-15",
-  "last_post_time": "07:17:20",
+  "last_post_time": "08:31:02",
   "ng_retry_count": 133,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-15 07:17:20",
+  "updated_at": "2026-04-15 08:31:02",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "おやすみ…今夜はちょっと疲れたなぁ。エレ… → 雨降ってきたし、また再配達か…ほんとやっ… → ねむねむ…まだ寝たいな",
-  "last_post_timestamp_ms": 1776205040508
+  "today_narrative": "おやすみ…今夜はちょっと疲れたなぁ。エレ… → 雨降ってきたし、また再配達か…ほんとやっ… → ねむねむ…まだ寝たいな → 荷物降ろして、やっと帰れるって思ったらこ…",
+  "last_post_timestamp_ms": 1776209462107
 }
