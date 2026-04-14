@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 60,
+  "mood": "tired",
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "ねむねむ…まだ寝たいな",
+      "slot": "morning",
+      "timestamp": "2026-04-15 07:17:20",
+      "hasImage": false
+    },
     {
       "text": "雨降ってきたし、また再配達か…ほんとやってらんないな。桜も咲いてるのに、心は曇り空。誰か会ってくれないかなぁ。褒めてほしい…（は？）温かいフリしてほしいな〜😅",
       "slot": "delivery",
@@ -37,35 +43,30 @@
       "slot": "delivery",
       "timestamp": "2026-04-14 14:30:55",
       "hasImage": false
-    },
-    {
-      "text": "また新しい一週間が始まっちゃうのか…なんか期待と不安が…🌸桜もこのまま満開になってほしいけど、どこか切ない気持ちもあって...仕事、いつも通りの流れだけど感情がちょっとぐるぐるしてる...",
-      "slot": "casual",
-      "timestamp": "2026-04-14 13:27:03",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
-    "delivery"
+    "delivery",
+    "morning"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": true,
-  "month_total_posts": 163,
+  "month_total_posts": 164,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-15",
-  "last_post_time": "01:16:59",
+  "last_post_time": "07:17:20",
   "ng_retry_count": 133,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-15 01:16:59",
+  "updated_at": "2026-04-15 07:17:20",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "おやすみ…今夜はちょっと疲れたなぁ。エレ… → 雨降ってきたし、また再配達か…ほんとやっ…",
-  "last_post_timestamp_ms": 1776183419416
+  "today_narrative": "おやすみ…今夜はちょっと疲れたなぁ。エレ… → 雨降ってきたし、また再配達か…ほんとやっ… → ねむねむ…まだ寝たいな",
+  "last_post_timestamp_ms": 1776205040508
 }
