@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "やっと帰れると思ったら自販機のお釣り出てこなかったし…ほんと疲れた…。雨降ってきて再配達とかもう誰が得するんだか…配達件数も130件終わったのに残り11件…おやすみ…",
+      "slot": "commute",
+      "timestamp": "2026-04-15 18:52:28",
+      "hasImage": false
+    },
+    {
       "text": "あー、もうインターホン押すだけで疲れちゃうよ…雨のせいで荷物も重たいし、早く帰りたいなぁ…誰かに会いたい…",
       "slot": "delivery",
       "timestamp": "2026-04-15 17:18:29",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-04-15 09:20:13",
       "hasImage": false
-    },
-    {
-      "text": "荷物降ろして、やっと帰れるって思ったらこの天気だよ…やれやれ、ほんと気が重い。誰かと一緒なら少しは楽しいのに…😔",
-      "slot": "commute",
-      "timestamp": "2026-04-15 08:31:02",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -55,25 +55,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "delivery"
+    "delivery",
+    "commute"
   ],
-  "today_post_count": 10,
+  "today_post_count": 11,
   "today_goodnight_posted": true,
-  "month_total_posts": 171,
+  "month_total_posts": 172,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-15",
-  "last_post_time": "17:18:29",
+  "last_post_time": "18:52:28",
   "ng_retry_count": 135,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-15 17:18:29",
+  "updated_at": "2026-04-15 18:52:28",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "おやすみ…今夜はちょっと疲れたなぁ。エレ… → 雨降ってきたし、また再配達か…ほんとやっ… → ねむねむ…まだ寝たいな → 荷物降ろして、やっと帰れるって思ったらこ… → こんな重たい荷物ばっか運んでまじ疲れる.… → 雨降ったり止んだりで、なんだか気持ちもモ… → もう17℃とか曇りとか、ほんと春なのにす… → エレベーター待ってるとき、あーもうほんと… → さっき11Fまで階段で…もうしんどい。運… → あー、もうインターホン押すだけで疲れちゃ…",
-  "last_post_timestamp_ms": 1776241109854
+  "today_narrative": "おやすみ…今夜はちょっと疲れたなぁ。エレ… → 雨降ってきたし、また再配達か…ほんとやっ… → ねむねむ…まだ寝たいな → 荷物降ろして、やっと帰れるって思ったらこ… → こんな重たい荷物ばっか運んでまじ疲れる.… → 雨降ったり止んだりで、なんだか気持ちもモ… → もう17℃とか曇りとか、ほんと春なのにす… → エレベーター待ってるとき、あーもうほんと… → さっき11Fまで階段で…もうしんどい。運… → あー、もうインターホン押すだけで疲れちゃ… → やっと帰れると思ったら自販機のお釣り出て…",
+  "last_post_timestamp_ms": 1776246748903
 }
