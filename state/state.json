@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 70,
+  "mood": "tired",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "おやすみ…もう寝る😴",
+      "slot": "simple_goodnight",
+      "timestamp": "2026-04-16 00:54:22",
+      "hasImage": false
+    },
     {
       "text": "疲れたなぁ…小雨の中、また荷物運び。なんか心も重たいし…でも明日も頑張らなきゃね。おやすみ、少しだけ甘えてもいいかな？明日こそ普通に戻れるかな…🌧️",
       "slot": "goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-04-15 17:18:29",
       "hasImage": false
-    },
-    {
-      "text": "さっき11Fまで階段で…もうしんどい。運ぶ荷物重たいし、ほんと誰かに褒めてほしい…こんな毎日、もう耐えられないよ…一回でいいから、楽させて…",
-      "slot": "delivery",
-      "timestamp": "2026-04-15 16:35:53",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight"
+    "goodnight",
+    "simple_goodnight"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": true,
-  "month_total_posts": 176,
+  "month_total_posts": 177,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-16",
-  "last_post_time": "00:10:52",
+  "last_post_time": "00:54:22",
   "ng_retry_count": 137,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-16 00:10:52",
+  "updated_at": "2026-04-16 00:54:22",
   "month_string": "2026-04",
   "today_skipped": false,
-  "today_simple_goodnight_posted": false,
+  "today_simple_goodnight_posted": true,
   "today_morning_posted": false,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "疲れたなぁ…小雨の中、また荷物運び。なん…",
-  "last_post_timestamp_ms": 1776265852547
+  "today_narrative": "疲れたなぁ…小雨の中、また荷物運び。なん… → おやすみ…もう寝る😴",
+  "last_post_timestamp_ms": 1776268462782
 }
