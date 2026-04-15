@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 40,
+  "mood": "melancholy",
+  "energy": 30,
   "last_posts": [
+    {
+      "text": "こんな重たい荷物ばっか運んでまじ疲れる...誰かに会いたいなぁ、褒めてもらいたい。桜見たいのに花粉もひどいし☔️ みんな新生活早々頑張ってるのかな…なんか寂しいなぁ。",
+      "slot": "delivery",
+      "timestamp": "2026-04-15 09:20:13",
+      "hasImage": false
+    },
     {
       "text": "荷物降ろして、やっと帰れるって思ったらこの天気だよ…やれやれ、ほんと気が重い。誰かと一緒なら少しは楽しいのに…😔",
       "slot": "commute",
@@ -37,37 +43,32 @@
       "slot": "delivery",
       "timestamp": "2026-04-14 16:07:03",
       "hasImage": false
-    },
-    {
-      "text": "しんどい…もう配達で14F階段上がるのとか無理…😩インターホン鳴らすのもまたか…誰か褒めてくれたら…少しは元気出るのに。あー、しかも花粉が…頭がボーっとする…新生活の準備とかしてる人いるのかなぁ。私はただ運転してるだけ…",
-      "slot": "delivery",
-      "timestamp": "2026-04-14 15:17:45",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
     "delivery",
     "morning",
-    "commute"
+    "commute",
+    "delivery"
   ],
-  "today_post_count": 4,
+  "today_post_count": 5,
   "today_goodnight_posted": true,
-  "month_total_posts": 165,
+  "month_total_posts": 166,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-15",
-  "last_post_time": "08:31:02",
-  "ng_retry_count": 133,
+  "last_post_time": "09:20:13",
+  "ng_retry_count": 134,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-15 08:31:02",
+  "updated_at": "2026-04-15 09:20:13",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "おやすみ…今夜はちょっと疲れたなぁ。エレ… → 雨降ってきたし、また再配達か…ほんとやっ… → ねむねむ…まだ寝たいな → 荷物降ろして、やっと帰れるって思ったらこ…",
-  "last_post_timestamp_ms": 1776209462107
+  "today_narrative": "おやすみ…今夜はちょっと疲れたなぁ。エレ… → 雨降ってきたし、また再配達か…ほんとやっ… → ねむねむ…まだ寝たいな → 荷物降ろして、やっと帰れるって思ったらこ… → こんな重たい荷物ばっか運んでまじ疲れる.…",
+  "last_post_timestamp_ms": 1776212413777
 }
