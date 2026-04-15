@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "もう帰りたいなぁ…外は雨だし、なんか憂鬱だよ…ねぇ、誰かかまって…😔エレベーター待ってるとき、ほんとイライラする…せっかく帰るのに、こんなに疲れるなんて…。",
+      "slot": "casual",
+      "timestamp": "2026-04-15 20:00:37",
+      "hasImage": false
+    },
+    {
       "text": "やっと帰れると思ったら自販機のお釣り出てこなかったし…ほんと疲れた…。雨降ってきて再配達とかもう誰が得するんだか…配達件数も130件終わったのに残り11件…おやすみ…",
       "slot": "commute",
       "timestamp": "2026-04-15 18:52:28",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-04-15 13:29:10",
       "hasImage": false
-    },
-    {
-      "text": "こんな重たい荷物ばっか運んでまじ疲れる...誰かに会いたいなぁ、褒めてもらいたい。桜見たいのに花粉もひどいし☔️ みんな新生活早々頑張ってるのかな…なんか寂しいなぁ。",
-      "slot": "delivery",
-      "timestamp": "2026-04-15 09:20:13",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "commute"
+    "commute",
+    "casual"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": true,
-  "month_total_posts": 172,
+  "month_total_posts": 173,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-15",
-  "last_post_time": "18:52:28",
+  "last_post_time": "20:00:37",
   "ng_retry_count": 135,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-15 18:52:28",
+  "updated_at": "2026-04-15 20:00:37",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "おやすみ…今夜はちょっと疲れたなぁ。エレ… → 雨降ってきたし、また再配達か…ほんとやっ… → ねむねむ…まだ寝たいな → 荷物降ろして、やっと帰れるって思ったらこ… → こんな重たい荷物ばっか運んでまじ疲れる.… → 雨降ったり止んだりで、なんだか気持ちもモ… → もう17℃とか曇りとか、ほんと春なのにす… → エレベーター待ってるとき、あーもうほんと… → さっき11Fまで階段で…もうしんどい。運… → あー、もうインターホン押すだけで疲れちゃ… → やっと帰れると思ったら自販機のお釣り出て…",
-  "last_post_timestamp_ms": 1776246748903
+  "today_narrative": "おやすみ…今夜はちょっと疲れたなぁ。エレ… → 雨降ってきたし、また再配達か…ほんとやっ… → ねむねむ…まだ寝たいな → 荷物降ろして、やっと帰れるって思ったらこ… → こんな重たい荷物ばっか運んでまじ疲れる.… → 雨降ったり止んだりで、なんだか気持ちもモ… → もう17℃とか曇りとか、ほんと春なのにす… → エレベーター待ってるとき、あーもうほんと… → さっき11Fまで階段で…もうしんどい。運… → あー、もうインターホン押すだけで疲れちゃ… → やっと帰れると思ったら自販機のお釣り出て… → もう帰りたいなぁ…外は雨だし、なんか憂鬱…",
+  "last_post_timestamp_ms": 1776250837519
 }
