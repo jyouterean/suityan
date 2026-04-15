@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "また降ってきたなぁ…重たいはいたつ荷物、ほんと疲れる…なんかもう、早くあったかいとこに行きたい…ねぇ、誰かいてほしいな…",
+      "slot": "night_ero",
+      "timestamp": "2026-04-15 22:03:17",
+      "hasImage": false
+    },
+    {
       "text": "もうほんと、雨が降ってきたし、仕事終わったばっかりなのに…なんかさ、暗い気持ちになっちゃうね。ひとりで帰るの、さみしいなぁ…😔荷物降ろすのも重たいし、ほんと疲れた…ねぇ、誰かかまってほしい…",
       "slot": "night_ero",
       "timestamp": "2026-04-15 21:18:22",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-04-15 15:33:36",
       "hasImage": false
-    },
-    {
-      "text": "もう17℃とか曇りとか、ほんと春なのにすごい眠い…配達件数128件もあってさ、さっき14Fまで階段上がって息切れ。ナビは変な道案内するし、誰かに会いたいよ…やっと帰りたいなぁ…😴🌸",
-      "slot": "delivery",
-      "timestamp": "2026-04-15 14:27:16",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -58,25 +58,26 @@
     "delivery",
     "commute",
     "casual",
+    "night_ero",
     "night_ero"
   ],
-  "today_post_count": 13,
+  "today_post_count": 14,
   "today_goodnight_posted": true,
-  "month_total_posts": 174,
+  "month_total_posts": 175,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-15",
-  "last_post_time": "21:18:22",
+  "last_post_time": "22:03:17",
   "ng_retry_count": 136,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-15 21:18:22",
+  "updated_at": "2026-04-15 22:03:17",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "おやすみ…今夜はちょっと疲れたなぁ。エレ… → 雨降ってきたし、また再配達か…ほんとやっ… → ねむねむ…まだ寝たいな → 荷物降ろして、やっと帰れるって思ったらこ… → こんな重たい荷物ばっか運んでまじ疲れる.… → 雨降ったり止んだりで、なんだか気持ちもモ… → もう17℃とか曇りとか、ほんと春なのにす… → エレベーター待ってるとき、あーもうほんと… → さっき11Fまで階段で…もうしんどい。運… → あー、もうインターホン押すだけで疲れちゃ… → やっと帰れると思ったら自販機のお釣り出て… → もう帰りたいなぁ…外は雨だし、なんか憂鬱… → もうほんと、雨が降ってきたし、仕事終わっ…",
-  "last_post_timestamp_ms": 1776255502279
+  "today_narrative": "おやすみ…今夜はちょっと疲れたなぁ。エレ… → 雨降ってきたし、また再配達か…ほんとやっ… → ねむねむ…まだ寝たいな → 荷物降ろして、やっと帰れるって思ったらこ… → こんな重たい荷物ばっか運んでまじ疲れる.… → 雨降ったり止んだりで、なんだか気持ちもモ… → もう17℃とか曇りとか、ほんと春なのにす… → エレベーター待ってるとき、あーもうほんと… → さっき11Fまで階段で…もうしんどい。運… → あー、もうインターホン押すだけで疲れちゃ… → やっと帰れると思ったら自販機のお釣り出て… → もう帰りたいなぁ…外は雨だし、なんか憂鬱… → もうほんと、雨が降ってきたし、仕事終わっ… → また降ってきたなぁ…重たいはいたつ荷物、…",
+  "last_post_timestamp_ms": 1776258197084
 }
