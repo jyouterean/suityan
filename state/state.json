@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "なんかもう、ひとりでいると余計に寂しくなっちゃう…😔誰かと話したいなぁ…おやすみ…また明日…",
+      "slot": "casual",
+      "timestamp": "2026-04-16 20:05:38",
+      "hasImage": false
+    },
+    {
       "text": "また荷物運んで、マンションの階段4Fまで…あー、ほんとしんどい。誰かと話しながら帰りたいなぁ…なんか寂しいな…うん😞",
       "slot": "commute",
       "timestamp": "2026-04-16 18:30:15",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-04-16 13:46:33",
       "hasImage": false
-    },
-    {
-      "text": "もうさ、146件も配達して、台車も重いし…疲れたなぁ。花粉もきついし、ひとりでいるともっとダルいな…誰か褒めてくれたら少しは元気出るのに…いや関係ないか。ああ、もういいや、早く帰りたい…😩",
-      "slot": "delivery",
-      "timestamp": "2026-04-16 09:23:57",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "commute"
+    "commute",
+    "casual"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": true,
-  "month_total_posts": 186,
+  "month_total_posts": 187,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-16",
-  "last_post_time": "18:30:15",
+  "last_post_time": "20:05:38",
   "ng_retry_count": 139,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-16 18:30:15",
+  "updated_at": "2026-04-16 20:05:38",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "疲れたなぁ…小雨の中、また荷物運び。なん… → おやすみ…もう寝る😴 → あー、なんでこんなに眠いの…🤔むりだ…… → もう帰り道、誰かと歩きたいなぁ…一人だと… → もうさ、146件も配達して、台車も重いし… → このまま帰るのもなんかもったいないなぁ…… → やっぱりはいたつ中に、お客さんとお話しで… → あー、もうほんとにしんどいなぁ…荷物運び… → さっきの配達、信号全部赤でさ…ほんとに時… → ひとりでマンションの下で待ってるとさ、な… → また荷物運んで、マンションの階段4Fまで…",
-  "last_post_timestamp_ms": 1776331815765
+  "today_narrative": "疲れたなぁ…小雨の中、また荷物運び。なん… → おやすみ…もう寝る😴 → あー、なんでこんなに眠いの…🤔むりだ…… → もう帰り道、誰かと歩きたいなぁ…一人だと… → もうさ、146件も配達して、台車も重いし… → このまま帰るのもなんかもったいないなぁ…… → やっぱりはいたつ中に、お客さんとお話しで… → あー、もうほんとにしんどいなぁ…荷物運び… → さっきの配達、信号全部赤でさ…ほんとに時… → ひとりでマンションの下で待ってるとさ、な… → また荷物運んで、マンションの階段4Fまで… → なんかもう、ひとりでいると余計に寂しくな…",
+  "last_post_timestamp_ms": 1776337538655
 }
