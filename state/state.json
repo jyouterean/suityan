@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "またマンションの階段上るのかぁ…ほんとにしんどいなぁ…誰か一緒にいてほしいな…😴",
+      "slot": "night_ero",
+      "timestamp": "2026-04-16 22:24:59",
+      "hasImage": false
+    },
+    {
       "text": "また荷物待ってるのに、信号が赤ばっかり…😩配達件数も残り少ないけど、なんかテンション下がるなぁ。ほんとは誰かと一緒に待ちたい…ねぇ、寂しいよ…",
       "slot": "night_ero",
       "timestamp": "2026-04-16 21:06:18",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-04-16 15:45:43",
       "hasImage": false
-    },
-    {
-      "text": "やっぱりはいたつ中に、お客さんとお話しできるの、ちょっと楽しいなぁ…😊不在票に名前書いてあったら、ちょっとドキドキしちゃうかも…🌸",
-      "slot": "delivery",
-      "timestamp": "2026-04-16 14:21:44",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -58,25 +58,26 @@
     "delivery",
     "commute",
     "casual",
+    "night_ero",
     "night_ero"
   ],
-  "today_post_count": 13,
+  "today_post_count": 14,
   "today_goodnight_posted": true,
-  "month_total_posts": 188,
+  "month_total_posts": 189,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-16",
-  "last_post_time": "21:06:18",
-  "ng_retry_count": 139,
+  "last_post_time": "22:24:59",
+  "ng_retry_count": 140,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-16 21:06:18",
+  "updated_at": "2026-04-16 22:24:59",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "疲れたなぁ…小雨の中、また荷物運び。なん… → おやすみ…もう寝る😴 → あー、なんでこんなに眠いの…🤔むりだ…… → もう帰り道、誰かと歩きたいなぁ…一人だと… → もうさ、146件も配達して、台車も重いし… → このまま帰るのもなんかもったいないなぁ…… → やっぱりはいたつ中に、お客さんとお話しで… → あー、もうほんとにしんどいなぁ…荷物運び… → さっきの配達、信号全部赤でさ…ほんとに時… → ひとりでマンションの下で待ってるとさ、な… → また荷物運んで、マンションの階段4Fまで… → なんかもう、ひとりでいると余計に寂しくな… → また荷物待ってるのに、信号が赤ばっかり……",
-  "last_post_timestamp_ms": 1776341178821
+  "today_narrative": "疲れたなぁ…小雨の中、また荷物運び。なん… → おやすみ…もう寝る😴 → あー、なんでこんなに眠いの…🤔むりだ…… → もう帰り道、誰かと歩きたいなぁ…一人だと… → もうさ、146件も配達して、台車も重いし… → このまま帰るのもなんかもったいないなぁ…… → やっぱりはいたつ中に、お客さんとお話しで… → あー、もうほんとにしんどいなぁ…荷物運び… → さっきの配達、信号全部赤でさ…ほんとに時… → ひとりでマンションの下で待ってるとさ、な… → また荷物運んで、マンションの階段4Fまで… → なんかもう、ひとりでいると余計に寂しくな… → また荷物待ってるのに、信号が赤ばっかり…… → またマンションの階段上るのかぁ…ほんとに…",
+  "last_post_timestamp_ms": 1776345899010
 }
