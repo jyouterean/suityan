@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 70,
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "あさー、ねむい…😴",
+      "slot": "morning",
+      "timestamp": "2026-04-17 07:00:22",
+      "hasImage": false
+    },
     {
       "text": "もうダメ、ねる…",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-04-16 17:36:11",
       "hasImage": false
-    },
-    {
-      "text": "さっきの配達、信号全部赤でさ…ほんとに時間かかる。なんか、こうやって一人で荷物運びながら誰かに会いたいなぁって思う。帰ったらすぐ寝ちゃうかな…。😔",
-      "slot": "delivery",
-      "timestamp": "2026-04-16 16:11:23",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 190,
+  "month_total_posts": 191,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-17",
-  "last_post_time": "00:21:05",
+  "last_post_time": "07:00:22",
   "ng_retry_count": 140,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-17 01:33:33",
+  "updated_at": "2026-04-17 07:00:22",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "もうダメ、ねる…",
-  "last_post_timestamp_ms": 1776352865628
+  "today_narrative": "もうダメ、ねる… → あさー、ねむい…😴",
+  "last_post_timestamp_ms": 1776376822451
 }
