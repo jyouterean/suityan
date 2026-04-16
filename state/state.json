@@ -1,7 +1,13 @@
 {
-  "mood": "melancholy",
-  "energy": 30,
+  "mood": "tired",
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "このまま帰るのもなんかもったいないなぁ…なんかしたい気分なのに…誰かに会いたいよ…春だし、ほら、桜も咲き始めてるのに…一緒に見たいなぁ…🌸",
+      "slot": "casual",
+      "timestamp": "2026-04-16 13:46:33",
+      "hasImage": false
+    },
     {
       "text": "もうさ、146件も配達して、台車も重いし…疲れたなぁ。花粉もきついし、ひとりでいるともっとダルいな…誰か褒めてくれたら少しは元気出るのに…いや関係ないか。ああ、もういいや、早く帰りたい…😩",
       "slot": "delivery",
@@ -37,12 +43,6 @@
       "slot": "night_ero",
       "timestamp": "2026-04-15 22:03:17",
       "hasImage": false
-    },
-    {
-      "text": "もうほんと、雨が降ってきたし、仕事終わったばっかりなのに…なんかさ、暗い気持ちになっちゃうね。ひとりで帰るの、さみしいなぁ…😔荷物降ろすのも重たいし、ほんと疲れた…ねぇ、誰かかまってほしい…",
-      "slot": "night_ero",
-      "timestamp": "2026-04-15 21:18:22",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "simple_goodnight",
     "morning",
     "commute",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": true,
-  "month_total_posts": 180,
+  "month_total_posts": 181,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-16",
-  "last_post_time": "09:23:57",
+  "last_post_time": "13:46:33",
   "ng_retry_count": 137,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-16 13:13:22",
+  "updated_at": "2026-04-16 13:46:33",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "疲れたなぁ…小雨の中、また荷物運び。なん… → おやすみ…もう寝る😴 → あー、なんでこんなに眠いの…🤔むりだ…… → もう帰り道、誰かと歩きたいなぁ…一人だと… → もうさ、146件も配達して、台車も重いし…",
-  "last_post_timestamp_ms": 1776299037546
+  "today_narrative": "疲れたなぁ…小雨の中、また荷物運び。なん… → おやすみ…もう寝る😴 → あー、なんでこんなに眠いの…🤔むりだ…… → もう帰り道、誰かと歩きたいなぁ…一人だと… → もうさ、146件も配達して、台車も重いし… → このまま帰るのもなんかもったいないなぁ……",
+  "last_post_timestamp_ms": 1776314793955
 }
