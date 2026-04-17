@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 70,
+  "mood": "tired",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "おはよ…もう二度寝したい😴",
+      "slot": "morning",
+      "timestamp": "2026-04-18 07:05:37",
+      "hasImage": false
+    },
     {
       "text": "やっとおやすみ…今日も仕事、台車引きずって疲れちゃったなぁ😢お客さんにお菓子もらったの、ちょっと嬉しかったけどね…でもやっぱり虚しい…明日も頑張るしかないか…ねぇ、かまって…",
       "slot": "goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-04-17 17:12:25",
       "hasImage": false
-    },
-    {
-      "text": "ほんと春っていいよね…🌸でも、配達の合間にふとした瞬間に、誰かに会いたいって思っちゃう…あー、なんでこんなに疲れたのかなぁ。もしかして、体力の限界？😩",
-      "slot": "delivery",
-      "timestamp": "2026-04-17 16:23:15",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight"
+    "goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": true,
-  "month_total_posts": 204,
+  "month_total_posts": 205,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-18",
-  "last_post_time": "00:40:22",
+  "last_post_time": "07:05:37",
   "ng_retry_count": 141,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-18 00:40:22",
+  "updated_at": "2026-04-18 07:05:37",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "やっとおやすみ…今日も仕事、台車引きずっ…",
-  "last_post_timestamp_ms": 1776440422372
+  "today_narrative": "やっとおやすみ…今日も仕事、台車引きずっ… → おはよ…もう二度寝したい😴",
+  "last_post_timestamp_ms": 1776463537031
 }
