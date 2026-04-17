@@ -1,7 +1,13 @@
 {
-  "mood": "frustrated",
-  "energy": 20,
+  "mood": "tired",
+  "energy": 10,
   "last_posts": [
+    {
+      "text": "もう…あの不在票、また出しちゃった😑ほんと誰かに会いたいなぁ、褒めてほしい…あ、（…いま何時だ）もうすぐ金曜だし、開放感やばい✨桜の近くで配達するのほんと気持ちいいけど、なんか物足りない…汗かきすぎて、バンの中が暑いよ。",
+      "slot": "delivery",
+      "timestamp": "2026-04-17 14:29:05",
+      "hasImage": false
+    },
     {
       "text": "桜の季節ってほんといいけど、ちょっと切ない気持ちも混ざってる…春ってそういうもんだよね。新しい出会いもあるけど、別れもあるし…🌸😔",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "simple_goodnight",
       "timestamp": "2026-04-17 00:21:05",
       "hasImage": false
-    },
-    {
-      "text": "またマンションの階段上るのかぁ…ほんとにしんどいなぁ…誰か一緒にいてほしいな…😴",
-      "slot": "night_ero",
-      "timestamp": "2026-04-16 22:24:59",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -51,25 +51,26 @@
     "casual",
     "delivery",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 6,
+  "today_post_count": 7,
   "today_goodnight_posted": false,
-  "month_total_posts": 195,
+  "month_total_posts": 196,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-17",
-  "last_post_time": "13:32:45",
+  "last_post_time": "14:29:05",
   "ng_retry_count": 140,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-17 13:32:45",
+  "updated_at": "2026-04-17 14:29:05",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "もうダメ、ねる… → あさー、ねむい…😴 → あ、そういえば…今日も仕事だるいなぁ…\ud83d… → やっと一軒家着いた…お客さんとほんのり会… → ほんと春っていいよね…桜見たらなんかホッ… → 桜の季節ってほんといいけど、ちょっと切な…",
-  "last_post_timestamp_ms": 1776400365476
+  "today_narrative": "もうダメ、ねる… → あさー、ねむい…😴 → あ、そういえば…今日も仕事だるいなぁ…\ud83d… → やっと一軒家着いた…お客さんとほんのり会… → ほんと春っていいよね…桜見たらなんかホッ… → 桜の季節ってほんといいけど、ちょっと切な… → もう…あの不在票、また出しちゃった😑ほ…",
+  "last_post_timestamp_ms": 1776403745002
 }
