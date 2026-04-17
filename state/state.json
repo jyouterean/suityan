@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 10,
+  "mood": "lonely",
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "やっとおやすみ…今日も仕事、台車引きずって疲れちゃったなぁ😢お客さんにお菓子もらったの、ちょっと嬉しかったけどね…でもやっぱり虚しい…明日も頑張るしかないか…ねぇ、かまって…",
+      "slot": "goodnight",
+      "timestamp": "2026-04-18 00:40:22",
+      "hasImage": false
+    },
     {
       "text": "ねむい…もう配達も疲れちゃった😩さっき置き配の場所にネコいたし、癒されるはずが逆にお疲れ感…桜見てると、なんか春って切ないよね…あぁ、ほんと一緒にいてほしいな…",
       "slot": "night_ero",
@@ -37,47 +43,28 @@
       "slot": "delivery",
       "timestamp": "2026-04-17 16:23:15",
       "hasImage": false
-    },
-    {
-      "text": "あーもう、体力ゼロ…😩残り2件、がんばれるか…エレベーターなしはしんどいなぁ。さっきネコに会った時、ちょっと癒されたけど…やっぱ誰かに会いたいなぁ…",
-      "slot": "delivery",
-      "timestamp": "2026-04-17 15:19:48",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight",
-    "morning",
-    "casual",
-    "delivery",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery",
-    "delivery",
-    "commute",
-    "casual",
-    "night_ero",
-    "night_ero"
+    "goodnight"
   ],
-  "today_post_count": 14,
-  "today_goodnight_posted": false,
-  "month_total_posts": 203,
+  "today_post_count": 1,
+  "today_goodnight_posted": true,
+  "month_total_posts": 204,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-04-17",
-  "last_post_time": "22:01:58",
+  "last_post_date": "2026-04-18",
+  "last_post_time": "00:40:22",
   "ng_retry_count": 141,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-17 22:01:58",
+  "updated_at": "2026-04-18 00:40:22",
   "month_string": "2026-04",
-  "today_skipped": true,
-  "today_simple_goodnight_posted": true,
-  "today_morning_posted": true,
-  "today_skip_count": 1,
-  "today_max_posts": 14,
-  "today_narrative": "もうダメ、ねる… → あさー、ねむい…😴 → あ、そういえば…今日も仕事だるいなぁ…\ud83d… → やっと一軒家着いた…お客さんとほんのり会… → ほんと春っていいよね…桜見たらなんかホッ… → 桜の季節ってほんといいけど、ちょっと切な… → もう…あの不在票、また出しちゃった😑ほ… → あーもう、体力ゼロ…😩残り2件、がんば… → ほんと春っていいよね…🌸でも、配達の合… → もうさ、ほんとにだるいし…このままじゃ寝… → つかれた…ほんとにもう無理かも…あと一件… → あ、もうさ、ほんとに体力ない…😩桜見て… → あーもう、ほんとにさ…配達の合間に桜見た… → ねむい…もう配達も疲れちゃった😩さっき…",
-  "last_post_timestamp_ms": 1776430918499
+  "today_skipped": false,
+  "today_simple_goodnight_posted": false,
+  "today_morning_posted": false,
+  "today_skip_count": 0,
+  "today_max_posts": 15,
+  "today_narrative": "やっとおやすみ…今日も仕事、台車引きずっ…",
+  "last_post_timestamp_ms": 1776440422372
 }
