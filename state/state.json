@@ -1,7 +1,13 @@
 {
-  "mood": "melancholy",
-  "energy": 30,
+  "mood": "frustrated",
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "桜の季節ってほんといいけど、ちょっと切ない気持ちも混ざってる…春ってそういうもんだよね。新しい出会いもあるけど、別れもあるし…🌸😔",
+      "slot": "casual",
+      "timestamp": "2026-04-17 13:32:45",
+      "hasImage": false
+    },
     {
       "text": "ほんと春っていいよね…桜見たらなんかホッとする😌でもこの花粉は勘弁…目が痒いし、ダルいし、でもなんだか新生活始まる感じがするからちょっと楽しみ…🌸",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "night_ero",
       "timestamp": "2026-04-16 22:24:59",
       "hasImage": false
-    },
-    {
-      "text": "また荷物待ってるのに、信号が赤ばっかり…😩配達件数も残り少ないけど、なんかテンション下がるなぁ。ほんとは誰かと一緒に待ちたい…ねぇ、寂しいよ…",
-      "slot": "night_ero",
-      "timestamp": "2026-04-16 21:06:18",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "morning",
     "casual",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": false,
-  "month_total_posts": 194,
+  "month_total_posts": 195,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-17",
-  "last_post_time": "13:03:04",
+  "last_post_time": "13:32:45",
   "ng_retry_count": 140,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-17 13:03:04",
+  "updated_at": "2026-04-17 13:32:45",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "もうダメ、ねる… → あさー、ねむい…😴 → あ、そういえば…今日も仕事だるいなぁ…\ud83d… → やっと一軒家着いた…お客さんとほんのり会… → ほんと春っていいよね…桜見たらなんかホッ…",
-  "last_post_timestamp_ms": 1776398584236
+  "today_narrative": "もうダメ、ねる… → あさー、ねむい…😴 → あ、そういえば…今日も仕事だるいなぁ…\ud83d… → やっと一軒家着いた…お客さんとほんのり会… → ほんと春っていいよね…桜見たらなんかホッ… → 桜の季節ってほんといいけど、ちょっと切な…",
+  "last_post_timestamp_ms": 1776400365476
 }
