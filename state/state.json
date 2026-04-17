@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あ、もうさ、ほんとに体力ない…😩桜見てもなんか切ないし…また不在票出しちゃったし…ほんと春ってすごいけど、切ない時期でもあるよね…もうダメ、ねる…",
+      "slot": "casual",
+      "timestamp": "2026-04-17 19:49:23",
+      "hasImage": false
+    },
+    {
       "text": "つかれた…ほんとにもう無理かも…あと一件なのにやる気なくなっちゃった😩段ボールと向き合うのもだるいし…花粉もつらいし、誰かと帰りたいなぁ…あぁ、さくらみたいな春の気持ちなのに…うん",
       "slot": "commute",
       "timestamp": "2026-04-17 18:28:17",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-04-17 13:32:45",
       "hasImage": false
-    },
-    {
-      "text": "ほんと春っていいよね…桜見たらなんかホッとする😌でもこの花粉は勘弁…目が痒いし、ダルいし、でもなんだか新生活始まる感じがするからちょっと楽しみ…🌸",
-      "slot": "casual",
-      "timestamp": "2026-04-17 13:03:04",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "commute"
+    "commute",
+    "casual"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": false,
-  "month_total_posts": 200,
+  "month_total_posts": 201,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-17",
-  "last_post_time": "18:28:17",
+  "last_post_time": "19:49:23",
   "ng_retry_count": 140,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-17 18:28:17",
+  "updated_at": "2026-04-17 19:49:23",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "もうダメ、ねる… → あさー、ねむい…😴 → あ、そういえば…今日も仕事だるいなぁ…\ud83d… → やっと一軒家着いた…お客さんとほんのり会… → ほんと春っていいよね…桜見たらなんかホッ… → 桜の季節ってほんといいけど、ちょっと切な… → もう…あの不在票、また出しちゃった😑ほ… → あーもう、体力ゼロ…😩残り2件、がんば… → ほんと春っていいよね…🌸でも、配達の合… → もうさ、ほんとにだるいし…このままじゃ寝… → つかれた…ほんとにもう無理かも…あと一件…",
-  "last_post_timestamp_ms": 1776418097749
+  "today_narrative": "もうダメ、ねる… → あさー、ねむい…😴 → あ、そういえば…今日も仕事だるいなぁ…\ud83d… → やっと一軒家着いた…お客さんとほんのり会… → ほんと春っていいよね…桜見たらなんかホッ… → 桜の季節ってほんといいけど、ちょっと切な… → もう…あの不在票、また出しちゃった😑ほ… → あーもう、体力ゼロ…😩残り2件、がんば… → ほんと春っていいよね…🌸でも、配達の合… → もうさ、ほんとにだるいし…このままじゃ寝… → つかれた…ほんとにもう無理かも…あと一件… → あ、もうさ、ほんとに体力ない…😩桜見て…",
+  "last_post_timestamp_ms": 1776422963746
 }
