@@ -1,7 +1,13 @@
 {
   "mood": "lonely",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "ぽかぽか陽気に誘われてお散歩…桜も咲いてるし、なんか心がウキウキする🌸でも、誰かと一緒だともっと楽しいのに…じっと見てるだけじゃ寂しいな…",
+      "slot": "casual",
+      "timestamp": "2026-04-18 12:48:21",
+      "hasImage": false
+    },
     {
       "text": "段ボールばっかり運んでると、なんかもう誰かに会って優しくしてほしいなって思う…😅宅配って孤独な仕事だよね。あ、でもお客さんの笑顔見るとちょっと癒される。でもそれだけじゃ足りない…あぁ、やっぱり誰かに褒めてもらいたいな…（自分で言ってて悲しくなった）",
       "slot": "delivery",
@@ -37,36 +43,31 @@
       "slot": "casual",
       "timestamp": "2026-04-17 19:49:23",
       "hasImage": false
-    },
-    {
-      "text": "つかれた…ほんとにもう無理かも…あと一件なのにやる気なくなっちゃった😩段ボールと向き合うのもだるいし…花粉もつらいし、誰かと帰りたいなぁ…あぁ、さくらみたいな春の気持ちなのに…うん",
-      "slot": "commute",
-      "timestamp": "2026-04-17 18:28:17",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
     "morning",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": true,
-  "month_total_posts": 206,
+  "month_total_posts": 207,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-18",
-  "last_post_time": "09:17:15",
+  "last_post_time": "12:48:21",
   "ng_retry_count": 141,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-18 09:17:15",
+  "updated_at": "2026-04-18 12:48:21",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 15,
-  "today_narrative": "やっとおやすみ…今日も仕事、台車引きずっ… → おはよ…もう二度寝したい😴 → 段ボールばっかり運んでると、なんかもう誰…",
-  "last_post_timestamp_ms": 1776471435515
+  "today_narrative": "やっとおやすみ…今日も仕事、台車引きずっ… → おはよ…もう二度寝したい😴 → 段ボールばっかり運んでると、なんかもう誰… → ぽかぽか陽気に誘われてお散歩…桜も咲いて…",
+  "last_post_timestamp_ms": 1776484101677
 }
