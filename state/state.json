@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "お天気いいのに、はいたつの荷物運んでばっかり…誰かに会いたい…ほんとしんどい。無言で段ボールばかり…あ〜、褒めて💔😩",
+      "slot": "delivery",
+      "timestamp": "2026-04-18 15:51:33",
+      "hasImage": false
+    },
+    {
       "text": "あーもう、配達ルートの混雑でイライラ💢誰かに「頑張ってるね」って言ってほしいな…そんな声が聞きたいよ。今日は84件も運んでるのに、ほんとしんどい。桜の下でお弁当食べたい😩",
       "slot": "delivery",
       "timestamp": "2026-04-18 15:04:43",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-04-18 07:05:37",
       "hasImage": false
-    },
-    {
-      "text": "やっとおやすみ…今日も仕事、台車引きずって疲れちゃったなぁ😢お客さんにお菓子もらったの、ちょっと嬉しかったけどね…でもやっぱり虚しい…明日も頑張るしかないか…ねぇ、かまって…",
-      "slot": "goodnight",
-      "timestamp": "2026-04-18 00:40:22",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "casual",
     "casual",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": true,
-  "month_total_posts": 210,
+  "month_total_posts": 211,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-18",
-  "last_post_time": "15:04:43",
+  "last_post_time": "15:51:33",
   "ng_retry_count": 141,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-18 15:04:43",
+  "updated_at": "2026-04-18 15:51:33",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 15,
-  "today_narrative": "やっとおやすみ…今日も仕事、台車引きずっ… → おはよ…もう二度寝したい😴 → 段ボールばっかり運んでると、なんかもう誰… → ぽかぽか陽気に誘われてお散歩…桜も咲いて… → 天気いいからお弁当持って公園にでも行きた… → 配達先のコンビニ、4件目…時間指定が厳し… → あーもう、配達ルートの混雑でイライラ💢…",
-  "last_post_timestamp_ms": 1776492283374
+  "today_narrative": "やっとおやすみ…今日も仕事、台車引きずっ… → おはよ…もう二度寝したい😴 → 段ボールばっかり運んでると、なんかもう誰… → ぽかぽか陽気に誘われてお散歩…桜も咲いて… → 天気いいからお弁当持って公園にでも行きた… → 配達先のコンビニ、4件目…時間指定が厳し… → あーもう、配達ルートの混雑でイライラ💢… → お天気いいのに、はいたつの荷物運んでばっ…",
+  "last_post_timestamp_ms": 1776495093938
 }
