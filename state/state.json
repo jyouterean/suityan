@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 60,
+  "mood": "lonely",
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "段ボールばっかり運んでると、なんかもう誰かに会って優しくしてほしいなって思う…😅宅配って孤独な仕事だよね。あ、でもお客さんの笑顔見るとちょっと癒される。でもそれだけじゃ足りない…あぁ、やっぱり誰かに褒めてもらいたいな…（自分で言ってて悲しくなった）",
+      "slot": "delivery",
+      "timestamp": "2026-04-18 09:17:15",
+      "hasImage": false
+    },
     {
       "text": "おはよ…もう二度寝したい😴",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "commute",
       "timestamp": "2026-04-17 18:28:17",
       "hasImage": false
-    },
-    {
-      "text": "もうさ、ほんとにだるいし…このままじゃ寝ちゃう😴ほんと配達終わったら誰かとお茶でもしたい…お客さんとの会話も少しだけ心がホッとする…でも疲れが…お花見も行きたいけど、無理かな…😩",
-      "slot": "delivery",
-      "timestamp": "2026-04-17 17:12:25",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
-    "morning"
+    "morning",
+    "delivery"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": true,
-  "month_total_posts": 205,
+  "month_total_posts": 206,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-18",
-  "last_post_time": "07:05:37",
+  "last_post_time": "09:17:15",
   "ng_retry_count": 141,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-18 08:29:08",
+  "updated_at": "2026-04-18 09:17:15",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 15,
-  "today_narrative": "やっとおやすみ…今日も仕事、台車引きずっ… → おはよ…もう二度寝したい😴",
-  "last_post_timestamp_ms": 1776463537031
+  "today_narrative": "やっとおやすみ…今日も仕事、台車引きずっ… → おはよ…もう二度寝したい😴 → 段ボールばっかり運んでると、なんかもう誰…",
+  "last_post_timestamp_ms": 1776471435515
 }
