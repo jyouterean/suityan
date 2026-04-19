@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 60,
+  "mood": "lonely",
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "今、帰り道…寂しいなぁ、誰かと一緒にいたいかも。インターホン押しても、誰もいない…そういうの、なんか虚しいよね。だる…💤",
+      "slot": "commute",
+      "timestamp": "2026-04-20 08:06:52",
+      "hasImage": false
+    },
     {
       "text": "おはよ…起きれない…😴",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "commute",
       "timestamp": "2026-04-19 18:01:38",
       "hasImage": false
-    },
-    {
-      "text": "配達の合間にほんと誰かと話したいな…😞この時間、一人ってなんか寂しい…あと2件だけど、今日中に終わるかな…あー、もう本当に疲れたよ。",
-      "slot": "delivery",
-      "timestamp": "2026-04-19 17:20:28",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
-    "morning"
+    "morning",
+    "commute"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 232,
+  "month_total_posts": 233,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-20",
-  "last_post_time": "06:57:39",
+  "last_post_time": "08:06:52",
   "ng_retry_count": 143,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-20 06:57:39",
+  "updated_at": "2026-04-20 08:06:52",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "ねむすぎ…もう無理💤 → おはよ…起きれない…😴",
-  "last_post_timestamp_ms": 1776635859407
+  "today_narrative": "ねむすぎ…もう無理💤 → おはよ…起きれない…😴 → 今、帰り道…寂しいなぁ、誰かと一緒にいた…",
+  "last_post_timestamp_ms": 1776640012015
 }
