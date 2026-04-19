@@ -1,7 +1,13 @@
 {
-  "mood": "frustrated",
-  "energy": 20,
+  "mood": "tired",
+  "energy": 10,
   "last_posts": [
+    {
+      "text": "段ボールの山、まだまだ続くけど、スイーツ見つけたら少し元気が出るかも…ああ、誰かと一緒だったらもっと楽しいのに。えっと、今8Fまで階段上がったけど、全然足りない…😅やっぱり、独りだと物足りないなぁ…いや、なんでもない",
+      "slot": "delivery",
+      "timestamp": "2026-04-19 14:24:40",
+      "hasImage": false
+    },
     {
       "text": "今日の天気、ほんと春って感じ…🌸でも花粉がめちゃくちゃつらいよね…会いたい人もいるし、もどかしいなぁ…",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "goodnight",
       "timestamp": "2026-04-19 00:21:05",
       "hasImage": false
-    },
-    {
-      "text": "もうねむい…おやすみなさい💤",
-      "slot": "simple_goodnight",
-      "timestamp": "2026-04-18 23:21:07",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -51,25 +51,26 @@
     "commute",
     "delivery",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 6,
+  "today_post_count": 7,
   "today_goodnight_posted": true,
-  "month_total_posts": 222,
+  "month_total_posts": 223,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-19",
-  "last_post_time": "13:51:17",
+  "last_post_time": "14:24:40",
   "ng_retry_count": 143,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-19 13:51:17",
+  "updated_at": "2026-04-19 14:24:40",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もうおやすみの時間…😴お仕事、明日も頑… → おはよ…まだ夢の中… → 移動中のこの時間ってほんと…誰かと一緒だ… → やっぱり配達中のこの時間に誰かに会えたら… → さっきの続きだけど、やっぱ一人の時間も大… → 今日の天気、ほんと春って感じ…🌸でも花…",
-  "last_post_timestamp_ms": 1776574277209
+  "today_narrative": "もうおやすみの時間…😴お仕事、明日も頑… → おはよ…まだ夢の中… → 移動中のこの時間ってほんと…誰かと一緒だ… → やっぱり配達中のこの時間に誰かに会えたら… → さっきの続きだけど、やっぱ一人の時間も大… → 今日の天気、ほんと春って感じ…🌸でも花… → 段ボールの山、まだまだ続くけど、スイーツ…",
+  "last_post_timestamp_ms": 1776576280911
 }
