@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "ほんとにこの移動時間、つらい…さっきも言ったけど、一人ってやっぱ虚しいよな…配達中に誰かと会えてたらなぁ…あー、もう帰りたい…😩",
+      "slot": "commute",
+      "timestamp": "2026-04-19 18:01:38",
+      "hasImage": false
+    },
+    {
       "text": "配達の合間にほんと誰かと話したいな…😞この時間、一人ってなんか寂しい…あと2件だけど、今日中に終わるかな…あー、もう本当に疲れたよ。",
       "slot": "delivery",
       "timestamp": "2026-04-19 17:20:28",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-04-19 13:07:14",
       "hasImage": false
-    },
-    {
-      "text": "やっぱり配達中のこの時間に誰かに会えたらなぁ…🤔運転してると色々想像しちゃう...お客さんは優しいけど、ほんとそれだけ…また一人になっちゃうな…",
-      "slot": "delivery",
-      "timestamp": "2026-04-19 09:27:41",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -55,25 +55,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "delivery"
+    "delivery",
+    "commute"
   ],
-  "today_post_count": 10,
+  "today_post_count": 11,
   "today_goodnight_posted": true,
-  "month_total_posts": 226,
+  "month_total_posts": 227,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-19",
-  "last_post_time": "17:20:28",
+  "last_post_time": "18:01:38",
   "ng_retry_count": 143,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-19 17:20:28",
+  "updated_at": "2026-04-19 18:01:38",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もうおやすみの時間…😴お仕事、明日も頑… → おはよ…まだ夢の中… → 移動中のこの時間ってほんと…誰かと一緒だ… → やっぱり配達中のこの時間に誰かに会えたら… → さっきの続きだけど、やっぱ一人の時間も大… → 今日の天気、ほんと春って感じ…🌸でも花… → 段ボールの山、まだまだ続くけど、スイーツ… → はぁ…また段ボール運ぶのか…9Fまで階段… → あーもう、今日はほんとにしんどい…再配達… → 配達の合間にほんと誰かと話したいな…😞…",
-  "last_post_timestamp_ms": 1776586828032
+  "today_narrative": "もうおやすみの時間…😴お仕事、明日も頑… → おはよ…まだ夢の中… → 移動中のこの時間ってほんと…誰かと一緒だ… → やっぱり配達中のこの時間に誰かに会えたら… → さっきの続きだけど、やっぱ一人の時間も大… → 今日の天気、ほんと春って感じ…🌸でも花… → 段ボールの山、まだまだ続くけど、スイーツ… → はぁ…また段ボール運ぶのか…9Fまで階段… → あーもう、今日はほんとにしんどい…再配達… → 配達の合間にほんと誰かと話したいな…😞… → ほんとにこの移動時間、つらい…さっきも言…",
+  "last_post_timestamp_ms": 1776589298114
 }
