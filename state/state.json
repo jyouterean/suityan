@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 40,
+  "mood": "frustrated",
+  "energy": 30,
   "last_posts": [
+    {
+      "text": "さっきの続きだけど、やっぱ一人の時間も大事だよね。運転中は色んな考え巡るし、たまには自分を見つめ直す時間も必要って思う💭✨",
+      "slot": "casual",
+      "timestamp": "2026-04-19 13:07:14",
+      "hasImage": false
+    },
     {
       "text": "やっぱり配達中のこの時間に誰かに会えたらなぁ…🤔運転してると色々想像しちゃう...お客さんは優しいけど、ほんとそれだけ…また一人になっちゃうな…",
       "slot": "delivery",
@@ -37,37 +43,32 @@
       "slot": "night_ero",
       "timestamp": "2026-04-18 22:02:13",
       "hasImage": false
-    },
-    {
-      "text": "お花見したいなぁ…🌸誰か一緒に行こうよ…最近の何もない日々はちょっと寂しい…このままじゃ心が枯れちゃうよ…",
-      "slot": "casual",
-      "timestamp": "2026-04-18 20:47:13",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
     "morning",
     "commute",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 4,
+  "today_post_count": 5,
   "today_goodnight_posted": true,
-  "month_total_posts": 220,
+  "month_total_posts": 221,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-19",
-  "last_post_time": "09:27:41",
+  "last_post_time": "13:07:14",
   "ng_retry_count": 143,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-19 09:27:41",
+  "updated_at": "2026-04-19 13:07:14",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もうおやすみの時間…😴お仕事、明日も頑… → おはよ…まだ夢の中… → 移動中のこの時間ってほんと…誰かと一緒だ… → やっぱり配達中のこの時間に誰かに会えたら…",
-  "last_post_timestamp_ms": 1776558461426
+  "today_narrative": "もうおやすみの時間…😴お仕事、明日も頑… → おはよ…まだ夢の中… → 移動中のこの時間ってほんと…誰かと一緒だ… → やっぱり配達中のこの時間に誰かに会えたら… → さっきの続きだけど、やっぱ一人の時間も大…",
+  "last_post_timestamp_ms": 1776571634632
 }
