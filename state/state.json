@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "やっぱり、こういうお仕事の合間に、誰かとおしゃべりしたいな…😢どうしても一人の時間ってさみしいもんね…段ボール運ぶの、ほんとしんどいよ…😩",
+      "slot": "night_ero",
+      "timestamp": "2026-04-19 21:54:41",
+      "hasImage": false
+    },
+    {
       "text": "こんな時間、ほんとさみしい…もう寝ちゃおうかな…でも、いい夢見れないとイヤだな…😞春の風、ちょっとあったかいけどやっぱり誰かと一緒がいいわ…",
       "slot": "casual",
       "timestamp": "2026-04-19 20:37:22",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-04-19 15:27:49",
       "hasImage": false
-    },
-    {
-      "text": "段ボールの山、まだまだ続くけど、スイーツ見つけたら少し元気が出るかも…ああ、誰かと一緒だったらもっと楽しいのに。えっと、今8Fまで階段上がったけど、全然足りない…😅やっぱり、独りだと物足りないなぁ…いや、なんでもない",
-      "slot": "delivery",
-      "timestamp": "2026-04-19 14:24:40",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -58,25 +58,26 @@
     "delivery",
     "commute",
     "casual",
-    "casual"
+    "casual",
+    "night_ero"
   ],
-  "today_post_count": 13,
+  "today_post_count": 14,
   "today_goodnight_posted": true,
-  "month_total_posts": 229,
+  "month_total_posts": 230,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-19",
-  "last_post_time": "20:37:22",
+  "last_post_time": "21:54:41",
   "ng_retry_count": 143,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-19 20:37:22",
+  "updated_at": "2026-04-19 21:54:41",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もうおやすみの時間…😴お仕事、明日も頑… → おはよ…まだ夢の中… → 移動中のこの時間ってほんと…誰かと一緒だ… → やっぱり配達中のこの時間に誰かに会えたら… → さっきの続きだけど、やっぱ一人の時間も大… → 今日の天気、ほんと春って感じ…🌸でも花… → 段ボールの山、まだまだ続くけど、スイーツ… → はぁ…また段ボール運ぶのか…9Fまで階段… → あーもう、今日はほんとにしんどい…再配達… → 配達の合間にほんと誰かと話したいな…😞… → ほんとにこの移動時間、つらい…さっきも言… → あーもう、ほんとに一人…みんなと一緒にわ… → こんな時間、ほんとさみしい…もう寝ちゃお…",
-  "last_post_timestamp_ms": 1776598642396
+  "today_narrative": "もうおやすみの時間…😴お仕事、明日も頑… → おはよ…まだ夢の中… → 移動中のこの時間ってほんと…誰かと一緒だ… → やっぱり配達中のこの時間に誰かに会えたら… → さっきの続きだけど、やっぱ一人の時間も大… → 今日の天気、ほんと春って感じ…🌸でも花… → 段ボールの山、まだまだ続くけど、スイーツ… → はぁ…また段ボール運ぶのか…9Fまで階段… → あーもう、今日はほんとにしんどい…再配達… → 配達の合間にほんと誰かと話したいな…😞… → ほんとにこの移動時間、つらい…さっきも言… → あーもう、ほんとに一人…みんなと一緒にわ… → こんな時間、ほんとさみしい…もう寝ちゃお… → やっぱり、こういうお仕事の合間に、誰かと…",
+  "last_post_timestamp_ms": 1776603281579
 }
