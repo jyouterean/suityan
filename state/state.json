@@ -1,7 +1,13 @@
 {
   "mood": "lonely",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "やっぱり配達中のこの時間に誰かに会えたらなぁ…🤔運転してると色々想像しちゃう...お客さんは優しいけど、ほんとそれだけ…また一人になっちゃうな…",
+      "slot": "delivery",
+      "timestamp": "2026-04-19 09:27:41",
+      "hasImage": false
+    },
     {
       "text": "移動中のこの時間ってほんと…誰かと一緒だといいのに…もう3件配達して、帰る途中…疲れたけど、春の空気は気持ちいいよね。そろそろ桜も咲くかな…おやすみなさい💤",
       "slot": "commute",
@@ -37,36 +43,31 @@
       "slot": "casual",
       "timestamp": "2026-04-18 20:47:13",
       "hasImage": false
-    },
-    {
-      "text": "ほんと、あったかくなってきてお花見日和なのに…桜も綺麗なのに…まだまだ荷物運んでばっか…やっとおやすみ…夢の中でお花見したい😴🌸",
-      "slot": "casual",
-      "timestamp": "2026-04-18 19:06:28",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
     "morning",
-    "commute"
+    "commute",
+    "delivery"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": true,
-  "month_total_posts": 219,
+  "month_total_posts": 220,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-19",
-  "last_post_time": "08:05:55",
+  "last_post_time": "09:27:41",
   "ng_retry_count": 143,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-19 08:05:55",
+  "updated_at": "2026-04-19 09:27:41",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もうおやすみの時間…😴お仕事、明日も頑… → おはよ…まだ夢の中… → 移動中のこの時間ってほんと…誰かと一緒だ…",
-  "last_post_timestamp_ms": 1776553555093
+  "today_narrative": "もうおやすみの時間…😴お仕事、明日も頑… → おはよ…まだ夢の中… → 移動中のこの時間ってほんと…誰かと一緒だ… → やっぱり配達中のこの時間に誰かに会えたら…",
+  "last_post_timestamp_ms": 1776558461426
 }
