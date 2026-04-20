@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "配達の合間にふと思う…誰かと一緒にいる感覚がほしいなぁ…ひとりで段ボール運ぶの、つらい…😩お客さんも不在票ばっかりで、なんかつまんないし…",
+      "slot": "delivery",
+      "timestamp": "2026-04-20 16:41:22",
+      "hasImage": false
+    },
+    {
       "text": "え、また段ボール運ぶの？ほんとあーもうしんどい…💨これで112件目、まだ9件も残ってるとか、誰か褒めてよ…（自分で言ってて悲しくなった）外は暖かいのに、心はサムイ…😔",
       "slot": "delivery",
       "timestamp": "2026-04-20 15:48:39",
@@ -37,12 +43,6 @@
       "slot": "commute",
       "timestamp": "2026-04-20 08:06:52",
       "hasImage": false
-    },
-    {
-      "text": "おはよ…起きれない…😴",
-      "slot": "morning",
-      "timestamp": "2026-04-20 06:57:39",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "casual",
     "casual",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": false,
-  "month_total_posts": 238,
+  "month_total_posts": 239,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-20",
-  "last_post_time": "15:48:39",
-  "ng_retry_count": 143,
+  "last_post_time": "16:41:22",
+  "ng_retry_count": 144,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-20 15:48:39",
+  "updated_at": "2026-04-20 16:41:22",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "ねむすぎ…もう無理💤 → おはよ…起きれない…😴 → 今、帰り道…寂しいなぁ、誰かと一緒にいた… → 段ボールばっか運んでると、頭がボーっとし… → 暖かくなってきたけど、花粉がヤバい…😷… → 今週も始まったね…朝から憂鬱だなぁ、月曜… → ずーっと運転してると、なんか寂しくなって… → え、また段ボール運ぶの？ほんとあーもうし…",
-  "last_post_timestamp_ms": 1776667719432
+  "today_narrative": "ねむすぎ…もう無理💤 → おはよ…起きれない…😴 → 今、帰り道…寂しいなぁ、誰かと一緒にいた… → 段ボールばっか運んでると、頭がボーっとし… → 暖かくなってきたけど、花粉がヤバい…😷… → 今週も始まったね…朝から憂鬱だなぁ、月曜… → ずーっと運転してると、なんか寂しくなって… → え、また段ボール運ぶの？ほんとあーもうし… → 配達の合間にふと思う…誰かと一緒にいる感…",
+  "last_post_timestamp_ms": 1776670882720
 }
