@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 70,
+  "mood": "lonely",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "今日も荷物運びでバタバタだったなぁ…。もう少しで終わるのに、まだ16件も残ってるなんて…。明日も頑張らなきゃな、って誰に言ってんだろ…😔おやすみ、皆。少し甘えていいよね？",
+      "slot": "goodnight",
+      "timestamp": "2026-04-21 00:55:12",
+      "hasImage": false
+    },
     {
       "text": "もう限界…ねる🤤",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-04-20 17:33:41",
       "hasImage": false
-    },
-    {
-      "text": "配達の合間にふと思う…誰かと一緒にいる感覚がほしいなぁ…ひとりで段ボール運ぶの、つらい…😩お客さんも不在票ばっかりで、なんかつまんないし…",
-      "slot": "delivery",
-      "timestamp": "2026-04-20 16:41:22",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "goodnight"
   ],
-  "today_post_count": 1,
-  "today_goodnight_posted": false,
-  "month_total_posts": 245,
+  "today_post_count": 2,
+  "today_goodnight_posted": true,
+  "month_total_posts": 246,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-21",
-  "last_post_time": "00:18:10",
+  "last_post_time": "00:55:12",
   "ng_retry_count": 144,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-21 00:18:10",
+  "updated_at": "2026-04-21 00:55:12",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": false,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "もう限界…ねる🤤",
-  "last_post_timestamp_ms": 1776698290309
+  "today_narrative": "もう限界…ねる🤤 → 今日も荷物運びでバタバタだったなぁ…。も…",
+  "last_post_timestamp_ms": 1776700512174
 }
