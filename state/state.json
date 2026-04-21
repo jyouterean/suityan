@@ -1,7 +1,13 @@
 {
-  "mood": "frustrated",
-  "energy": 20,
+  "mood": "tired",
+  "energy": 10,
   "last_posts": [
+    {
+      "text": "お客様、ありがとうって言ってくれた…でも一軒家、つかれたなぁ。階段上がって、もう限界…体力も…でもさ、やっぱり誰かに会いたい…いや関係ないか😔",
+      "slot": "delivery",
+      "timestamp": "2026-04-21 14:23:15",
+      "hasImage": false
+    },
     {
       "text": "てかさっきの感じだと、今日もまた荷物運びが待ってるわけだし…😩もう早く桜のトンネルくぐりたいなぁ…でも仕事やらなきゃだし、うーん…",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "simple_goodnight",
       "timestamp": "2026-04-21 00:18:10",
       "hasImage": false
-    },
-    {
-      "text": "はぁ、ほんと段ボール運ぶのばっかりで、なんかそのうち運転するのも…しんどくなってきた😓…そんな時に、あたしも誰かと一緒にいたいなぁ…温もりほしい…ねぇ…なんて、もう知らんけど💔",
-      "slot": "night_ero",
-      "timestamp": "2026-04-20 22:30:47",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -51,25 +51,26 @@
     "morning",
     "delivery",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 6,
+  "today_post_count": 7,
   "today_goodnight_posted": true,
-  "month_total_posts": 250,
+  "month_total_posts": 251,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-21",
-  "last_post_time": "13:36:50",
+  "last_post_time": "14:23:15",
   "ng_retry_count": 144,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-21 13:36:50",
+  "updated_at": "2026-04-21 14:23:15",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 15,
-  "today_narrative": "もう限界…ねる🤤 → 今日も荷物運びでバタバタだったなぁ…。も… → おはよう…また寝たかった → また不在票が増えてる…。こんなに運んでも… → 今日もなんかだるいなぁ…もうすぐ満開の桜… → てかさっきの感じだと、今日もまた荷物運び…",
-  "last_post_timestamp_ms": 1776746210221
+  "today_narrative": "もう限界…ねる🤤 → 今日も荷物運びでバタバタだったなぁ…。も… → おはよう…また寝たかった → また不在票が増えてる…。こんなに運んでも… → 今日もなんかだるいなぁ…もうすぐ満開の桜… → てかさっきの感じだと、今日もまた荷物運び… → お客様、ありがとうって言ってくれた…でも…",
+  "last_post_timestamp_ms": 1776748995480
 }
