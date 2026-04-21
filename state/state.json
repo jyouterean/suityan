@@ -1,7 +1,13 @@
 {
   "mood": "lonely",
-  "energy": 70,
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "配達中だけど…今日も寂しいなぁ💔誰かが待ってるって思うと、少しだけドキッとする…お客さんに「ありがとう」って言われると心が温かくなるけど、やっぱり誰かと一緒じゃないと…もうすぐお昼だけど、なんか食べる気もしないよ…軽バンの中にいると、ふと孤独を感じる。",
+      "slot": "delivery",
+      "timestamp": "2026-04-22 01:00:59",
+      "hasImage": false
+    },
     {
       "text": "さっきの続きだけど…ほんと、誰かと一緒にいると心強いっていうか…ねぇ、そう思わない？😢ちょっとでもいいから、かまってほしいな…",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-04-21 17:37:05",
       "hasImage": false
-    },
-    {
-      "text": "あーもう、ほんとしんどい…運転するのも体力使うし、どれだけ走ってもゴールが見えない感じ。疲れたぁ…😩💨",
-      "slot": "delivery",
-      "timestamp": "2026-04-21 16:17:38",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "delivery"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 259,
+  "month_total_posts": 260,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-22",
-  "last_post_time": "00:18:29",
+  "last_post_time": "01:00:59",
   "ng_retry_count": 145,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-22 00:18:29",
+  "updated_at": "2026-04-22 01:00:59",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": false,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "さっきの続きだけど…ほんと、誰かと一緒に…",
-  "last_post_timestamp_ms": 1776784709938
+  "today_narrative": "さっきの続きだけど…ほんと、誰かと一緒に… → 配達中だけど…今日も寂しいなぁ💔誰かが…",
+  "last_post_timestamp_ms": 1776787259633
 }
