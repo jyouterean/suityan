@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 50,
+  "mood": "melancholy",
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "また不在票が増えてる…。こんなに運んでも、受け取ってもらえないのはつらいなぁ…。軽バンの中で一人、あ〜誰か会いたい…😔",
+      "slot": "delivery",
+      "timestamp": "2026-04-21 09:17:53",
+      "hasImage": false
+    },
     {
       "text": "おはよう…また寝たかった",
       "slot": "morning",
@@ -37,36 +43,31 @@
       "slot": "casual",
       "timestamp": "2026-04-20 20:22:03",
       "hasImage": false
-    },
-    {
-      "text": "なんかもう、頭がぼーっとする…さっきからずっと運転してる。あー、ほんと寂しいなぁ…誰かと一緒にいたいよ。花粉の季節だし、目がかゆいし、今日もだるいし…😩",
-      "slot": "casual",
-      "timestamp": "2026-04-20 19:27:31",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
     "goodnight",
-    "morning"
+    "morning",
+    "delivery"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": true,
-  "month_total_posts": 247,
+  "month_total_posts": 248,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-21",
-  "last_post_time": "07:20:51",
+  "last_post_time": "09:17:53",
   "ng_retry_count": 144,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-21 08:33:27",
+  "updated_at": "2026-04-21 09:17:53",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 15,
-  "today_narrative": "もう限界…ねる🤤 → 今日も荷物運びでバタバタだったなぁ…。も… → おはよう…また寝たかった",
-  "last_post_timestamp_ms": 1776723651682
+  "today_narrative": "もう限界…ねる🤤 → 今日も荷物運びでバタバタだったなぁ…。も… → おはよう…また寝たかった → また不在票が増えてる…。こんなに運んでも…",
+  "last_post_timestamp_ms": 1776730673637
 }
