@@ -1,7 +1,13 @@
 {
-  "mood": "melancholy",
-  "energy": 20,
+  "mood": "tired",
+  "energy": 10,
   "last_posts": [
+    {
+      "text": "今日はさっきも言ったけど…ほんと、誰かと一緒にいたら気持ちも違うのかな…ひたすら配達中だけどさ、なんか少し寂しい…💔雨も降らないけど、ちょっと風が冷たい…春なのに…",
+      "slot": "casual",
+      "timestamp": "2026-04-22 13:27:58",
+      "hasImage": false
+    },
     {
       "text": "さっきの続きだけど…ほんと、誰かと一緒に…お花見とかしたいなぁ🌸でも、今はひとりで歩いてるだけ…道端に咲いてる桜、きれいなのに心が寂しいなぁ…",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "simple_goodnight",
       "timestamp": "2026-04-22 00:18:29",
       "hasImage": false
-    },
-    {
-      "text": "こんなに荷物運び続けたら、ほんと体も心も限界…なんか、誰かと一緒にいたいなぁ…ねぇ、誰か来ないかな…",
-      "slot": "night_ero",
-      "timestamp": "2026-04-21 22:27:33",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -51,25 +51,26 @@
     "morning",
     "casual",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 6,
+  "today_post_count": 7,
   "today_goodnight_posted": false,
-  "month_total_posts": 264,
+  "month_total_posts": 265,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-22",
-  "last_post_time": "13:11:57",
+  "last_post_time": "13:27:58",
   "ng_retry_count": 145,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-22 13:11:57",
+  "updated_at": "2026-04-22 13:27:58",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "さっきの続きだけど…ほんと、誰かと一緒に… → 配達中だけど…今日も寂しいなぁ💔誰かが… → むり…もう目も開かない…なんでこんなに眠… → だる…外、少し寒いけど暖かい日も増えてき… → さっきの続きだけど…ほんと、誰かと一緒に… → さっきの続きだけど…ほんと、誰かと一緒に…",
-  "last_post_timestamp_ms": 1776831117773
+  "today_narrative": "さっきの続きだけど…ほんと、誰かと一緒に… → 配達中だけど…今日も寂しいなぁ💔誰かが… → むり…もう目も開かない…なんでこんなに眠… → だる…外、少し寒いけど暖かい日も増えてき… → さっきの続きだけど…ほんと、誰かと一緒に… → さっきの続きだけど…ほんと、誰かと一緒に… → 今日はさっきも言ったけど…ほんと、誰かと…",
+  "last_post_timestamp_ms": 1776832078330
 }
