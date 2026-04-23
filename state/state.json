@@ -1,7 +1,13 @@
 {
-  "mood": "melancholy",
-  "energy": 20,
+  "mood": "tired",
+  "energy": 10,
   "last_posts": [
+    {
+      "text": "あーもう…なんかすっごい眠い😩雨の音が心地よすぎて、だらだらしちゃう。せっかくの春なのに、気持ちが重いまま。あー、何か楽しいことないかなぁ…🌧️",
+      "slot": "casual",
+      "timestamp": "2026-04-23 13:45:56",
+      "hasImage": false
+    },
     {
       "text": "ふう…雨降ってるし、なんか一日中モヤモヤ…🌧️もうほんと、春って眠くなるよね。気温も14℃だし、ちょっと肌寒くてがんばれない😩まじで明日こそやる気出したいな…",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "simple_goodnight",
       "timestamp": "2026-04-23 00:23:21",
       "hasImage": false
-    },
-    {
-      "text": "またさ…配達中、ほんとに誰かと一緒にいたいなぁ。階段6Fまで上がって疲れたし、ほんともう眠いし…寂しいよ…💔",
-      "slot": "night_ero",
-      "timestamp": "2026-04-22 22:00:00",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -51,25 +51,26 @@
     "morning",
     "casual",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 6,
+  "today_post_count": 7,
   "today_goodnight_posted": false,
-  "month_total_posts": 278,
+  "month_total_posts": 279,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-23",
-  "last_post_time": "13:19:34",
+  "last_post_time": "13:45:56",
   "ng_retry_count": 145,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-23 13:19:34",
+  "updated_at": "2026-04-23 13:45:56",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "もう無理、寝るしかない。 → ふう…再配達の電話ばっかり。階段6F上が… → あさ…起きるの無理だ → うう、なんか頭重い…😩春眠暁を覚えずっ… → もう無理…😩荷物運ぶのだるい、あーほん… → ふう…雨降ってるし、なんか一日中モヤモヤ…",
-  "last_post_timestamp_ms": 1776917974913
+  "today_narrative": "もう無理、寝るしかない。 → ふう…再配達の電話ばっかり。階段6F上が… → あさ…起きるの無理だ → うう、なんか頭重い…😩春眠暁を覚えずっ… → もう無理…😩荷物運ぶのだるい、あーほん… → ふう…雨降ってるし、なんか一日中モヤモヤ… → あーもう…なんかすっごい眠い😩雨の音が…",
+  "last_post_timestamp_ms": 1776919556358
 }
