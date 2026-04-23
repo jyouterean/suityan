@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 40,
+  "mood": "frustrated",
+  "energy": 30,
   "last_posts": [
+    {
+      "text": "もう無理…😩荷物運ぶのだるい、あーほんと誰かに会いたい…桜咲いてるのに気分上がらない。軽バンの中、もっと楽しいことあったらな…大久保の街、春の匂いするなぁ。何か良いことないかな…",
+      "slot": "delivery",
+      "timestamp": "2026-04-23 09:20:07",
+      "hasImage": false
+    },
     {
       "text": "うう、なんか頭重い…😩春眠暁を覚えずってやつ？もう少し寝たいなぁ…でも外はぽかぽかで気持ちよさそう。桜でも見に行ったら楽しいかも…でも起きれない。",
       "slot": "casual",
@@ -37,37 +43,32 @@
       "slot": "night_ero",
       "timestamp": "2026-04-22 21:12:05",
       "hasImage": false
-    },
-    {
-      "text": "てか、さっきの…ほんとに誰かと一緒だったらいいのになぁ…。私、なんだかちょっと疲れちゃった…💤かまってほしい…ねぇ…",
-      "slot": "casual",
-      "timestamp": "2026-04-22 20:01:55",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
     "delivery",
     "morning",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 4,
+  "today_post_count": 5,
   "today_goodnight_posted": false,
-  "month_total_posts": 276,
+  "month_total_posts": 277,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-23",
-  "last_post_time": "08:13:17",
+  "last_post_time": "09:20:07",
   "ng_retry_count": 145,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-23 08:13:17",
+  "updated_at": "2026-04-23 09:20:07",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "もう無理、寝るしかない。 → ふう…再配達の電話ばっかり。階段6F上が… → あさ…起きるの無理だ → うう、なんか頭重い…😩春眠暁を覚えずっ…",
-  "last_post_timestamp_ms": 1776899597183
+  "today_narrative": "もう無理、寝るしかない。 → ふう…再配達の電話ばっかり。階段6F上が… → あさ…起きるの無理だ → うう、なんか頭重い…😩春眠暁を覚えずっ… → もう無理…😩荷物運ぶのだるい、あーほん…",
+  "last_post_timestamp_ms": 1776903607847
 }
