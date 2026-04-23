@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あー、もうほんと…何もかもだるいわ😩この小雨、なんかさらに気分もどんよりだし。桜も綺麗なのに、お花見とか全然する気になれない…うう、早く寝たいな。",
+      "slot": "casual",
+      "timestamp": "2026-04-23 19:55:56",
+      "hasImage": false
+    },
+    {
       "text": "あーもう…さっきから頭がすっごい重い😩なんかもう、のんびりできる時間がほしいよ…ほんと、こんな天気だと余計にしんどい…",
       "slot": "casual",
       "timestamp": "2026-04-23 19:09:27",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-04-23 13:19:34",
       "hasImage": false
-    },
-    {
-      "text": "もう無理…😩荷物運ぶのだるい、あーほんと誰かに会いたい…桜咲いてるのに気分上がらない。軽バンの中、もっと楽しいことあったらな…大久保の街、春の匂いするなぁ。何か良いことないかな…",
-      "slot": "delivery",
-      "timestamp": "2026-04-23 09:20:07",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "delivery",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": false,
-  "month_total_posts": 283,
+  "month_total_posts": 284,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-23",
-  "last_post_time": "19:09:27",
+  "last_post_time": "19:55:56",
   "ng_retry_count": 145,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-23 19:09:27",
+  "updated_at": "2026-04-23 19:55:56",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 13,
-  "today_narrative": "もう無理、寝るしかない。 → ふう…再配達の電話ばっかり。階段6F上が… → あさ…起きるの無理だ → うう、なんか頭重い…😩春眠暁を覚えずっ… → もう無理…😩荷物運ぶのだるい、あーほん… → ふう…雨降ってるし、なんか一日中モヤモヤ… → あーもう…なんかすっごい眠い😩雨の音が… → あーもう…また配送先間違えてるし…😩ほ… → あー、ほんと荷物重い…😩誰かに褒めても… → もうほんと、あー…昼からずっと雨降ってる… → あーもう…さっきから頭がすっごい重い😩…",
-  "last_post_timestamp_ms": 1776938967031
+  "today_narrative": "もう無理、寝るしかない。 → ふう…再配達の電話ばっかり。階段6F上が… → あさ…起きるの無理だ → うう、なんか頭重い…😩春眠暁を覚えずっ… → もう無理…😩荷物運ぶのだるい、あーほん… → ふう…雨降ってるし、なんか一日中モヤモヤ… → あーもう…なんかすっごい眠い😩雨の音が… → あーもう…また配送先間違えてるし…😩ほ… → あー、ほんと荷物重い…😩誰かに褒めても… → もうほんと、あー…昼からずっと雨降ってる… → あーもう…さっきから頭がすっごい重い😩… → あー、もうほんと…何もかもだるいわ😩こ…",
+  "last_post_timestamp_ms": 1776941756361
 }
