@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あーもう…また配送先間違えてるし…😩ほんとにめんどくさい。これで桜見に行く予定がまた潰れるとか…これは運が悪いってやつなんかな？（何言ってんだ）残り3件のルート組み…うう、頭が重いよ〜",
+      "slot": "delivery",
+      "timestamp": "2026-04-23 15:38:20",
+      "hasImage": false
+    },
+    {
       "text": "あーもう…なんかすっごい眠い😩雨の音が心地よすぎて、だらだらしちゃう。せっかくの春なのに、気持ちが重いまま。あー、何か楽しいことないかなぁ…🌧️",
       "slot": "casual",
       "timestamp": "2026-04-23 13:45:56",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-04-23 01:15:03",
       "hasImage": false
-    },
-    {
-      "text": "もう無理、寝るしかない。",
-      "slot": "simple_goodnight",
-      "timestamp": "2026-04-23 00:23:21",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "casual",
     "delivery",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": false,
-  "month_total_posts": 279,
+  "month_total_posts": 280,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-23",
-  "last_post_time": "13:45:56",
+  "last_post_time": "15:38:20",
   "ng_retry_count": 145,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-23 14:45:57",
+  "updated_at": "2026-04-23 15:38:20",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 13,
-  "today_narrative": "もう無理、寝るしかない。 → ふう…再配達の電話ばっかり。階段6F上が… → あさ…起きるの無理だ → うう、なんか頭重い…😩春眠暁を覚えずっ… → もう無理…😩荷物運ぶのだるい、あーほん… → ふう…雨降ってるし、なんか一日中モヤモヤ… → あーもう…なんかすっごい眠い😩雨の音が…",
-  "last_post_timestamp_ms": 1776919556358
+  "today_narrative": "もう無理、寝るしかない。 → ふう…再配達の電話ばっかり。階段6F上が… → あさ…起きるの無理だ → うう、なんか頭重い…😩春眠暁を覚えずっ… → もう無理…😩荷物運ぶのだるい、あーほん… → ふう…雨降ってるし、なんか一日中モヤモヤ… → あーもう…なんかすっごい眠い😩雨の音が… → あーもう…また配送先間違えてるし…😩ほ…",
+  "last_post_timestamp_ms": 1776926300366
 }
