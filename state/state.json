@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 60,
+  "mood": "lonely",
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "帰り道、やっぱり一人だと寂しいな…今、荷物が残り3件。もうちょっとで終わるけど、体力60%…ねむいのに、さっき6Fまで階段あがったのが効いてる…😩新生活が始まるけど、早く家でゴロゴロしたいよ。",
+      "slot": "commute",
+      "timestamp": "2026-04-24 08:12:58",
+      "hasImage": false
+    },
     {
       "text": "ねむひ…あさはまだ遠い…",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "delivery",
       "timestamp": "2026-04-23 17:23:32",
       "hasImage": false
-    },
-    {
-      "text": "あー、ほんと荷物重い…😩誰かに褒めてもらいたいなぁ。今日は115件もはいたつしてるのに、なんか達成感ない。ふう、早く終わらないかな…",
-      "slot": "delivery",
-      "timestamp": "2026-04-23 16:14:03",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
-    "morning"
+    "morning",
+    "commute"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": true,
-  "month_total_posts": 287,
+  "month_total_posts": 288,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-24",
-  "last_post_time": "07:06:12",
+  "last_post_time": "08:12:58",
   "ng_retry_count": 145,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-24 07:06:12",
+  "updated_at": "2026-04-24 08:12:58",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "ふぅ…一日終わったね。雨だし、ちょっと寂… → ねむひ…あさはまだ遠い…",
-  "last_post_timestamp_ms": 1776981972811
+  "today_narrative": "ふぅ…一日終わったね。雨だし、ちょっと寂… → ねむひ…あさはまだ遠い… → 帰り道、やっぱり一人だと寂しいな…今、荷…",
+  "last_post_timestamp_ms": 1776985978636
 }
