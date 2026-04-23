@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 70,
+  "mood": "tired",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "ねむひ…あさはまだ遠い…",
+      "slot": "morning",
+      "timestamp": "2026-04-24 07:06:12",
+      "hasImage": false
+    },
     {
       "text": "ふぅ…一日終わったね。雨だし、ちょっと寂しいな…インターホン、何回も鳴らしたのに、同じマンションばっかり。また明日も頑張るけど、かまってほしいな…😔🌧",
       "slot": "goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-04-23 16:14:03",
       "hasImage": false
-    },
-    {
-      "text": "あーもう…また配送先間違えてるし…😩ほんとにめんどくさい。これで桜見に行く予定がまた潰れるとか…これは運が悪いってやつなんかな？（何言ってんだ）残り3件のルート組み…うう、頭が重いよ〜",
-      "slot": "delivery",
-      "timestamp": "2026-04-23 15:38:20",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight"
+    "goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": true,
-  "month_total_posts": 286,
+  "month_total_posts": 287,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-24",
-  "last_post_time": "00:37:00",
+  "last_post_time": "07:06:12",
   "ng_retry_count": 145,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-24 00:37:00",
+  "updated_at": "2026-04-24 07:06:12",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "ふぅ…一日終わったね。雨だし、ちょっと寂…",
-  "last_post_timestamp_ms": 1776958620070
+  "today_narrative": "ふぅ…一日終わったね。雨だし、ちょっと寂… → ねむひ…あさはまだ遠い…",
+  "last_post_timestamp_ms": 1776981972811
 }
