@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 10,
+  "mood": "lonely",
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "ふぅ…一日終わったね。雨だし、ちょっと寂しいな…インターホン、何回も鳴らしたのに、同じマンションばっかり。また明日も頑張るけど、かまってほしいな…😔🌧",
+      "slot": "goodnight",
+      "timestamp": "2026-04-24 00:37:00",
+      "hasImage": false
+    },
     {
       "text": "ふう…ほんとにもう、だるい…こんな日、寝るしかないよねぇ😩雨が降ってるし、外出たくないし…一日中モヤモヤ…なんか誰かと話したいな…",
       "slot": "casual",
@@ -37,46 +43,28 @@
       "slot": "delivery",
       "timestamp": "2026-04-23 15:38:20",
       "hasImage": false
-    },
-    {
-      "text": "あーもう…なんかすっごい眠い😩雨の音が心地よすぎて、だらだらしちゃう。せっかくの春なのに、気持ちが重いまま。あー、何か楽しいことないかなぁ…🌧️",
-      "slot": "casual",
-      "timestamp": "2026-04-23 13:45:56",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight",
-    "delivery",
-    "morning",
-    "casual",
-    "delivery",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery",
-    "casual",
-    "casual",
-    "casual"
+    "goodnight"
   ],
-  "today_post_count": 13,
-  "today_goodnight_posted": false,
-  "month_total_posts": 285,
+  "today_post_count": 1,
+  "today_goodnight_posted": true,
+  "month_total_posts": 286,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-04-23",
-  "last_post_time": "20:59:47",
+  "last_post_date": "2026-04-24",
+  "last_post_time": "00:37:00",
   "ng_retry_count": 145,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-23 20:59:47",
+  "updated_at": "2026-04-24 00:37:00",
   "month_string": "2026-04",
-  "today_skipped": true,
-  "today_simple_goodnight_posted": true,
-  "today_morning_posted": true,
-  "today_skip_count": 1,
-  "today_max_posts": 13,
-  "today_narrative": "もう無理、寝るしかない。 → ふう…再配達の電話ばっかり。階段6F上が… → あさ…起きるの無理だ → うう、なんか頭重い…😩春眠暁を覚えずっ… → もう無理…😩荷物運ぶのだるい、あーほん… → ふう…雨降ってるし、なんか一日中モヤモヤ… → あーもう…なんかすっごい眠い😩雨の音が… → あーもう…また配送先間違えてるし…😩ほ… → あー、ほんと荷物重い…😩誰かに褒めても… → もうほんと、あー…昼からずっと雨降ってる… → あーもう…さっきから頭がすっごい重い😩… → あー、もうほんと…何もかもだるいわ😩こ… → ふう…ほんとにもう、だるい…こんな日、寝…",
-  "last_post_timestamp_ms": 1776945587272
+  "today_skipped": false,
+  "today_simple_goodnight_posted": false,
+  "today_morning_posted": false,
+  "today_skip_count": 0,
+  "today_max_posts": 14,
+  "today_narrative": "ふぅ…一日終わったね。雨だし、ちょっと寂…",
+  "last_post_timestamp_ms": 1776958620070
 }
