@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "ふぅ…今日もほんと疲れたなぁ…なんか、帰り道ずっと考えちゃってさ。帰ったらなんか美味しいもの食べたいけど、誰かと一緒じゃないと味気ない気がする…ねぇ、明日こそは楽しいことしたいなぁ…🌸",
+      "slot": "casual",
+      "timestamp": "2026-04-24 20:15:22",
+      "hasImage": false
+    },
+    {
       "text": "ふぅ…なんかやっぱりモヤモヤするなぁ…お昼ご飯、なに食べたっけ…？思い出せないくらい疲れてる…😣 どこかに遊びに行きたいなぁ、でも一人だし、何もないし…",
       "slot": "casual",
       "timestamp": "2026-04-24 19:06:10",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-04-24 13:43:56",
       "hasImage": false
-    },
-    {
-      "text": "配達件数の残りも、なんだか急に増えた気がする。結局、4Fの階段上がって、やっと19件…はぁ、誰かに会いたいなぁ。こうやって一人で運転してると、ほんとに寂しい…うん、まぁ。✨",
-      "slot": "delivery",
-      "timestamp": "2026-04-24 09:09:32",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -55,25 +55,26 @@
     "delivery",
     "delivery",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 10,
+  "today_post_count": 11,
   "today_goodnight_posted": true,
-  "month_total_posts": 295,
+  "month_total_posts": 296,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-24",
-  "last_post_time": "19:06:10",
+  "last_post_time": "20:15:22",
   "ng_retry_count": 145,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-24 19:06:10",
+  "updated_at": "2026-04-24 20:15:22",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "ふぅ…一日終わったね。雨だし、ちょっと寂… → ねむひ…あさはまだ遠い… → 帰り道、やっぱり一人だと寂しいな…今、荷… → 配達件数の残りも、なんだか急に増えた気が… → 何か楽しいことないかなぁ…🌸 暖かくな… → ふぅ…なんかやっぱりモヤモヤするなぁ…お… → あーもう…再配達が終わんないし、ほんとし… → ほんと、なんか配達も一瞬で終わればいいの… → あーもう、ほんとしんどい…運転してるとき… → ふぅ…なんかやっぱりモヤモヤするなぁ…お…",
-  "last_post_timestamp_ms": 1777025170877
+  "today_narrative": "ふぅ…一日終わったね。雨だし、ちょっと寂… → ねむひ…あさはまだ遠い… → 帰り道、やっぱり一人だと寂しいな…今、荷… → 配達件数の残りも、なんだか急に増えた気が… → 何か楽しいことないかなぁ…🌸 暖かくな… → ふぅ…なんかやっぱりモヤモヤするなぁ…お… → あーもう…再配達が終わんないし、ほんとし… → ほんと、なんか配達も一瞬で終わればいいの… → あーもう、ほんとしんどい…運転してるとき… → ふぅ…なんかやっぱりモヤモヤするなぁ…お… → ふぅ…今日もほんと疲れたなぁ…なんか、帰…",
+  "last_post_timestamp_ms": 1777029322710
 }
