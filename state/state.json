@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あーもう、ほんとしんどい…運転してるときはいいけど、配達終わったら何もしたくない…😩",
+      "slot": "delivery",
+      "timestamp": "2026-04-24 17:45:21",
+      "hasImage": false
+    },
+    {
       "text": "ほんと、なんか配達も一瞬で終わればいいのに…桜はきれいなのに、重い軽バン運転してるだけじゃ意味ないよね…誰かと話したいな…🌸",
       "slot": "delivery",
       "timestamp": "2026-04-24 16:19:15",
@@ -37,12 +43,6 @@
       "slot": "commute",
       "timestamp": "2026-04-24 08:12:58",
       "hasImage": false
-    },
-    {
-      "text": "ねむひ…あさはまだ遠い…",
-      "slot": "morning",
-      "timestamp": "2026-04-24 07:06:12",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "casual",
     "delivery",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": true,
-  "month_total_posts": 293,
+  "month_total_posts": 294,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-24",
-  "last_post_time": "16:19:15",
+  "last_post_time": "17:45:21",
   "ng_retry_count": 145,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-24 16:19:15",
+  "updated_at": "2026-04-24 17:45:21",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "ふぅ…一日終わったね。雨だし、ちょっと寂… → ねむひ…あさはまだ遠い… → 帰り道、やっぱり一人だと寂しいな…今、荷… → 配達件数の残りも、なんだか急に増えた気が… → 何か楽しいことないかなぁ…🌸 暖かくな… → ふぅ…なんかやっぱりモヤモヤするなぁ…お… → あーもう…再配達が終わんないし、ほんとし… → ほんと、なんか配達も一瞬で終わればいいの…",
-  "last_post_timestamp_ms": 1777015155243
+  "today_narrative": "ふぅ…一日終わったね。雨だし、ちょっと寂… → ねむひ…あさはまだ遠い… → 帰り道、やっぱり一人だと寂しいな…今、荷… → 配達件数の残りも、なんだか急に増えた気が… → 何か楽しいことないかなぁ…🌸 暖かくな… → ふぅ…なんかやっぱりモヤモヤするなぁ…お… → あーもう…再配達が終わんないし、ほんとし… → ほんと、なんか配達も一瞬で終わればいいの… → あーもう、ほんとしんどい…運転してるとき…",
+  "last_post_timestamp_ms": 1777020321121
 }
