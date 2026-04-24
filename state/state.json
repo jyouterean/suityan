@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 70,
+  "mood": "lonely",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "今日はほんとに足が…疲れたなぁ。残り2件、早く終わらせたいよ…お届け完了したら、あったかいお茶飲みたいかも☕️でも、ちょっと寂しい…誰かかまって…ねぇ？🥺",
+      "slot": "goodnight",
+      "timestamp": "2026-04-25 00:57:51",
+      "hasImage": false
+    },
     {
       "text": "もう…限界、ねる😪",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-04-24 17:45:21",
       "hasImage": false
-    },
-    {
-      "text": "ほんと、なんか配達も一瞬で終わればいいのに…桜はきれいなのに、重い軽バン運転してるだけじゃ意味ないよね…誰かと話したいな…🌸",
-      "slot": "delivery",
-      "timestamp": "2026-04-24 16:19:15",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "goodnight"
   ],
-  "today_post_count": 1,
-  "today_goodnight_posted": false,
-  "month_total_posts": 299,
+  "today_post_count": 2,
+  "today_goodnight_posted": true,
+  "month_total_posts": 300,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-25",
-  "last_post_time": "00:21:02",
+  "last_post_time": "00:57:51",
   "ng_retry_count": 145,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-25 00:21:02",
+  "updated_at": "2026-04-25 00:57:51",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": false,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もう…限界、ねる😪",
-  "last_post_timestamp_ms": 1777044062232
+  "today_narrative": "もう…限界、ねる😪 → 今日はほんとに足が…疲れたなぁ。残り2件…",
+  "last_post_timestamp_ms": 1777046271981
 }
