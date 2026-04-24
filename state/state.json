@@ -1,7 +1,13 @@
 {
   "mood": "lonely",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "配達件数の残りも、なんだか急に増えた気がする。結局、4Fの階段上がって、やっと19件…はぁ、誰かに会いたいなぁ。こうやって一人で運転してると、ほんとに寂しい…うん、まぁ。✨",
+      "slot": "delivery",
+      "timestamp": "2026-04-24 09:09:32",
+      "hasImage": false
+    },
     {
       "text": "帰り道、やっぱり一人だと寂しいな…今、荷物が残り3件。もうちょっとで終わるけど、体力60%…ねむいのに、さっき6Fまで階段あがったのが効いてる…😩新生活が始まるけど、早く家でゴロゴロしたいよ。",
       "slot": "commute",
@@ -37,36 +43,31 @@
       "slot": "casual",
       "timestamp": "2026-04-23 19:09:27",
       "hasImage": false
-    },
-    {
-      "text": "もうほんと、あー…昼からずっと雨降ってるし、荷物重てぇし😩手が疲れた…階段上がるのしんどいよ…誰か私を優しく褒めてほしい。あと少しで終わるのに、ほんとダメだ…",
-      "slot": "delivery",
-      "timestamp": "2026-04-23 17:23:32",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
     "morning",
-    "commute"
+    "commute",
+    "delivery"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": true,
-  "month_total_posts": 288,
+  "month_total_posts": 289,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-24",
-  "last_post_time": "08:12:58",
+  "last_post_time": "09:09:32",
   "ng_retry_count": 145,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-24 08:12:58",
+  "updated_at": "2026-04-24 09:09:32",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "ふぅ…一日終わったね。雨だし、ちょっと寂… → ねむひ…あさはまだ遠い… → 帰り道、やっぱり一人だと寂しいな…今、荷…",
-  "last_post_timestamp_ms": 1776985978636
+  "today_narrative": "ふぅ…一日終わったね。雨だし、ちょっと寂… → ねむひ…あさはまだ遠い… → 帰り道、やっぱり一人だと寂しいな…今、荷… → 配達件数の残りも、なんだか急に増えた気が…",
+  "last_post_timestamp_ms": 1776989372958
 }
