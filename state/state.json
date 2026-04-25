@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あーほんと、最近桜の話ばっかりだねぇ…でも今日は空もきれいだし、ちょっとだけほっこりする…でも、そんな気持ちもすぐにしんどくなっちゃうんだよなぁ…😩",
+      "slot": "casual",
+      "timestamp": "2026-04-25 19:19:15",
+      "hasImage": false
+    },
+    {
       "text": "もう…一人で帰るの、さびしいなぁ…だれかと一緒に帰りたい…配達中は犬に吠えられたり…あー、ほんとに疲れた…残り9件…😪",
       "slot": "commute",
       "timestamp": "2026-04-25 18:04:10",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-04-25 13:13:10",
       "hasImage": false
-    },
-    {
-      "text": "てかさっきの、犬の吠え声今でも耳に残っててさ…もう配達したくないよ〜💦 あと20件、頑張るしかないけど、なんかふわふわした気持ちになる。だるいなぁ。",
-      "slot": "casual",
-      "timestamp": "2026-04-25 12:58:54",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -57,25 +57,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "commute"
+    "commute",
+    "casual"
   ],
-  "today_post_count": 12,
+  "today_post_count": 13,
   "today_goodnight_posted": true,
-  "month_total_posts": 310,
+  "month_total_posts": 311,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-25",
-  "last_post_time": "18:04:10",
+  "last_post_time": "19:19:15",
   "ng_retry_count": 146,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-25 18:04:10",
+  "updated_at": "2026-04-25 19:19:15",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もう…限界、ねる😪 → 今日はほんとに足が…疲れたなぁ。残り2件… → あさ…ねむいなぁ… → 駐禁のおっちゃんとすれ違った…あれ、結局… → もう…限界、ねる😪 配達中、犬に吠えら… → てかさっきの、犬の吠え声今でも耳に残って… → もうほんとに、もやもやする…😩 今日の… → あ〜桜も咲いてきたし、新生活っていう雰囲… → 雨…突然降ってきて、なんなんだよー💦 … → あーもう…再配達の電話で心折れそう…😩… → もうほんとに…配達しながら、誰かに会いた… → もう…一人で帰るの、さびしいなぁ…だれか…",
-  "last_post_timestamp_ms": 1777107850550
+  "today_narrative": "もう…限界、ねる😪 → 今日はほんとに足が…疲れたなぁ。残り2件… → あさ…ねむいなぁ… → 駐禁のおっちゃんとすれ違った…あれ、結局… → もう…限界、ねる😪 配達中、犬に吠えら… → てかさっきの、犬の吠え声今でも耳に残って… → もうほんとに、もやもやする…😩 今日の… → あ〜桜も咲いてきたし、新生活っていう雰囲… → 雨…突然降ってきて、なんなんだよー💦 … → あーもう…再配達の電話で心折れそう…😩… → もうほんとに…配達しながら、誰かに会いた… → もう…一人で帰るの、さびしいなぁ…だれか… → あーほんと、最近桜の話ばっかりだねぇ…で…",
+  "last_post_timestamp_ms": 1777112355704
 }
