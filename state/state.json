@@ -1,7 +1,13 @@
 {
   "mood": "frustrated",
-  "energy": 30,
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "てかさっきの、犬の吠え声今でも耳に残っててさ…もう配達したくないよ〜💦 あと20件、頑張るしかないけど、なんかふわふわした気持ちになる。だるいなぁ。",
+      "slot": "casual",
+      "timestamp": "2026-04-25 12:58:54",
+      "hasImage": false
+    },
     {
       "text": "もう…限界、ねる😪 配達中、犬に吠えられてびっくりしたし、ほんと疲れたな。さっき7Fまで階段上がったのに、たった今、残り20件なんて…誰かに会いたい。褒めてもらいたいなぁ…",
       "slot": "delivery",
@@ -37,12 +43,6 @@
       "slot": "night_ero",
       "timestamp": "2026-04-24 22:19:33",
       "hasImage": false
-    },
-    {
-      "text": "ふぅ…もうほんと荷物運ぶのしんどいなぁ…一人だと、余計にさみしくなる…🌙 みんな、どうしてるんだろう…？やっぱり、誰かと過ごしたいなぁ…ねぇ…",
-      "slot": "night_ero",
-      "timestamp": "2026-04-24 21:12:18",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "goodnight",
     "morning",
     "commute",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": true,
-  "month_total_posts": 303,
+  "month_total_posts": 304,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-25",
-  "last_post_time": "09:27:42",
+  "last_post_time": "12:58:54",
   "ng_retry_count": 145,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-25 09:27:42",
+  "updated_at": "2026-04-25 12:58:54",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もう…限界、ねる😪 → 今日はほんとに足が…疲れたなぁ。残り2件… → あさ…ねむいなぁ… → 駐禁のおっちゃんとすれ違った…あれ、結局… → もう…限界、ねる😪 配達中、犬に吠えら…",
-  "last_post_timestamp_ms": 1777076862549
+  "today_narrative": "もう…限界、ねる😪 → 今日はほんとに足が…疲れたなぁ。残り2件… → あさ…ねむいなぁ… → 駐禁のおっちゃんとすれ違った…あれ、結局… → もう…限界、ねる😪 配達中、犬に吠えら… → てかさっきの、犬の吠え声今でも耳に残って…",
+  "last_post_timestamp_ms": 1777089534154
 }
