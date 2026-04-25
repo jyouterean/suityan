@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "雨…突然降ってきて、なんなんだよー💦 配達も大変だし、お客さんともなんか微妙な感じだし…こんな時に誰かに会いたいなぁ。もう残りの件数どうでもよくなっちゃうもん。てか、最近の天気おかしいよね…😩（誰得）",
+      "slot": "delivery",
+      "timestamp": "2026-04-25 15:29:16",
+      "hasImage": false
+    },
+    {
       "text": "あ〜桜も咲いてきたし、新生活っていう雰囲気漂ってるけど、ほんとに体力ゼロ…😓軽バン運転してると、なんか誰かに会いたい気持ちになる。残り27件、早く終わらないかなぁ…",
       "slot": "delivery",
       "timestamp": "2026-04-25 14:31:17",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-04-25 07:16:26",
       "hasImage": false
-    },
-    {
-      "text": "今日はほんとに足が…疲れたなぁ。残り2件、早く終わらせたいよ…お届け完了したら、あったかいお茶飲みたいかも☕️でも、ちょっと寂しい…誰かかまって…ねぇ？🥺",
-      "slot": "goodnight",
-      "timestamp": "2026-04-25 00:57:51",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "delivery",
     "casual",
     "casual",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": true,
-  "month_total_posts": 306,
+  "month_total_posts": 307,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-25",
-  "last_post_time": "14:31:17",
+  "last_post_time": "15:29:16",
   "ng_retry_count": 145,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-25 14:31:17",
+  "updated_at": "2026-04-25 15:29:16",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もう…限界、ねる😪 → 今日はほんとに足が…疲れたなぁ。残り2件… → あさ…ねむいなぁ… → 駐禁のおっちゃんとすれ違った…あれ、結局… → もう…限界、ねる😪 配達中、犬に吠えら… → てかさっきの、犬の吠え声今でも耳に残って… → もうほんとに、もやもやする…😩 今日の… → あ〜桜も咲いてきたし、新生活っていう雰囲…",
-  "last_post_timestamp_ms": 1777095077191
+  "today_narrative": "もう…限界、ねる😪 → 今日はほんとに足が…疲れたなぁ。残り2件… → あさ…ねむいなぁ… → 駐禁のおっちゃんとすれ違った…あれ、結局… → もう…限界、ねる😪 配達中、犬に吠えら… → てかさっきの、犬の吠え声今でも耳に残って… → もうほんとに、もやもやする…😩 今日の… → あ〜桜も咲いてきたし、新生活っていう雰囲… → 雨…突然降ってきて、なんなんだよー💦 …",
+  "last_post_timestamp_ms": 1777098556998
 }
