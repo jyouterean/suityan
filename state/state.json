@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 70,
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "おはよう…あたまぼーっとする😅",
+      "slot": "morning",
+      "timestamp": "2026-04-26 07:08:17",
+      "hasImage": false
+    },
     {
       "text": "もう…眠すぎてやばい😴",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-04-25 16:18:35",
       "hasImage": false
-    },
-    {
-      "text": "雨…突然降ってきて、なんなんだよー💦 配達も大変だし、お客さんともなんか微妙な感じだし…こんな時に誰かに会いたいなぁ。もう残りの件数どうでもよくなっちゃうもん。てか、最近の天気おかしいよね…😩（誰得）",
-      "slot": "delivery",
-      "timestamp": "2026-04-25 15:29:16",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 313,
+  "month_total_posts": 314,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-26",
-  "last_post_time": "00:37:12",
+  "last_post_time": "07:08:17",
   "ng_retry_count": 146,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-26 00:37:12",
+  "updated_at": "2026-04-26 07:08:17",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "もう…眠すぎてやばい😴",
-  "last_post_timestamp_ms": 1777131432089
+  "today_narrative": "もう…眠すぎてやばい😴 → おはよう…あたまぼーっとする😅",
+  "last_post_timestamp_ms": 1777154897419
 }
