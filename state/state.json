@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "もうほんとに…配達しながら、誰かに会いたいなぁって思う…今のこの疲れ、なんとかしてほしいなぁ…😩",
+      "slot": "delivery",
+      "timestamp": "2026-04-25 17:13:17",
+      "hasImage": false
+    },
+    {
       "text": "あーもう…再配達の電話で心折れそう…😩ほんと疲れるし、誰か褒めてほしいなぁ。こんな日こそ、私に会いたいって言ってくれる人がいても…まあいいか。残り14件、行くしかないか…",
       "slot": "delivery",
       "timestamp": "2026-04-25 16:18:35",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-04-25 09:27:42",
       "hasImage": false
-    },
-    {
-      "text": "駐禁のおっちゃんとすれ違った…あれ、結局大丈夫だったのかな？ほんと、無駄にドキッとしたわ…🌀階段も9Fまで上がったし、もう帰りたい…残り19件もあるしさ…やっぱり一人で帰るの、虚しいよね…😔",
-      "slot": "commute",
-      "timestamp": "2026-04-25 08:10:23",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -55,25 +55,26 @@
     "casual",
     "delivery",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 10,
+  "today_post_count": 11,
   "today_goodnight_posted": true,
-  "month_total_posts": 308,
+  "month_total_posts": 309,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-25",
-  "last_post_time": "16:18:35",
+  "last_post_time": "17:13:17",
   "ng_retry_count": 145,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-25 16:18:35",
+  "updated_at": "2026-04-25 17:13:17",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もう…限界、ねる😪 → 今日はほんとに足が…疲れたなぁ。残り2件… → あさ…ねむいなぁ… → 駐禁のおっちゃんとすれ違った…あれ、結局… → もう…限界、ねる😪 配達中、犬に吠えら… → てかさっきの、犬の吠え声今でも耳に残って… → もうほんとに、もやもやする…😩 今日の… → あ〜桜も咲いてきたし、新生活っていう雰囲… → 雨…突然降ってきて、なんなんだよー💦 … → あーもう…再配達の電話で心折れそう…😩…",
-  "last_post_timestamp_ms": 1777101515689
+  "today_narrative": "もう…限界、ねる😪 → 今日はほんとに足が…疲れたなぁ。残り2件… → あさ…ねむいなぁ… → 駐禁のおっちゃんとすれ違った…あれ、結局… → もう…限界、ねる😪 配達中、犬に吠えら… → てかさっきの、犬の吠え声今でも耳に残って… → もうほんとに、もやもやする…😩 今日の… → あ〜桜も咲いてきたし、新生活っていう雰囲… → 雨…突然降ってきて、なんなんだよー💦 … → あーもう…再配達の電話で心折れそう…😩… → もうほんとに…配達しながら、誰かに会いた…",
+  "last_post_timestamp_ms": 1777104797092
 }
