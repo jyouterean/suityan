@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 60,
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "あー、また雨…もうやだ、湿気で髪もまとまらないし…💦新生活も始まってるのに、気分は全然晴れないなぁ…やっぱ月曜って憂鬱だなぁ…",
+      "slot": "casual",
+      "timestamp": "2026-04-27 08:32:41",
+      "hasImage": false
+    },
     {
       "text": "さっきの…でもまだ夢の中…😴 なんかむり…起きたくない…なんでこんなに眠いんだろう…",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "casual",
       "timestamp": "2026-04-26 19:17:26",
       "hasImage": false
-    },
-    {
-      "text": "もうさ…15件めの配達、エレベーターなしでしんどい…😩しかし荷物重すぎて体力削られてんのに、誰かに会いたいなぁ…😌それでも、春の風は気持ちいい…",
-      "slot": "delivery",
-      "timestamp": "2026-04-26 16:21:50",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
-    "morning"
+    "morning",
+    "casual"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 326,
+  "month_total_posts": 327,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-27",
-  "last_post_time": "07:12:51",
+  "last_post_time": "08:32:41",
   "ng_retry_count": 151,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-04-27 07:12:51",
+  "updated_at": "2026-04-27 08:32:41",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 8,
-  "today_narrative": "もう寝るしかない…💤 → さっきの…でもまだ夢の中…😴 なんかむ…",
-  "last_post_timestamp_ms": 1777241571609
+  "today_narrative": "もう寝るしかない…💤 → さっきの…でもまだ夢の中…😴 なんかむ… → あー、また雨…もうやだ、湿気で髪もまとま…",
+  "last_post_timestamp_ms": 1777246361725
 }
