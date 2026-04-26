@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 10,
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "もう寝るしかない…💤",
+      "slot": "simple_goodnight",
+      "timestamp": "2026-04-27 00:28:40",
+      "hasImage": false
+    },
     {
       "text": "もうさ…台車運ぶの、ほんとしんどい…😩 なんか、最近ネコに絡まれてるし…置き配の時、あの子可愛すぎる…でも、疲れた…帰ったらおやすみしよ…ねぇ…",
       "slot": "goodnight",
@@ -37,45 +43,28 @@
       "slot": "delivery",
       "timestamp": "2026-04-26 15:23:40",
       "hasImage": false
-    },
-    {
-      "text": "あ〜、荷物運ぶのも体力いるね…😅 137件もあるのに、なんかお客さんとのおしゃべりが癒しになってる気がする…💭 でも誰かに褒めてもらいたいなぁ。もっと頑張れる気がするのにな。",
-      "slot": "delivery",
-      "timestamp": "2026-04-26 14:34:13",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight",
-    "morning",
-    "casual",
-    "delivery",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery",
-    "casual",
-    "casual",
-    "night_ero",
-    "goodnight"
+    "simple_goodnight"
   ],
-  "today_post_count": 12,
-  "today_goodnight_posted": true,
-  "month_total_posts": 324,
+  "today_post_count": 1,
+  "today_goodnight_posted": false,
+  "month_total_posts": 325,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-04-26",
-  "last_post_time": "23:33:41",
+  "last_post_date": "2026-04-27",
+  "last_post_time": "00:28:40",
   "ng_retry_count": 151,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-04-26 23:33:41",
+  "updated_at": "2026-04-27 00:28:40",
   "month_string": "2026-04",
-  "today_skipped": true,
+  "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": true,
-  "today_skip_count": 3,
-  "today_max_posts": 15,
-  "today_narrative": "もう…眠すぎてやばい😴 → おはよう…あたまぼーっとする😅 → なんか…風が気持ちいい。けど眠い…もうち… → さっき7Fまで階段で上がったら、もう息切… → ねむうい…なんか温かくて、春って感じだけ… → あ〜、荷物運ぶのも体力いるね…😅 13… → あーもう、配達しんどい…😩 104件も… → もうさ…15件めの配達、エレベーターなし… → あーもう、毎日疲れがたまる...😩 ち… → もうさ、ほんと眠すぎてやばいよね…😴 … → 今日も一人で帰宅。配達は終わったけど寂し… → もうさ…台車運ぶの、ほんとしんどい…😩…",
-  "last_post_timestamp_ms": 1777214021839
+  "today_morning_posted": false,
+  "today_skip_count": 0,
+  "today_max_posts": 8,
+  "today_narrative": "もう寝るしかない…💤",
+  "last_post_timestamp_ms": 1777217320451
 }
