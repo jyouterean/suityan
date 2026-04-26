@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 70,
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "さっきの…でもまだ夢の中…😴 なんかむり…起きたくない…なんでこんなに眠いんだろう…",
+      "slot": "morning",
+      "timestamp": "2026-04-27 07:12:51",
+      "hasImage": false
+    },
     {
       "text": "もう寝るしかない…💤",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-04-26 16:21:50",
       "hasImage": false
-    },
-    {
-      "text": "あーもう、配達しんどい…😩 104件もやったのに、まだ7件もあるし…なんか荷物運ぶのほんと疲れる…あ〜誰かに会いたいな…😔 それにしても、犬に吠えられた時ビビった…ちょっとドキっとしちゃったけど、そういうのもわりと好きかも…",
-      "slot": "delivery",
-      "timestamp": "2026-04-26 15:23:40",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 325,
+  "month_total_posts": 326,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-27",
-  "last_post_time": "00:28:40",
+  "last_post_time": "07:12:51",
   "ng_retry_count": 151,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-04-27 00:28:40",
+  "updated_at": "2026-04-27 07:12:51",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 8,
-  "today_narrative": "もう寝るしかない…💤",
-  "last_post_timestamp_ms": 1777217320451
+  "today_narrative": "もう寝るしかない…💤 → さっきの…でもまだ夢の中…😴 なんかむ…",
+  "last_post_timestamp_ms": 1777241571609
 }
