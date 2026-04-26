@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あーもう、毎日疲れがたまる...😩 ちょっと休憩したいな。なんか、お昼食べる気力もない...でも、春の風は気持ちいい。そろそろ桜も咲くかなぁ…",
+      "slot": "casual",
+      "timestamp": "2026-04-26 19:17:26",
+      "hasImage": false
+    },
+    {
       "text": "もうさ…15件めの配達、エレベーターなしでしんどい…😩しかし荷物重すぎて体力削られてんのに、誰かに会いたいなぁ…😌それでも、春の風は気持ちいい…",
       "slot": "delivery",
       "timestamp": "2026-04-26 16:21:50",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-04-26 08:21:37",
       "hasImage": false
-    },
-    {
-      "text": "おはよう…あたまぼーっとする😅",
-      "slot": "morning",
-      "timestamp": "2026-04-26 07:08:17",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "casual",
     "delivery",
     "delivery",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": false,
-  "month_total_posts": 320,
+  "month_total_posts": 321,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-26",
-  "last_post_time": "16:21:50",
-  "ng_retry_count": 147,
+  "last_post_time": "19:17:26",
+  "ng_retry_count": 148,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-26 18:08:40",
+  "updated_at": "2026-04-26 19:17:26",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 3,
   "today_max_posts": 15,
-  "today_narrative": "もう…眠すぎてやばい😴 → おはよう…あたまぼーっとする😅 → なんか…風が気持ちいい。けど眠い…もうち… → さっき7Fまで階段で上がったら、もう息切… → ねむうい…なんか温かくて、春って感じだけ… → あ〜、荷物運ぶのも体力いるね…😅 13… → あーもう、配達しんどい…😩 104件も… → もうさ…15件めの配達、エレベーターなし…",
-  "last_post_timestamp_ms": 1777188110947
+  "today_narrative": "もう…眠すぎてやばい😴 → おはよう…あたまぼーっとする😅 → なんか…風が気持ちいい。けど眠い…もうち… → さっき7Fまで階段で上がったら、もう息切… → ねむうい…なんか温かくて、春って感じだけ… → あ〜、荷物運ぶのも体力いるね…😅 13… → あーもう、配達しんどい…😩 104件も… → もうさ…15件めの配達、エレベーターなし… → あーもう、毎日疲れがたまる...😩 ち…",
+  "last_post_timestamp_ms": 1777198646259
 }
