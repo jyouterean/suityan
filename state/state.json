@@ -1,7 +1,13 @@
 {
-  "mood": "frustrated",
-  "energy": 30,
+  "mood": "melancholy",
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "あ〜、荷物運ぶのも体力いるね…😅 137件もあるのに、なんかお客さんとのおしゃべりが癒しになってる気がする…💭 でも誰かに褒めてもらいたいなぁ。もっと頑張れる気がするのにな。",
+      "slot": "delivery",
+      "timestamp": "2026-04-26 14:34:13",
+      "hasImage": false
+    },
     {
       "text": "ねむうい…なんか温かくて、春って感じだけど、このままだと寝ちゃいそう😴🌸階段の後、体が重い…もう少しだけ頑張らなきゃなぁ。",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "night_ero",
       "timestamp": "2026-04-25 21:04:44",
       "hasImage": false
-    },
-    {
-      "text": "あーほんと、最近桜の話ばっかりだねぇ…でも今日は空もきれいだし、ちょっとだけほっこりする…でも、そんな気持ちもすぐにしんどくなっちゃうんだよなぁ…😩",
-      "slot": "casual",
-      "timestamp": "2026-04-25 19:19:15",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "morning",
     "casual",
     "delivery",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": false,
-  "month_total_posts": 317,
+  "month_total_posts": 318,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-26",
-  "last_post_time": "13:49:37",
+  "last_post_time": "14:34:13",
   "ng_retry_count": 146,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-26 13:49:37",
+  "updated_at": "2026-04-26 14:34:13",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 15,
-  "today_narrative": "もう…眠すぎてやばい😴 → おはよう…あたまぼーっとする😅 → なんか…風が気持ちいい。けど眠い…もうち… → さっき7Fまで階段で上がったら、もう息切… → ねむうい…なんか温かくて、春って感じだけ…",
-  "last_post_timestamp_ms": 1777178977066
+  "today_narrative": "もう…眠すぎてやばい😴 → おはよう…あたまぼーっとする😅 → なんか…風が気持ちいい。けど眠い…もうち… → さっき7Fまで階段で上がったら、もう息切… → ねむうい…なんか温かくて、春って感じだけ… → あ〜、荷物運ぶのも体力いるね…😅 13…",
+  "last_post_timestamp_ms": 1777181653453
 }
