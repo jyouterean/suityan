@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "もうさ…台車運ぶの、ほんとしんどい…😩 なんか、最近ネコに絡まれてるし…置き配の時、あの子可愛すぎる…でも、疲れた…帰ったらおやすみしよ…ねぇ…",
+      "slot": "goodnight",
+      "timestamp": "2026-04-26 23:33:41",
+      "hasImage": false
+    },
+    {
       "text": "今日も一人で帰宅。配達は終わったけど寂しいな",
       "slot": "night_ero",
       "timestamp": "2026-04-26 22:06:57",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-04-26 14:34:13",
       "hasImage": false
-    },
-    {
-      "text": "ねむうい…なんか温かくて、春って感じだけど、このままだと寝ちゃいそう😴🌸階段の後、体が重い…もう少しだけ頑張らなきゃなぁ。",
-      "slot": "casual",
-      "timestamp": "2026-04-26 13:49:37",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "casual",
     "casual",
-    "night_ero"
+    "night_ero",
+    "goodnight"
   ],
-  "today_post_count": 11,
-  "today_goodnight_posted": false,
-  "month_total_posts": 323,
+  "today_post_count": 12,
+  "today_goodnight_posted": true,
+  "month_total_posts": 324,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-26",
-  "last_post_time": "22:06:57",
+  "last_post_time": "23:33:41",
   "ng_retry_count": 151,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-04-26 22:06:57",
+  "updated_at": "2026-04-26 23:33:41",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 3,
   "today_max_posts": 15,
-  "today_narrative": "もう…眠すぎてやばい😴 → おはよう…あたまぼーっとする😅 → なんか…風が気持ちいい。けど眠い…もうち… → さっき7Fまで階段で上がったら、もう息切… → ねむうい…なんか温かくて、春って感じだけ… → あ〜、荷物運ぶのも体力いるね…😅 13… → あーもう、配達しんどい…😩 104件も… → もうさ…15件めの配達、エレベーターなし… → あーもう、毎日疲れがたまる...😩 ち… → もうさ、ほんと眠すぎてやばいよね…😴 … → 今日も一人で帰宅。配達は終わったけど寂し…",
-  "last_post_timestamp_ms": 1777208817092
+  "today_narrative": "もう…眠すぎてやばい😴 → おはよう…あたまぼーっとする😅 → なんか…風が気持ちいい。けど眠い…もうち… → さっき7Fまで階段で上がったら、もう息切… → ねむうい…なんか温かくて、春って感じだけ… → あ〜、荷物運ぶのも体力いるね…😅 13… → あーもう、配達しんどい…😩 104件も… → もうさ…15件めの配達、エレベーターなし… → あーもう、毎日疲れがたまる...😩 ち… → もうさ、ほんと眠すぎてやばいよね…😴 … → 今日も一人で帰宅。配達は終わったけど寂し… → もうさ…台車運ぶの、ほんとしんどい…😩…",
+  "last_post_timestamp_ms": 1777214021839
 }
