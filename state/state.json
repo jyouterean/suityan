@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "もうさ、ほんと眠すぎてやばいよね…😴 春だからか、なんか温かい風が吹いてるけど、眠気が勝っちゃう… さっき、7Fまで階段上がったら息切れしちゃったしさ… 体力ないなぁ… かまって…😢",
+      "slot": "casual",
+      "timestamp": "2026-04-26 20:47:19",
+      "hasImage": false
+    },
+    {
       "text": "あーもう、毎日疲れがたまる...😩 ちょっと休憩したいな。なんか、お昼食べる気力もない...でも、春の風は気持ちいい。そろそろ桜も咲くかなぁ…",
       "slot": "casual",
       "timestamp": "2026-04-26 19:17:26",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-04-26 09:15:26",
       "hasImage": false
-    },
-    {
-      "text": "なんか…風が気持ちいい。けど眠い…もうちょっと寝たいなぁ😴 さっきもぼーっとしてたし...やばい。新生活も始まるし、頑張らないと…😅",
-      "slot": "casual",
-      "timestamp": "2026-04-26 08:21:37",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -54,25 +54,26 @@
     "delivery",
     "delivery",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 9,
+  "today_post_count": 10,
   "today_goodnight_posted": false,
-  "month_total_posts": 321,
+  "month_total_posts": 322,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-26",
-  "last_post_time": "19:17:26",
+  "last_post_time": "20:47:19",
   "ng_retry_count": 148,
   "fallback_used_count": 4,
   "created_at": null,
-  "updated_at": "2026-04-26 19:17:26",
+  "updated_at": "2026-04-26 20:47:19",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 3,
   "today_max_posts": 15,
-  "today_narrative": "もう…眠すぎてやばい😴 → おはよう…あたまぼーっとする😅 → なんか…風が気持ちいい。けど眠い…もうち… → さっき7Fまで階段で上がったら、もう息切… → ねむうい…なんか温かくて、春って感じだけ… → あ〜、荷物運ぶのも体力いるね…😅 13… → あーもう、配達しんどい…😩 104件も… → もうさ…15件めの配達、エレベーターなし… → あーもう、毎日疲れがたまる...😩 ち…",
-  "last_post_timestamp_ms": 1777198646259
+  "today_narrative": "もう…眠すぎてやばい😴 → おはよう…あたまぼーっとする😅 → なんか…風が気持ちいい。けど眠い…もうち… → さっき7Fまで階段で上がったら、もう息切… → ねむうい…なんか温かくて、春って感じだけ… → あ〜、荷物運ぶのも体力いるね…😅 13… → あーもう、配達しんどい…😩 104件も… → もうさ…15件めの配達、エレベーターなし… → あーもう、毎日疲れがたまる...😩 ち… → もうさ、ほんと眠すぎてやばいよね…😴 …",
+  "last_post_timestamp_ms": 1777204039102
 }
