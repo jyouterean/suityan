@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 50,
+  "mood": "lonely",
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "帰り道…誰かと一緒ならいいのにな…一人だとほんとに虚しい…もうだるいし、配達終わっても休めないとか意味わかんない…。水分補給したいけど、配達ルートもまだ終わってないし…あぁ…",
+      "slot": "commute",
+      "timestamp": "2026-04-28 08:14:43",
+      "hasImage": false
+    },
     {
       "text": "おはよう…まだ夢の中だわ",
       "slot": "morning",
@@ -37,36 +43,31 @@
       "slot": "casual",
       "timestamp": "2026-04-27 13:59:13",
       "hasImage": false
-    },
-    {
-      "text": "新生活始まるし、なんか気持ちだけウキウキしてたけど…だるい月曜…まだ寝たいなぁ😪💤",
-      "slot": "casual",
-      "timestamp": "2026-04-27 13:30:48",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
     "delivery",
-    "morning"
+    "morning",
+    "commute"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": true,
-  "month_total_posts": 335,
+  "month_total_posts": 336,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-28",
-  "last_post_time": "07:28:58",
+  "last_post_time": "08:14:43",
   "ng_retry_count": 152,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-04-28 07:28:58",
+  "updated_at": "2026-04-28 08:14:43",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 11,
-  "today_narrative": "もうおやすmみ…疲れたよー、今日も88件… → もう春なのに、配達ルートが終わらない…\ud83c… → おはよう…まだ夢の中だわ",
-  "last_post_timestamp_ms": 1777328938030
+  "today_narrative": "もうおやすmみ…疲れたよー、今日も88件… → もう春なのに、配達ルートが終わらない…\ud83c… → おはよう…まだ夢の中だわ → 帰り道…誰かと一緒ならいいのにな…一人だ…",
+  "last_post_timestamp_ms": 1777331683729
 }
