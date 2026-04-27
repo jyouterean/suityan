@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 20,
+  "energy": 10,
   "last_posts": [
+    {
+      "text": "あー、また雨…もうやだ、湿気で髪もまとまらないし…😩 配達中にお菓子もらったけど、嬉しいのか悲しいのかわからん。ほんとに誰かに会いたいよ…🤔",
+      "slot": "delivery",
+      "timestamp": "2026-04-27 15:12:34",
+      "hasImage": false
+    },
     {
       "text": "春の匂いがするけど、やっぱりなんか切ない…普段の生活に戻るのが憂鬱で、でも新しい景色も見たいって思ったり…気持ちだけは急かされてるみたい…🌸",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "simple_goodnight",
       "timestamp": "2026-04-27 00:28:40",
       "hasImage": false
-    },
-    {
-      "text": "もうさ…台車運ぶの、ほんとしんどい…😩 なんか、最近ネコに絡まれてるし…置き配の時、あの子可愛すぎる…でも、疲れた…帰ったらおやすみしよ…ねぇ…",
-      "slot": "goodnight",
-      "timestamp": "2026-04-26 23:33:41",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -51,25 +51,26 @@
     "casual",
     "delivery",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 6,
+  "today_post_count": 7,
   "today_goodnight_posted": false,
-  "month_total_posts": 330,
+  "month_total_posts": 331,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-27",
-  "last_post_time": "13:59:13",
+  "last_post_time": "15:12:34",
   "ng_retry_count": 151,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-04-27 13:59:13",
+  "updated_at": "2026-04-27 15:12:34",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 8,
-  "today_narrative": "もう寝るしかない…💤 → さっきの…でもまだ夢の中…😴 なんかむ… → あー、また雨…もうやだ、湿気で髪もまとま… → 配達の途中でお客さんがめっちゃ優しくて…… → 新生活始まるし、なんか気持ちだけウキウキ… → 春の匂いがするけど、やっぱりなんか切ない…",
-  "last_post_timestamp_ms": 1777265953260
+  "today_narrative": "もう寝るしかない…💤 → さっきの…でもまだ夢の中…😴 なんかむ… → あー、また雨…もうやだ、湿気で髪もまとま… → 配達の途中でお客さんがめっちゃ優しくて…… → 新生活始まるし、なんか気持ちだけウキウキ… → 春の匂いがするけど、やっぱりなんか切ない… → あー、また雨…もうやだ、湿気で髪もまとま…",
+  "last_post_timestamp_ms": 1777270354308
 }
