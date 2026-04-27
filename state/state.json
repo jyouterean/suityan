@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 40,
+  "mood": "melancholy",
+  "energy": 30,
   "last_posts": [
+    {
+      "text": "新生活始まるし、なんか気持ちだけウキウキしてたけど…だるい月曜…まだ寝たいなぁ😪💤",
+      "slot": "casual",
+      "timestamp": "2026-04-27 13:30:48",
+      "hasImage": false
+    },
     {
       "text": "配達の途中でお客さんがめっちゃ優しくて…ちょっと嬉しかったけど、結局は一軒家の3Fまで階段で疲れちゃった…💧 早く帰りたい…もう夢でも見たいなぁ…😩",
       "slot": "delivery",
@@ -37,37 +43,32 @@
       "slot": "night_ero",
       "timestamp": "2026-04-26 22:06:57",
       "hasImage": false
-    },
-    {
-      "text": "もうさ、ほんと眠すぎてやばいよね…😴 春だからか、なんか温かい風が吹いてるけど、眠気が勝っちゃう… さっき、7Fまで階段上がったら息切れしちゃったしさ… 体力ないなぁ… かまって…😢",
-      "slot": "casual",
-      "timestamp": "2026-04-26 20:47:19",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
     "morning",
     "casual",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 4,
+  "today_post_count": 5,
   "today_goodnight_posted": false,
-  "month_total_posts": 328,
+  "month_total_posts": 329,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-27",
-  "last_post_time": "09:25:17",
+  "last_post_time": "13:30:48",
   "ng_retry_count": 151,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-04-27 09:25:17",
+  "updated_at": "2026-04-27 13:30:48",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 8,
-  "today_narrative": "もう寝るしかない…💤 → さっきの…でもまだ夢の中…😴 なんかむ… → あー、また雨…もうやだ、湿気で髪もまとま… → 配達の途中でお客さんがめっちゃ優しくて……",
-  "last_post_timestamp_ms": 1777249517620
+  "today_narrative": "もう寝るしかない…💤 → さっきの…でもまだ夢の中…😴 なんかむ… → あー、また雨…もうやだ、湿気で髪もまとま… → 配達の途中でお客さんがめっちゃ優しくて…… → 新生活始まるし、なんか気持ちだけウキウキ…",
+  "last_post_timestamp_ms": 1777264248495
 }
