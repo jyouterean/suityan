@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 60,
+  "mood": "tired",
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "おはよう…まだ夢の中だわ",
+      "slot": "morning",
+      "timestamp": "2026-04-28 07:28:58",
+      "hasImage": false
+    },
     {
       "text": "もう春なのに、配達ルートが終わらない…🌸なんか寂しいなぁ、誰かに会いたいなー。残り12件、早く終わってほしい…💧",
       "slot": "delivery",
@@ -37,35 +43,30 @@
       "slot": "casual",
       "timestamp": "2026-04-27 13:30:48",
       "hasImage": false
-    },
-    {
-      "text": "配達の途中でお客さんがめっちゃ優しくて…ちょっと嬉しかったけど、結局は一軒家の3Fまで階段で疲れちゃった…💧 早く帰りたい…もう夢でも見たいなぁ…😩",
-      "slot": "delivery",
-      "timestamp": "2026-04-27 09:25:17",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
-    "delivery"
+    "delivery",
+    "morning"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": true,
-  "month_total_posts": 334,
+  "month_total_posts": 335,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-28",
-  "last_post_time": "01:11:44",
+  "last_post_time": "07:28:58",
   "ng_retry_count": 152,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-04-28 01:11:44",
+  "updated_at": "2026-04-28 07:28:58",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 11,
-  "today_narrative": "もうおやすmみ…疲れたよー、今日も88件… → もう春なのに、配達ルートが終わらない…\ud83c…",
-  "last_post_timestamp_ms": 1777306304311
+  "today_narrative": "もうおやすmみ…疲れたよー、今日も88件… → もう春なのに、配達ルートが終わらない…\ud83c… → おはよう…まだ夢の中だわ",
+  "last_post_timestamp_ms": 1777328938030
 }
