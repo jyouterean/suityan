@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あー、もうやんなる…ほんと春なのに、配達ルート終わらない。ひとりで頑張っても、誰かと共有できたらいいのに…🤔🌸",
+      "slot": "delivery",
+      "timestamp": "2026-04-28 17:07:21",
+      "hasImage": false
+    },
+    {
       "text": "こんなにいい天気なのに、気持ちがついてこないな…桜も咲いてるのにさ。なんか寂しさが増すばっかり…もうちょっとぽかぽかしたら、誰かと一緒にお花見したいよ。今はただ家に帰りたい気分…",
       "slot": "casual",
       "timestamp": "2026-04-28 13:48:00",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-04-28 01:11:44",
       "hasImage": false
-    },
-    {
-      "text": "もうおやすmみ…疲れたよー、今日も88件も配達して、残り6件って…さっき自販機でお釣り出なかったのも最悪だったし…💧明日はもうちょっと上手くいくかなぁ？かまってほしいなぁ…ねぇ…",
-      "slot": "goodnight",
-      "timestamp": "2026-04-28 00:34:58",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "commute",
     "delivery",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": true,
-  "month_total_posts": 339,
+  "month_total_posts": 340,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-28",
-  "last_post_time": "13:48:00",
-  "ng_retry_count": 152,
+  "last_post_time": "17:07:21",
+  "ng_retry_count": 153,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-04-28 16:32:32",
+  "updated_at": "2026-04-28 17:07:21",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 2,
   "today_max_posts": 11,
-  "today_narrative": "もうおやすmみ…疲れたよー、今日も88件… → もう春なのに、配達ルートが終わらない…\ud83c… → おはよう…まだ夢の中だわ → 帰り道…誰かと一緒ならいいのにな…一人だ… → もうだる…インターホン鳴るたびにイライラ… → なんか春っぽい天気なのに全然気分上がらな… → こんなにいい天気なのに、気持ちがついてこ…",
-  "last_post_timestamp_ms": 1777351680966
+  "today_narrative": "もうおやすmみ…疲れたよー、今日も88件… → もう春なのに、配達ルートが終わらない…\ud83c… → おはよう…まだ夢の中だわ → 帰り道…誰かと一緒ならいいのにな…一人だ… → もうだる…インターホン鳴るたびにイライラ… → なんか春っぽい天気なのに全然気分上がらな… → こんなにいい天気なのに、気持ちがついてこ… → あー、もうやんなる…ほんと春なのに、配達…",
+  "last_post_timestamp_ms": 1777363641785
 }
