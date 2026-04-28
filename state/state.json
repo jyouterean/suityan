@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "まだ日が長くなって、あったかくなったのに、気持ちだけは冬…ほんとにめんどくさいなぁ、誰かとお話したいなぁ…",
+      "slot": "casual",
+      "timestamp": "2026-04-28 19:36:23",
+      "hasImage": false
+    },
+    {
       "text": "もう家に着くのに、なんでこんなにだるいんだろ…運転しながら考えちゃう…誰かと帰りたいなぁ…はいたつの合間に、やっと暖かい春を感じるけど、心はあんまりついてこない…😔",
       "slot": "commute",
       "timestamp": "2026-04-28 18:05:34",
@@ -37,12 +43,6 @@
       "slot": "commute",
       "timestamp": "2026-04-28 08:14:43",
       "hasImage": false
-    },
-    {
-      "text": "おはよう…まだ夢の中だわ",
-      "slot": "morning",
-      "timestamp": "2026-04-28 07:28:58",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -54,25 +54,26 @@
     "casual",
     "casual",
     "delivery",
-    "commute"
+    "commute",
+    "casual"
   ],
-  "today_post_count": 9,
+  "today_post_count": 10,
   "today_goodnight_posted": true,
-  "month_total_posts": 341,
+  "month_total_posts": 342,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-28",
-  "last_post_time": "18:05:34",
+  "last_post_time": "19:36:23",
   "ng_retry_count": 153,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-04-28 18:05:34",
+  "updated_at": "2026-04-28 19:36:23",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 2,
   "today_max_posts": 11,
-  "today_narrative": "もうおやすmみ…疲れたよー、今日も88件… → もう春なのに、配達ルートが終わらない…\ud83c… → おはよう…まだ夢の中だわ → 帰り道…誰かと一緒ならいいのにな…一人だ… → もうだる…インターホン鳴るたびにイライラ… → なんか春っぽい天気なのに全然気分上がらな… → こんなにいい天気なのに、気持ちがついてこ… → あー、もうやんなる…ほんと春なのに、配達… → もう家に着くのに、なんでこんなにだるいん…",
-  "last_post_timestamp_ms": 1777367134436
+  "today_narrative": "もうおやすmみ…疲れたよー、今日も88件… → もう春なのに、配達ルートが終わらない…\ud83c… → おはよう…まだ夢の中だわ → 帰り道…誰かと一緒ならいいのにな…一人だ… → もうだる…インターホン鳴るたびにイライラ… → なんか春っぽい天気なのに全然気分上がらな… → こんなにいい天気なのに、気持ちがついてこ… → あー、もうやんなる…ほんと春なのに、配達… → もう家に着くのに、なんでこんなにだるいん… → まだ日が長くなって、あったかくなったのに…",
+  "last_post_timestamp_ms": 1777372583220
 }
