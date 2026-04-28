@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 10,
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "もう目がしょぼしょぼ…おやすみ",
+      "slot": "simple_goodnight",
+      "timestamp": "2026-04-29 00:43:38",
+      "hasImage": false
+    },
     {
       "text": "てか、ほんと誰かと会いたい…このままじゃ余計に気持ちが沈んじゃうよぉ…。誰かかまってくれないかな…😢✨",
       "slot": "casual",
@@ -37,44 +43,28 @@
       "slot": "casual",
       "timestamp": "2026-04-28 13:31:33",
       "hasImage": false
-    },
-    {
-      "text": "もうだる…インターホン鳴るたびにイライラするよ。98件配達も残り27件…誰かほめてほしいな💦配達中にふと、あの子に会いたいって思っちゃう。笑顔で迎えてくれるかな…？春だし、なんかウキウキしたいなー。",
-      "slot": "delivery",
-      "timestamp": "2026-04-28 09:34:14",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight",
-    "delivery",
-    "morning",
-    "commute",
-    "delivery",
-    "casual",
-    "casual",
-    "delivery",
-    "commute",
-    "casual",
-    "casual"
+    "simple_goodnight"
   ],
-  "today_post_count": 11,
-  "today_goodnight_posted": true,
-  "month_total_posts": 343,
+  "today_post_count": 1,
+  "today_goodnight_posted": false,
+  "month_total_posts": 344,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-04-28",
-  "last_post_time": "20:34:48",
+  "last_post_date": "2026-04-29",
+  "last_post_time": "00:43:38",
   "ng_retry_count": 153,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-04-28 20:34:48",
+  "updated_at": "2026-04-29 00:43:38",
   "month_string": "2026-04",
-  "today_skipped": true,
-  "today_simple_goodnight_posted": false,
-  "today_morning_posted": true,
-  "today_skip_count": 2,
-  "today_max_posts": 11,
-  "today_narrative": "もうおやすmみ…疲れたよー、今日も88件… → もう春なのに、配達ルートが終わらない…\ud83c… → おはよう…まだ夢の中だわ → 帰り道…誰かと一緒ならいいのにな…一人だ… → もうだる…インターホン鳴るたびにイライラ… → なんか春っぽい天気なのに全然気分上がらな… → こんなにいい天気なのに、気持ちがついてこ… → あー、もうやんなる…ほんと春なのに、配達… → もう家に着くのに、なんでこんなにだるいん… → まだ日が長くなって、あったかくなったのに… → てか、ほんと誰かと会いたい…このままじゃ…",
-  "last_post_timestamp_ms": 1777376088039
+  "today_skipped": false,
+  "today_simple_goodnight_posted": true,
+  "today_morning_posted": false,
+  "today_skip_count": 0,
+  "today_max_posts": 15,
+  "today_narrative": "もう目がしょぼしょぼ…おやすみ",
+  "last_post_timestamp_ms": 1777391018336
 }
