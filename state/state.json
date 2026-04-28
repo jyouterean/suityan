@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "もう家に着くのに、なんでこんなにだるいんだろ…運転しながら考えちゃう…誰かと帰りたいなぁ…はいたつの合間に、やっと暖かい春を感じるけど、心はあんまりついてこない…😔",
+      "slot": "commute",
+      "timestamp": "2026-04-28 18:05:34",
+      "hasImage": false
+    },
+    {
       "text": "あー、もうやんなる…ほんと春なのに、配達ルート終わらない。ひとりで頑張っても、誰かと共有できたらいいのに…🤔🌸",
       "slot": "delivery",
       "timestamp": "2026-04-28 17:07:21",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-04-28 07:28:58",
       "hasImage": false
-    },
-    {
-      "text": "もう春なのに、配達ルートが終わらない…🌸なんか寂しいなぁ、誰かに会いたいなー。残り12件、早く終わってほしい…💧",
-      "slot": "delivery",
-      "timestamp": "2026-04-28 01:11:44",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "delivery",
     "casual",
     "casual",
-    "delivery"
+    "delivery",
+    "commute"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": true,
-  "month_total_posts": 340,
+  "month_total_posts": 341,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-28",
-  "last_post_time": "17:07:21",
+  "last_post_time": "18:05:34",
   "ng_retry_count": 153,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-04-28 17:07:21",
+  "updated_at": "2026-04-28 18:05:34",
   "month_string": "2026-04",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 2,
   "today_max_posts": 11,
-  "today_narrative": "もうおやすmみ…疲れたよー、今日も88件… → もう春なのに、配達ルートが終わらない…\ud83c… → おはよう…まだ夢の中だわ → 帰り道…誰かと一緒ならいいのにな…一人だ… → もうだる…インターホン鳴るたびにイライラ… → なんか春っぽい天気なのに全然気分上がらな… → こんなにいい天気なのに、気持ちがついてこ… → あー、もうやんなる…ほんと春なのに、配達…",
-  "last_post_timestamp_ms": 1777363641785
+  "today_narrative": "もうおやすmみ…疲れたよー、今日も88件… → もう春なのに、配達ルートが終わらない…\ud83c… → おはよう…まだ夢の中だわ → 帰り道…誰かと一緒ならいいのにな…一人だ… → もうだる…インターホン鳴るたびにイライラ… → なんか春っぽい天気なのに全然気分上がらな… → こんなにいい天気なのに、気持ちがついてこ… → あー、もうやんなる…ほんと春なのに、配達… → もう家に着くのに、なんでこんなにだるいん…",
+  "last_post_timestamp_ms": 1777367134436
 }
