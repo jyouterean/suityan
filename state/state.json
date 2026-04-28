@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 60,
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "あさ…起きたくない…",
+      "slot": "morning",
+      "timestamp": "2026-04-29 07:27:42",
+      "hasImage": false
+    },
     {
       "text": "配達中にまた台車で汗かいた…15Fの階段もきついし、もっと楽したいなぁ。こうやって頑張ってるのに、誰も褒めてくれないのはなんで…？疲れた…🌸",
       "slot": "delivery",
@@ -37,35 +43,30 @@
       "slot": "delivery",
       "timestamp": "2026-04-28 17:07:21",
       "hasImage": false
-    },
-    {
-      "text": "こんなにいい天気なのに、気持ちがついてこないな…桜も咲いてるのにさ。なんか寂しさが増すばっかり…もうちょっとぽかぽかしたら、誰かと一緒にお花見したいよ。今はただ家に帰りたい気分…",
-      "slot": "casual",
-      "timestamp": "2026-04-28 13:48:00",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
-    "delivery"
+    "delivery",
+    "morning"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 345,
+  "month_total_posts": 346,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-29",
-  "last_post_time": "01:43:39",
+  "last_post_time": "07:27:42",
   "ng_retry_count": 154,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-04-29 01:43:39",
+  "updated_at": "2026-04-29 07:27:42",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "もう目がしょぼしょぼ…おやすみ → 配達中にまた台車で汗かいた…15Fの階段…",
-  "last_post_timestamp_ms": 1777394619882
+  "today_narrative": "もう目がしょぼしょぼ…おやすみ → 配達中にまた台車で汗かいた…15Fの階段… → あさ…起きたくない…",
+  "last_post_timestamp_ms": 1777415262323
 }
