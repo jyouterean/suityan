@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 40,
+  "mood": "frustrated",
+  "energy": 30,
   "last_posts": [
+    {
+      "text": "もうだる…インターホン鳴るたびにイライラするよ。98件配達も残り27件…誰かほめてほしいな💦配達中にふと、あの子に会いたいって思っちゃう。笑顔で迎えてくれるかな…？春だし、なんかウキウキしたいなー。",
+      "slot": "delivery",
+      "timestamp": "2026-04-28 09:34:14",
+      "hasImage": false
+    },
     {
       "text": "帰り道…誰かと一緒ならいいのにな…一人だとほんとに虚しい…もうだるいし、配達終わっても休めないとか意味わかんない…。水分補給したいけど、配達ルートもまだ終わってないし…あぁ…",
       "slot": "commute",
@@ -37,37 +43,32 @@
       "slot": "delivery",
       "timestamp": "2026-04-27 15:12:34",
       "hasImage": false
-    },
-    {
-      "text": "春の匂いがするけど、やっぱりなんか切ない…普段の生活に戻るのが憂鬱で、でも新しい景色も見たいって思ったり…気持ちだけは急かされてるみたい…🌸",
-      "slot": "casual",
-      "timestamp": "2026-04-27 13:59:13",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
     "delivery",
     "morning",
-    "commute"
+    "commute",
+    "delivery"
   ],
-  "today_post_count": 4,
+  "today_post_count": 5,
   "today_goodnight_posted": true,
-  "month_total_posts": 336,
+  "month_total_posts": 337,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-28",
-  "last_post_time": "08:14:43",
+  "last_post_time": "09:34:14",
   "ng_retry_count": 152,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-04-28 08:14:43",
+  "updated_at": "2026-04-28 09:34:14",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 11,
-  "today_narrative": "もうおやすmみ…疲れたよー、今日も88件… → もう春なのに、配達ルートが終わらない…\ud83c… → おはよう…まだ夢の中だわ → 帰り道…誰かと一緒ならいいのにな…一人だ…",
-  "last_post_timestamp_ms": 1777331683729
+  "today_narrative": "もうおやすmみ…疲れたよー、今日も88件… → もう春なのに、配達ルートが終わらない…\ud83c… → おはよう…まだ夢の中だわ → 帰り道…誰かと一緒ならいいのにな…一人だ… → もうだる…インターホン鳴るたびにイライラ…",
+  "last_post_timestamp_ms": 1777336454614
 }
