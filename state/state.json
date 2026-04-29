@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "はぁ、また再配達の依頼きたなぁ…ほんとにお客さんはもうちょっと考えて欲しいかも💦階段とかもう無理…まじでしんどい…😩",
+      "slot": "delivery",
+      "timestamp": "2026-04-29 15:57:40",
+      "hasImage": false
+    },
+    {
       "text": "あーもー疲れた…配達先の階段15Fとかほんとしんどい😩水曜の折り返しがこんなに長く感じるなんて…誰かに会いたいなぁ…お話したいだけでもいいのに…",
       "slot": "delivery",
       "timestamp": "2026-04-29 15:03:39",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-04-29 07:27:42",
       "hasImage": false
-    },
-    {
-      "text": "配達中にまた台車で汗かいた…15Fの階段もきついし、もっと楽したいなぁ。こうやって頑張ってるのに、誰も褒めてくれないのはなんで…？疲れた…🌸",
-      "slot": "delivery",
-      "timestamp": "2026-04-29 01:43:39",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "delivery",
     "casual",
     "casual",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": false,
-  "month_total_posts": 351,
+  "month_total_posts": 352,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-29",
-  "last_post_time": "15:03:39",
+  "last_post_time": "15:57:40",
   "ng_retry_count": 154,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-04-29 15:03:39",
+  "updated_at": "2026-04-29 15:57:40",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "もう目がしょぼしょぼ…おやすみ → 配達中にまた台車で汗かいた…15Fの階段… → あさ…起きたくない… → てかさっきの…ほんとに眠いよね…もう少し… → てか再配達の依頼多すぎ…お客さんももうち… → もう目がしょぼしょぼ…早く眠りたいなぁ。… → あー、ほんとに目がしょぼしょぼだなぁ…\ud83d… → あーもー疲れた…配達先の階段15Fとかほ…",
-  "last_post_timestamp_ms": 1777442619670
+  "today_narrative": "もう目がしょぼしょぼ…おやすみ → 配達中にまた台車で汗かいた…15Fの階段… → あさ…起きたくない… → てかさっきの…ほんとに眠いよね…もう少し… → てか再配達の依頼多すぎ…お客さんももうち… → もう目がしょぼしょぼ…早く眠りたいなぁ。… → あー、ほんとに目がしょぼしょぼだなぁ…\ud83d… → あーもー疲れた…配達先の階段15Fとかほ… → はぁ、また再配達の依頼きたなぁ…ほんとに…",
+  "last_post_timestamp_ms": 1777445860258
 }
