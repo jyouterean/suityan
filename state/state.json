@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あー、もうほんとにしんどい…😩再配達したらまた階段上がるのか…お客さんももう少し余裕持ってよって思う。誰かに会いたいなぁ…あーもう目がしょぼしょぼ…早くおやすみしたい…😴",
+      "slot": "delivery",
+      "timestamp": "2026-04-29 17:49:32",
+      "hasImage": false
+    },
+    {
       "text": "はぁ、こんなにしんどいのにまた再配達とか…😩 お客さんももうちょっと待ってよ…あー目がしょぼしょぼだし、階段のぼるのほんとつらいよ。誰かに褒めてもらいたいなぁ…💭",
       "slot": "delivery",
       "timestamp": "2026-04-29 17:00:51",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-04-29 10:43:10",
       "hasImage": false
-    },
-    {
-      "text": "てかさっきの…ほんとに眠いよね…もう少しだけ寝てたいな…😴でも仕事行かなきゃだし…だる…",
-      "slot": "casual",
-      "timestamp": "2026-04-29 08:15:10",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -55,25 +55,26 @@
     "casual",
     "delivery",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 10,
+  "today_post_count": 11,
   "today_goodnight_posted": false,
-  "month_total_posts": 353,
+  "month_total_posts": 354,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-29",
-  "last_post_time": "17:00:51",
+  "last_post_time": "17:49:32",
   "ng_retry_count": 154,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-04-29 17:00:51",
+  "updated_at": "2026-04-29 17:49:32",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "もう目がしょぼしょぼ…おやすみ → 配達中にまた台車で汗かいた…15Fの階段… → あさ…起きたくない… → てかさっきの…ほんとに眠いよね…もう少し… → てか再配達の依頼多すぎ…お客さんももうち… → もう目がしょぼしょぼ…早く眠りたいなぁ。… → あー、ほんとに目がしょぼしょぼだなぁ…\ud83d… → あーもー疲れた…配達先の階段15Fとかほ… → はぁ、また再配達の依頼きたなぁ…ほんとに… → はぁ、こんなにしんどいのにまた再配達とか…",
-  "last_post_timestamp_ms": 1777449651773
+  "today_narrative": "もう目がしょぼしょぼ…おやすみ → 配達中にまた台車で汗かいた…15Fの階段… → あさ…起きたくない… → てかさっきの…ほんとに眠いよね…もう少し… → てか再配達の依頼多すぎ…お客さんももうち… → もう目がしょぼしょぼ…早く眠りたいなぁ。… → あー、ほんとに目がしょぼしょぼだなぁ…\ud83d… → あーもー疲れた…配達先の階段15Fとかほ… → はぁ、また再配達の依頼きたなぁ…ほんとに… → はぁ、こんなにしんどいのにまた再配達とか… → あー、もうほんとにしんどい…😩再配達し…",
+  "last_post_timestamp_ms": 1777452572946
 }
