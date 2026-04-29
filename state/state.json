@@ -1,7 +1,13 @@
 {
   "mood": "frustrated",
-  "energy": 30,
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "もう目がしょぼしょぼ…早く眠りたいなぁ。ベッドでゴロゴロしてたらお天気良くなってきた☀️外出たくなるけどさ、また配達の合間に台車押して汗だくだよ…もう少しスムーズにいかないかなぁ…😩",
+      "slot": "casual",
+      "timestamp": "2026-04-29 13:34:20",
+      "hasImage": false
+    },
     {
       "text": "てか再配達の依頼多すぎ…お客さんももうちょっと待てばって思うし…身体も疲れてるのに、ああ、誰かに会いたいって思っちゃう…！もう少し頑張るか…しんどい",
       "slot": "delivery",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-04-28 20:34:48",
       "hasImage": false
-    },
-    {
-      "text": "まだ日が長くなって、あったかくなったのに、気持ちだけは冬…ほんとにめんどくさいなぁ、誰かとお話したいなぁ…",
-      "slot": "casual",
-      "timestamp": "2026-04-28 19:36:23",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "delivery",
     "morning",
     "casual",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": false,
-  "month_total_posts": 348,
+  "month_total_posts": 349,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-29",
-  "last_post_time": "10:43:10",
+  "last_post_time": "13:34:20",
   "ng_retry_count": 154,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-04-29 10:43:10",
+  "updated_at": "2026-04-29 13:34:20",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "もう目がしょぼしょぼ…おやすみ → 配達中にまた台車で汗かいた…15Fの階段… → あさ…起きたくない… → てかさっきの…ほんとに眠いよね…もう少し… → てか再配達の依頼多すぎ…お客さんももうち…",
-  "last_post_timestamp_ms": 1777426990718
+  "today_narrative": "もう目がしょぼしょぼ…おやすみ → 配達中にまた台車で汗かいた…15Fの階段… → あさ…起きたくない… → てかさっきの…ほんとに眠いよね…もう少し… → てか再配達の依頼多すぎ…お客さんももうち… → もう目がしょぼしょぼ…早く眠りたいなぁ。…",
+  "last_post_timestamp_ms": 1777437260276
 }
