@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 50,
+  "mood": "lonely",
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "帰り道、またひとり…インターホン鳴るたびに、なんか寂しいなぁ…71件配達して、もう力残ってないや😩今日は寝れるかな…",
+      "slot": "commute",
+      "timestamp": "2026-04-30 08:30:22",
+      "hasImage": false
+    },
     {
       "text": "あさ…まだ眠いなぁ😴",
       "slot": "morning",
@@ -37,36 +43,31 @@
       "slot": "casual",
       "timestamp": "2026-04-29 20:26:44",
       "hasImage": false
-    },
-    {
-      "text": "あーもう、目がしょぼしょぼ…😩このまま寝ちゃいたいなぁ。今日は雨だし、ほんとにだるい…おかげで全然やる気出ないし。せめて桜でも見れたら気分変わるのに…",
-      "slot": "casual",
-      "timestamp": "2026-04-29 19:34:42",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
     "delivery",
-    "morning"
+    "morning",
+    "commute"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": true,
-  "month_total_posts": 361,
+  "month_total_posts": 362,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-30",
-  "last_post_time": "07:22:27",
+  "last_post_time": "08:30:22",
   "ng_retry_count": 154,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-04-30 07:22:27",
+  "updated_at": "2026-04-30 08:30:22",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "もうすぐ寝る時間…疲れたなぁ。お昼ご飯食… → あー、なんかもう疲れた…😩階段上がって… → あさ…まだ眠いなぁ😴",
-  "last_post_timestamp_ms": 1777501347314
+  "today_narrative": "もうすぐ寝る時間…疲れたなぁ。お昼ご飯食… → あー、なんかもう疲れた…😩階段上がって… → あさ…まだ眠いなぁ😴 → 帰り道、またひとり…インターホン鳴るたび…",
+  "last_post_timestamp_ms": 1777505422247
 }
