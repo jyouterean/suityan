@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 10,
+  "mood": "lonely",
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "もうすぐ寝る時間…疲れたなぁ。お昼ご飯食べた後の甘いお菓子もらったことだけが今日の癒し…😌 不在票さえなければって思っちゃうよね、あぁ…でも明日も頑張るの…ねぇ、頑張るから、かまってよ…🌙",
+      "slot": "goodnight",
+      "timestamp": "2026-04-30 00:49:37",
+      "hasImage": false
+    },
     {
       "text": "ほんとにしんどいなぁ…😩階段のせいで汗だくになっちゃったし、あの再配達、またきたなぁ…。もう少し温もりがほしい…ねぇ。誰か来てくれないかな…",
       "slot": "night_ero",
@@ -37,48 +43,28 @@
       "slot": "delivery",
       "timestamp": "2026-04-29 17:00:51",
       "hasImage": false
-    },
-    {
-      "text": "はぁ、また再配達の依頼きたなぁ…ほんとにお客さんはもうちょっと考えて欲しいかも💦階段とかもう無理…まじでしんどい…😩",
-      "slot": "delivery",
-      "timestamp": "2026-04-29 15:57:40",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight",
-    "delivery",
-    "morning",
-    "casual",
-    "delivery",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery",
-    "delivery",
-    "casual",
-    "casual",
-    "night_ero",
-    "night_ero"
+    "goodnight"
   ],
-  "today_post_count": 15,
-  "today_goodnight_posted": false,
-  "month_total_posts": 358,
+  "today_post_count": 1,
+  "today_goodnight_posted": true,
+  "month_total_posts": 359,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-04-29",
-  "last_post_time": "22:27:45",
+  "last_post_date": "2026-04-30",
+  "last_post_time": "00:49:37",
   "ng_retry_count": 154,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-04-29 22:27:45",
+  "updated_at": "2026-04-30 00:49:37",
   "month_string": "2026-04",
   "today_skipped": false,
-  "today_simple_goodnight_posted": true,
-  "today_morning_posted": true,
+  "today_simple_goodnight_posted": false,
+  "today_morning_posted": false,
   "today_skip_count": 0,
-  "today_max_posts": 15,
-  "today_narrative": "もう目がしょぼしょぼ…おやすみ → 配達中にまた台車で汗かいた…15Fの階段… → あさ…起きたくない… → てかさっきの…ほんとに眠いよね…もう少し… → てか再配達の依頼多すぎ…お客さんももうち… → もう目がしょぼしょぼ…早く眠りたいなぁ。… → あー、ほんとに目がしょぼしょぼだなぁ…\ud83d… → あーもー疲れた…配達先の階段15Fとかほ… → はぁ、また再配達の依頼きたなぁ…ほんとに… → はぁ、こんなにしんどいのにまた再配達とか… → あー、もうほんとにしんどい…😩再配達し… → あーもう、目がしょぼしょぼ…😩このまま… → ねぇ、ほんとにあたまがもやもやする…😩… → あーもー、またはいたつ先の階段…15Fと… → ほんとにしんどいなぁ…😩階段のせいで汗…",
-  "last_post_timestamp_ms": 1777469265384
+  "today_max_posts": 13,
+  "today_narrative": "もうすぐ寝る時間…疲れたなぁ。お昼ご飯食…",
+  "last_post_timestamp_ms": 1777477777469
 }
