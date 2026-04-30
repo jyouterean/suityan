@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 60,
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "雨の音…なんか眠くなっちゃうよね…🌧️さっきの続き…桜もまだまだ見たいし、暖かくなってきて…でもやっぱりだるいなぁ…😴",
+      "slot": "casual",
+      "timestamp": "2026-05-01 08:23:08",
+      "hasImage": false
+    },
     {
       "text": "おはよう…まだ夢の中…😴",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "delivery",
       "timestamp": "2026-04-30 17:04:04",
       "hasImage": false
-    },
-    {
-      "text": "帰り道、なんか桜がきれいで…でもひとりだと寂しいなぁ…💔お客さんと少し話しただけで、もっと誰かと話したいって思うわ…台車引きながらぼーっとしちゃうよね…",
-      "slot": "delivery",
-      "timestamp": "2026-04-30 16:20:15",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
-    "morning"
+    "morning",
+    "casual"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 2,
+  "month_total_posts": 3,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-01",
-  "last_post_time": "07:24:40",
+  "last_post_time": "08:23:08",
   "ng_retry_count": 154,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-01 07:24:40",
+  "updated_at": "2026-05-01 08:23:08",
   "month_string": "2026-05",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 15,
-  "today_narrative": "もう寝るしかない…😪 → おはよう…まだ夢の中…😴",
-  "last_post_timestamp_ms": 1777587880981
+  "today_narrative": "もう寝るしかない…😪 → おはよう…まだ夢の中…😴 → 雨の音…なんか眠くなっちゃうよね…🌧️…",
+  "last_post_timestamp_ms": 1777591388129
 }
