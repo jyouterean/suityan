@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "もうすぐ寝る時間…疲れたなぁ。お昼ご飯食べてからずっとぼんやり…あー、なんかもう疲れた…😩階段上がってちょっとしんどい…😔桜見たいなぁ、でもひとりだし…",
+      "slot": "casual",
+      "timestamp": "2026-04-30 19:25:01",
+      "hasImage": false
+    },
+    {
       "text": "はぁ、また一人で帰るの寂しいなぁ…😢インターホンの音、心臓バクバクしてるし、誰かと話したくなる…配達件数、ほんとしんどい。少しは褒めてほしいなぁ…",
       "slot": "delivery",
       "timestamp": "2026-04-30 17:53:32",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-04-30 13:17:13",
       "hasImage": false
-    },
-    {
-      "text": "ルート組みしてると、時々思う…こういう仕事してると、誰かに会いたいなって…なぜか急に恋愛妄想が…桜散ってるし、暖かくなってきたからか…こんなに頑張ってるのに、褒めてほしいなぁ🥺",
-      "slot": "delivery",
-      "timestamp": "2026-04-30 10:16:42",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": true,
-  "month_total_posts": 369,
+  "month_total_posts": 370,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-30",
-  "last_post_time": "17:53:32",
+  "last_post_time": "19:25:01",
   "ng_retry_count": 154,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-04-30 17:53:32",
+  "updated_at": "2026-04-30 19:25:01",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "もうすぐ寝る時間…疲れたなぁ。お昼ご飯食… → あー、なんかもう疲れた…😩階段上がって… → あさ…まだ眠いなぁ😴 → 帰り道、またひとり…インターホン鳴るたび… → ルート組みしてると、時々思う…こういう仕… → 仕事終わって帰ったら、なんだかひとりの時… → もうすぐ寝る時間…疲れたなぁ。お昼ご飯食… → あーもうほんとしんどいな…明日の配達どう… → 帰り道、なんか桜がきれいで…でもひとりだ… → あー、今日のはいたつも終わったけど、なん… → はぁ、また一人で帰るの寂しいなぁ…😢イ…",
-  "last_post_timestamp_ms": 1777539212016
+  "today_narrative": "もうすぐ寝る時間…疲れたなぁ。お昼ご飯食… → あー、なんかもう疲れた…😩階段上がって… → あさ…まだ眠いなぁ😴 → 帰り道、またひとり…インターホン鳴るたび… → ルート組みしてると、時々思う…こういう仕… → 仕事終わって帰ったら、なんだかひとりの時… → もうすぐ寝る時間…疲れたなぁ。お昼ご飯食… → あーもうほんとしんどいな…明日の配達どう… → 帰り道、なんか桜がきれいで…でもひとりだ… → あー、今日のはいたつも終わったけど、なん… → はぁ、また一人で帰るの寂しいなぁ…😢イ… → もうすぐ寝る時間…疲れたなぁ。お昼ご飯食…",
+  "last_post_timestamp_ms": 1777544701024
 }
