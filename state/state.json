@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 20,
+  "energy": 10,
   "last_posts": [
+    {
+      "text": "もうすぐ寝る時間…疲れたなぁ。お昼ご飯食べたけどお腹いっぱいにならない…あー、なんかもう疲れた…😩階段上がって、部屋に入った瞬間、なんか寂しい…。ふぅ、あさ…まだ眠いなぁ😴",
+      "slot": "casual",
+      "timestamp": "2026-04-30 13:49:16",
+      "hasImage": false
+    },
     {
       "text": "仕事終わって帰ったら、なんだかひとりの時間が長いなぁ…気づいたらもうこんな時間…😩 暖かくなってきたけど、やっぱりうまくいかないことも多いなぁ。桜も咲いてきたし、新しいこと始めたいのに…",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "goodnight",
       "timestamp": "2026-04-30 00:49:37",
       "hasImage": false
-    },
-    {
-      "text": "ほんとにしんどいなぁ…😩階段のせいで汗だくになっちゃったし、あの再配達、またきたなぁ…。もう少し温もりがほしい…ねぇ。誰か来てくれないかな…",
-      "slot": "night_ero",
-      "timestamp": "2026-04-29 22:27:45",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -51,25 +51,26 @@
     "morning",
     "commute",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 6,
+  "today_post_count": 7,
   "today_goodnight_posted": true,
-  "month_total_posts": 364,
+  "month_total_posts": 365,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-04-30",
-  "last_post_time": "13:17:13",
+  "last_post_time": "13:49:16",
   "ng_retry_count": 154,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-04-30 13:17:13",
+  "updated_at": "2026-04-30 13:49:16",
   "month_string": "2026-04",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "もうすぐ寝る時間…疲れたなぁ。お昼ご飯食… → あー、なんかもう疲れた…😩階段上がって… → あさ…まだ眠いなぁ😴 → 帰り道、またひとり…インターホン鳴るたび… → ルート組みしてると、時々思う…こういう仕… → 仕事終わって帰ったら、なんだかひとりの時…",
-  "last_post_timestamp_ms": 1777522633590
+  "today_narrative": "もうすぐ寝る時間…疲れたなぁ。お昼ご飯食… → あー、なんかもう疲れた…😩階段上がって… → あさ…まだ眠いなぁ😴 → 帰り道、またひとり…インターホン鳴るたび… → ルート組みしてると、時々思う…こういう仕… → 仕事終わって帰ったら、なんだかひとりの時… → もうすぐ寝る時間…疲れたなぁ。お昼ご飯食…",
+  "last_post_timestamp_ms": 1777524556189
 }
