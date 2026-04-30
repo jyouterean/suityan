@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 70,
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "おはよう…まだ夢の中…😴",
+      "slot": "morning",
+      "timestamp": "2026-05-01 07:24:40",
+      "hasImage": false
+    },
     {
       "text": "もう寝るしかない…😪",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-04-30 16:20:15",
       "hasImage": false
-    },
-    {
-      "text": "あーもうほんとしんどいな…明日の配達どうしよう…体力ゼロや😩",
-      "slot": "delivery",
-      "timestamp": "2026-04-30 15:13:59",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 1,
+  "month_total_posts": 2,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-01",
-  "last_post_time": "00:37:53",
+  "last_post_time": "07:24:40",
   "ng_retry_count": 154,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-01 01:18:33",
+  "updated_at": "2026-05-01 07:24:40",
   "month_string": "2026-05",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 15,
-  "today_narrative": "もう寝るしかない…😪",
-  "last_post_timestamp_ms": 1777563473149
+  "today_narrative": "もう寝るしかない…😪 → おはよう…まだ夢の中…😴",
+  "last_post_timestamp_ms": 1777587880981
 }
