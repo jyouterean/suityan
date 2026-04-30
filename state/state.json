@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 10,
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "もう寝るしかない…😪",
+      "slot": "simple_goodnight",
+      "timestamp": "2026-05-01 00:37:53",
+      "hasImage": false
+    },
     {
       "text": "曇り空に桜の花びらが舞ってるの見ると、なんか…切なくなるなぁ。ほんと、ひとりで見るのはつらいよ…😔あー、さっきのこと思い出すとまたさみしくなっちゃう。どうしよ、ほんとにかまってほしい…",
       "slot": "casual",
@@ -37,46 +43,28 @@
       "slot": "delivery",
       "timestamp": "2026-04-30 15:13:59",
       "hasImage": false
-    },
-    {
-      "text": "もうすぐ寝る時間…疲れたなぁ。お昼ご飯食べたけどお腹いっぱいにならない…あー、なんかもう疲れた…😩階段上がって、部屋に入った瞬間、なんか寂しい…。ふぅ、あさ…まだ眠いなぁ😴",
-      "slot": "casual",
-      "timestamp": "2026-04-30 13:49:16",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight",
-    "delivery",
-    "morning",
-    "commute",
-    "delivery",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery",
-    "delivery",
-    "casual",
-    "casual"
+    "simple_goodnight"
   ],
-  "today_post_count": 13,
-  "today_goodnight_posted": true,
-  "month_total_posts": 371,
+  "today_post_count": 1,
+  "today_goodnight_posted": false,
+  "month_total_posts": 1,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-04-30",
-  "last_post_time": "20:35:58",
+  "last_post_date": "2026-05-01",
+  "last_post_time": "00:37:53",
   "ng_retry_count": 154,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-04-30 20:35:58",
-  "month_string": "2026-04",
+  "updated_at": "2026-05-01 00:37:53",
+  "month_string": "2026-05",
   "today_skipped": false,
-  "today_simple_goodnight_posted": false,
-  "today_morning_posted": true,
+  "today_simple_goodnight_posted": true,
+  "today_morning_posted": false,
   "today_skip_count": 0,
-  "today_max_posts": 13,
-  "today_narrative": "もうすぐ寝る時間…疲れたなぁ。お昼ご飯食… → あー、なんかもう疲れた…😩階段上がって… → あさ…まだ眠いなぁ😴 → 帰り道、またひとり…インターホン鳴るたび… → ルート組みしてると、時々思う…こういう仕… → 仕事終わって帰ったら、なんだかひとりの時… → もうすぐ寝る時間…疲れたなぁ。お昼ご飯食… → あーもうほんとしんどいな…明日の配達どう… → 帰り道、なんか桜がきれいで…でもひとりだ… → あー、今日のはいたつも終わったけど、なん… → はぁ、また一人で帰るの寂しいなぁ…😢イ… → もうすぐ寝る時間…疲れたなぁ。お昼ご飯食… → 曇り空に桜の花びらが舞ってるの見ると、な…",
-  "last_post_timestamp_ms": 1777548958191
+  "today_max_posts": 15,
+  "today_narrative": "もう寝るしかない…😪",
+  "last_post_timestamp_ms": 1777563473149
 }
