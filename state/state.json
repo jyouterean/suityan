@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "なんか、こうやって毎日荷物運び続けてると、誰かと話したくなるよね…。お客さんと少し話すだけで、気分が違うもん。あー、また13件も残っちゃった…😩",
+      "slot": "delivery",
+      "timestamp": "2026-05-01 16:22:11",
+      "hasImage": false
+    },
+    {
       "text": "なんかさ、連続で配達してると、ふと孤独感が…あーもう、誰かに会いたいよ！😔軽バンの中じゃ話し相手も居ないし、ほんとしんどいなぁ…桜も咲いてるのに、あたしは運転ばっか…",
       "slot": "delivery",
       "timestamp": "2026-05-01 15:16:19",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-05-01 07:24:40",
       "hasImage": false
-    },
-    {
-      "text": "もう寝るしかない…😪",
-      "slot": "simple_goodnight",
-      "timestamp": "2026-05-01 00:37:53",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "delivery",
     "casual",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": false,
-  "month_total_posts": 7,
+  "month_total_posts": 8,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-01",
-  "last_post_time": "15:16:19",
+  "last_post_time": "16:22:11",
   "ng_retry_count": 155,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-01 15:16:19",
+  "updated_at": "2026-05-01 16:22:11",
   "month_string": "2026-05",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 15,
-  "today_narrative": "もう寝るしかない…😪 → おはよう…まだ夢の中…😴 → 雨の音…なんか眠くなっちゃうよね…🌧️… → 置き配の合間に、ふと考えると「誰かに会い… → 傘持って出かけるの面倒だなぁ…🌂外の雨… → まだまだ荷物運ぶのしんどいなぁ…😩重い… → なんかさ、連続で配達してると、ふと孤独感…",
-  "last_post_timestamp_ms": 1777616179901
+  "today_narrative": "もう寝るしかない…😪 → おはよう…まだ夢の中…😴 → 雨の音…なんか眠くなっちゃうよね…🌧️… → 置き配の合間に、ふと考えると「誰かに会い… → 傘持って出かけるの面倒だなぁ…🌂外の雨… → まだまだ荷物運ぶのしんどいなぁ…😩重い… → なんかさ、連続で配達してると、ふと孤独感… → なんか、こうやって毎日荷物運び続けてると…",
+  "last_post_timestamp_ms": 1777620131571
 }
