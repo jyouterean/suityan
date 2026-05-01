@@ -1,7 +1,13 @@
 {
   "mood": "frustrated",
-  "energy": 30,
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "まだまだ荷物運ぶのしんどいなぁ…😩重いのはやっぱりダメだよね…誰か褒めてくれたら頑張れるのに。がんばってるアピールしなきゃかも…てか、お客さんとの会話でちょっと癒されるのいいよね…でも誰かに会いたいなぁ…",
+      "slot": "delivery",
+      "timestamp": "2026-05-01 14:19:19",
+      "hasImage": false
+    },
     {
       "text": "傘持って出かけるの面倒だなぁ…🌂外の雨がこんなにしとしと降ってると、何もしたくなくなる…もう週末も近いけど、こんな天気だと気分も暗くなっちゃう。だれかとおしゃべりしたいなぁ、ひとりごとばかりだと寂しい…😔",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-04-30 20:35:58",
       "hasImage": false
-    },
-    {
-      "text": "もうすぐ寝る時間…疲れたなぁ。お昼ご飯食べてからずっとぼんやり…あー、なんかもう疲れた…😩階段上がってちょっとしんどい…😔桜見たいなぁ、でもひとりだし…",
-      "slot": "casual",
-      "timestamp": "2026-04-30 19:25:01",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "morning",
     "casual",
     "delivery",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": false,
-  "month_total_posts": 5,
+  "month_total_posts": 6,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-01",
-  "last_post_time": "13:38:40",
+  "last_post_time": "14:19:19",
   "ng_retry_count": 155,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-01 13:38:40",
+  "updated_at": "2026-05-01 14:19:19",
   "month_string": "2026-05",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 15,
-  "today_narrative": "もう寝るしかない…😪 → おはよう…まだ夢の中…😴 → 雨の音…なんか眠くなっちゃうよね…🌧️… → 置き配の合間に、ふと考えると「誰かに会い… → 傘持って出かけるの面倒だなぁ…🌂外の雨…",
-  "last_post_timestamp_ms": 1777610320647
+  "today_narrative": "もう寝るしかない…😪 → おはよう…まだ夢の中…😴 → 雨の音…なんか眠くなっちゃうよね…🌧️… → 置き配の合間に、ふと考えると「誰かに会い… → 傘持って出かけるの面倒だなぁ…🌂外の雨… → まだまだ荷物運ぶのしんどいなぁ…😩重い…",
+  "last_post_timestamp_ms": 1777612759293
 }
