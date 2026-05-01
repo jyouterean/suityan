@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "置き配の合間に、ふと考えると「誰かに会いたいな」なんて…😓こんな天気でも、ちゃんと仕事しなきゃね。信号赤続きでイライラ💢残り27件、頑張るしか！",
+      "slot": "delivery",
+      "timestamp": "2026-05-01 10:30:46",
+      "hasImage": false
+    },
     {
       "text": "雨の音…なんか眠くなっちゃうよね…🌧️さっきの続き…桜もまだまだ見たいし、暖かくなってきて…でもやっぱりだるいなぁ…😴",
       "slot": "casual",
@@ -37,36 +43,31 @@
       "slot": "delivery",
       "timestamp": "2026-04-30 17:53:32",
       "hasImage": false
-    },
-    {
-      "text": "あー、今日のはいたつも終わったけど、なんかちょっと…ほんとに誰かに会いたい気分。エナドリ飲んだし、気合入れなきゃなのに💧またひとりで帰るのか…あ、軽バンの運転、やっぱり疲れるなぁ。",
-      "slot": "delivery",
-      "timestamp": "2026-04-30 17:04:04",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
     "morning",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": false,
-  "month_total_posts": 3,
+  "month_total_posts": 4,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-01",
-  "last_post_time": "08:23:08",
+  "last_post_time": "10:30:46",
   "ng_retry_count": 154,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-01 08:23:08",
+  "updated_at": "2026-05-01 10:30:46",
   "month_string": "2026-05",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 15,
-  "today_narrative": "もう寝るしかない…😪 → おはよう…まだ夢の中…😴 → 雨の音…なんか眠くなっちゃうよね…🌧️…",
-  "last_post_timestamp_ms": 1777591388129
+  "today_narrative": "もう寝るしかない…😪 → おはよう…まだ夢の中…😴 → 雨の音…なんか眠くなっちゃうよね…🌧️… → 置き配の合間に、ふと考えると「誰かに会い…",
+  "last_post_timestamp_ms": 1777599046408
 }
