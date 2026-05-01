@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "もうさ、こんなことしてるとひとりぼっち感がハンパない…😪誰かに会いたいなぁ…配達終わったら、少しだけでも誰かと話したい気分…しんどいのに、こういう時に人恋しいよね…",
+      "slot": "night_ero",
+      "timestamp": "2026-05-01 21:24:10",
+      "hasImage": false
+    },
+    {
       "text": "今日も荷物運びで一日終わり…疲れた…今のこの瞬間が虚しいなぁ…😩一人で帰るのつらい…だれか…一緒に帰りたい…",
       "slot": "commute",
       "timestamp": "2026-05-01 18:59:32",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-05-01 14:19:19",
       "hasImage": false
-    },
-    {
-      "text": "傘持って出かけるの面倒だなぁ…🌂外の雨がこんなにしとしと降ってると、何もしたくなくなる…もう週末も近いけど、こんな天気だと気分も暗くなっちゃう。だれかとおしゃべりしたいなぁ、ひとりごとばかりだと寂しい…😔",
-      "slot": "casual",
-      "timestamp": "2026-05-01 13:38:40",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "commute"
+    "commute",
+    "night_ero"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": false,
-  "month_total_posts": 11,
+  "month_total_posts": 12,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-01",
-  "last_post_time": "18:59:32",
-  "ng_retry_count": 159,
+  "last_post_time": "21:24:10",
+  "ng_retry_count": 160,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-01 19:52:19",
+  "updated_at": "2026-05-01 21:24:10",
   "month_string": "2026-05",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 2,
   "today_max_posts": 15,
-  "today_narrative": "もう寝るしかない…😪 → おはよう…まだ夢の中…😴 → 雨の音…なんか眠くなっちゃうよね…🌧️… → 置き配の合間に、ふと考えると「誰かに会い… → 傘持って出かけるの面倒だなぁ…🌂外の雨… → まだまだ荷物運ぶのしんどいなぁ…😩重い… → なんかさ、連続で配達してると、ふと孤独感… → なんか、こうやって毎日荷物運び続けてると… → また信号待ち…あーもうしんどい…😩荷物… → 一軒家のところに届いた荷物、結構重いなぁ… → 今日も荷物運びで一日終わり…疲れた…今の…",
-  "last_post_timestamp_ms": 1777629572921
+  "today_narrative": "もう寝るしかない…😪 → おはよう…まだ夢の中…😴 → 雨の音…なんか眠くなっちゃうよね…🌧️… → 置き配の合間に、ふと考えると「誰かに会い… → 傘持って出かけるの面倒だなぁ…🌂外の雨… → まだまだ荷物運ぶのしんどいなぁ…😩重い… → なんかさ、連続で配達してると、ふと孤独感… → なんか、こうやって毎日荷物運び続けてると… → また信号待ち…あーもうしんどい…😩荷物… → 一軒家のところに届いた荷物、結構重いなぁ… → 今日も荷物運びで一日終わり…疲れた…今の… → もうさ、こんなことしてるとひとりぼっち感…",
+  "last_post_timestamp_ms": 1777638250016
 }
