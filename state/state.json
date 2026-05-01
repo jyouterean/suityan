@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 70,
+  "mood": "tired",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "ねむい…二度寝したい…",
+      "slot": "morning",
+      "timestamp": "2026-05-02 07:12:53",
+      "hasImage": false
+    },
     {
       "text": "今日も軽バンで走り回って…めっちゃ疲れてる…😩桜も咲いてるのに、なんか寂しいし。明日も仕事だけど、ちょっと楽しみな部分もあったりして…でも、やっぱり寂しいなぁ…ねぇ、かまって…😶",
       "slot": "goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-05-01 17:34:02",
       "hasImage": false
-    },
-    {
-      "text": "また信号待ち…あーもうしんどい…😩荷物ばっか運んでると、なんか違うなって思うことあるよね、ふと誰かと話したくなる…疲れたなぁ…😔",
-      "slot": "delivery",
-      "timestamp": "2026-05-01 17:01:47",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight"
+    "goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": true,
-  "month_total_posts": 15,
+  "month_total_posts": 16,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-02",
-  "last_post_time": "00:40:43",
+  "last_post_time": "07:12:53",
   "ng_retry_count": 161,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-02 00:40:43",
+  "updated_at": "2026-05-02 07:12:53",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "今日も軽バンで走り回って…めっちゃ疲れて…",
-  "last_post_timestamp_ms": 1777650043974
+  "today_narrative": "今日も軽バンで走り回って…めっちゃ疲れて… → ねむい…二度寝したい…",
+  "last_post_timestamp_ms": 1777673573691
 }
