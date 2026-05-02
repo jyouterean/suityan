@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 20,
+  "energy": 10,
   "last_posts": [
+    {
+      "text": "今日もインターホン鳴らしては配達…めっちゃ疲れた💦あー、誰かに会いたいなぁ…でもこのままじゃ帰るのしんどいなぁ。121件もやってるし、帰ったら何食べようかなぁ。みんなはどうしてるのかな…",
+      "slot": "delivery",
+      "timestamp": "2026-05-02 16:15:22",
+      "hasImage": false
+    },
     {
       "text": "あーもう、配達しんどい…😩いつもより時間かかってる気がするし、ちゃんとお花見できるかな…無理しないで休もうかな…",
       "slot": "delivery",
@@ -37,12 +43,6 @@
       "slot": "goodnight",
       "timestamp": "2026-05-02 00:40:43",
       "hasImage": false
-    },
-    {
-      "text": "また明日も荷物運びなのかぁ…今日もずっと運んでたからさ、疲れちゃったよ😢やっぱり、誰かに会いたいなぁ…このままだともやもやしちゃうかも…ゆっくり休む時間がほしい…ねぇ、だれか…",
-      "slot": "goodnight",
-      "timestamp": "2026-05-01 23:56:21",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -51,25 +51,26 @@
     "commute",
     "delivery",
     "casual",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 6,
+  "today_post_count": 7,
   "today_goodnight_posted": true,
-  "month_total_posts": 20,
+  "month_total_posts": 21,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-02",
-  "last_post_time": "15:51:33",
+  "last_post_time": "16:15:22",
   "ng_retry_count": 161,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-02 15:51:33",
+  "updated_at": "2026-05-02 16:15:22",
   "month_string": "2026-05",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 2,
   "today_max_posts": 15,
-  "today_narrative": "今日も軽バンで走り回って…めっちゃ疲れて… → ねむい…二度寝したい… → なんかもう、今日の配達件数133件もやっ… → いや、でも配達終わったら好きなものでも食… → それにしても今日の天気、最高に気持ちいい… → あーもう、配達しんどい…😩いつもより時…",
-  "last_post_timestamp_ms": 1777704693154
+  "today_narrative": "今日も軽バンで走り回って…めっちゃ疲れて… → ねむい…二度寝したい… → なんかもう、今日の配達件数133件もやっ… → いや、でも配達終わったら好きなものでも食… → それにしても今日の天気、最高に気持ちいい… → あーもう、配達しんどい…😩いつもより時… → 今日もインターホン鳴らしては配達…めっち…",
+  "last_post_timestamp_ms": 1777706122357
 }
