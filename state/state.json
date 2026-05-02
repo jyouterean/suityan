@@ -1,7 +1,13 @@
 {
-  "mood": "angry",
-  "energy": 50,
+  "mood": "excited",
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "いや、でも配達終わったら好きなものでも食べようかなー🍕ちょっとした楽しみがないとやってられないし！花粉なんかに負けずに頑張るぞ！💪",
+      "slot": "delivery",
+      "timestamp": "2026-05-02 10:14:38",
+      "hasImage": false
+    },
     {
       "text": "なんかもう、今日の配達件数133件もやったし…もう帰りたい…帰っても誰もいないし…花粉症のせいでくしゃみ止まらんし…いやだなぁ…",
       "slot": "commute",
@@ -37,36 +43,31 @@
       "slot": "night_ero",
       "timestamp": "2026-05-01 21:24:10",
       "hasImage": false
-    },
-    {
-      "text": "今日も荷物運びで一日終わり…疲れた…今のこの瞬間が虚しいなぁ…😩一人で帰るのつらい…だれか…一緒に帰りたい…",
-      "slot": "commute",
-      "timestamp": "2026-05-01 18:59:32",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
     "morning",
-    "commute"
+    "commute",
+    "delivery"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": true,
-  "month_total_posts": 17,
+  "month_total_posts": 18,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-02",
-  "last_post_time": "08:17:32",
+  "last_post_time": "10:14:38",
   "ng_retry_count": 161,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-02 08:17:32",
+  "updated_at": "2026-05-02 10:14:38",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "今日も軽バンで走り回って…めっちゃ疲れて… → ねむい…二度寝したい… → なんかもう、今日の配達件数133件もやっ…",
-  "last_post_timestamp_ms": 1777677452568
+  "today_narrative": "今日も軽バンで走り回って…めっちゃ疲れて… → ねむい…二度寝したい… → なんかもう、今日の配達件数133件もやっ… → いや、でも配達終わったら好きなものでも食…",
+  "last_post_timestamp_ms": 1777684478695
 }
