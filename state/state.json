@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "ねむすぎてもうだめ…😪",
+      "slot": "simple_goodnight",
+      "timestamp": "2026-05-02 23:56:59",
+      "hasImage": false
+    },
+    {
       "text": "さっき、配達しててほんとしんどくて…😩なんか、ふと夜の街のネオンみて、寂しくなっちゃった。…いま何時だ？一緒にいてほしいなぁ、温もりほしい…さ、帰ったら好きなものでも食べようかな…",
       "slot": "night_ero",
       "timestamp": "2026-05-02 22:06:37",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-05-02 16:15:22",
       "hasImage": false
-    },
-    {
-      "text": "あーもう、配達しんどい…😩いつもより時間かかってる気がするし、ちゃんとお花見できるかな…無理しないで休もうかな…",
-      "slot": "delivery",
-      "timestamp": "2026-05-02 15:51:33",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -57,25 +57,26 @@
     "commute",
     "casual",
     "casual",
-    "night_ero"
+    "night_ero",
+    "simple_goodnight"
   ],
-  "today_post_count": 12,
+  "today_post_count": 13,
   "today_goodnight_posted": true,
-  "month_total_posts": 26,
+  "month_total_posts": 27,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-02",
-  "last_post_time": "22:06:37",
+  "last_post_time": "23:56:59",
   "ng_retry_count": 162,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-02 22:06:37",
+  "updated_at": "2026-05-02 23:56:59",
   "month_string": "2026-05",
   "today_skipped": true,
-  "today_simple_goodnight_posted": false,
+  "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 2,
   "today_max_posts": 15,
-  "today_narrative": "今日も軽バンで走り回って…めっちゃ疲れて… → ねむい…二度寝したい… → なんかもう、今日の配達件数133件もやっ… → いや、でも配達終わったら好きなものでも食… → それにしても今日の天気、最高に気持ちいい… → あーもう、配達しんどい…😩いつもより時… → 今日もインターホン鳴らしては配達…めっち… → もうさ、荷物の配達してるとほんとしんどく… → つかれた…帰る途中でおもいっきりぼーっと… → 今、うとうとしちゃって…なんか眠気がきて… → あーもう、ほんと甘えたくなる…😔だれか… → さっき、配達しててほんとしんどくて…😩…",
-  "last_post_timestamp_ms": 1777727197910
+  "today_narrative": "今日も軽バンで走り回って…めっちゃ疲れて… → ねむい…二度寝したい… → なんかもう、今日の配達件数133件もやっ… → いや、でも配達終わったら好きなものでも食… → それにしても今日の天気、最高に気持ちいい… → あーもう、配達しんどい…😩いつもより時… → 今日もインターホン鳴らしては配達…めっち… → もうさ、荷物の配達してるとほんとしんどく… → つかれた…帰る途中でおもいっきりぼーっと… → 今、うとうとしちゃって…なんか眠気がきて… → あーもう、ほんと甘えたくなる…😔だれか… → さっき、配達しててほんとしんどくて…😩… → ねむすぎてもうだめ…😪",
+  "last_post_timestamp_ms": 1777733819723
 }
