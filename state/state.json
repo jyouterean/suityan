@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 10,
+  "mood": "melancholy",
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "おやすみ…疲れた一日がやっと終わってくれた。再配達の山、もう勘弁してほしい…😩明日も頑張るけど、ちょっとだけ甘えさせて…ねぇ、誰かかまって…",
+      "slot": "goodnight",
+      "timestamp": "2026-05-03 00:34:57",
+      "hasImage": false
+    },
     {
       "text": "ねむすぎてもうだめ…😪",
       "slot": "simple_goodnight",
@@ -37,46 +43,28 @@
       "slot": "delivery",
       "timestamp": "2026-05-02 17:30:00",
       "hasImage": false
-    },
-    {
-      "text": "今日もインターホン鳴らしては配達…めっちゃ疲れた💦あー、誰かに会いたいなぁ…でもこのままじゃ帰るのしんどいなぁ。121件もやってるし、帰ったら何食べようかなぁ。みんなはどうしてるのかな…",
-      "slot": "delivery",
-      "timestamp": "2026-05-02 16:15:22",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight",
-    "morning",
-    "commute",
-    "delivery",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery",
-    "commute",
-    "casual",
-    "casual",
-    "night_ero",
-    "simple_goodnight"
+    "goodnight"
   ],
-  "today_post_count": 13,
+  "today_post_count": 1,
   "today_goodnight_posted": true,
-  "month_total_posts": 27,
+  "month_total_posts": 28,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-05-02",
-  "last_post_time": "23:56:59",
-  "ng_retry_count": 162,
+  "last_post_date": "2026-05-03",
+  "last_post_time": "00:34:57",
+  "ng_retry_count": 163,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-02 23:56:59",
+  "updated_at": "2026-05-03 00:34:57",
   "month_string": "2026-05",
-  "today_skipped": true,
-  "today_simple_goodnight_posted": true,
-  "today_morning_posted": true,
-  "today_skip_count": 2,
-  "today_max_posts": 15,
-  "today_narrative": "今日も軽バンで走り回って…めっちゃ疲れて… → ねむい…二度寝したい… → なんかもう、今日の配達件数133件もやっ… → いや、でも配達終わったら好きなものでも食… → それにしても今日の天気、最高に気持ちいい… → あーもう、配達しんどい…😩いつもより時… → 今日もインターホン鳴らしては配達…めっち… → もうさ、荷物の配達してるとほんとしんどく… → つかれた…帰る途中でおもいっきりぼーっと… → 今、うとうとしちゃって…なんか眠気がきて… → あーもう、ほんと甘えたくなる…😔だれか… → さっき、配達しててほんとしんどくて…😩… → ねむすぎてもうだめ…😪",
-  "last_post_timestamp_ms": 1777733819723
+  "today_skipped": false,
+  "today_simple_goodnight_posted": false,
+  "today_morning_posted": false,
+  "today_skip_count": 0,
+  "today_max_posts": 14,
+  "today_narrative": "おやすみ…疲れた一日がやっと終わってくれ…",
+  "last_post_timestamp_ms": 1777736097903
 }
