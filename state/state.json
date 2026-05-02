@@ -1,7 +1,13 @@
 {
-  "mood": "melancholy",
-  "energy": 70,
+  "mood": "tired",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "むり…朝からまた再配達の準備…頭が働かない💭 今日はどうなるのかな…やっぱりキツイな…",
+      "slot": "morning",
+      "timestamp": "2026-05-03 07:21:01",
+      "hasImage": false
+    },
     {
       "text": "おやすみ…疲れた一日がやっと終わってくれた。再配達の山、もう勘弁してほしい…😩明日も頑張るけど、ちょっとだけ甘えさせて…ねぇ、誰かかまって…",
       "slot": "goodnight",
@@ -37,34 +43,29 @@
       "slot": "commute",
       "timestamp": "2026-05-02 18:20:08",
       "hasImage": false
-    },
-    {
-      "text": "もうさ、荷物の配達してるとほんとしんどくて…お客さんに「ありがとう」って言われたけど、でもそれだけじゃ… こんなに疲れてるのに、あー、誰かに会いたい…😔",
-      "slot": "delivery",
-      "timestamp": "2026-05-02 17:30:00",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight"
+    "goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": true,
-  "month_total_posts": 28,
+  "month_total_posts": 29,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-03",
-  "last_post_time": "00:34:57",
+  "last_post_time": "07:21:01",
   "ng_retry_count": 163,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-03 00:34:57",
+  "updated_at": "2026-05-03 07:21:01",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "おやすみ…疲れた一日がやっと終わってくれ…",
-  "last_post_timestamp_ms": 1777736097903
+  "today_narrative": "おやすみ…疲れた一日がやっと終わってくれ… → むり…朝からまた再配達の準備…頭が働かな…",
+  "last_post_timestamp_ms": 1777760461167
 }
