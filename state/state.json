@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あーもう、ほんと甘えたくなる…😔だれか、かまってくれないかなぁ…お昼ごはん、何食べようか迷ってる…こっちの桜、きれいだけど、なんか心が寂しいの…春なのにね…",
+      "slot": "casual",
+      "timestamp": "2026-05-02 20:48:06",
+      "hasImage": false
+    },
+    {
       "text": "今、うとうとしちゃって…なんか眠気がきてるなぁ。花粉もすごいし、やっぱり春ってしんどいかも。あー、もうちょっとだけ寝たいな…🌸",
       "slot": "casual",
       "timestamp": "2026-05-02 19:32:21",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-05-02 13:43:20",
       "hasImage": false
-    },
-    {
-      "text": "いや、でも配達終わったら好きなものでも食べようかなー🍕ちょっとした楽しみがないとやってられないし！花粉なんかに負けずに頑張るぞ！💪",
-      "slot": "delivery",
-      "timestamp": "2026-05-02 10:14:38",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -55,25 +55,26 @@
     "delivery",
     "delivery",
     "commute",
+    "casual",
     "casual"
   ],
-  "today_post_count": 10,
+  "today_post_count": 11,
   "today_goodnight_posted": true,
-  "month_total_posts": 24,
+  "month_total_posts": 25,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-02",
-  "last_post_time": "19:32:21",
+  "last_post_time": "20:48:06",
   "ng_retry_count": 162,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-02 19:32:21",
+  "updated_at": "2026-05-02 20:48:06",
   "month_string": "2026-05",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 2,
   "today_max_posts": 15,
-  "today_narrative": "今日も軽バンで走り回って…めっちゃ疲れて… → ねむい…二度寝したい… → なんかもう、今日の配達件数133件もやっ… → いや、でも配達終わったら好きなものでも食… → それにしても今日の天気、最高に気持ちいい… → あーもう、配達しんどい…😩いつもより時… → 今日もインターホン鳴らしては配達…めっち… → もうさ、荷物の配達してるとほんとしんどく… → つかれた…帰る途中でおもいっきりぼーっと… → 今、うとうとしちゃって…なんか眠気がきて…",
-  "last_post_timestamp_ms": 1777717941600
+  "today_narrative": "今日も軽バンで走り回って…めっちゃ疲れて… → ねむい…二度寝したい… → なんかもう、今日の配達件数133件もやっ… → いや、でも配達終わったら好きなものでも食… → それにしても今日の天気、最高に気持ちいい… → あーもう、配達しんどい…😩いつもより時… → 今日もインターホン鳴らしては配達…めっち… → もうさ、荷物の配達してるとほんとしんどく… → つかれた…帰る途中でおもいっきりぼーっと… → 今、うとうとしちゃって…なんか眠気がきて… → あーもう、ほんと甘えたくなる…😔だれか…",
+  "last_post_timestamp_ms": 1777722486763
 }
