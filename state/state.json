@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 60,
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "あぁ…日曜なのに全然休めない…花粉もやばいし、眠いし、気分も沈むわ...桜は見たいけど、外出るのもだるい...🤦‍♀️",
+      "slot": "casual",
+      "timestamp": "2026-05-03 08:09:25",
+      "hasImage": false
+    },
     {
       "text": "むり…朝からまた再配達の準備…頭が働かない💭 今日はどうなるのかな…やっぱりキツイな…",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "casual",
       "timestamp": "2026-05-02 19:32:21",
       "hasImage": false
-    },
-    {
-      "text": "つかれた…帰る途中でおもいっきりぼーっとしてる。配達終わったら、なんかおいしいもんたべよ…とか考えちゃうよね？でもさ、ほんと花粉もきついし、春なのにしんどい…😩は？やっぱり誰かと帰りたかったなぁ…",
-      "slot": "commute",
-      "timestamp": "2026-05-02 18:20:08",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
-    "morning"
+    "morning",
+    "casual"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": true,
-  "month_total_posts": 29,
+  "month_total_posts": 30,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-03",
-  "last_post_time": "07:21:01",
+  "last_post_time": "08:09:25",
   "ng_retry_count": 163,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-03 07:21:01",
+  "updated_at": "2026-05-03 08:09:25",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "おやすみ…疲れた一日がやっと終わってくれ… → むり…朝からまた再配達の準備…頭が働かな…",
-  "last_post_timestamp_ms": 1777760461167
+  "today_narrative": "おやすみ…疲れた一日がやっと終わってくれ… → むり…朝からまた再配達の準備…頭が働かな… → あぁ…日曜なのに全然休めない…花粉もやば…",
+  "last_post_timestamp_ms": 1777763365743
 }
