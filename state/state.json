@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あーもうほんとにしんど…再配達の不在票見るといっきにやる気なくなる…置き配は楽だけど、こうなると最悪…誰かに会いたいなぁ、褒めてもらいたい…🌸",
+      "slot": "delivery",
+      "timestamp": "2026-05-03 17:32:24",
+      "hasImage": false
+    },
+    {
       "text": "はぁ…まじつかれた…マンションの階段、10Fまで上がったらもうしんどい…こんな日曜に再配達の準備とか、誰かに会いたいなぁ…花粉もひどいし、なんかうまいこと言って癒されたい…💔",
       "slot": "delivery",
       "timestamp": "2026-05-03 16:29:32",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-05-03 07:21:01",
       "hasImage": false
-    },
-    {
-      "text": "おやすみ…疲れた一日がやっと終わってくれた。再配達の山、もう勘弁してほしい…😩明日も頑張るけど、ちょっとだけ甘えさせて…ねぇ、誰かかまって…",
-      "slot": "goodnight",
-      "timestamp": "2026-05-03 00:34:57",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "delivery",
     "casual",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": true,
-  "month_total_posts": 34,
+  "month_total_posts": 35,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-03",
-  "last_post_time": "16:29:32",
-  "ng_retry_count": 164,
+  "last_post_time": "17:32:24",
+  "ng_retry_count": 165,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-03 16:29:32",
+  "updated_at": "2026-05-03 17:32:24",
   "month_string": "2026-05",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "おやすみ…疲れた一日がやっと終わってくれ… → むり…朝からまた再配達の準備…頭が働かな… → あぁ…日曜なのに全然休めない…花粉もやば… → まじで、再配達の不在票見ると最悪…お菓子… → おやすみ…今日はなんだか疲れたなぁ。仕事… → なんだかんだ、配達してるとお客さんとちょ… → はぁ…まじつかれた…マンションの階段、1…",
-  "last_post_timestamp_ms": 1777793372456
+  "today_narrative": "おやすみ…疲れた一日がやっと終わってくれ… → むり…朝からまた再配達の準備…頭が働かな… → あぁ…日曜なのに全然休めない…花粉もやば… → まじで、再配達の不在票見ると最悪…お菓子… → おやすみ…今日はなんだか疲れたなぁ。仕事… → なんだかんだ、配達してるとお客さんとちょ… → はぁ…まじつかれた…マンションの階段、1… → あーもうほんとにしんど…再配達の不在票見…",
+  "last_post_timestamp_ms": 1777797144459
 }
