@@ -1,7 +1,13 @@
 {
-  "mood": "frustrated",
-  "energy": 30,
+  "mood": "tired",
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "なんだかんだ、配達してるとお客さんとちょっとした会話があってほっこりする瞬間もあるんだよね…✨でもまだ残り18件、早く終わりたいな～。あぁ、誰か褒めてほしい…😩",
+      "slot": "delivery",
+      "timestamp": "2026-05-03 14:09:40",
+      "hasImage": false
+    },
     {
       "text": "おやすみ…今日はなんだか疲れたなぁ。仕事終わっても休んでる気がしない…やっぱり日曜日なのに寂しい…新生活の準備も進まないし、桜も咲いてるのに見る余裕がないよ…😩🌸",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "simple_goodnight",
       "timestamp": "2026-05-02 23:56:59",
       "hasImage": false
-    },
-    {
-      "text": "さっき、配達しててほんとしんどくて…😩なんか、ふと夜の街のネオンみて、寂しくなっちゃった。…いま何時だ？一緒にいてほしいなぁ、温もりほしい…さ、帰ったら好きなものでも食べようかな…",
-      "slot": "night_ero",
-      "timestamp": "2026-05-02 22:06:37",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "morning",
     "casual",
     "delivery",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": true,
-  "month_total_posts": 32,
+  "month_total_posts": 33,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-03",
-  "last_post_time": "13:43:59",
+  "last_post_time": "14:09:40",
   "ng_retry_count": 163,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-03 13:43:59",
+  "updated_at": "2026-05-03 14:09:40",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "おやすみ…疲れた一日がやっと終わってくれ… → むり…朝からまた再配達の準備…頭が働かな… → あぁ…日曜なのに全然休めない…花粉もやば… → まじで、再配達の不在票見ると最悪…お菓子… → おやすみ…今日はなんだか疲れたなぁ。仕事…",
-  "last_post_timestamp_ms": 1777783439364
+  "today_narrative": "おやすみ…疲れた一日がやっと終わってくれ… → むり…朝からまた再配達の準備…頭が働かな… → あぁ…日曜なのに全然休めない…花粉もやば… → まじで、再配達の不在票見ると最悪…お菓子… → おやすみ…今日はなんだか疲れたなぁ。仕事… → なんだかんだ、配達してるとお客さんとちょ…",
+  "last_post_timestamp_ms": 1777784980989
 }
