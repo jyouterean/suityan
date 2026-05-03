@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 60,
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "てかさっきの夢の中から覚めたけど、ほんとにだるい…😩 今日はいつもみたいに働けるかなぁ…",
+      "slot": "casual",
+      "timestamp": "2026-05-04 08:33:35",
+      "hasImage": false
+    },
     {
       "text": "おはよう、まだ夢の中かも。",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "casual",
       "timestamp": "2026-05-03 19:37:25",
       "hasImage": false
-    },
-    {
-      "text": "あーもうほんとに帰るのだるい…ひとりぼっち…やっぱり配達中はお客さんと話すから楽しいけど、終わったあとのこの虚しさ…あぁ…お菓子食べたい…",
-      "slot": "commute",
-      "timestamp": "2026-05-03 18:54:00",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
-    "morning"
+    "morning",
+    "casual"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 42,
+  "month_total_posts": 43,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-04",
-  "last_post_time": "06:57:38",
+  "last_post_time": "08:33:35",
   "ng_retry_count": 166,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-04 06:57:38",
+  "updated_at": "2026-05-04 08:33:35",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "うとうと…おやすみなさい → おはよう、まだ夢の中かも。",
-  "last_post_timestamp_ms": 1777845458189
+  "today_narrative": "うとうと…おやすみなさい → おはよう、まだ夢の中かも。 → てかさっきの夢の中から覚めたけど、ほんと…",
+  "last_post_timestamp_ms": 1777851215873
 }
