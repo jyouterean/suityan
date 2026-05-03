@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "ねむすぎてもうだめ…",
+      "slot": "simple_goodnight",
+      "timestamp": "2026-05-03 23:56:08",
+      "hasImage": false
+    },
+    {
       "text": "あーもうほんとに配達いくのもめんどくさい…体力ゼロになりそうだし…ねぇ、少しだけでも寄り添ってくれたらもう少し頑張れるかも…お菓子食べるかな…",
       "slot": "night_ero",
       "timestamp": "2026-05-03 21:44:53",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-05-03 16:29:32",
       "hasImage": false
-    },
-    {
-      "text": "なんだかんだ、配達してるとお客さんとちょっとした会話があってほっこりする瞬間もあるんだよね…✨でもまだ残り18件、早く終わりたいな～。あぁ、誰か褒めてほしい…😩",
-      "slot": "delivery",
-      "timestamp": "2026-05-03 14:09:40",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -57,25 +57,26 @@
     "commute",
     "casual",
     "casual",
-    "night_ero"
+    "night_ero",
+    "simple_goodnight"
   ],
-  "today_post_count": 12,
+  "today_post_count": 13,
   "today_goodnight_posted": true,
-  "month_total_posts": 39,
+  "month_total_posts": 40,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-03",
-  "last_post_time": "21:44:53",
+  "last_post_time": "23:56:08",
   "ng_retry_count": 166,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-03 21:44:53",
+  "updated_at": "2026-05-03 23:56:08",
   "month_string": "2026-05",
   "today_skipped": true,
-  "today_simple_goodnight_posted": false,
+  "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "おやすみ…疲れた一日がやっと終わってくれ… → むり…朝からまた再配達の準備…頭が働かな… → あぁ…日曜なのに全然休めない…花粉もやば… → まじで、再配達の不在票見ると最悪…お菓子… → おやすみ…今日はなんだか疲れたなぁ。仕事… → なんだかんだ、配達してるとお客さんとちょ… → はぁ…まじつかれた…マンションの階段、1… → あーもうほんとにしんど…再配達の不在票見… → あーもうほんとに帰るのだるい…ひとりぼっ… → ほんとに花粉やばい…鼻水止まらんし、目も… → ほんとにこのままじゃ寝不足だなぁ…1週間… → あーもうほんとに配達いくのもめんどくさい…",
-  "last_post_timestamp_ms": 1777812293681
+  "today_narrative": "おやすみ…疲れた一日がやっと終わってくれ… → むり…朝からまた再配達の準備…頭が働かな… → あぁ…日曜なのに全然休めない…花粉もやば… → まじで、再配達の不在票見ると最悪…お菓子… → おやすみ…今日はなんだか疲れたなぁ。仕事… → なんだかんだ、配達してるとお客さんとちょ… → はぁ…まじつかれた…マンションの階段、1… → あーもうほんとにしんど…再配達の不在票見… → あーもうほんとに帰るのだるい…ひとりぼっ… → ほんとに花粉やばい…鼻水止まらんし、目も… → ほんとにこのままじゃ寝不足だなぁ…1週間… → あーもうほんとに配達いくのもめんどくさい… → ねむすぎてもうだめ…",
+  "last_post_timestamp_ms": 1777820168970
 }
