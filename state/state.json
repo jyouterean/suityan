@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "ほんとに花粉やばい…鼻水止まらんし、目もかゆいし、あーもう…。日曜なのに全然休めん…お菓子食べたくなるし。おやすみ…疲れたなぁ。なんか、何もする気起きん…😩",
+      "slot": "casual",
+      "timestamp": "2026-05-03 19:37:25",
+      "hasImage": false
+    },
+    {
       "text": "あーもうほんとに帰るのだるい…ひとりぼっち…やっぱり配達中はお客さんと話すから楽しいけど、終わったあとのこの虚しさ…あぁ…お菓子食べたい…",
       "slot": "commute",
       "timestamp": "2026-05-03 18:54:00",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-05-03 09:24:45",
       "hasImage": false
-    },
-    {
-      "text": "あぁ…日曜なのに全然休めない…花粉もやばいし、眠いし、気分も沈むわ...桜は見たいけど、外出るのもだるい...🤦‍♀️",
-      "slot": "casual",
-      "timestamp": "2026-05-03 08:09:25",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -54,25 +54,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "commute"
+    "commute",
+    "casual"
   ],
-  "today_post_count": 9,
+  "today_post_count": 10,
   "today_goodnight_posted": true,
-  "month_total_posts": 36,
+  "month_total_posts": 37,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-03",
-  "last_post_time": "18:54:00",
+  "last_post_time": "19:37:25",
   "ng_retry_count": 165,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-03 18:54:00",
+  "updated_at": "2026-05-03 19:37:25",
   "month_string": "2026-05",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "おやすみ…疲れた一日がやっと終わってくれ… → むり…朝からまた再配達の準備…頭が働かな… → あぁ…日曜なのに全然休めない…花粉もやば… → まじで、再配達の不在票見ると最悪…お菓子… → おやすみ…今日はなんだか疲れたなぁ。仕事… → なんだかんだ、配達してるとお客さんとちょ… → はぁ…まじつかれた…マンションの階段、1… → あーもうほんとにしんど…再配達の不在票見… → あーもうほんとに帰るのだるい…ひとりぼっ…",
-  "last_post_timestamp_ms": 1777802040815
+  "today_narrative": "おやすみ…疲れた一日がやっと終わってくれ… → むり…朝からまた再配達の準備…頭が働かな… → あぁ…日曜なのに全然休めない…花粉もやば… → まじで、再配達の不在票見ると最悪…お菓子… → おやすみ…今日はなんだか疲れたなぁ。仕事… → なんだかんだ、配達してるとお客さんとちょ… → はぁ…まじつかれた…マンションの階段、1… → あーもうほんとにしんど…再配達の不在票見… → あーもうほんとに帰るのだるい…ひとりぼっ… → ほんとに花粉やばい…鼻水止まらんし、目も…",
+  "last_post_timestamp_ms": 1777804645420
 }
