@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 50,
+  "mood": "lonely",
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "あー、缶コーヒーが心にしみる…もう少しで帰れるのに、寂しいだわ。あのネコもどこか行っちゃったし、ひとり運転が虚しい…😔",
+      "slot": "commute",
+      "timestamp": "2026-05-05 08:23:30",
+      "hasImage": false
+    },
     {
       "text": "目覚めた…まだ夢の中😴",
       "slot": "morning",
@@ -37,36 +43,31 @@
       "slot": "casual",
       "timestamp": "2026-05-04 19:27:16",
       "hasImage": false
-    },
-    {
-      "text": "ひとりで運転してるとさ…なんかもっと話したいこととかあったのに…うーん、残りのはいたつもやる気起きない…桜みたいなキレイな話、聞きたいなぁ…",
-      "slot": "delivery",
-      "timestamp": "2026-05-04 17:52:50",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
     "delivery",
-    "morning"
+    "morning",
+    "commute"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": false,
-  "month_total_posts": 56,
+  "month_total_posts": 57,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-05",
-  "last_post_time": "07:24:40",
-  "ng_retry_count": 168,
+  "last_post_time": "08:23:30",
+  "ng_retry_count": 169,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-05 07:24:40",
+  "updated_at": "2026-05-05 08:23:30",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もうだめ…おやすみだわ😪 → あーあ、また運転中にネコに癒された…置き… → 目覚めた…まだ夢の中😴",
-  "last_post_timestamp_ms": 1777933480078
+  "today_narrative": "もうだめ…おやすみだわ😪 → あーあ、また運転中にネコに癒された…置き… → 目覚めた…まだ夢の中😴 → あー、缶コーヒーが心にしみる…もう少しで…",
+  "last_post_timestamp_ms": 1777937010319
 }
