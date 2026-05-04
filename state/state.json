@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 60,
+  "mood": "tired",
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "目覚めた…まだ夢の中😴",
+      "slot": "morning",
+      "timestamp": "2026-05-05 07:24:40",
+      "hasImage": false
+    },
     {
       "text": "あーあ、また運転中にネコに癒された…置き配の場所で待ってるなんて可愛すぎてつい撫でちゃった😻 仕事が終わったら誰かと話したいなぁ、褒められたい気分…まだ火曜なのに疲れが...",
       "slot": "delivery",
@@ -37,35 +43,30 @@
       "slot": "delivery",
       "timestamp": "2026-05-04 17:52:50",
       "hasImage": false
-    },
-    {
-      "text": "もうなんか、こうやって運転してると誰かに会いたくなるなぁ…褒めてほしいし、ほんと…。次のマンション行ったら、少し水分補給でもしよっかな。あと、残り6件だけど、少しでもゆっくりしたい…😩",
-      "slot": "delivery",
-      "timestamp": "2026-05-04 17:06:30",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
-    "delivery"
+    "delivery",
+    "morning"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 55,
+  "month_total_posts": 56,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-05",
-  "last_post_time": "01:32:31",
+  "last_post_time": "07:24:40",
   "ng_retry_count": 168,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-05 01:32:31",
+  "updated_at": "2026-05-05 07:24:40",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もうだめ…おやすみだわ😪 → あーあ、また運転中にネコに癒された…置き…",
-  "last_post_timestamp_ms": 1777912351409
+  "today_narrative": "もうだめ…おやすみだわ😪 → あーあ、また運転中にネコに癒された…置き… → 目覚めた…まだ夢の中😴",
+  "last_post_timestamp_ms": 1777933480078
 }
