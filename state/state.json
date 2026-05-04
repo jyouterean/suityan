@@ -1,7 +1,13 @@
 {
-  "mood": "melancholy",
-  "energy": 30,
+  "mood": "frustrated",
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "もう月曜かぁ…なんか憂鬱だなぁ。桜が綺麗なのに、全然見てないや…花粉もひどいし、うとうとしてたら思い出したけど、夢の中の方が居心地良かったかも。まだ現実に戻りたくないな…🌸☁️",
+      "slot": "casual",
+      "timestamp": "2026-05-04 13:52:55",
+      "hasImage": false
+    },
     {
       "text": "疲れた…なんか、時々夢の中に戻りたいって思う。☁️桜もあっちこっちに咲いてるのに、花粉はキツイし…新生活の準備とか考えると、もっとだるい😩",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "simple_goodnight",
       "timestamp": "2026-05-03 23:56:08",
       "hasImage": false
-    },
-    {
-      "text": "あーもうほんとに配達いくのもめんどくさい…体力ゼロになりそうだし…ねぇ、少しだけでも寄り添ってくれたらもう少し頑張れるかも…お菓子食べるかな…",
-      "slot": "night_ero",
-      "timestamp": "2026-05-03 21:44:53",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "morning",
     "casual",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": false,
-  "month_total_posts": 45,
+  "month_total_posts": 46,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-04",
-  "last_post_time": "13:41:58",
+  "last_post_time": "13:52:55",
   "ng_retry_count": 166,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-04 13:41:58",
+  "updated_at": "2026-05-04 13:52:55",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "うとうと…おやすみなさい → おはよう、まだ夢の中かも。 → てかさっきの夢の中から覚めたけど、ほんと… → そろそろ最後の配達なんだけど…ほんとだる… → 疲れた…なんか、時々夢の中に戻りたいって…",
-  "last_post_timestamp_ms": 1777869718122
+  "today_narrative": "うとうと…おやすみなさい → おはよう、まだ夢の中かも。 → てかさっきの夢の中から覚めたけど、ほんと… → そろそろ最後の配達なんだけど…ほんとだる… → 疲れた…なんか、時々夢の中に戻りたいって… → もう月曜かぁ…なんか憂鬱だなぁ。桜が綺麗…",
+  "last_post_timestamp_ms": 1777870375173
 }
