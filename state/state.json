@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 50,
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "そろそろ最後の配達なんだけど…ほんとだるい。時間指定とか面倒なだけだな… なんかリラックスしたい、誰かに会いたい。軽バンで揺られてると、色々考えちゃう。お花見行きたいけど、今はそれどころじゃないかも…😴🌸",
+      "slot": "delivery",
+      "timestamp": "2026-05-04 09:23:54",
+      "hasImage": false
+    },
     {
       "text": "てかさっきの夢の中から覚めたけど、ほんとにだるい…😩 今日はいつもみたいに働けるかなぁ…",
       "slot": "casual",
@@ -37,36 +43,31 @@
       "slot": "casual",
       "timestamp": "2026-05-03 20:47:02",
       "hasImage": false
-    },
-    {
-      "text": "ほんとに花粉やばい…鼻水止まらんし、目もかゆいし、あーもう…。日曜なのに全然休めん…お菓子食べたくなるし。おやすみ…疲れたなぁ。なんか、何もする気起きん…😩",
-      "slot": "casual",
-      "timestamp": "2026-05-03 19:37:25",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
     "morning",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": false,
-  "month_total_posts": 43,
+  "month_total_posts": 44,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-04",
-  "last_post_time": "08:33:35",
+  "last_post_time": "09:23:54",
   "ng_retry_count": 166,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-04 08:33:35",
+  "updated_at": "2026-05-04 09:23:54",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "うとうと…おやすみなさい → おはよう、まだ夢の中かも。 → てかさっきの夢の中から覚めたけど、ほんと…",
-  "last_post_timestamp_ms": 1777851215873
+  "today_narrative": "うとうと…おやすみなさい → おはよう、まだ夢の中かも。 → てかさっきの夢の中から覚めたけど、ほんと… → そろそろ最後の配達なんだけど…ほんとだる…",
+  "last_post_timestamp_ms": 1777854234003
 }
