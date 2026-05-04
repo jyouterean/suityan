@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "もうなんか、こうやって運転してると誰かに会いたくなるなぁ…褒めてほしいし、ほんと…。次のマンション行ったら、少し水分補給でもしよっかな。あと、残り6件だけど、少しでもゆっくりしたい…😩",
+      "slot": "delivery",
+      "timestamp": "2026-05-04 17:06:30",
+      "hasImage": false
+    },
+    {
       "text": "あー、エレベーターなしで142件もはいたつしたから、体力ゼロだ…ほんとに誰かに褒めてもらいたい気分…😩桜見ながら運転したいなぁ…",
       "slot": "delivery",
       "timestamp": "2026-05-04 16:49:07",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-05-04 08:33:35",
       "hasImage": false
-    },
-    {
-      "text": "おはよう、まだ夢の中かも。",
-      "slot": "morning",
-      "timestamp": "2026-05-04 06:57:38",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "casual",
     "casual",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": false,
-  "month_total_posts": 48,
+  "month_total_posts": 49,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-04",
-  "last_post_time": "16:49:07",
+  "last_post_time": "17:06:30",
   "ng_retry_count": 167,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-04 16:49:07",
+  "updated_at": "2026-05-04 17:06:30",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "うとうと…おやすみなさい → おはよう、まだ夢の中かも。 → てかさっきの夢の中から覚めたけど、ほんと… → そろそろ最後の配達なんだけど…ほんとだる… → 疲れた…なんか、時々夢の中に戻りたいって… → もう月曜かぁ…なんか憂鬱だなぁ。桜が綺麗… → あーもう…現実、しんどい。運転中もぼーっ… → あー、エレベーターなしで142件もはいた…",
-  "last_post_timestamp_ms": 1777880947847
+  "today_narrative": "うとうと…おやすみなさい → おはよう、まだ夢の中かも。 → てかさっきの夢の中から覚めたけど、ほんと… → そろそろ最後の配達なんだけど…ほんとだる… → 疲れた…なんか、時々夢の中に戻りたいって… → もう月曜かぁ…なんか憂鬱だなぁ。桜が綺麗… → あーもう…現実、しんどい。運転中もぼーっ… → あー、エレベーターなしで142件もはいた… → もうなんか、こうやって運転してると誰かに…",
+  "last_post_timestamp_ms": 1777881990901
 }
