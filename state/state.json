@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 70,
+  "mood": "lonely",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "あーあ、また運転中にネコに癒された…置き配の場所で待ってるなんて可愛すぎてつい撫でちゃった😻 仕事が終わったら誰かと話したいなぁ、褒められたい気分…まだ火曜なのに疲れが...",
+      "slot": "delivery",
+      "timestamp": "2026-05-05 01:32:31",
+      "hasImage": false
+    },
     {
       "text": "もうだめ…おやすみだわ😪",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-05-04 17:06:30",
       "hasImage": false
-    },
-    {
-      "text": "あー、エレベーターなしで142件もはいたつしたから、体力ゼロだ…ほんとに誰かに褒めてもらいたい気分…😩桜見ながら運転したいなぁ…",
-      "slot": "delivery",
-      "timestamp": "2026-05-04 16:49:07",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "delivery"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 54,
+  "month_total_posts": 55,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-05",
-  "last_post_time": "00:38:10",
+  "last_post_time": "01:32:31",
   "ng_retry_count": 168,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-05 00:38:10",
+  "updated_at": "2026-05-05 01:32:31",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": false,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もうだめ…おやすみだわ😪",
-  "last_post_timestamp_ms": 1777909090475
+  "today_narrative": "もうだめ…おやすみだわ😪 → あーあ、また運転中にネコに癒された…置き…",
+  "last_post_timestamp_ms": 1777912351409
 }
