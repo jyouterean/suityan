@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "ひとりで運転してるとさ…なんかもっと話したいこととかあったのに…うーん、残りのはいたつもやる気起きない…桜みたいなキレイな話、聞きたいなぁ…",
+      "slot": "delivery",
+      "timestamp": "2026-05-04 17:52:50",
+      "hasImage": false
+    },
+    {
       "text": "もうなんか、こうやって運転してると誰かに会いたくなるなぁ…褒めてほしいし、ほんと…。次のマンション行ったら、少し水分補給でもしよっかな。あと、残り6件だけど、少しでもゆっくりしたい…😩",
       "slot": "delivery",
       "timestamp": "2026-05-04 17:06:30",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-05-04 09:23:54",
       "hasImage": false
-    },
-    {
-      "text": "てかさっきの夢の中から覚めたけど、ほんとにだるい…😩 今日はいつもみたいに働けるかなぁ…",
-      "slot": "casual",
-      "timestamp": "2026-05-04 08:33:35",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -54,25 +54,26 @@
     "casual",
     "delivery",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 9,
+  "today_post_count": 10,
   "today_goodnight_posted": false,
-  "month_total_posts": 49,
+  "month_total_posts": 50,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-04",
-  "last_post_time": "17:06:30",
+  "last_post_time": "17:52:50",
   "ng_retry_count": 167,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-04 17:06:30",
+  "updated_at": "2026-05-04 17:52:50",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 13,
-  "today_narrative": "うとうと…おやすみなさい → おはよう、まだ夢の中かも。 → てかさっきの夢の中から覚めたけど、ほんと… → そろそろ最後の配達なんだけど…ほんとだる… → 疲れた…なんか、時々夢の中に戻りたいって… → もう月曜かぁ…なんか憂鬱だなぁ。桜が綺麗… → あーもう…現実、しんどい。運転中もぼーっ… → あー、エレベーターなしで142件もはいた… → もうなんか、こうやって運転してると誰かに…",
-  "last_post_timestamp_ms": 1777881990901
+  "today_narrative": "うとうと…おやすみなさい → おはよう、まだ夢の中かも。 → てかさっきの夢の中から覚めたけど、ほんと… → そろそろ最後の配達なんだけど…ほんとだる… → 疲れた…なんか、時々夢の中に戻りたいって… → もう月曜かぁ…なんか憂鬱だなぁ。桜が綺麗… → あーもう…現実、しんどい。運転中もぼーっ… → あー、エレベーターなしで142件もはいた… → もうなんか、こうやって運転してると誰かに… → ひとりで運転してるとさ…なんかもっと話し…",
+  "last_post_timestamp_ms": 1777884770052
 }
