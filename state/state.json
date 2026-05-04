@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 10,
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "もうだめ…おやすみだわ😪",
+      "slot": "simple_goodnight",
+      "timestamp": "2026-05-05 00:38:10",
+      "hasImage": false
+    },
     {
       "text": "あーもう…運転中にさ、景色がきれいすぎてぼーっとしちゃう…桜の下、誰かと一緒にいたいなぁ…このまま運転してるのも、なんかしんどいよね…😔",
       "slot": "night_ero",
@@ -37,46 +43,28 @@
       "slot": "delivery",
       "timestamp": "2026-05-04 16:49:07",
       "hasImage": false
-    },
-    {
-      "text": "あーもう…現実、しんどい。運転中もぼーっとしちゃって本当にやばいな。花粉、体力削られるし…早く終わってほしいなぁ。😩🌪️",
-      "slot": "delivery",
-      "timestamp": "2026-05-04 15:19:10",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight",
-    "morning",
-    "casual",
-    "delivery",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery",
-    "delivery",
-    "casual",
-    "casual",
-    "night_ero"
+    "simple_goodnight"
   ],
-  "today_post_count": 13,
+  "today_post_count": 1,
   "today_goodnight_posted": false,
-  "month_total_posts": 53,
+  "month_total_posts": 54,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-05-04",
-  "last_post_time": "21:47:19",
+  "last_post_date": "2026-05-05",
+  "last_post_time": "00:38:10",
   "ng_retry_count": 168,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-04 21:47:19",
+  "updated_at": "2026-05-05 00:38:10",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": true,
+  "today_morning_posted": false,
   "today_skip_count": 0,
-  "today_max_posts": 13,
-  "today_narrative": "うとうと…おやすみなさい → おはよう、まだ夢の中かも。 → てかさっきの夢の中から覚めたけど、ほんと… → そろそろ最後の配達なんだけど…ほんとだる… → 疲れた…なんか、時々夢の中に戻りたいって… → もう月曜かぁ…なんか憂鬱だなぁ。桜が綺麗… → あーもう…現実、しんどい。運転中もぼーっ… → あー、エレベーターなしで142件もはいた… → もうなんか、こうやって運転してると誰かに… → ひとりで運転してるとさ…なんかもっと話し… → あー、また月曜が...ほんと憂鬱だなぁ。… → ほんと…もう花粉やばいし、あったかくなっ… → あーもう…運転中にさ、景色がきれいすぎて…",
-  "last_post_timestamp_ms": 1777898839159
+  "today_max_posts": 14,
+  "today_narrative": "もうだめ…おやすみだわ😪",
+  "last_post_timestamp_ms": 1777909090475
 }
