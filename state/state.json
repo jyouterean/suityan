@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 40,
+  "mood": "tired",
+  "energy": 30,
   "last_posts": [
+    {
+      "text": "てかさっきのネコ、また会いたいなぁ…運転中に癒される瞬間がほしい！でも、仕事は頑張るしかないっしょ！これから配達先も近いし、がんばるぞー🚚💨",
+      "slot": "delivery",
+      "timestamp": "2026-05-05 10:21:02",
+      "hasImage": false
+    },
     {
       "text": "あー、缶コーヒーが心にしみる…もう少しで帰れるのに、寂しいだわ。あのネコもどこか行っちゃったし、ひとり運転が虚しい…😔",
       "slot": "commute",
@@ -37,37 +43,32 @@
       "slot": "casual",
       "timestamp": "2026-05-04 20:23:18",
       "hasImage": false
-    },
-    {
-      "text": "あー、また月曜が...ほんと憂鬱だなぁ。桜は綺麗なのにさ、なんか心がついてこない...🌸運転中、ぼーっとしちゃうし、ほんとしんどいなぁ😔",
-      "slot": "casual",
-      "timestamp": "2026-05-04 19:27:16",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
     "delivery",
     "morning",
-    "commute"
+    "commute",
+    "delivery"
   ],
-  "today_post_count": 4,
+  "today_post_count": 5,
   "today_goodnight_posted": false,
-  "month_total_posts": 57,
+  "month_total_posts": 58,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-05",
-  "last_post_time": "08:23:30",
+  "last_post_time": "10:21:02",
   "ng_retry_count": 169,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-05 08:23:30",
+  "updated_at": "2026-05-05 10:21:02",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "もうだめ…おやすみだわ😪 → あーあ、また運転中にネコに癒された…置き… → 目覚めた…まだ夢の中😴 → あー、缶コーヒーが心にしみる…もう少しで…",
-  "last_post_timestamp_ms": 1777937010319
+  "today_narrative": "もうだめ…おやすみだわ😪 → あーあ、また運転中にネコに癒された…置き… → 目覚めた…まだ夢の中😴 → あー、缶コーヒーが心にしみる…もう少しで… → てかさっきのネコ、また会いたいなぁ…運転…",
+  "last_post_timestamp_ms": 1777944062185
 }
