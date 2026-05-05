@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 10,
+  "mood": "lonely",
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "桜がちらほら咲いてきたのに…配達の合間に花見とか無理だし…エレベーターなしの8F、運んだ荷物重かったし😩 誰か優しい言葉かけてくれないかな…一人だとつらい…",
+      "slot": "delivery",
+      "timestamp": "2026-05-06 01:39:40",
+      "hasImage": false
+    },
     {
       "text": "あー、今日はこの一軒家の配達でほんと疲れた…重い荷物持って階段登るの辛いわ💦あ、でもあのネコのこと考えると…ちょっとだけ元気出るかも…😌",
       "slot": "night_ero",
@@ -37,47 +43,28 @@
       "slot": "delivery",
       "timestamp": "2026-05-05 16:57:39",
       "hasImage": false
-    },
-    {
-      "text": "あー、また再配達のために階段登るのか…5Fってもういやだわ😩けど、外は快晴で春っぽいなぁ。気になっちゃうけど、ほんと誰かに褒めてほしい…うるさい自分…",
-      "slot": "delivery",
-      "timestamp": "2026-05-05 15:49:08",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight",
-    "delivery",
-    "morning",
-    "commute",
-    "delivery",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery",
-    "casual",
-    "casual",
-    "night_ero",
-    "night_ero"
+    "delivery"
   ],
-  "today_post_count": 14,
+  "today_post_count": 1,
   "today_goodnight_posted": false,
-  "month_total_posts": 67,
+  "month_total_posts": 68,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-05-05",
-  "last_post_time": "22:34:11",
+  "last_post_date": "2026-05-06",
+  "last_post_time": "01:39:40",
   "ng_retry_count": 170,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-05 22:34:11",
+  "updated_at": "2026-05-06 01:39:40",
   "month_string": "2026-05",
-  "today_skipped": true,
-  "today_simple_goodnight_posted": true,
-  "today_morning_posted": true,
-  "today_skip_count": 1,
-  "today_max_posts": 14,
-  "today_narrative": "もうだめ…おやすみだわ😪 → あーあ、また運転中にネコに癒された…置き… → 目覚めた…まだ夢の中😴 → あー、缶コーヒーが心にしみる…もう少しで… → てかさっきのネコ、また会いたいなぁ…運転… → あー、またあのネコに会えたらいいなぁ…ほ… → てか、また運転ばっかり…体が重いわぁ💦… → あー、また再配達のために階段登るのか…5… → あー、信号待ちでまた猫に会えたらなぁ…お… → もうすぐお届け完了…うん、あーあ、次の荷… → あー、缶コーヒーほんとしみる…心が少しあ… → てかさっきの続きだけど…運転するのほんと… → また運転するのかぁ…体が重い…それに再配… → あー、今日はこの一軒家の配達でほんと疲れ…",
-  "last_post_timestamp_ms": 1777988051939
+  "today_skipped": false,
+  "today_simple_goodnight_posted": false,
+  "today_morning_posted": false,
+  "today_skip_count": 0,
+  "today_max_posts": 10,
+  "today_narrative": "桜がちらほら咲いてきたのに…配達の合間に…",
+  "last_post_timestamp_ms": 1777999180539
 }
