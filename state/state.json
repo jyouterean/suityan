@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あー、今日はこの一軒家の配達でほんと疲れた…重い荷物持って階段登るの辛いわ💦あ、でもあのネコのこと考えると…ちょっとだけ元気出るかも…😌",
+      "slot": "night_ero",
+      "timestamp": "2026-05-05 22:34:11",
+      "hasImage": false
+    },
+    {
       "text": "また運転するのかぁ…体が重い…それに再配達まで階段11F…ほんとやだなぁ😩 せめてネコに会いたい…あったかい温もりほしい…ねぇ…",
       "slot": "night_ero",
       "timestamp": "2026-05-05 21:18:13",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-05-05 15:49:08",
       "hasImage": false
-    },
-    {
-      "text": "てか、また運転ばっかり…体が重いわぁ💦 明日の配達、どうなるかな…早く終わって休みたい。",
-      "slot": "casual",
-      "timestamp": "2026-05-05 13:35:33",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -58,25 +58,26 @@
     "delivery",
     "casual",
     "casual",
+    "night_ero",
     "night_ero"
   ],
-  "today_post_count": 13,
+  "today_post_count": 14,
   "today_goodnight_posted": false,
-  "month_total_posts": 66,
+  "month_total_posts": 67,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-05",
-  "last_post_time": "21:18:13",
+  "last_post_time": "22:34:11",
   "ng_retry_count": 170,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-05 21:18:13",
+  "updated_at": "2026-05-05 22:34:11",
   "month_string": "2026-05",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "もうだめ…おやすみだわ😪 → あーあ、また運転中にネコに癒された…置き… → 目覚めた…まだ夢の中😴 → あー、缶コーヒーが心にしみる…もう少しで… → てかさっきのネコ、また会いたいなぁ…運転… → あー、またあのネコに会えたらいいなぁ…ほ… → てか、また運転ばっかり…体が重いわぁ💦… → あー、また再配達のために階段登るのか…5… → あー、信号待ちでまた猫に会えたらなぁ…お… → もうすぐお届け完了…うん、あーあ、次の荷… → あー、缶コーヒーほんとしみる…心が少しあ… → てかさっきの続きだけど…運転するのほんと… → また運転するのかぁ…体が重い…それに再配…",
-  "last_post_timestamp_ms": 1777983493884
+  "today_narrative": "もうだめ…おやすみだわ😪 → あーあ、また運転中にネコに癒された…置き… → 目覚めた…まだ夢の中😴 → あー、缶コーヒーが心にしみる…もう少しで… → てかさっきのネコ、また会いたいなぁ…運転… → あー、またあのネコに会えたらいいなぁ…ほ… → てか、また運転ばっかり…体が重いわぁ💦… → あー、また再配達のために階段登るのか…5… → あー、信号待ちでまた猫に会えたらなぁ…お… → もうすぐお届け完了…うん、あーあ、次の荷… → あー、缶コーヒーほんとしみる…心が少しあ… → てかさっきの続きだけど…運転するのほんと… → また運転するのかぁ…体が重い…それに再配… → あー、今日はこの一軒家の配達でほんと疲れ…",
+  "last_post_timestamp_ms": 1777988051939
 }
