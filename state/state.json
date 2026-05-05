@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "てかさっきの続きだけど…運転するのほんとしんどいよぉ…誰か、かまってよ…😔",
+      "slot": "casual",
+      "timestamp": "2026-05-05 20:17:53",
+      "hasImage": false
+    },
+    {
       "text": "あー、缶コーヒーほんとしみる…心が少しあったかくなるの。あー、でもまた運転の時間か…少し休憩したいなぁ😪",
       "slot": "casual",
       "timestamp": "2026-05-05 19:13:47",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-05-05 13:08:37",
       "hasImage": false
-    },
-    {
-      "text": "てかさっきのネコ、また会いたいなぁ…運転中に癒される瞬間がほしい！でも、仕事は頑張るしかないっしょ！これから配達先も近いし、がんばるぞー🚚💨",
-      "slot": "delivery",
-      "timestamp": "2026-05-05 10:21:02",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -56,25 +56,26 @@
     "delivery",
     "delivery",
     "delivery",
+    "casual",
     "casual"
   ],
-  "today_post_count": 11,
+  "today_post_count": 12,
   "today_goodnight_posted": false,
-  "month_total_posts": 64,
+  "month_total_posts": 65,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-05",
-  "last_post_time": "19:13:47",
+  "last_post_time": "20:17:53",
   "ng_retry_count": 170,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-05 19:13:47",
+  "updated_at": "2026-05-05 20:17:53",
   "month_string": "2026-05",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "もうだめ…おやすみだわ😪 → あーあ、また運転中にネコに癒された…置き… → 目覚めた…まだ夢の中😴 → あー、缶コーヒーが心にしみる…もう少しで… → てかさっきのネコ、また会いたいなぁ…運転… → あー、またあのネコに会えたらいいなぁ…ほ… → てか、また運転ばっかり…体が重いわぁ💦… → あー、また再配達のために階段登るのか…5… → あー、信号待ちでまた猫に会えたらなぁ…お… → もうすぐお届け完了…うん、あーあ、次の荷… → あー、缶コーヒーほんとしみる…心が少しあ…",
-  "last_post_timestamp_ms": 1777976027944
+  "today_narrative": "もうだめ…おやすみだわ😪 → あーあ、また運転中にネコに癒された…置き… → 目覚めた…まだ夢の中😴 → あー、缶コーヒーが心にしみる…もう少しで… → てかさっきのネコ、また会いたいなぁ…運転… → あー、またあのネコに会えたらいいなぁ…ほ… → てか、また運転ばっかり…体が重いわぁ💦… → あー、また再配達のために階段登るのか…5… → あー、信号待ちでまた猫に会えたらなぁ…お… → もうすぐお届け完了…うん、あーあ、次の荷… → あー、缶コーヒーほんとしみる…心が少しあ… → てかさっきの続きだけど…運転するのほんと…",
+  "last_post_timestamp_ms": 1777979873329
 }
