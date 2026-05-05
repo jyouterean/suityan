@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あー、信号待ちでまた猫に会えたらなぁ…お客さんのとこまでの距離長いし、癒されたい😩 もうホント運転も疲れたし…。このままじゃ体力なくなるよ…💤",
+      "slot": "delivery",
+      "timestamp": "2026-05-05 16:57:39",
+      "hasImage": false
+    },
+    {
       "text": "あー、また再配達のために階段登るのか…5Fってもういやだわ😩けど、外は快晴で春っぽいなぁ。気になっちゃうけど、ほんと誰かに褒めてほしい…うるさい自分…",
       "slot": "delivery",
       "timestamp": "2026-05-05 15:49:08",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-05-05 07:24:40",
       "hasImage": false
-    },
-    {
-      "text": "あーあ、また運転中にネコに癒された…置き配の場所で待ってるなんて可愛すぎてつい撫でちゃった😻 仕事が終わったら誰かと話したいなぁ、褒められたい気分…まだ火曜なのに疲れが...",
-      "slot": "delivery",
-      "timestamp": "2026-05-05 01:32:31",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "delivery",
     "casual",
     "casual",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": false,
-  "month_total_posts": 61,
+  "month_total_posts": 62,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-05",
-  "last_post_time": "15:49:08",
+  "last_post_time": "16:57:39",
   "ng_retry_count": 170,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-05 15:49:08",
+  "updated_at": "2026-05-05 16:57:39",
   "month_string": "2026-05",
   "today_skipped": true,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 14,
-  "today_narrative": "もうだめ…おやすみだわ😪 → あーあ、また運転中にネコに癒された…置き… → 目覚めた…まだ夢の中😴 → あー、缶コーヒーが心にしみる…もう少しで… → てかさっきのネコ、また会いたいなぁ…運転… → あー、またあのネコに会えたらいいなぁ…ほ… → てか、また運転ばっかり…体が重いわぁ💦… → あー、また再配達のために階段登るのか…5…",
-  "last_post_timestamp_ms": 1777963748619
+  "today_narrative": "もうだめ…おやすみだわ😪 → あーあ、また運転中にネコに癒された…置き… → 目覚めた…まだ夢の中😴 → あー、缶コーヒーが心にしみる…もう少しで… → てかさっきのネコ、また会いたいなぁ…運転… → あー、またあのネコに会えたらいいなぁ…ほ… → てか、また運転ばっかり…体が重いわぁ💦… → あー、また再配達のために階段登るのか…5… → あー、信号待ちでまた猫に会えたらなぁ…お…",
+  "last_post_timestamp_ms": 1777967859069
 }
