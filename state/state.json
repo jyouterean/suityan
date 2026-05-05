@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 70,
+  "mood": "tired",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "まだ夢の中…😪",
+      "slot": "morning",
+      "timestamp": "2026-05-06 07:07:08",
+      "hasImage": false
+    },
     {
       "text": "桜がちらほら咲いてきたのに…配達の合間に花見とか無理だし…エレベーターなしの8F、運んだ荷物重かったし😩 誰か優しい言葉かけてくれないかな…一人だとつらい…",
       "slot": "delivery",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-05-05 17:40:24",
       "hasImage": false
-    },
-    {
-      "text": "あー、信号待ちでまた猫に会えたらなぁ…お客さんのとこまでの距離長いし、癒されたい😩 もうホント運転も疲れたし…。このままじゃ体力なくなるよ…💤",
-      "slot": "delivery",
-      "timestamp": "2026-05-05 16:57:39",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "delivery"
+    "delivery",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 68,
+  "month_total_posts": 69,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-06",
-  "last_post_time": "01:39:40",
+  "last_post_time": "07:07:08",
   "ng_retry_count": 170,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-06 01:39:40",
+  "updated_at": "2026-05-06 07:07:08",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 10,
-  "today_narrative": "桜がちらほら咲いてきたのに…配達の合間に…",
-  "last_post_timestamp_ms": 1777999180539
+  "today_narrative": "桜がちらほら咲いてきたのに…配達の合間に… → まだ夢の中…😪",
+  "last_post_timestamp_ms": 1778018828913
 }
