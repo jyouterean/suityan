@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 60,
+  "mood": "melancholy",
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "こんな曇りの日に一人で帰るの…やっぱ寂しいなぁ…配達件数119件も運んでるけど、もう残り17件。何だか疲れがどっと出てきた…桜見ながら帰りたいな…🌸😴",
+      "slot": "commute",
+      "timestamp": "2026-05-06 08:44:05",
+      "hasImage": false
+    },
     {
       "text": "まだ夢の中…😪",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "casual",
       "timestamp": "2026-05-05 19:13:47",
       "hasImage": false
-    },
-    {
-      "text": "もうすぐお届け完了…うん、あーあ、次の荷物も運ぶのか…ほんとなんだかなぁ💦また運転かぁ…体力どこいった…ほんと、誰かに褒めてほしいなぁ…",
-      "slot": "delivery",
-      "timestamp": "2026-05-05 17:40:24",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "delivery",
-    "morning"
+    "morning",
+    "commute"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 69,
+  "month_total_posts": 70,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-06",
-  "last_post_time": "07:07:08",
+  "last_post_time": "08:44:05",
   "ng_retry_count": 170,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-06 07:07:08",
+  "updated_at": "2026-05-06 08:44:05",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 10,
-  "today_narrative": "桜がちらほら咲いてきたのに…配達の合間に… → まだ夢の中…😪",
-  "last_post_timestamp_ms": 1778018828913
+  "today_narrative": "桜がちらほら咲いてきたのに…配達の合間に… → まだ夢の中…😪 → こんな曇りの日に一人で帰るの…やっぱ寂し…",
+  "last_post_timestamp_ms": 1778024645544
 }
