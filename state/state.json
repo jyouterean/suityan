@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "こんなに疲れてるのに、まわりは春だって盛り上がってる…置き配するのに階段上がるのしんどいし、もっと褒めてほしい…😔 こんな日こそ誰かに会いたい…",
+      "slot": "delivery",
+      "timestamp": "2026-05-06 16:28:13",
+      "hasImage": false
+    },
+    {
       "text": "お客さんとのやりとり、やっぱりちょっと楽しい…でも、こんな曇りの日に一人で移動すると寂しい…配達終わったら誰かと話したいな…水分補給もしないと、体力が…あ、もうすぐ70件目か…眠い…😪",
       "slot": "delivery",
       "timestamp": "2026-05-06 14:48:58",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-05-06 07:07:08",
       "hasImage": false
-    },
-    {
-      "text": "桜がちらほら咲いてきたのに…配達の合間に花見とか無理だし…エレベーターなしの8F、運んだ荷物重かったし😩 誰か優しい言葉かけてくれないかな…一人だとつらい…",
-      "slot": "delivery",
-      "timestamp": "2026-05-06 01:39:40",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "delivery",
     "casual",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": false,
-  "month_total_posts": 74,
+  "month_total_posts": 75,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-06",
-  "last_post_time": "14:48:58",
+  "last_post_time": "16:28:13",
   "ng_retry_count": 170,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-06 14:48:58",
+  "updated_at": "2026-05-06 16:28:13",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 10,
-  "today_narrative": "桜がちらほら咲いてきたのに…配達の合間に… → まだ夢の中…😪 → こんな曇りの日に一人で帰るの…やっぱ寂し… → 配達件数もうすぐ150件…！でも疲れたな… → 桜がちらほら咲いてきたのに…全然お花見で… → 桜見ながらの配達より、花粉の方が気になる… → お客さんとのやりとり、やっぱりちょっと楽…",
-  "last_post_timestamp_ms": 1778046538704
+  "today_narrative": "桜がちらほら咲いてきたのに…配達の合間に… → まだ夢の中…😪 → こんな曇りの日に一人で帰るの…やっぱ寂し… → 配達件数もうすぐ150件…！でも疲れたな… → 桜がちらほら咲いてきたのに…全然お花見で… → 桜見ながらの配達より、花粉の方が気になる… → お客さんとのやりとり、やっぱりちょっと楽… → こんなに疲れてるのに、まわりは春だって盛…",
+  "last_post_timestamp_ms": 1778052493184
 }
