@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "もうさ、こんな曇りの日にひとりで帰るの…やっぱりさみしいよね…桜もちらほら咲いてるのにお花見する元気もないや😪花粉がつらいし、もうほんとしんどい…でもお客さんとのやりとりでなんとかがんばれる。なんでこんなに疲れてるのか…",
+      "slot": "casual",
+      "timestamp": "2026-05-06 19:26:55",
+      "hasImage": false
+    },
+    {
       "text": "あーもう…おっちゃんとすれ違った瞬間、心にずーんって来た…残りの件数考えると、疲れしかない。置き配の山、どうにかなるかな…桜見て癒されたいのに…",
       "slot": "delivery",
       "timestamp": "2026-05-06 17:11:57",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-05-06 10:36:45",
       "hasImage": false
-    },
-    {
-      "text": "こんな曇りの日に一人で帰るの…やっぱ寂しいなぁ…配達件数119件も運んでるけど、もう残り17件。何だか疲れがどっと出てきた…桜見ながら帰りたいな…🌸😴",
-      "slot": "commute",
-      "timestamp": "2026-05-06 08:44:05",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -54,25 +54,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 9,
+  "today_post_count": 10,
   "today_goodnight_posted": false,
-  "month_total_posts": 76,
+  "month_total_posts": 77,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-06",
-  "last_post_time": "17:11:57",
+  "last_post_time": "19:26:55",
   "ng_retry_count": 172,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-06 17:11:57",
+  "updated_at": "2026-05-06 19:26:55",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 10,
-  "today_narrative": "桜がちらほら咲いてきたのに…配達の合間に… → まだ夢の中…😪 → こんな曇りの日に一人で帰るの…やっぱ寂し… → 配達件数もうすぐ150件…！でも疲れたな… → 桜がちらほら咲いてきたのに…全然お花見で… → 桜見ながらの配達より、花粉の方が気になる… → お客さんとのやりとり、やっぱりちょっと楽… → こんなに疲れてるのに、まわりは春だって盛… → あーもう…おっちゃんとすれ違った瞬間、心…",
-  "last_post_timestamp_ms": 1778055117972
+  "today_narrative": "桜がちらほら咲いてきたのに…配達の合間に… → まだ夢の中…😪 → こんな曇りの日に一人で帰るの…やっぱ寂し… → 配達件数もうすぐ150件…！でも疲れたな… → 桜がちらほら咲いてきたのに…全然お花見で… → 桜見ながらの配達より、花粉の方が気になる… → お客さんとのやりとり、やっぱりちょっと楽… → こんなに疲れてるのに、まわりは春だって盛… → あーもう…おっちゃんとすれ違った瞬間、心… → もうさ、こんな曇りの日にひとりで帰るの……",
+  "last_post_timestamp_ms": 1778063215341
 }
