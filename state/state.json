@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 40,
+  "mood": "frustrated",
+  "energy": 30,
   "last_posts": [
+    {
+      "text": "桜がちらほら咲いてきたのに…全然お花見できないしー😣なんか物寂しい。こういう日は誰かと一緒におしゃべりしたいなぁ...",
+      "slot": "casual",
+      "timestamp": "2026-05-06 13:24:57",
+      "hasImage": false
+    },
     {
       "text": "配達件数もうすぐ150件…！でも疲れたなぁ、桜見ながらのお茶タイムが欲しい…やっぱり近くに誰かいてくれたらなぁ…🌸💭",
       "slot": "delivery",
@@ -37,37 +43,32 @@
       "slot": "night_ero",
       "timestamp": "2026-05-05 21:18:13",
       "hasImage": false
-    },
-    {
-      "text": "てかさっきの続きだけど…運転するのほんとしんどいよぉ…誰か、かまってよ…😔",
-      "slot": "casual",
-      "timestamp": "2026-05-05 20:17:53",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "delivery",
     "morning",
     "commute",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 4,
+  "today_post_count": 5,
   "today_goodnight_posted": false,
-  "month_total_posts": 71,
+  "month_total_posts": 72,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-06",
-  "last_post_time": "10:36:45",
+  "last_post_time": "13:24:57",
   "ng_retry_count": 170,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-06 10:36:45",
+  "updated_at": "2026-05-06 13:24:57",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 10,
-  "today_narrative": "桜がちらほら咲いてきたのに…配達の合間に… → まだ夢の中…😪 → こんな曇りの日に一人で帰るの…やっぱ寂し… → 配達件数もうすぐ150件…！でも疲れたな…",
-  "last_post_timestamp_ms": 1778031405443
+  "today_narrative": "桜がちらほら咲いてきたのに…配達の合間に… → まだ夢の中…😪 → こんな曇りの日に一人で帰るの…やっぱ寂し… → 配達件数もうすぐ150件…！でも疲れたな… → 桜がちらほら咲いてきたのに…全然お花見で…",
+  "last_post_timestamp_ms": 1778041497928
 }
