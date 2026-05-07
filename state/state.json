@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あーもう、今日のはいたつほんときつい…階段で疲れたのに、また一軒家かよ💦 お客さんとの会話、ちょっとだけ楽しいけど…それでもしんどいなぁ。誰かに褒められたい😩",
+      "slot": "delivery",
+      "timestamp": "2026-05-07 16:46:36",
+      "hasImage": false
+    },
+    {
       "text": "運転中、ほんとつかれる…😩エレベーターないともうバタバタだし…。春なのに、花粉がつらいってお客さんも言ってたな…みんな苦労してるんだよね。今夜も頑張らないと…",
       "slot": "delivery",
       "timestamp": "2026-05-07 14:51:10",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-05-07 07:30:37",
       "hasImage": false
-    },
-    {
-      "text": "配達件数121件、エレベーターなしでバタバタ…季節の変わり目、暖かくなってきたのに誰か会いたいな…さくらも散り始めてるのに、ひとりで帰るのはさみしいよ…😢✨",
-      "slot": "delivery",
-      "timestamp": "2026-05-07 01:18:37",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "delivery",
     "casual",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": true,
-  "month_total_posts": 85,
+  "month_total_posts": 86,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-07",
-  "last_post_time": "14:51:10",
+  "last_post_time": "16:46:36",
   "ng_retry_count": 173,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-07 14:51:10",
+  "updated_at": "2026-05-07 16:46:36",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "明日も頑張ります…あと1件だけお届けした… → 配達件数121件、エレベーターなしでバタ… → むり…もう眠いし…運転中、何も考えたくな… → てかさっきの…運転ってほんとだるいよね…… → あ、そういえば今さ、階段上ってて疲れたな… → あー、なんかさ…春になってきたのに、花粉… → あー、ほんと…なんかお客さんとのやりとり… → 運転中、ほんとつかれる…😩エレベーター…",
-  "last_post_timestamp_ms": 1778133070158
+  "today_narrative": "明日も頑張ります…あと1件だけお届けした… → 配達件数121件、エレベーターなしでバタ… → むり…もう眠いし…運転中、何も考えたくな… → てかさっきの…運転ってほんとだるいよね…… → あ、そういえば今さ、階段上ってて疲れたな… → あー、なんかさ…春になってきたのに、花粉… → あー、ほんと…なんかお客さんとのやりとり… → 運転中、ほんとつかれる…😩エレベーター… → あーもう、今日のはいたつほんときつい…階…",
+  "last_post_timestamp_ms": 1778139996770
 }
