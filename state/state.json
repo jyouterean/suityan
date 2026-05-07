@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 50,
+  "mood": "lonely",
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "帰り道…一人だとなんか淋しいなぁ…満開の桜見ながら帰りたかった。荷物がたくさんあって疲れたけど、今はちょっと解放感…。缶コーヒー飲みたいな🍵☁️",
+      "slot": "commute",
+      "timestamp": "2026-05-08 08:51:17",
+      "hasImage": false
+    },
     {
       "text": "おはよ…全然起きれないわ",
       "slot": "morning",
@@ -37,36 +43,31 @@
       "slot": "casual",
       "timestamp": "2026-05-07 19:47:50",
       "hasImage": false
-    },
-    {
-      "text": "もうさ、移動中の一人の時間がほんと虚しい…あー、なんか違うな。配達件数134件、残り23件…でも早く帰りたいな。春なのに花粉にやられてるし、ほんとしんどいよね。あ、そういえば今さ、エレベーターなしでバタバタしてるの思い出した…😩",
-      "slot": "commute",
-      "timestamp": "2026-05-07 18:11:41",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
     "delivery",
-    "morning"
+    "morning",
+    "commute"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": true,
-  "month_total_posts": 94,
+  "month_total_posts": 95,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-08",
-  "last_post_time": "07:24:45",
+  "last_post_time": "08:51:17",
   "ng_retry_count": 173,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-08 07:24:45",
+  "updated_at": "2026-05-08 08:51:17",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "もうおやすみ…疲れたよぉ、今日もたくさん… → 軽バンでの配達、今日は139件もこなした… → おはよ…全然起きれないわ",
-  "last_post_timestamp_ms": 1778192685936
+  "today_narrative": "もうおやすみ…疲れたよぉ、今日もたくさん… → 軽バンでの配達、今日は139件もこなした… → おはよ…全然起きれないわ → 帰り道…一人だとなんか淋しいなぁ…満開の…",
+  "last_post_timestamp_ms": 1778197877148
 }
