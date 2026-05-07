@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "運転中、ほんとつかれる…😩エレベーターないともうバタバタだし…。春なのに、花粉がつらいってお客さんも言ってたな…みんな苦労してるんだよね。今夜も頑張らないと…",
+      "slot": "delivery",
+      "timestamp": "2026-05-07 14:51:10",
+      "hasImage": false
+    },
+    {
       "text": "あー、ほんと…なんかお客さんとのやりとりも疲れるなぁ…さっき元気だった子供に手振られたけど、なんか切ない…💭あと1件、ちゃんと届けなきゃ…今、配達件数121件の内訳が頭に浮かんじゃう…🤔どうにかならないかな…",
       "slot": "delivery",
       "timestamp": "2026-05-07 14:00:40",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-05-07 01:18:37",
       "hasImage": false
-    },
-    {
-      "text": "明日も頑張ります…あと1件だけお届けしたら終わり…その後はスーパーの惣菜食べてぼーっと…誰かかまってほしいなぁ…この疲れどうにかならない？",
-      "slot": "goodnight",
-      "timestamp": "2026-05-07 00:56:05",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "casual",
     "delivery",
     "casual",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": true,
-  "month_total_posts": 84,
+  "month_total_posts": 85,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-07",
-  "last_post_time": "14:00:40",
+  "last_post_time": "14:51:10",
   "ng_retry_count": 173,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-07 14:00:40",
+  "updated_at": "2026-05-07 14:51:10",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 14,
-  "today_narrative": "明日も頑張ります…あと1件だけお届けした… → 配達件数121件、エレベーターなしでバタ… → むり…もう眠いし…運転中、何も考えたくな… → てかさっきの…運転ってほんとだるいよね…… → あ、そういえば今さ、階段上ってて疲れたな… → あー、なんかさ…春になってきたのに、花粉… → あー、ほんと…なんかお客さんとのやりとり…",
-  "last_post_timestamp_ms": 1778130040491
+  "today_narrative": "明日も頑張ります…あと1件だけお届けした… → 配達件数121件、エレベーターなしでバタ… → むり…もう眠いし…運転中、何も考えたくな… → てかさっきの…運転ってほんとだるいよね…… → あ、そういえば今さ、階段上ってて疲れたな… → あー、なんかさ…春になってきたのに、花粉… → あー、ほんと…なんかお客さんとのやりとり… → 運転中、ほんとつかれる…😩エレベーター…",
+  "last_post_timestamp_ms": 1778133070158
 }
