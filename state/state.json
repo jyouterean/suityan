@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 50,
+  "mood": "lonely",
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "帰り道…誰かと一緒がいいなぁ…台車の音だけが響く…あぁ、眠い…131件もやったのに疲れが取れない…花粉も強いし、春の気持ち良さが恋しい…",
+      "slot": "commute",
+      "timestamp": "2026-05-09 08:43:42",
+      "hasImage": false
+    },
     {
       "text": "おはよう…ちょっと無理…",
       "slot": "morning",
@@ -37,36 +43,31 @@
       "slot": "delivery",
       "timestamp": "2026-05-08 16:06:11",
       "hasImage": false
-    },
-    {
-      "text": "あー、またマンションの階段昇ってる…足がだるいよぉ。お客さん、優しいといいなぁって思いつつ、当たるとなんかちょっとドキドキ…桜の季節に恋とかしたいなぁ…でも、もう配達終わりたいなぁ😴",
-      "slot": "delivery",
-      "timestamp": "2026-05-08 14:47:54",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
     "delivery",
-    "morning"
+    "morning",
+    "commute"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": true,
-  "month_total_posts": 104,
+  "month_total_posts": 105,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-09",
-  "last_post_time": "07:29:54",
-  "ng_retry_count": 173,
+  "last_post_time": "08:43:42",
+  "ng_retry_count": 174,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-09 07:29:54",
+  "updated_at": "2026-05-09 08:43:42",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 10,
-  "today_narrative": "仕事終わってやっと一息…台車押すのも疲れ… → 配達中、エレベーター故障で階段往復…体力… → おはよう…ちょっと無理…",
-  "last_post_timestamp_ms": 1778279394283
+  "today_narrative": "仕事終わってやっと一息…台車押すのも疲れ… → 配達中、エレベーター故障で階段往復…体力… → おはよう…ちょっと無理… → 帰り道…誰かと一緒がいいなぁ…台車の音だ…",
+  "last_post_timestamp_ms": 1778283822621
 }
