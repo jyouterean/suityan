@@ -1,7 +1,13 @@
 {
-  "mood": "frustrated",
-  "energy": 20,
+  "mood": "tired",
+  "energy": 10,
   "last_posts": [
+    {
+      "text": "あー、またマンションの階段昇ってる…足がだるいよぉ。お客さん、優しいといいなぁって思いつつ、当たるとなんかちょっとドキドキ…桜の季節に恋とかしたいなぁ…でも、もう配達終わりたいなぁ😴",
+      "slot": "delivery",
+      "timestamp": "2026-05-08 14:47:54",
+      "hasImage": false
+    },
     {
       "text": "少しずつ春が近づいてる感じ…桜もちらほら咲いてきたし、あったかいのは嬉しいけど花粉がねぇ、目がかゆいよね…今年もくしゃみと戦ってる…😅でも週末が待ち遠しいなぁ",
       "slot": "casual",
@@ -37,12 +43,6 @@
       "slot": "goodnight",
       "timestamp": "2026-05-08 00:57:57",
       "hasImage": false
-    },
-    {
-      "text": "あー、ほんとさ…夜のひとり時間、なんかゆううつだよね。配達の合間に考え事しすぎて疲れる…お届け先で犬に吠えられたのも萎えたし…😩",
-      "slot": "night_ero",
-      "timestamp": "2026-05-07 21:31:34",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -51,25 +51,26 @@
     "morning",
     "commute",
     "delivery",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 6,
+  "today_post_count": 7,
   "today_goodnight_posted": true,
-  "month_total_posts": 97,
+  "month_total_posts": 98,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-08",
-  "last_post_time": "13:45:49",
+  "last_post_time": "14:47:54",
   "ng_retry_count": 173,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-08 13:45:49",
+  "updated_at": "2026-05-08 14:47:54",
   "month_string": "2026-05",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 12,
-  "today_narrative": "もうおやすみ…疲れたよぉ、今日もたくさん… → 軽バンでの配達、今日は139件もこなした… → おはよ…全然起きれないわ → 帰り道…一人だとなんか淋しいなぁ…満開の… → もうおやすみ…疲れたよぉ、こんなに配達し… → 少しずつ春が近づいてる感じ…桜もちらほら…",
-  "last_post_timestamp_ms": 1778215549544
+  "today_narrative": "もうおやすみ…疲れたよぉ、今日もたくさん… → 軽バンでの配達、今日は139件もこなした… → おはよ…全然起きれないわ → 帰り道…一人だとなんか淋しいなぁ…満開の… → もうおやすみ…疲れたよぉ、こんなに配達し… → 少しずつ春が近づいてる感じ…桜もちらほら… → あー、またマンションの階段昇ってる…足が…",
+  "last_post_timestamp_ms": 1778219274173
 }
