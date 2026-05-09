@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 70,
+  "mood": "tired",
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "ねむねむすぎて体が重い…",
+      "slot": "morning",
+      "timestamp": "2026-05-10 07:00:51",
+      "hasImage": false
+    },
     {
       "text": "もうおやすみの時間だね…今日は129件配達して、さすがに疲れたよ…台車の運転も慣れたけど、やっぱりしんどいなぁ。明日も頑張るつもりだけど、ちょっと甘えていいかな…？",
       "slot": "goodnight",
@@ -37,34 +43,29 @@
       "slot": "casual",
       "timestamp": "2026-05-09 13:16:27",
       "hasImage": false
-    },
-    {
-      "text": "はぁ…一軒家の配達、やっと終わったと思ったら、また台車押してる…誰か褒めてよ～😢 一人でやってると涙出そう…この暖かさ、誰かと過ごしたいな…桜も咲いてるし、もうちょっと気分上げたい！",
-      "slot": "delivery",
-      "timestamp": "2026-05-09 10:26:33",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight"
+    "goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": true,
-  "month_total_posts": 112,
+  "month_total_posts": 113,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-10",
-  "last_post_time": "00:39:18",
+  "last_post_time": "07:00:51",
   "ng_retry_count": 176,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-10 00:39:18",
+  "updated_at": "2026-05-10 07:00:51",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 12,
-  "today_narrative": "もうおやすみの時間だね…今日は129件配…",
-  "last_post_timestamp_ms": 1778341158228
+  "today_narrative": "もうおやすみの時間だね…今日は129件配… → ねむねむすぎて体が重い…",
+  "last_post_timestamp_ms": 1778364051092
 }
