@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "いま配達終わったとこ…一軒家ほんとしんど…体力ほぼゼロて感じ…桜咲いてるけど誰かと見たいなぁ…たまには一緒がいいなぁ…台車の音だけが響く…",
+      "slot": "delivery",
+      "timestamp": "2026-05-09 17:17:46",
+      "hasImage": false
+    },
+    {
       "text": "あーもう、エレベーター故障で階段往復…つらい…運ぶ荷物の重さで心も重くなる…誰かに会いたい…ほんと、褒めてほしいなぁ😅🌸",
       "slot": "delivery",
       "timestamp": "2026-05-09 16:35:59",
@@ -37,12 +43,6 @@
       "slot": "commute",
       "timestamp": "2026-05-09 08:43:42",
       "hasImage": false
-    },
-    {
-      "text": "おはよう…ちょっと無理…",
-      "slot": "morning",
-      "timestamp": "2026-05-09 07:29:54",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -54,25 +54,26 @@
     "casual",
     "casual",
     "delivery",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 9,
+  "today_post_count": 10,
   "today_goodnight_posted": true,
-  "month_total_posts": 110,
+  "month_total_posts": 111,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-09",
-  "last_post_time": "16:35:59",
+  "last_post_time": "17:17:46",
   "ng_retry_count": 175,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-09 16:35:59",
+  "updated_at": "2026-05-09 17:17:46",
   "month_string": "2026-05",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 10,
-  "today_narrative": "仕事終わってやっと一息…台車押すのも疲れ… → 配達中、エレベーター故障で階段往復…体力… → おはよう…ちょっと無理… → 帰り道…誰かと一緒がいいなぁ…台車の音だ… → はぁ…一軒家の配達、やっと終わったと思っ… → 最近こうやって一人で帰るの、多いなぁ…桜… → ちょっと一息ついても、体がまだ重い…台車… → やっと荷物おろした…でも次の台車まだ残っ… → あーもう、エレベーター故障で階段往復…つ…",
-  "last_post_timestamp_ms": 1778312159735
+  "today_narrative": "仕事終わってやっと一息…台車押すのも疲れ… → 配達中、エレベーター故障で階段往復…体力… → おはよう…ちょっと無理… → 帰り道…誰かと一緒がいいなぁ…台車の音だ… → はぁ…一軒家の配達、やっと終わったと思っ… → 最近こうやって一人で帰るの、多いなぁ…桜… → ちょっと一息ついても、体がまだ重い…台車… → やっと荷物おろした…でも次の台車まだ残っ… → あーもう、エレベーター故障で階段往復…つ… → いま配達終わったとこ…一軒家ほんとしんど…",
+  "last_post_timestamp_ms": 1778314666173
 }
