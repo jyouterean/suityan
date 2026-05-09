@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あーもう、エレベーター故障で階段往復…つらい…運ぶ荷物の重さで心も重くなる…誰かに会いたい…ほんと、褒めてほしいなぁ😅🌸",
+      "slot": "delivery",
+      "timestamp": "2026-05-09 16:35:59",
+      "hasImage": false
+    },
+    {
       "text": "やっと荷物おろした…でも次の台車まだ残ってるし…もう無理かも…体力もきついし、てか一人でいるとほんとさみしいなぁ…桜見ながら誰かと一緒に帰りたい…😔",
       "slot": "delivery",
       "timestamp": "2026-05-09 14:43:13",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-05-09 07:29:54",
       "hasImage": false
-    },
-    {
-      "text": "配達中、エレベーター故障で階段往復…体力がどんどん削られてく…残り26件って…もう誰かに会いたいよー、褒めてほしい…桜がきれいな季節なのに…",
-      "slot": "delivery",
-      "timestamp": "2026-05-09 01:02:39",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "delivery",
     "casual",
     "casual",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": true,
-  "month_total_posts": 109,
+  "month_total_posts": 110,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-09",
-  "last_post_time": "14:43:13",
-  "ng_retry_count": 174,
+  "last_post_time": "16:35:59",
+  "ng_retry_count": 175,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-09 15:59:12",
+  "updated_at": "2026-05-09 16:35:59",
   "month_string": "2026-05",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 10,
-  "today_narrative": "仕事終わってやっと一息…台車押すのも疲れ… → 配達中、エレベーター故障で階段往復…体力… → おはよう…ちょっと無理… → 帰り道…誰かと一緒がいいなぁ…台車の音だ… → はぁ…一軒家の配達、やっと終わったと思っ… → 最近こうやって一人で帰るの、多いなぁ…桜… → ちょっと一息ついても、体がまだ重い…台車… → やっと荷物おろした…でも次の台車まだ残っ…",
-  "last_post_timestamp_ms": 1778305393424
+  "today_narrative": "仕事終わってやっと一息…台車押すのも疲れ… → 配達中、エレベーター故障で階段往復…体力… → おはよう…ちょっと無理… → 帰り道…誰かと一緒がいいなぁ…台車の音だ… → はぁ…一軒家の配達、やっと終わったと思っ… → 最近こうやって一人で帰るの、多いなぁ…桜… → ちょっと一息ついても、体がまだ重い…台車… → やっと荷物おろした…でも次の台車まだ残っ… → あーもう、エレベーター故障で階段往復…つ…",
+  "last_post_timestamp_ms": 1778312159735
 }
