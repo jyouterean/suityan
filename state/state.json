@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 10,
+  "mood": "lonely",
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "もうおやすみの時間だね…今日は129件配達して、さすがに疲れたよ…台車の運転も慣れたけど、やっぱりしんどいなぁ。明日も頑張るつもりだけど、ちょっと甘えていいかな…？",
+      "slot": "goodnight",
+      "timestamp": "2026-05-10 00:39:18",
+      "hasImage": false
+    },
     {
       "text": "いま配達終わったとこ…一軒家ほんとしんど…体力ほぼゼロて感じ…桜咲いてるけど誰かと見たいなぁ…たまには一緒がいいなぁ…台車の音だけが響く…",
       "slot": "delivery",
@@ -37,43 +43,28 @@
       "slot": "delivery",
       "timestamp": "2026-05-09 10:26:33",
       "hasImage": false
-    },
-    {
-      "text": "帰り道…誰かと一緒がいいなぁ…台車の音だけが響く…あぁ、眠い…131件もやったのに疲れが取れない…花粉も強いし、春の気持ち良さが恋しい…",
-      "slot": "commute",
-      "timestamp": "2026-05-09 08:43:42",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "goodnight",
-    "delivery",
-    "morning",
-    "commute",
-    "delivery",
-    "casual",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery"
+    "goodnight"
   ],
-  "today_post_count": 10,
+  "today_post_count": 1,
   "today_goodnight_posted": true,
-  "month_total_posts": 111,
+  "month_total_posts": 112,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-05-09",
-  "last_post_time": "17:17:46",
-  "ng_retry_count": 175,
+  "last_post_date": "2026-05-10",
+  "last_post_time": "00:39:18",
+  "ng_retry_count": 176,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-09 17:17:46",
+  "updated_at": "2026-05-10 00:39:18",
   "month_string": "2026-05",
-  "today_skipped": true,
+  "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": true,
-  "today_skip_count": 1,
-  "today_max_posts": 10,
-  "today_narrative": "仕事終わってやっと一息…台車押すのも疲れ… → 配達中、エレベーター故障で階段往復…体力… → おはよう…ちょっと無理… → 帰り道…誰かと一緒がいいなぁ…台車の音だ… → はぁ…一軒家の配達、やっと終わったと思っ… → 最近こうやって一人で帰るの、多いなぁ…桜… → ちょっと一息ついても、体がまだ重い…台車… → やっと荷物おろした…でも次の台車まだ残っ… → あーもう、エレベーター故障で階段往復…つ… → いま配達終わったとこ…一軒家ほんとしんど…",
-  "last_post_timestamp_ms": 1778314666173
+  "today_morning_posted": false,
+  "today_skip_count": 0,
+  "today_max_posts": 12,
+  "today_narrative": "もうおやすみの時間だね…今日は129件配…",
+  "last_post_timestamp_ms": 1778341158228
 }
