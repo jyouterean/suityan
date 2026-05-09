@@ -1,7 +1,13 @@
 {
-  "mood": "melancholy",
-  "energy": 30,
+  "mood": "frustrated",
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "最近こうやって一人で帰るの、多いなぁ…桜見ながら帰りたいけど、誰もいないし…なんか切ないな…。春って楽しいはずなのに…😔",
+      "slot": "casual",
+      "timestamp": "2026-05-09 13:16:27",
+      "hasImage": false
+    },
     {
       "text": "はぁ…一軒家の配達、やっと終わったと思ったら、また台車押してる…誰か褒めてよ～😢 一人でやってると涙出そう…この暖かさ、誰かと過ごしたいな…桜も咲いてるし、もうちょっと気分上げたい！",
       "slot": "delivery",
@@ -37,12 +43,6 @@
       "slot": "casual",
       "timestamp": "2026-05-08 19:08:10",
       "hasImage": false
-    },
-    {
-      "text": "あー、明日は金曜だし、なんだか解放感…軽バンで配達しながら、誰かに会いたいって思っちゃうね。満開の桜みながら、ちょっと癒されたいなぁ…ってことにしとこ💭",
-      "slot": "delivery",
-      "timestamp": "2026-05-08 17:05:30",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "delivery",
     "morning",
     "commute",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": true,
-  "month_total_posts": 106,
+  "month_total_posts": 107,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-09",
-  "last_post_time": "10:26:33",
+  "last_post_time": "13:16:27",
   "ng_retry_count": 174,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-09 10:26:33",
+  "updated_at": "2026-05-09 13:16:27",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 10,
-  "today_narrative": "仕事終わってやっと一息…台車押すのも疲れ… → 配達中、エレベーター故障で階段往復…体力… → おはよう…ちょっと無理… → 帰り道…誰かと一緒がいいなぁ…台車の音だ… → はぁ…一軒家の配達、やっと終わったと思っ…",
-  "last_post_timestamp_ms": 1778289993325
+  "today_narrative": "仕事終わってやっと一息…台車押すのも疲れ… → 配達中、エレベーター故障で階段往復…体力… → おはよう…ちょっと無理… → 帰り道…誰かと一緒がいいなぁ…台車の音だ… → はぁ…一軒家の配達、やっと終わったと思っ… → 最近こうやって一人で帰るの、多いなぁ…桜…",
+  "last_post_timestamp_ms": 1778300187745
 }
