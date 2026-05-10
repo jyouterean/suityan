@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 70,
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "おはよ…ねむうい",
+      "slot": "morning",
+      "timestamp": "2026-05-11 06:57:33",
+      "hasImage": false
+    },
     {
       "text": "おやすみ…夢見れるかな😴",
       "slot": "simple_goodnight",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-05-10 16:42:11",
       "hasImage": false
-    },
-    {
-      "text": "あー…お届け先で犬に吠えられてちょっとびっくりしたり…🐶😅 もうふらふら、体力も残り少ないし…配達ってほんとしんどいなぁ。暖かいけど心はどんより…誰かに褒めてほしいな…",
-      "slot": "delivery",
-      "timestamp": "2026-05-10 16:23:25",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "simple_goodnight"
+    "simple_goodnight",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 124,
+  "month_total_posts": 125,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-11",
-  "last_post_time": "00:52:11",
+  "last_post_time": "06:57:33",
   "ng_retry_count": 180,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-11 00:52:11",
+  "updated_at": "2026-05-11 06:57:33",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 10,
-  "today_narrative": "おやすみ…夢見れるかな😴",
-  "last_post_timestamp_ms": 1778428331812
+  "today_narrative": "おやすみ…夢見れるかな😴 → おはよ…ねむうい",
+  "last_post_timestamp_ms": 1778450253118
 }
