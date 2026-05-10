@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "あー、なんかもう無理な気分…今日はほんとに暖かくて桜見たかったなぁ🌸でも外に出るのもだるいし…それに人混みも苦手だし…やっぱりゆっくりしたいなぁ…",
+      "slot": "casual",
+      "timestamp": "2026-05-10 19:02:56",
+      "hasImage": false
+    },
+    {
       "text": "あー、ほんとにしんどい…駐車場探すだけでも疲れちゃう😩お客さんの反応もこんなときはイマイチだし、いい言葉がほしいよ…そんなこと思ってたら運転中も眠くなるし。ほんと誰か会いたい…🌸",
       "slot": "delivery",
       "timestamp": "2026-05-10 16:42:11",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-05-10 09:41:25",
       "hasImage": false
-    },
-    {
-      "text": "ねむねむすぎて体が重い…",
-      "slot": "morning",
-      "timestamp": "2026-05-10 07:00:51",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "delivery",
     "delivery",
     "delivery",
-    "delivery"
+    "delivery",
+    "casual"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": true,
-  "month_total_posts": 119,
+  "month_total_posts": 120,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-10",
-  "last_post_time": "16:42:11",
+  "last_post_time": "19:02:56",
   "ng_retry_count": 179,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-10 17:51:40",
+  "updated_at": "2026-05-10 19:02:56",
   "month_string": "2026-05",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 2,
   "today_max_posts": 12,
-  "today_narrative": "もうおやすみの時間だね…今日は129件配… → ねむねむすぎて体が重い… → インターホン鳴らすだけで疲れる…なんでこ… → 今日はほんとに暖かかったなぁ…🌸桜見な… → 配達のルート組むのに、疲れた頭が回らない… → あーもう時間指定の配達が多すぎて頭がガン… → あー…お届け先で犬に吠えられてちょっとび… → あー、ほんとにしんどい…駐車場探すだけで…",
-  "last_post_timestamp_ms": 1778398931885
+  "today_narrative": "もうおやすみの時間だね…今日は129件配… → ねむねむすぎて体が重い… → インターホン鳴らすだけで疲れる…なんでこ… → 今日はほんとに暖かかったなぁ…🌸桜見な… → 配達のルート組むのに、疲れた頭が回らない… → あーもう時間指定の配達が多すぎて頭がガン… → あー…お届け先で犬に吠えられてちょっとび… → あー、ほんとにしんどい…駐車場探すだけで… → あー、なんかもう無理な気分…今日はほんと…",
+  "last_post_timestamp_ms": 1778407376446
 }
