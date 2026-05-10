@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 60,
+  "mood": "lonely",
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "インターホン鳴らすだけで疲れる…なんでこんなにだるいんだろう…お客さんの喜び顔見るとちょっと救われるけど…でもやっぱり誰かに会いたいなぁ…お惣菜買って帰るか…（まあ届けるんだけどさ）🌸",
+      "slot": "delivery",
+      "timestamp": "2026-05-10 09:41:25",
+      "hasImage": false
+    },
     {
       "text": "ねむねむすぎて体が重い…",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "casual",
       "timestamp": "2026-05-09 13:54:49",
       "hasImage": false
-    },
-    {
-      "text": "最近こうやって一人で帰るの、多いなぁ…桜見ながら帰りたいけど、誰もいないし…なんか切ないな…。春って楽しいはずなのに…😔",
-      "slot": "casual",
-      "timestamp": "2026-05-09 13:16:27",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "goodnight",
-    "morning"
+    "morning",
+    "delivery"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": true,
-  "month_total_posts": 113,
+  "month_total_posts": 114,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-10",
-  "last_post_time": "07:00:51",
+  "last_post_time": "09:41:25",
   "ng_retry_count": 176,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-10 08:19:07",
+  "updated_at": "2026-05-10 09:41:25",
   "month_string": "2026-05",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 12,
-  "today_narrative": "もうおやすみの時間だね…今日は129件配… → ねむねむすぎて体が重い…",
-  "last_post_timestamp_ms": 1778364051092
+  "today_narrative": "もうおやすみの時間だね…今日は129件配… → ねむねむすぎて体が重い… → インターホン鳴らすだけで疲れる…なんでこ…",
+  "last_post_timestamp_ms": 1778373685146
 }
