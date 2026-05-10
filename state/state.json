@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 30,
+  "energy": 20,
   "last_posts": [
+    {
+      "text": "あーもう時間指定の配達が多すぎて頭がガンガンする…今日の件数、101件でほんと疲れたなぁ…誰かに褒めてほしい…それだけで頑張れる気がするのに…そろそろおやすみの時間かな…まあいいか…🌼",
+      "slot": "delivery",
+      "timestamp": "2026-05-10 15:18:47",
+      "hasImage": false
+    },
     {
       "text": "配達のルート組むのに、疲れた頭が回らない…🤔 135件とかやってられないって。誰かに会って、いい子いい子されたい…そろそろお昼休憩にしちゃおっかな。あー、春なのに恋愛もないとか寂しい！",
       "slot": "delivery",
@@ -37,12 +43,6 @@
       "slot": "delivery",
       "timestamp": "2026-05-09 17:17:46",
       "hasImage": false
-    },
-    {
-      "text": "あーもう、エレベーター故障で階段往復…つらい…運ぶ荷物の重さで心も重くなる…誰かに会いたい…ほんと、褒めてほしいなぁ😅🌸",
-      "slot": "delivery",
-      "timestamp": "2026-05-09 16:35:59",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -50,25 +50,26 @@
     "morning",
     "delivery",
     "casual",
+    "delivery",
     "delivery"
   ],
-  "today_post_count": 5,
+  "today_post_count": 6,
   "today_goodnight_posted": true,
-  "month_total_posts": 116,
+  "month_total_posts": 117,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-10",
-  "last_post_time": "14:15:47",
+  "last_post_time": "15:18:47",
   "ng_retry_count": 176,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-10 14:15:47",
+  "updated_at": "2026-05-10 15:18:47",
   "month_string": "2026-05",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 12,
-  "today_narrative": "もうおやすみの時間だね…今日は129件配… → ねむねむすぎて体が重い… → インターホン鳴らすだけで疲れる…なんでこ… → 今日はほんとに暖かかったなぁ…🌸桜見な… → 配達のルート組むのに、疲れた頭が回らない…",
-  "last_post_timestamp_ms": 1778390147335
+  "today_narrative": "もうおやすみの時間だね…今日は129件配… → ねむねむすぎて体が重い… → インターホン鳴らすだけで疲れる…なんでこ… → 今日はほんとに暖かかったなぁ…🌸桜見な… → 配達のルート組むのに、疲れた頭が回らない… → あーもう時間指定の配達が多すぎて頭がガン…",
+  "last_post_timestamp_ms": 1778393927402
 }
