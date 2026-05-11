@@ -1,7 +1,13 @@
 {
-  "mood": "tired",
-  "energy": 40,
+  "mood": "frustrated",
+  "energy": 30,
   "last_posts": [
+    {
+      "text": "配達件数128件もいってるけど、インターホン押す瞬間がちょっと緊張する…😅それにしても、あの子供に手振られたの、少し癒されたなぁ。誰かに会いたくなるよ、ほんと。",
+      "slot": "delivery",
+      "timestamp": "2026-05-11 14:10:39",
+      "hasImage": false
+    },
     {
       "text": "こんな天気いいのにね、全然やる気出ない…外で桜見たかったなぁ。春は好きだけど、花粉が…😷恋しいな、友達と遊ぶの。あーだる、だれか遊んで。",
       "slot": "casual",
@@ -37,37 +43,32 @@
       "slot": "night_ero",
       "timestamp": "2026-05-10 21:13:23",
       "hasImage": false
-    },
-    {
-      "text": "あー…なんだか今日はもう疲れちゃった…花粉もやばいし、あったかいのはいいけどダルいよね…桜も見たいけど外出るのが面倒で…でも、少しだけでも見る余裕欲しいなぁ…",
-      "slot": "casual",
-      "timestamp": "2026-05-10 20:09:38",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "simple_goodnight",
     "morning",
     "casual",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 4,
+  "today_post_count": 5,
   "today_goodnight_posted": false,
-  "month_total_posts": 127,
+  "month_total_posts": 128,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-11",
-  "last_post_time": "13:41:26",
+  "last_post_time": "14:10:39",
   "ng_retry_count": 180,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-11 13:41:26",
+  "updated_at": "2026-05-11 14:10:39",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 10,
-  "today_narrative": "おやすみ…夢見れるかな😴 → おはよ…ねむうい → てかさっきの…ほんと眠くてだるい。今日も… → こんな天気いいのにね、全然やる気出ない……",
-  "last_post_timestamp_ms": 1778474486191
+  "today_narrative": "おやすみ…夢見れるかな😴 → おはよ…ねむうい → てかさっきの…ほんと眠くてだるい。今日も… → こんな天気いいのにね、全然やる気出ない…… → 配達件数128件もいってるけど、インター…",
+  "last_post_timestamp_ms": 1778476239206
 }
