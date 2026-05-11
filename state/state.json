@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "おはよ…ねむうい😴 ほんと、こんな天気いいのに全然やる気出ない……お昼寝したいなぁ…ねぇ、だれかかまってよ…💭",
+      "slot": "casual",
+      "timestamp": "2026-05-11 20:52:42",
+      "hasImage": false
+    },
+    {
       "text": "ほんと、月曜って憂鬱だなぁ…配達も81件終わって、やっと帰れると思ったけどなんか虚しい…誰かと一緒に帰りたいよ…ご飯作って待っててくれる人とかさ…😔",
       "slot": "commute",
       "timestamp": "2026-05-11 18:07:06",
@@ -37,12 +43,6 @@
       "slot": "morning",
       "timestamp": "2026-05-11 06:57:33",
       "hasImage": false
-    },
-    {
-      "text": "おやすみ…夢見れるかな😴",
-      "slot": "simple_goodnight",
-      "timestamp": "2026-05-11 00:52:11",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -52,25 +52,26 @@
     "casual",
     "delivery",
     "delivery",
-    "commute"
+    "commute",
+    "casual"
   ],
-  "today_post_count": 7,
+  "today_post_count": 8,
   "today_goodnight_posted": false,
-  "month_total_posts": 130,
+  "month_total_posts": 131,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-11",
-  "last_post_time": "18:07:06",
+  "last_post_time": "20:52:42",
   "ng_retry_count": 180,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-11 18:07:06",
+  "updated_at": "2026-05-11 20:52:42",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": true,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 10,
-  "today_narrative": "おやすみ…夢見れるかな😴 → おはよ…ねむうい → てかさっきの…ほんと眠くてだるい。今日も… → こんな天気いいのにね、全然やる気出ない…… → 配達件数128件もいってるけど、インター… → あーもうほんと疲れた。荷物運ぶのだるいし… → ほんと、月曜って憂鬱だなぁ…配達も81件…",
-  "last_post_timestamp_ms": 1778490426499
+  "today_narrative": "おやすみ…夢見れるかな😴 → おはよ…ねむうい → てかさっきの…ほんと眠くてだるい。今日も… → こんな天気いいのにね、全然やる気出ない…… → 配達件数128件もいってるけど、インター… → あーもうほんと疲れた。荷物運ぶのだるいし… → ほんと、月曜って憂鬱だなぁ…配達も81件… → おはよ…ねむうい😴 ほんと、こんな天気…",
+  "last_post_timestamp_ms": 1778500362624
 }
