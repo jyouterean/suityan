@@ -1,7 +1,13 @@
 {
   "mood": "lonely",
-  "energy": 60,
+  "energy": 50,
   "last_posts": [
+    {
+      "text": "なんか今日、荷物が軽くても心は重い…寂しいなぁ😩誰かと帰れたらいいのに。おっちゃんとすれ違った時に、なんか恥ずかしくなっちゃった。もうすぐ帰れるのに、なんでこんなにだるいんだろ…水分補給しよ…。",
+      "slot": "commute",
+      "timestamp": "2026-05-12 08:30:46",
+      "hasImage": false
+    },
     {
       "text": "さっきの…孤独感やばいね…むりだ、ほんと…これじゃあ桜もただの背景だし…早く誰かと話したい…😩🌸",
       "slot": "morning",
@@ -37,35 +43,30 @@
       "slot": "commute",
       "timestamp": "2026-05-11 18:07:06",
       "hasImage": false
-    },
-    {
-      "text": "あーもうほんと疲れた。荷物運ぶのだるいし、また階段…6Fまで上がるだけで息切れ😩。やる気出ないし、誰かに会いたい…褒めてもらいたいなぁ。早く終わらせて帰りたい…",
-      "slot": "delivery",
-      "timestamp": "2026-05-11 15:40:47",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "delivery",
-    "morning"
+    "morning",
+    "commute"
   ],
-  "today_post_count": 2,
+  "today_post_count": 3,
   "today_goodnight_posted": false,
-  "month_total_posts": 135,
+  "month_total_posts": 136,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-12",
-  "last_post_time": "07:34:27",
+  "last_post_time": "08:30:46",
   "ng_retry_count": 180,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-12 07:34:27",
+  "updated_at": "2026-05-12 08:30:46",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "配達してると荷物の重さより孤独を感じてる… → さっきの…孤独感やばいね…むりだ、ほんと…",
-  "last_post_timestamp_ms": 1778538867832
+  "today_narrative": "配達してると荷物の重さより孤独を感じてる… → さっきの…孤独感やばいね…むりだ、ほんと… → なんか今日、荷物が軽くても心は重い…寂し…",
+  "last_post_timestamp_ms": 1778542246177
 }
