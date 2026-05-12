@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 70,
+  "energy": 60,
   "last_posts": [
+    {
+      "text": "ねむねむ…もうちょっと寝たい…",
+      "slot": "morning",
+      "timestamp": "2026-05-13 07:18:42",
+      "hasImage": false
+    },
     {
       "text": "軽バンでの配達中、114件目…今日も暑いなぁ。水分補給は欠かせない🤔でも鳥のフンが軽バンに落ちてて、ちょっと萎えた…誰か褒めてくれないかなぁ。新生活の桜、見たいよね…🌸",
       "slot": "delivery",
@@ -37,34 +43,29 @@
       "slot": "delivery",
       "timestamp": "2026-05-12 14:15:31",
       "hasImage": false
-    },
-    {
-      "text": "さっきの続き…やっぱり、あったかくなってくると人恋しくなるね🌸 でもなんか、誰かと過ごしたいのに一人だと余計に寂しい…また桜見に行く友達見つけなきゃなぁ…😔",
-      "slot": "casual",
-      "timestamp": "2026-05-12 13:11:53",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "delivery"
+    "delivery",
+    "morning"
   ],
-  "today_post_count": 1,
+  "today_post_count": 2,
   "today_goodnight_posted": false,
-  "month_total_posts": 143,
+  "month_total_posts": 144,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-13",
-  "last_post_time": "01:03:46",
+  "last_post_time": "07:18:42",
   "ng_retry_count": 181,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-13 01:03:46",
+  "updated_at": "2026-05-13 07:18:42",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": false,
+  "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "軽バンでの配達中、114件目…今日も暑い…",
-  "last_post_timestamp_ms": 1778601826070
+  "today_narrative": "軽バンでの配達中、114件目…今日も暑い… → ねむねむ…もうちょっと寝たい…",
+  "last_post_timestamp_ms": 1778624322365
 }
