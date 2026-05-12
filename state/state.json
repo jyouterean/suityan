@@ -1,7 +1,13 @@
 {
   "mood": "tired",
-  "energy": 10,
+  "energy": 70,
   "last_posts": [
+    {
+      "text": "軽バンでの配達中、114件目…今日も暑いなぁ。水分補給は欠かせない🤔でも鳥のフンが軽バンに落ちてて、ちょっと萎えた…誰か褒めてくれないかなぁ。新生活の桜、見たいよね…🌸",
+      "slot": "delivery",
+      "timestamp": "2026-05-13 01:03:46",
+      "hasImage": false
+    },
     {
       "text": "さっきのコンビニの新作、食べたいなぁ…🍰 でもそれより、誰かと一緒にいたい気持ちがやばい…この孤独感、荷物の重さよりも重いよ…ねぇ、少しだけでも誰かとつながりたい…",
       "slot": "night_ero",
@@ -37,42 +43,28 @@
       "slot": "casual",
       "timestamp": "2026-05-12 13:11:53",
       "hasImage": false
-    },
-    {
-      "text": "なんか今日、荷物が軽くても心は重い…寂しいなぁ😩誰かと帰れたらいいのに。おっちゃんとすれ違った時に、なんか恥ずかしくなっちゃった。もうすぐ帰れるのに、なんでこんなにだるいんだろ…水分補給しよ…。",
-      "slot": "commute",
-      "timestamp": "2026-05-12 08:30:46",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
-    "delivery",
-    "morning",
-    "commute",
-    "casual",
-    "delivery",
-    "delivery",
-    "delivery",
-    "night_ero",
-    "night_ero"
+    "delivery"
   ],
-  "today_post_count": 9,
+  "today_post_count": 1,
   "today_goodnight_posted": false,
-  "month_total_posts": 142,
+  "month_total_posts": 143,
   "month_image_posts": 0,
   "last_image_date": null,
-  "last_post_date": "2026-05-12",
-  "last_post_time": "22:54:43",
-  "ng_retry_count": 180,
+  "last_post_date": "2026-05-13",
+  "last_post_time": "01:03:46",
+  "ng_retry_count": 181,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-12 22:54:43",
+  "updated_at": "2026-05-13 01:03:46",
   "month_string": "2026-05",
-  "today_skipped": true,
+  "today_skipped": false,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": true,
-  "today_skip_count": 1,
+  "today_morning_posted": false,
+  "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "配達してると荷物の重さより孤独を感じてる… → さっきの…孤独感やばいね…むりだ、ほんと… → なんか今日、荷物が軽くても心は重い…寂し… → さっきの続き…やっぱり、あったかくなって… → さっきの続きだけど、今日も配達してきたよ… → 配達してると、段ボールよりも孤独が重い気… → また12Fまで運んだら、孤独でしんどいわ… → はぁ…また配達終わったけど、心がさむいよ… → さっきのコンビニの新作、食べたいなぁ…\ud83c…",
-  "last_post_timestamp_ms": 1778594083342
+  "today_narrative": "軽バンでの配達中、114件目…今日も暑い…",
+  "last_post_timestamp_ms": 1778601826070
 }
