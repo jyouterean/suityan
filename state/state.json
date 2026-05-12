@@ -1,7 +1,13 @@
 {
-  "mood": "lonely",
-  "energy": 40,
+  "mood": "melancholy",
+  "energy": 30,
   "last_posts": [
+    {
+      "text": "さっきの続きだけど、今日も配達してきたよ！やっぱり運転しながら風を感じるのって気持ちいい～🚚✨ お客さんとのやり取りも楽しいし、今の仕事は好きだなぁ。友達も増やしたいけど、まずは仕事頑張らなきゃ！",
+      "slot": "delivery",
+      "timestamp": "2026-05-12 14:15:31",
+      "hasImage": false
+    },
     {
       "text": "さっきの続き…やっぱり、あったかくなってくると人恋しくなるね🌸 でもなんか、誰かと過ごしたいのに一人だと余計に寂しい…また桜見に行く友達見つけなきゃなぁ…😔",
       "slot": "casual",
@@ -37,37 +43,32 @@
       "slot": "night_ero",
       "timestamp": "2026-05-11 21:44:35",
       "hasImage": false
-    },
-    {
-      "text": "おはよ…ねむうい😴 ほんと、こんな天気いいのに全然やる気出ない……お昼寝したいなぁ…ねぇ、だれかかまってよ…💭",
-      "slot": "casual",
-      "timestamp": "2026-05-11 20:52:42",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "delivery",
     "morning",
     "commute",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 4,
+  "today_post_count": 5,
   "today_goodnight_posted": false,
-  "month_total_posts": 137,
+  "month_total_posts": 138,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-12",
-  "last_post_time": "13:11:53",
+  "last_post_time": "14:15:31",
   "ng_retry_count": 180,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-12 13:11:53",
+  "updated_at": "2026-05-12 14:15:31",
   "month_string": "2026-05",
   "today_skipped": false,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 0,
   "today_max_posts": 15,
-  "today_narrative": "配達してると荷物の重さより孤独を感じてる… → さっきの…孤独感やばいね…むりだ、ほんと… → なんか今日、荷物が軽くても心は重い…寂し… → さっきの続き…やっぱり、あったかくなって…",
-  "last_post_timestamp_ms": 1778559113591
+  "today_narrative": "配達してると荷物の重さより孤独を感じてる… → さっきの…孤独感やばいね…むりだ、ほんと… → なんか今日、荷物が軽くても心は重い…寂し… → さっきの続き…やっぱり、あったかくなって… → さっきの続きだけど、今日も配達してきたよ…",
+  "last_post_timestamp_ms": 1778562931397
 }
