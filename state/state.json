@@ -3,6 +3,12 @@
   "energy": 10,
   "last_posts": [
     {
+      "text": "さっきのコンビニの新作、食べたいなぁ…🍰 でもそれより、誰かと一緒にいたい気持ちがやばい…この孤独感、荷物の重さよりも重いよ…ねぇ、少しだけでも誰かとつながりたい…",
+      "slot": "night_ero",
+      "timestamp": "2026-05-12 22:54:43",
+      "hasImage": false
+    },
+    {
       "text": "はぁ…また配達終わったけど、心がさむいよ…やっぱり、てんきよくても一人だとつらいね。もう誰かにあったかくなりたい…なんでもないけど、今日は荷物が少なくても気持ちが重いなぁ…😔",
       "slot": "night_ero",
       "timestamp": "2026-05-12 22:14:32",
@@ -37,12 +43,6 @@
       "slot": "commute",
       "timestamp": "2026-05-12 08:30:46",
       "hasImage": false
-    },
-    {
-      "text": "さっきの…孤独感やばいね…むりだ、ほんと…これじゃあ桜もただの背景だし…早く誰かと話したい…😩🌸",
-      "slot": "morning",
-      "timestamp": "2026-05-12 07:34:27",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
@@ -53,25 +53,26 @@
     "delivery",
     "delivery",
     "delivery",
+    "night_ero",
     "night_ero"
   ],
-  "today_post_count": 8,
+  "today_post_count": 9,
   "today_goodnight_posted": false,
-  "month_total_posts": 141,
+  "month_total_posts": 142,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-12",
-  "last_post_time": "22:14:32",
+  "last_post_time": "22:54:43",
   "ng_retry_count": 180,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-12 22:14:32",
+  "updated_at": "2026-05-12 22:54:43",
   "month_string": "2026-05",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 1,
   "today_max_posts": 15,
-  "today_narrative": "配達してると荷物の重さより孤独を感じてる… → さっきの…孤独感やばいね…むりだ、ほんと… → なんか今日、荷物が軽くても心は重い…寂し… → さっきの続き…やっぱり、あったかくなって… → さっきの続きだけど、今日も配達してきたよ… → 配達してると、段ボールよりも孤独が重い気… → また12Fまで運んだら、孤独でしんどいわ… → はぁ…また配達終わったけど、心がさむいよ…",
-  "last_post_timestamp_ms": 1778591672872
+  "today_narrative": "配達してると荷物の重さより孤独を感じてる… → さっきの…孤独感やばいね…むりだ、ほんと… → なんか今日、荷物が軽くても心は重い…寂し… → さっきの続き…やっぱり、あったかくなって… → さっきの続きだけど、今日も配達してきたよ… → 配達してると、段ボールよりも孤独が重い気… → また12Fまで運んだら、孤独でしんどいわ… → はぁ…また配達終わったけど、心がさむいよ… → さっきのコンビニの新作、食べたいなぁ…\ud83c…",
+  "last_post_timestamp_ms": 1778594083342
 }
