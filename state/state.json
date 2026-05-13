@@ -1,7 +1,13 @@
 {
-  "mood": "melancholy",
-  "energy": 50,
+  "mood": "lonely",
+  "energy": 40,
   "last_posts": [
+    {
+      "text": "お客さんと話してると、なんかやっぱり誰かに会いたくなる...🌼段ボール持ってるだけじゃ、心が満たされないよね。お仕事の合間に少しでも癒されたいなぁ…",
+      "slot": "delivery",
+      "timestamp": "2026-05-13 14:14:29",
+      "hasImage": false
+    },
     {
       "text": "なんかさ、気持ちの切り替えが難しい…🌸 春なのに何かモヤモヤする。さっき見た桜がきれいだったなぁ。でも、なんか心はちょっと重い…もう少し春を楽しみたいのに…",
       "slot": "casual",
@@ -37,36 +43,31 @@
       "slot": "delivery",
       "timestamp": "2026-05-12 17:21:54",
       "hasImage": false
-    },
-    {
-      "text": "配達してると、段ボールよりも孤独が重い気がする…あーもう、しんどいなぁ。さっき子供に手振られたけど、なんか心に響かない…やっぱり誰かに会いたいよ…😞",
-      "slot": "delivery",
-      "timestamp": "2026-05-12 16:29:14",
-      "hasImage": false
     }
   ],
   "today_slots_used": [
     "delivery",
     "morning",
-    "casual"
+    "casual",
+    "delivery"
   ],
-  "today_post_count": 3,
+  "today_post_count": 4,
   "today_goodnight_posted": false,
-  "month_total_posts": 145,
+  "month_total_posts": 146,
   "month_image_posts": 0,
   "last_image_date": null,
   "last_post_date": "2026-05-13",
-  "last_post_time": "13:35:59",
+  "last_post_time": "14:14:29",
   "ng_retry_count": 181,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-13 13:35:59",
+  "updated_at": "2026-05-13 14:14:29",
   "month_string": "2026-05",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": true,
   "today_skip_count": 2,
   "today_max_posts": 15,
-  "today_narrative": "軽バンでの配達中、114件目…今日も暑い… → ねむねむ…もうちょっと寝たい… → なんかさ、気持ちの切り替えが難しい…🌸…",
-  "last_post_timestamp_ms": 1778646959267
+  "today_narrative": "軽バンでの配達中、114件目…今日も暑い… → ねむねむ…もうちょっと寝たい… → なんかさ、気持ちの切り替えが難しい…🌸… → お客さんと話してると、なんかやっぱり誰か…",
+  "last_post_timestamp_ms": 1778649269057
 }
