@@ -1,6 +1,6 @@
 {
   "mood": "lonely",
-  "energy": 40,
+  "energy": 80,
   "last_posts": [
     {
       "text": "お客さんと話してると、なんかやっぱり誰かに会いたくなる...🌼段ボール持ってるだけじゃ、心が満たされないよね。お仕事の合間に少しでも癒されたいなぁ…",
@@ -45,13 +45,8 @@
       "hasImage": false
     }
   ],
-  "today_slots_used": [
-    "delivery",
-    "morning",
-    "casual",
-    "delivery"
-  ],
-  "today_post_count": 4,
+  "today_slots_used": [],
+  "today_post_count": 0,
   "today_goodnight_posted": false,
   "month_total_posts": 146,
   "month_image_posts": 0,
@@ -61,13 +56,13 @@
   "ng_retry_count": 181,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-05-13 14:14:29",
+  "updated_at": "2026-05-14 16:55:21",
   "month_string": "2026-05",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
-  "today_morning_posted": true,
-  "today_skip_count": 2,
+  "today_morning_posted": false,
+  "today_skip_count": 1,
   "today_max_posts": 15,
-  "today_narrative": "軽バンでの配達中、114件目…今日も暑い… → ねむねむ…もうちょっと寝たい… → なんかさ、気持ちの切り替えが難しい…🌸… → お客さんと話してると、なんかやっぱり誰か…",
+  "today_narrative": "",
   "last_post_timestamp_ms": 1778649269057
 }
