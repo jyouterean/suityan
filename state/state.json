@@ -56,13 +56,13 @@
   "ng_retry_count": 181,
   "fallback_used_count": 5,
   "created_at": null,
-  "updated_at": "2026-07-17 16:37:27",
+  "updated_at": "2026-07-17 17:41:54",
   "month_string": "2026-07",
   "today_skipped": true,
   "today_simple_goodnight_posted": false,
   "today_morning_posted": false,
   "today_skip_count": 1,
-  "today_max_posts": 13,
+  "today_max_posts": 14,
   "today_narrative": "",
   "last_post_timestamp_ms": 1778649269057
 }
